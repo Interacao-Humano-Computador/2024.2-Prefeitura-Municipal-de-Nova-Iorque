@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_2024_2_grupo_06=self.webpackChunk_2024_2_grupo_06||[]).push([[1903],{1912:o=>{o.exports=JSON.parse('{"blogBasePath":"/2024.2-Grupo06/blog","blogTitle":"Blog","authorsListPath":"/2024.2-Grupo06/blog/authors"}')}}]);

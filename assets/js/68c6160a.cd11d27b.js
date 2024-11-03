@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_2024_2_grupo_06=self.webpackChunk_2024_2_grupo_06||[]).push([[9686],{6776:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/2024.2-Grupo06/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

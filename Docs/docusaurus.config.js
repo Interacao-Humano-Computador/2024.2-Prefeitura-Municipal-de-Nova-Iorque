@@ -13,15 +13,15 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://Interacao-Humano-Computador.github.io',
+  url: 'https://github.com',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/2024.2-Grupo06/',
+  baseUrl: '/testezada/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'Interacao-Humano-Computador', // Usually your GitHub org/user name.
-  projectName: '2024.2-Grupo06', // Usually your repo name.
+  projectName: 'testezada', // Usually your repo name.
   deploymentBranch: 'gh-pages',
 
   onBrokenLinks: 'throw',

@@ -5,10 +5,13 @@ on:
     branches:
       - main
     paths:
-      - docs/**
+      - Docs/**
       - .github/workflows/deploy.yml
     # Review gh actions docs if you want to further define triggers, paths, etc
     # https://docs.github.com/en/actions/using-workflows/workflow-syntax-for-github-actions#on
+    defaults:
+      run:
+        working-directory: Docs
 
 jobs:
   build:
@@ -17,22 +20,23 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
+          path: Docs/
           fetch-depth: 0
       - uses: actions/setup-node@v4
         with:
           node-version: 18
-          cache: yarn
+          cache: npm
+          cache-dependency-path: '**/package-lock.json'
 
       - name: Install dependencies
-        run: yarn install --frozen-lockfile
+        run: cd Docs/ && npm ci
       - name: Build website
-        run: yarn build
-
+        run: cd Docs/ && npm run build
       - name: Upload Build Artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: build
-
+          path: /home/runner/work/testezada/testezada/Docs/Docs/build
+          
   deploy:
     name: Deploy to GitHub Pages
     needs: build

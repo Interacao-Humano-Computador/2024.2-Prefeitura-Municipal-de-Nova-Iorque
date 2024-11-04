@@ -35,7 +35,7 @@ jobs:
       - name: Upload Build Artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: /home/runner/work/testezada/testezada/Docs/Docs/build
+          path: /home/runner/work/2024.2-Grupo06/2024.2-Grupo06/Docs/Docs/build
           
   deploy:
     name: Deploy to GitHub Pages

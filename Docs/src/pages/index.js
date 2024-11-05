@@ -30,7 +30,7 @@ function HomepageHeader() {
 }
 
 export default function Home() {
-  return <Redirect to="/2024.2-Grupo06/docs/intro" />;
+  return <Redirect to="/2024.2-Grupo06/docs/inicio" />;
 }
 
 /*

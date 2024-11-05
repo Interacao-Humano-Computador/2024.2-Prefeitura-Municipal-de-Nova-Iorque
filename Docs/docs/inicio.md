@@ -2,5 +2,5 @@
 sidebar_position: 1
 ---
 
-# Introdução
+# Sobre o projeto
 

@@ -47,21 +47,20 @@ Avaliação realizada por [Weverton Rodrigues](https://github.com/vevetin "Githu
 
 ## Bibliografia
 
- \- BRASIL. Governo do Brasil. Portal Gov.br. Disponível em: https://www.gov.br/pt-br. Acesso em: 25 out. 2024. 
+> \- BRASIL. Governo do Brasil. Portal Gov.br. Disponível em: https://www.gov.br/pt-br. Acesso em: 25 out. 2024. 
 
- \- BRASIL. Departamento de Trânsito do Distrito Federal. Detran-DF. Disponível em: https://www.detran.df.gov.br/. Acesso em: 25 out. 2024.  
+> \- BRASIL. Departamento de Trânsito do Distrito Federal. Detran-DF. Disponível em: https://www.detran.df.gov.br/. Acesso em: 25 out. 2024.  
 
- \- BRASIL. Prefeitura Municipal de Nova Iorque. Prefeitura Municipal de Nova Iorque. Disponível em: https://www.novaiorque.ma.gov.br/. Acesso em: 25 out. 2024.   
+> \- BRASIL. Prefeitura Municipal de Nova Iorque. Prefeitura Municipal de Nova Iorque. Disponível em: https://www.novaiorque.ma.gov.br/. Acesso em: 25 out. 2024.   
 
- \- BRASIL. Ministério da Cultura. Fundação Casa de Rui Barbosa. Disponível em: http://antigo.casaruibarbosa.gov.br/. Acesso em: 25 out. 2024.  
+> \- BRASIL. Ministério da Cultura. Fundação Casa de Rui Barbosa. Disponível em: http://antigo.casaruibarbosa.gov.br/. Acesso em: 25 out. 2024.  
 
- \- BRASIL. Secretaria de Fazenda do Distrito Federal. Nota Legal. Disponível em: https://www.notalegal.df.gov.br/. Acesso em: 25 out. 2024.
-
+> \- BRASIL. Secretaria de Fazenda do Distrito Federal. Nota Legal. Disponível em: https://www.notalegal.df.gov.br/. Acesso em: 25 out. 2024.
 
 ## Histórico de Versão
 ---
-| Versão | Data | Autor(es) | Descrição | Revisor(es) |
-|:---:|:---:|---|---|---|
-| 1.0 | 04/11/2024 | [Weverton Rodrigues](https://github.com/vevetin) | Criação do documento | |   
-| 1.1 | 05/11/2024 | [Weverton Rodrigues](https://github.com/vevetin) | Atualização do documento | |
-| 1.2 | 06/11/2024 | [Weverton Rodrigues](https://github.com/vevetin) | Atualização do documento | |
+| Versão | Data | Autor(es) | Descrição | Data de Revisão | Revisor(es) |
+|:---:|:---:|---|---|:---:|---|
+| 1.0 | 04/11/2024 | [Weverton Rodrigues](https://github.com/vevetin) | Criação do documento | | |  
+| 1.1 | 05/11/2024 | [Weverton Rodrigues](https://github.com/vevetin) | Atualização do documento | | |
+| 1.2 | 06/11/2024 | [Weverton Rodrigues](https://github.com/vevetin) | Atualização do documento | | |

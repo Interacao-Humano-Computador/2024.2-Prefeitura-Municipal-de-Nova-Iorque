@@ -191,14 +191,14 @@ O cronograma tem como objetivo organizar as atividades do projeto a serem realiz
 
 ## Bibliografia
 
-> [Plano de Ensino](https://aprender3.unb.br/pluginfile.php/2972625/mod_resource/content/56/Plano_de_Ensino%20FIHC%20022024%20Turma%2001%20v1.pdf) da disciplina Interação Humano Computador, Dr. André Barros de Sales.
+> \- [Plano de Ensino](https://aprender3.unb.br/pluginfile.php/2972625/mod_resource/content/56/Plano_de_Ensino%20FIHC%20022024%20Turma%2001%20v1.pdf) da disciplina Interação Humano Computador, Dr. André Barros de Sales.
 
-> Cronograma Banco Central. Disponível em: [2023.1-BancoCentral](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/planejamento/cronograma?id). Acesso em: 05 de novembro de 2024.
+> \- Cronograma Banco Central. Disponível em: [2023.1-BancoCentral](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/planejamento/cronograma?id). Acesso em: 05 de novembro de 2024.
 
-> Cronograma Bilheteria Digital. Disponível em: [2023.1-BilheteriaDigital](https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/planejamento/cronograma/). Acesso em: 05 de novembro de 2024.
+> \- Cronograma Bilheteria Digital. Disponível em: [2023.1-BilheteriaDigital](https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/planejamento/cronograma/). Acesso em: 05 de novembro de 2024.
 
 ## Histórico de Versão
 ---
-| Versão      | Data       | Autor(es)         | Descrição              | Revisor(es)                   |
-|-------------|------------|-------------------|------------------------|-------------------------------|
-| 1.0         | 05/11/2024 | [Paulo Henrique](https://github.com/paulomh), [Weverton Rodrigues](https://github.com/vevetin)    | Criação do cronograma   | [Necivaldo Amaral](https://github.com/junioramaral22)            |
+| Versão | Data | Autor(es) | Descrição | Data de Revisão | Revisor(es) |
+|:---:|:---:|---|---|:---:|---|
+| 1.0 | 05/11/2024 | [Paulo Henrique](https://github.com/paulomh), [Weverton Rodrigues](https://github.com/vevetin) | Criação do cronograma | | [Necivaldo Amaral](https://github.com/junioramaral22) |

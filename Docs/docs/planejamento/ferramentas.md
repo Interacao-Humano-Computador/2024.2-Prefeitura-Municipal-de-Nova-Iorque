@@ -15,6 +15,3 @@ Esta seção tem como objetivo apresentar as ferramentas que serão utilizadas a
 | ![Figma](../planejamento/assets/figma.svg) | Figma | Desenvolvimento dos protótipos de baixa e alta fidelidade. |
 | ![Planilhas Google](../planejamento/assets/google-sheets.svg) | Planilhas Google | Criação e organização do heatmap da equipe. |
 | ![Docusaurus](../planejamento/assets/docusaurus.svg) | Docusaurus | Utilizado para criação da página de documentação do projeto. |
-| ![Draw.io](../planejamento/assets/google-drive.svg) | Draw.io | Armazenamento de arquivos importantes para o projeto. |
-
-

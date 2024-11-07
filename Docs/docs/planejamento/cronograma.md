@@ -21,7 +21,7 @@ O cronograma tem como objetivo organizar as atividades do projeto a serem realiz
     | Definição do cronograma | 03/11/2024 | Paulo Henrique, Weverton Rodrigues | 03/11/2024 - 04/11/2024 | Todos os membros | 12/11/2024 |
     | Criação do Git Pages | 03/11/2024 - 09/11/2024 | Weverton Rodrigues | 03/11/2024 - 09/11/2024 | Paulo Henrique | 12/11/2024 |
     | Ferramentas do projeto | 03/11/2024 - 09/11/2024 | Todos os membros | 09/11/2024 | Todos os membros | 12/11/2024 |
-    | Processos de design | 04/11/2024 - 09/11/2024 | 2 membros aqui | 09/11/2024 | 1 membro aqui | 12/11/2024 |
+    | Processos de design | 04/11/2024 - 09/11/2024 | Necivaldo Amaral, Rodrigo Wendrel | 09/11/2024 | 1 membro aqui | 12/11/2024 |
     | Metodologia | 04/11/2024 - 09/11/2024 | Paulo Henrique + 1 membro | 09/11/2024 | Todos os membros | 12/11/2024 |
     | Gravação da apresentação | 09/11/2024 - 10/11/2024 | Todos os membros | 10/11/2024 | Paulo Henrique | 12/11/2024 |
     | Edição da gravação | 10/11/2024 | Paulo Henrique | 10/11/2024 | Todos os membros | 12/11/2024 |

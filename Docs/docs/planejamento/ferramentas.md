@@ -6,6 +6,9 @@ Esta seção tem como objetivo apresentar as ferramentas que serão utilizadas a
 
 ## Ferramentas utilizadas
 
+
+<p style={{ textAlign: 'center', fontSize: '20px' }}><b>Tabela 1</b> - Planejamento da primeira entrega.</p>
+
 |         | Ferramenta | Finalidade |
 |---------|------------|------------|
 | <img src="../planejamento/assets/github-mark.svg" class="gitLogo" alt="GitHub" /> | GitHub | Organizar, versionar e documentar os artefatos produzidos que estarão hospedados no Github Pages do projeto.<sup>1</sup>  |

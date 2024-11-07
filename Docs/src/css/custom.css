@@ -28,3 +28,11 @@
   --ifm-color-primary-lightest: #4fddbf;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
+
+.gitLogo {
+  content: url('../../docs/planejamento/assets/github-mark.svg');
+}
+
+[data-theme='dark'] .gitLogo {
+  content: url('../../docs/planejamento/assets/github-mark-white.svg');
+}

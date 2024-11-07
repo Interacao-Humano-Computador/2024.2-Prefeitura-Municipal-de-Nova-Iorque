@@ -42,5 +42,5 @@ A seleção do site da Prefeitura Municipal de Nova Iorque (MA) baseou-se nos se
 ---
 | Versão | Data | Autor(es) | Descrição | Data de Revisão | Revisor(es) |
 |:---:|:---:|---|---|:---:|---|
-| 1.0 | 04/11/2024 | [Weverton Rodrigues](https://github.com/vevetin) | Criação do documento | | |
-| 1.1 | 06/11/2024 | [Weverton Rodrigues](https://github.com/vevetin) | Atualização do documento | | |
+| 1.0 | 04/11/2024 | [Weverton Rodrigues](https://github.com/vevetin) | Criação do documento | 06/11/2024 | [Paulo Henrique](https://github.com/paulomh) |
+| 1.1 | 06/11/2024 | [Weverton Rodrigues](https://github.com/vevetin)  | Atualização do documento | 07/11/2024 | [Necivaldo Amaral](https://github.com/junioramaral22) |

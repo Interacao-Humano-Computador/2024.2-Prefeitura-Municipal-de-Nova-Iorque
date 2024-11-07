@@ -12,7 +12,7 @@ Esta seção tem como objetivo apresentar as ferramentas que serão utilizadas a
 |         | Ferramenta | Finalidade |
 |---------|------------|------------|
 | <img src="../planejamento/assets/github-mark.svg" class="gitLogo" alt="GitHub" /> | GitHub | Organizar, versionar e documentar os artefatos produzidos que estarão hospedados no Github Pages do projeto.<sup>1</sup>  |
-| ![Visual Studio Code](../planejamento/assets/vscode.svg) | Visual Studio Code | Manipulação dos arquivos de documentação.<sup>3</sup> |
+| ![Visual Studio Code](../planejamento/assets/vscode.svg) | Visual Studio Code | Manipulação dos arquivos da documentação.<sup>3</sup> |
 | ![Microsoft Teams](../planejamento/assets/microsoft-teams.svg) | Microsoft Teams | Realização de reuniões e gravação das apresentações.<sup>3</sup> |
 | ![WhatsApp](../planejamento/assets/whatsapp.svg) | WhatsApp | Aplicativo utilizado para comunicação diária entre os membros do grupo.<sup>4</sup> |
 | ![Figma](../planejamento/assets/figma.svg) | Figma | Desenvolvimento dos protótipos de baixa e alta fidelidade. |

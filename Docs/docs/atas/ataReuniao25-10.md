@@ -31,7 +31,7 @@ Segue abaixo na tabela 1 a relação de presença dos participantes.
 
 ## <a>3. Pontos de Discussão Importantes</a>
 
-Foi realizada uma discussão acerca dos sites avaliados por cada membro, em que cada integrante sua respectiva avaliação do site escolhido. Após a apresentação de cada membro, foi realizada uma votação para decidir qual site seria escolhido para a análise de escopo.
+Foi realizada uma discussão acerca dos sites avaliados por cada membro, em que cada integrante apresentou sua respectiva avaliação do site escolhido. Após a apresentação de cada membro, foi realizada uma votação para decidir qual site seria escolhido para a análise de escopo.
 
 ## <a>4. Decisões</a>
 
@@ -47,4 +47,4 @@ Com base na votação realizada, o site escolhido para a análise de escopo foi 
 | Versão | Data | Autor(es) | Descrição | Data de Revisão | Revisor(es) |
 |:---:|:---:|---|---|:---:|---|
 | 1.0 | 25/10/2024 | [Paulo Henrique](https://github.com/paulomh "Github Paulo Henrique") | Criação da Ata da Reunião | 26/10/2024 | [Weverton Rodrigues](https://github.com/vevetin "Github Weverton Rodrigues")  |
-| 1.1 | 06/11/2024 | [Weverton Rodrigues](https://github.com/vevetin "Github Weverton Rodrigues") | Atualização da Ata de Reunião | | |
+| 1.1 | 06/11/2024 | [Weverton Rodrigues](https://github.com/vevetin "Github Weverton Rodrigues") | Atualização tabela histórico de versão | | |

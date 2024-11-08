@@ -13,37 +13,33 @@ Com o objetivo de selecionar um site governamental para uma análise aprofundada
 **Fundação Hemocentro de Brasília (FHB):**  
 Voltado para o agendamento de doações de sangue e informações sobre o processo de doação.   
 Avaliação realizada por [Paulo Henrique](https://github.com/paulomh "Github Paulo Henrique")  
-<!-- 
-[Link para o planejamento]() | [Link para a execução]()
--->
+> [Link para o planejamento](avaliacoes/planejamento-fundacao-hemocentro-de-brasilia.pdf) | [Link para a execução](avaliacoes/execucao-fundacao-hemocentro-de-brasilia.pdf)
 
 **Detran-DF:**  
 Oferece serviços relacionados a veículos, como consulta de multas e agendamento de atendimentos.    
 Avaliação realizada por [Pedro Luiz](https://github.com/pedroluizfo "Github Pedro Luiz")
 <!-- 
-[Link para o planejamento]() | [Link para a execução]()
+> [Link para o planejamento]() | [Link para a execução]()
 -->
 
 **Prefeitura Municipal de Nova Iorque (MA):**  
 Fornece informações e serviços administrativos para os cidadãos de Nova Iorque.     
 Avaliação realizada por [Necivaldo Amaral](https://github.com/junioramaral22 "Github Necivaldo Amaral")  
 <!-- 
-[Link para o planejamento]() | [Link para a execução]()
+> [Link para o planejamento]() | [Link para a execução]()
 -->
 
 **Fundação Casa de Rui Barbosa:**  
 Dedicado à disseminação cultural, de pesquisa e do ensino sobre a história e a cultura brasileira.    
 Avaliação realizada por [Rodrigo Ferreira](https://github.com/rodwendrel "Github Rodrigo Ferreira")  
 <!--
-[Link para o planejamento]() | [Link para a execução]()
+> [Link para o planejamento]() | [Link para a execução]()
 -->
 
 **Nota Legal:**  
 Programa de incentivo à emissão de notas fiscais no Distrito Federal.    
 Avaliação realizada por [Weverton Rodrigues](https://github.com/vevetin "Github Weverton Rodrigues")  
-<!--
-[Link para o planejamento]() | [Link para a execução]()
--->
+> [Link para o planejamento](avaliacoes/planejamento-nota-legal.pdf) | [Link para a execução](avaliacoes/execucao-nota-legal.pdf)
 
 ## Bibliografia
 
@@ -63,3 +59,4 @@ Avaliação realizada por [Weverton Rodrigues](https://github.com/vevetin "Githu
 |:---:|:---:|---|---|:---:|---|
 | 1.0 | 04/11/2024 | [Weverton Rodrigues](https://github.com/vevetin) | Criação do documento | | |  
 | 1.1 | 06/11/2024 | [Weverton Rodrigues](https://github.com/vevetin) | Atualização do documento | | |
+| 1.2 | 07/11/2024 | [Weverton Rodrigues](https://github.com/vevetin) | Adição de arquivos da avaliação individual | | |

@@ -23,23 +23,19 @@ Com 7 sprints de duração variável, as práticas de XP foram aplicadas de form
 
 ## Comunicação
 
-Comunicação
 Para evitar problemas de alinhamento e garantir uma comunicação eficaz, a equipe definiu uma estratégia de comunicação clara, utilizando ferramentas como Microsoft Teams, WhatsApp e GitHub. Essas plataformas permitem uma comunicação rápida e acessível para o grupo, possibilitando suporte imediato quando necessário.
 
 Em caso de imprevistos ou dificuldades, os membros avisam o grupo por meio dessas ferramentas, assegurando que todos estejam informados sobre o andamento do projeto e possam colaborar conforme necessário.
 
-## políticas
+## Políticas
 
 ### Política de commits
-Política de Commits
-Para manter um padrão nas mensagens de commit, adotamos o modelo Conventional Commits. Esse padrão facilita a rastreabilidade e a compreensão das mudanças no histórico do projeto. A estrutura básica de um commit é:
 
-bash
+Para manter um padrão nas mensagens de commit, adotamos o modelo *Conventional Commits*. Esse padrão facilita a rastreabilidade e a compreensão das mudanças no histórico do projeto. A estrutura básica de um commit é:  
+`git commit -m "tipoDeMudança(): descrição significativa da alteração"`
 
-git commit -m "tipoDeMudança(): descrição significativa da alteração #issue"
-Exemplo: O commit para a criação do arquivo metodologias.md pode ser:
-bash
-docs: criação do documento de padrões e metodologias #37
+Exemplo: O commit para a criação do arquivo metodologias.md pode ser:  
+`docs: criação do documento de padrões e metodologias`
 
 ### Política de branches
 As branches são criadas seguindo um padrão que facilita o entendimento e o vínculo com entregas específicas, os integrantes irão trabalhar juntos em uma mesma branch e depois será feita uma revisão para o merge na branch principal.
@@ -52,8 +48,9 @@ A proposta de comunicação rápida e os encontros semanais garantem que todos e
 
 ## Bibliografia
 
-> \- Bourque and R.E. Fairley, eds., Guide to the Software Engineering Body of Knowledge, Version 3.0, IEEE Computer Society, 2014; www.swebok.org.    
+> \- BOURQUE, Pierre; FAIRLEY, Richard E. (eds.). SWEBOK: Guide to the Software Engineering Body of Knowledge, Versão 3.0, IEEE Computer Society, 2014. Disponível em: https://www.computer.org/education/bodies-of-knowledge/software-engineering. Acesso em: 8 nov. 2024. 
 
+> \- Conventional Commits 1.0.0. Conventional Commits, [2012?]. Disponível em: https://www.conventionalcommits.org/en/v1.0.0/. Acesso em: 6 nov. 2024.
 
 > \-  Universidade de Brasília (UnB), Campus UnB Gama: Faculdade de Ciências e Tecnologias em Engenharia. Documentação do projeto de Interação Humano-Computador: Banco Central. Semestre 2023.1, Universidade de Brasília, Gama, 2023. Disponível em: https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/. Acesso em: 6 nov. 2024.  
 
@@ -62,5 +59,4 @@ A proposta de comunicação rápida e os encontros semanais garantem que todos e
 ---
 | Versão | Data | Autor(es) | Descrição | Data de Revisão | Revisor(es) |
 |:---:|:---:|---|---|:---:|---|
-| 1.0 | 08/11/2024 | [Pedro Luiz Fonseca Da Silva](https://github.com/pedroluizfo) | 
-|
+| 1.0 | 08/11/2024 | [Pedro Luiz Fonseca Da Silva](https://github.com/pedroluizfo) | Criação do documento | 09/11/2024 | [Weverton Rodrigues](https://github.com/vevetin) |

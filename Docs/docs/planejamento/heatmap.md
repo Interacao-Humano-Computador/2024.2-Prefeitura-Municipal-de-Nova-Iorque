@@ -27,5 +27,11 @@ Com os dados expressos na figura 1, fica claro que todos os membros possuem disp
 
 > 2. HOTJAR. Mapas de calor. Disponível em: [https://www.hotjar.com/pt-BR/mapas-de-calor/](https://www.hotjar.com/pt-BR/mapas-de-calor/). Acesso em: 04 novembro 2024.
 
+## Histórico de Versão
+---
+| Versão | Data | Autor(es) | Descrição | Data de Revisão | Revisor(es) |
+|:---:|:---:|---|---|:---:|---|
+| 1.0 | 09/11/2024 | [Paulo Henrique](https://github.com/paulomh) | Criação do cronograma | 09/11/2024 | [Paulo Henrique](https://github.com/paulomh), [Pedro Luiz](https://github.com/pedroluizfo), [Necivaldo Amaral](https://github.com/junioramaral22), [Rodrigo Wendrel](https://github.com/rodwendrel), [Weverton Rodrigues](https://github.com/vevetin)  |
+
 
 

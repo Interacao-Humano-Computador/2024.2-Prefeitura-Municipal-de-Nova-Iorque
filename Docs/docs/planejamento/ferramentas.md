@@ -38,6 +38,13 @@ Esta seção tem como objetivo apresentar as ferramentas que serão utilizadas a
 > 8. Draw.io. Disponível em: [https://app.diagrams.net/](https://app.diagrams.net/). Acesso em: 07 de novembro de 2024.
 > 9. YouTube. Disponível em: [https://www.youtube.com/](https://www.youtube.com/). Acesso em: 07 de novembro de 2024.
 
+## Histórico de Versão
+---
+| Versão | Data | Autor(es) | Descrição | Data de Revisão | Revisor(es) |
+|:---:|:---:|---|---|:---:|---|
+| 1.0 | 07/11/2024 | [Paulo Henrique](https://github.com/paulomh) | Criação do documento | 09/11/2024 | [Paulo Henrique](https://github.com/paulomh), [Pedro Luiz](https://github.com/pedroluizfo), [Necivaldo Amaral](https://github.com/junioramaral22), [Rodrigo Wendrel](https://github.com/rodwendrel), [Weverton Rodrigues](https://github.com/vevetin)  |
+| 1.1 | 09/11/2024 | [Paulo Henrique](https://github.com/paulomh) | Adição do histórico de versão | 09/11/2024 | [Pedro Luiz](https://github.com/pedroluizfo)  |
+
 
 
 

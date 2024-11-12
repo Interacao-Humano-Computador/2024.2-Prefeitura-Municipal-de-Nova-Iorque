@@ -37,6 +37,17 @@ O cronograma tem como objetivo organizar as atividades do projeto a serem realiz
 
     | Atividade | Período de desenvolvimento | Responsável | Revisão | Revisor(es) | Data da Entrega |
     | --------- | -------------------------- | ----------- | ------- | --------- | --------------- |
+    | Sites avaliados | 04/11/2024 - 07/11/2024 | Weverton Rodrigues |  |  | 12/11/2024 |
+    | Heatmap de disponibilidade dos integrantes  | 09/11/2024 | Paulo Henrique | 09/11/2024 | Todos os membros | 12/11/2024 |
+    | Site selecionado para o projeto da disciplina | 04/11/2024 - 06/11/2024 | Weverton Rodrigues | 06/11/2024 - 07/11/2024 | Necivaldo Amaral, Paulo Henrique | 12/11/2024 |
+    | Definição do cronograma | 05/11/2024 | Paulo Henrique, Weverton Rodrigues |  | Necivaldo Amaral | 12/11/2024 |
+    | Criação do Git Pages | 03/11/2024 - 04/11/2024 | Weverton Rodrigues | 05/11/2024 | Paulo Henrique | 12/11/2024 |
+    | Ferramentas do projeto | 07/11/2024 - 09/11/2024 | Paulo Henrique | 09/11/2024 | Todos os membros | 12/11/2024 |
+    | Processos de design | 09/11/2024 | Necivaldo Amaral, Rodrigo Wendrel | 09/11/2024 | Weverton Rodrigues | 12/11/2024 |
+    | Metodologia | 08/11/2024 | Pedro Luiz | 09/11/2024 | Weverton Rodrigues | 12/11/2024 |
+    | Gravação da apresentação | 08/11/2024 | Todos os membros | 08/11/2024 | Paulo Henrique | 12/11/2024 |
+    | Edição da gravação | 10/11/2024 | Paulo Henrique | 10/11/2024 | Todos os membros | 12/11/2024 |
+    | Cronograma executado | 11/11/2024 | Weverton Rodrigues | 11/11/2024 | Todos os membros | 12/11/2024 |
 
   </TabItem>
 </Tabs>
@@ -206,3 +217,4 @@ O cronograma tem como objetivo organizar as atividades do projeto a serem realiz
 | Versão | Data | Autor(es) | Descrição | Data de Revisão | Revisor(es) |
 |:---:|:---:|---|---|:---:|---|
 | 1.0 | 05/11/2024 | [Paulo Henrique](https://github.com/paulomh), [Weverton Rodrigues](https://github.com/vevetin) | Criação do cronograma | | [Necivaldo Amaral](https://github.com/junioramaral22) |
+| 1.1 | 11/11/2024 | [Weverton Rodrigues](https://github.com/vevetin) | Adicionado cronograma executado Etapa 1 | 11/11/2024 | Todos os membros |

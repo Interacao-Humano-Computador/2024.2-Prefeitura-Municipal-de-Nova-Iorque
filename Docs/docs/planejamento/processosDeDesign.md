@@ -17,9 +17,7 @@ serem serem executadas durante o processo de forma iterativa, permitindo um apri
 
 **O processo de design escolhido pela equipe se trata da Engenharia de Usabilidade de Mayhew**, que é dividido em três etapas, sendo elas:
 Análise de requisitos, Design, Avaliação, Desenvolvimento e Instalação. A escolha deste processo deve-se ao seu ciclo de execução
-ser completo e abranger diversos detalhes que podem auxiliar a equipe com o planejamento e execução do projeto. No nosso caso,
-apenas a etapa de instalação será utilizada, visto que as etapas anteriores são melhores aplicadas em sistemas que estão sendo desenvolvidos
-e assim, não pertencendo ao escopo da disciplina de IHC onde trabalharemos em um site já construído.
+ser completo e abranger diversos detalhes que podem auxiliar a equipe com o planejamento e execução do projeto. Em nosso caso, a etapa de instalação será utilizada predominantemente, com o auxílio de algumas fases da etapa de design, avaliação, desenvolvimento, visto que outras etapas não pertencem ao escopo da disciplina de IHC onde trabalharemos em um site já construído.
 
 ![Ciclo de vida Mayhew](../planejamento/assets/mayhew.png)
 <br/>
@@ -70,3 +68,4 @@ Nielsen aborda o desenvolvimento com foco na usabilidade, destacando que algumas
 | Versão |    Data    | Autor(es)                                        | Descrição                | Data de Revisão | Revisor(es) |
 | :----: | :--------: | ------------------------------------------------ | ------------------------ | :-------------: | ----------- |
 |  1.0   | 07/11/2024 | [Rodrigo Wendrel](https://github.com/rodwendrel), [Necivaldo Amaral](https://github.com/junioramaral22) | Criação do documento | 09/11/2024 | [Weverton Rodrigues](https://github.com/vevetin) |
+|  1.1   | 07/11/2024 | [Rodrigo Wendrel](https://github.com/rodwendrel),  | Revisão no text de de justificativa da escolha do processo de design. |  |  |

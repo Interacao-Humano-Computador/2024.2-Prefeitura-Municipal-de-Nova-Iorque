@@ -53,6 +53,7 @@ O cronograma tem como objetivo organizar as atividades do projeto a serem realiz
     | Edição da gravação | 10/11/2024 | Paulo Henrique | 10/11/2024 | Todos os membros | 12/11/2024 |
     | Cronograma executado | 11/11/2024 | Weverton Rodrigues | 11/11/2024 | Todos os membros | 12/11/2024 |
     | Inspeção da entrega da apresentação do projeto Etapa 1 | 12/11/2024 | Todos os membros | 12/11/2024 | Rodrigo Wendrel | 12/11/2024 |
+    | Inspeção da entrega da apresentação do projeto Etapa 1 do Grupo + 1 | 13/11/2024 | Necivaldo Amaral, Weverton Rodrigues | 13/11/2024 | Rodrigo Wendrel | 13/11/2024 |
 
   </TabItem>
 </Tabs>
@@ -291,4 +292,5 @@ O cronograma tem como objetivo organizar as atividades do projeto a serem realiz
 |  1.0   | 05/11/2024 | [Paulo Henrique](https://github.com/paulomh), [Weverton Rodrigues](https://github.com/vevetin) | Criação do cronograma                   |                 | [Necivaldo Amaral](https://github.com/junioramaral22) |
 |  1.1   | 11/11/2024 | [Weverton Rodrigues](https://github.com/vevetin)                                               | Adicionado cronograma executado Etapa 1 |   11/11/2024    | Todos os membros                                      |
 |  1.2   | 12/11/2024 | [Weverton Rodrigues](https://github.com/vevetin)                                               | Atualização do cronograma               |   12/11/2024    | Todos os membros                                      |
-|  1.3   | 12/11/2024 | [Rodrigo Wendrel](https://github.com/rodwendrel)                                               | Atualização do cronograma               |   12/11/2024    | [Pedro Luiz](https://github.com/pedroluizfo)
+|  1.3   | 12/11/2024 | [Rodrigo Wendrel](https://github.com/rodwendrel)                                               | Atualização do cronograma               |   12/11/2024    | [Pedro Luiz](https://github.com/pedroluizfo)|
+| 1.4 | 13/11/2024 |  [Necivaldo Amaral](https://github.com/junioramaral22), [Weverton Rodrigues](https://github.com/vevetin) | Atualização do cronograma executado etapa 1 |13/11/2024 | [Rodrigo Wendrel](https://github.com/rodwendrel)  |

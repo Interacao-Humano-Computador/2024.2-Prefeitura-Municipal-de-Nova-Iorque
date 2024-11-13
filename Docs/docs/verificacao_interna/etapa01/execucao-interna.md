@@ -11,16 +11,17 @@ Feito o [planejamento da verificação dos itens do desenvolvimento do projeto](
 <p style={{ textAlign: 'center', fontSize: '18px' }}><b>Tabela 1</b> - Itens do Planejamento Geral do Projeto</p>
 
 | O github pages possui:                                                                                               | Resposta            | Versão, Data e hora da avaliação | Observação                     |
-|-----------------------------------------------------------|---------------------|-----------------------------------|--------------------------------|
-| 1 – Uma página apresentando os integrantes da equipe (com foto) com nome e sem matrícula?                            |[SIM](https://interacao-humano-computador.github.io/2024.2-Grupo06/docs/inicio)                     |1.0 12/11/24 21:30                                   |                                |
-| 2 – O cronograma do planejamento apresenta todas as atividades de todas as etapas para cada integrante com as datas de início e fim das entregas dos artefatos e com o período da revisão deles? | [SIM](https://interacao-humano-computador.github.io/2024.2-Grupo06/docs/planejamento/cronograma)                    |1.0 12/11/24 21:32                                    |                                |
-| 3 – O cronograma do planejamento apresenta um período de gravação da apresentação de cada etapa.                     |[SIM](https://interacao-humano-computador.github.io/2024.2-Grupo06/docs/planejamento/cronograma)                     |1.0 12/11/24 21:32                                    |                                |
-| 4 – O cronograma prevê um período de revisão/ajustes nos artefatos devidos às considerações dos monitores/professor? |[SIM](https://interacao-humano-computador.github.io/2024.2-Grupo06/docs/planejamento/cronograma)                     |1.0 12/11/24 21:35                                   |                                |
-| 5 – A motivação e os critérios para a escolha do site?                                                               |[SIM](https://interacao-humano-computador.github.io/2024.2-Grupo06/docs/planejamento/siteSelecionado)                     |1.0 12/11/24 21:36                                    |                                |
-| 6 – O planejamento e avaliação dos sites selecionados?                                                               |[SIM](https://interacao-humano-computador.github.io/2024.2-Grupo06/docs/planejamento/sitesAvaliados)                     |1.0 12/11/24 21:40                                     |                                |
-| 7 – Possui opção de contraste de cores?                                                                              |SIM                     |1.0 12/11/24 21:45                                   |Ícone de sol, localizado no canto superior direito da página                                |
-| 8 – Os artefatos: Planejamento do Projeto, equipe, lista de sites avaliados, site selecionado para o projeto da disciplina, Ferramentas do projeto, Processo de Design, cronograma das atividades? |[SIM](https://interacao-humano-computador.github.io/2024.2-Grupo06/docs/category/planejamento)                     |1.0 12/11/24 21:50                                   |                                |
-   |                                   |                                |
+|---------------------------------|---------------------|-----------------------------------|------------------|
+| 1 – O histórico de versão padronizado?       | Sim       |   1.0 12/11/24 23:40                              |                                |
+| 2 – O(s) autor(es) e o(s) revisor(es) para cada artefato?        | Sim                    |  1.0 12/11/24 23:40                                 |                                |
+| 3 – Referências bibliográficas e/ou bibliografia em todos os artefatos?       | Sim                     | 1.0 12/11/24 23:40                                  |                                |
+| 4 – As tabelas e imagens possuem legenda e fonte e elas chamadas dentro do texto?                                    | Incompleto                    | 1.0 12/11/24 23:45                                  |                                |
+| 5 – Um texto fazendo uma introdução dos artefatos?               | Sim                    | 1.0 12/11/24 23:45                                  |                                |
+| 6 – O cronograma executado com quem realizou cada artefato/atividade com as datas de início e fim da construção/realização do artefato/atividade. | Sim                    | 1.0 12/11/24 23:45                                   |                                |
+| 7 – Ata(s) da(s) reuniões (com data, horário de início e do final, participantes, objetivo, atividades definidas etc). | Sim                    | 1.0 12/11/24 23:46                                  |                                |
+| 8 – A gravação da reunião do grupo.                                | Sim                    | 1.0 12/11/24 23:46                                  |                                |
+| 9 – Vídeo de apresentação na categoria “não listado” no YouTube?      | Sim                    | 1.0 12/11/24 23:47                                  |                                |
+| 10 – A justificativa da escolha do Processo de Design? Adicionar: referência bibliográfica da fonte e foto do texto da referência. Autor(es).  | Sim                    | 1.0 12/11/24 23:52                                   | Processos de Design de IHC Capítulo 6, Interação Humano-Computador e Experiência do Usuário, Simone Barbosa e Bruno Santana. ![foto](../assets/referencia.jfif)                               |                    
 
 
 ## Bibliografia
@@ -33,4 +34,6 @@ Feito o [planejamento da verificação dos itens do desenvolvimento do projeto](
 |:---:|:---:|---|---|:---:|---|
 | 1.0 | 12/11/2024 | [Paulo Henrique](https://github.com/paulomh) | Criação da execução da verificação do planejamento dos itens do desenvolvimento do projeto | 12/11/2024 | [Weverton Rodrigues](https://github.com/vevetin) |
 | 1.1 | 12/11/2024 | [Pedro Luiz](https://github.com/pedroluizfo) | Preenchimento da tabela e linkagem das respectivas páginas | 12/11/2024 | [Weverton Rodrigues](https://github.com/vevetin) |
+| 1.2 | 12/11/2024 | [Paulo Henrique](https://github.com/paulomh) | Correção do preenchimento da tabela | 12/11/2024 | [Weverton Rodrigues](https://github.com/vevetin) |
+
 

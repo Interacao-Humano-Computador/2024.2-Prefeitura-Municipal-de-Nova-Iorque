@@ -14,7 +14,7 @@ A escolha do site da Prefeitura de Nova Iorque foi motivada pelos desafios ident
 
 ## Critérios de escolha  
 
-A seleção do site da Prefeitura Municipal de Nova Iorque (MA) baseou-se nos seguintes critérios:
+A seleção do site da Prefeitura Municipal de Nova Iorque baseou-se nos seguintes critérios:
 
 - Estrutura complexa, com várias seções, que permite análise detalhada de navegação;
 
@@ -31,8 +31,6 @@ A seleção do site da Prefeitura Municipal de Nova Iorque (MA) baseou-se nos se
 ## Bibliografia
 
 > \- BRASIL. Prefeitura Municipal de Nova Iorque. Prefeitura Municipal de Nova Iorque. Disponível em: https://www.novaiorque.ma.gov.br/. Acesso em: 25 out. 2024.    
-
-*Fontes de Inspiração: A organização da documentação e algumas ideias de estruturação do projeto foram baseadas em projetos anteriores realizados por grupos do semestre 2023.1 (Banco Central) e 2023.2 (Domínio Público), conforme os seguintes documentos disponíveis:*
 
 > \-  Universidade de Brasília (UnB), Campus UnB Gama: Faculdade de Ciências e Tecnologias em Engenharia. Documentação do projeto de Interação Humano-Computador: Banco Central. Semestre 2023.1, Universidade de Brasília, Gama, 2023. Disponível em: https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/. Acesso em: 6 nov. 2024.  
 

@@ -68,4 +68,4 @@ Nielsen aborda o desenvolvimento com foco na usabilidade, destacando que algumas
 | Versão |    Data    | Autor(es)                                        | Descrição                | Data de Revisão | Revisor(es) |
 | :----: | :--------: | ------------------------------------------------ | ------------------------ | :-------------: | ----------- |
 |  1.0   | 07/11/2024 | [Rodrigo Wendrel](https://github.com/rodwendrel), [Necivaldo Amaral](https://github.com/junioramaral22) | Criação do documento | 09/11/2024 | [Weverton Rodrigues](https://github.com/vevetin) |
-|  1.1   | 07/11/2024 | [Rodrigo Wendrel](https://github.com/rodwendrel),  | Revisão no text de de justificativa da escolha do processo de design. |  |  |
+|  1.1   | 07/11/2024 | [Rodrigo Wendrel](https://github.com/rodwendrel)  | Revisão no texto de justificativa da escolha do processo de design. |  |  |

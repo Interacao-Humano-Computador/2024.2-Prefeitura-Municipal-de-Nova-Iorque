@@ -18,8 +18,8 @@ Neste documento será apresentado um modelo de heatmap adaptado para o contexto 
 
 Utilizando o Google Planilhas para a criação do heatmap, cada membro preencheu individualmente uma planilha com os horários disponíveis para reuniões e atividades do projeto. Feito o preenchimento, foi gerado um quadro geral com disponibilidade de todos da equipe. A figura 1 ilustra o quadro de disponibilidade de horários dos membros do projeto.
 
-![Figura 1 - Heatmap de Disponibilidade de Horários](../planejamento/assets/heatmap.png)
 <p style={{ textAlign: 'center', fontSize: '17px' }}><b>Figura 1</b> - Mapa de calor, onde <b>0</b> indica que nenhum membro está disponível e <b>5</b> indica que todos os membros estão disponíveis naquela dia e horário.</p>
+![Figura 1 - Heatmap de Disponibilidade de Horários](../planejamento/assets/heatmap.png)
 
 ## Resultados
 

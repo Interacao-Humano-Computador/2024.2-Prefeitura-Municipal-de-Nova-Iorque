@@ -56,6 +56,7 @@ O cronograma tem como objetivo organizar as atividades do projeto a serem realiz
     | Cronograma executado | 11/11/2024 | Weverton Rodrigues, Necivaldo Amaral | 11/11/2024 | Paulo Henrique, Pedro Luiz, Necivaldo Amaral, Rodrigo Wendrel, Weverton Rodrigues | 12/11/2024 |
     | Inspeção da entrega da apresentação do projeto Etapa 1 | 12/11/2024 | Paulo Henrique, Pedro Luiz, Necivaldo Amaral, Rodrigo Wendrel, Weverton Rodrigues | 12/11/2024 | Rodrigo Wendrel | 12/11/2024 |
     | Inspeção da entrega da apresentação do projeto Etapa 1 do Grupo + 1 | 13/11/2024 | Necivaldo Amaral, Weverton Rodrigues | 13/11/2024 | Rodrigo Wendrel | 13/11/2024 |
+    | Correção pós-apresentação | 15/11/2024 - 20/11/2024 | Paulo Henrique, Weverton Rodrigues | 20/11/2024 | Pedro Luiz, Necivaldo Amaral, Rodrigo Wendrel | Não há entrega |
 
     <p style={{ textAlign: 'center', fontSize: '15px' }}><b>Autor(es):</b> [Necivaldo Amaral](https://github.com/junioramaral22), [Weverton Rodrigues](https://github.com/vevetin)</p>
 

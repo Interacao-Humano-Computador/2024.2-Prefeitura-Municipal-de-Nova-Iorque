@@ -34,6 +34,8 @@ O cronograma tem como objetivo organizar as atividades do projeto a serem realiz
     | Inspeção da entrega da apresentação do projeto Etapa 1 do Grupo + 1 | 13/11/2024 | Paulo Henrique, Pedro Luiz, Necivaldo Amaral, Rodrigo Wendrel, Weverton Rodrigues | 13/11/2024 | Rodrigo Wendrel | 13/11/2024 |
     | Correção pós-apresentação | 14/11/2024 - 15/11/2024 | Paulo Henrique, Pedro Luiz, Necivaldo Amaral, Rodrigo Wendrel, Weverton Rodrigues | 14/11/2024 - 15/11/2024 | Paulo Henrique, Pedro Luiz, Necivaldo Amaral, Rodrigo Wendrel, Weverton Rodrigues | Não há entrega |
 
+    <p style={{ textAlign: 'center', fontSize: '15px' }}><b>Autor(es):</b> [Paulo Henrique](https://github.com/paulomh), [Weverton Rodrigues](https://github.com/vevetin)</p>
+
   </TabItem>
 
   <TabItem value="executado" label="Cronograma Executado">
@@ -51,9 +53,11 @@ O cronograma tem como objetivo organizar as atividades do projeto a serem realiz
     | Metodologia | 08/11/2024 | Pedro Luiz | 09/11/2024 | Weverton Rodrigues | 12/11/2024 |
     | Gravação da apresentação | 08/11/2024 | Paulo Henrique, Pedro Luiz, Necivaldo Amaral, Rodrigo Wendrel, Weverton Rodrigues | 08/11/2024 | Paulo Henrique | 12/11/2024 |
     | Edição da gravação | 10/11/2024 | Paulo Henrique | 10/11/2024 | Paulo Henrique, Pedro Luiz, Necivaldo Amaral, Rodrigo Wendrel, Weverton Rodrigues | 12/11/2024 |
-    | Cronograma executado | 11/11/2024 | Weverton Rodrigues | 11/11/2024 | Paulo Henrique, Pedro Luiz, Necivaldo Amaral, Rodrigo Wendrel, Weverton Rodrigues | 12/11/2024 |
+    | Cronograma executado | 11/11/2024 | Weverton Rodrigues, Necivaldo Amaral | 11/11/2024 | Paulo Henrique, Pedro Luiz, Necivaldo Amaral, Rodrigo Wendrel, Weverton Rodrigues | 12/11/2024 |
     | Inspeção da entrega da apresentação do projeto Etapa 1 | 12/11/2024 | Paulo Henrique, Pedro Luiz, Necivaldo Amaral, Rodrigo Wendrel, Weverton Rodrigues | 12/11/2024 | Rodrigo Wendrel | 12/11/2024 |
     | Inspeção da entrega da apresentação do projeto Etapa 1 do Grupo + 1 | 13/11/2024 | Necivaldo Amaral, Weverton Rodrigues | 13/11/2024 | Rodrigo Wendrel | 13/11/2024 |
+
+    <p style={{ textAlign: 'center', fontSize: '15px' }}><b>Autor(es):</b> [Necivaldo Amaral](https://github.com/junioramaral22), [Weverton Rodrigues](https://github.com/vevetin)</p>
 
   </TabItem>
 </Tabs>
@@ -77,9 +81,11 @@ O cronograma tem como objetivo organizar as atividades do projeto a serem realiz
     | Inspeção da entrega da apresentação do projeto etapa 2 do Grupo + 1 | 27/11/2024 | Paulo Henrique, Pedro Luiz, Necivaldo Amaral, Rodrigo Wendrel, Weverton Rodrigues | 27/11/2024 | Rodrigo Wendrel | 27/11/2024 |
     | Correção pós-apresentação | 28/11/2024 - 29/11/2024 | Paulo Henrique, Pedro Luiz, Necivaldo Amaral, Rodrigo Wendrel, Weverton Rodrigues | 28/11/2024 - 29/11/2024 | Paulo Henrique, Pedro Luiz, Necivaldo Amaral, Rodrigo Wendrel, Weverton Rodrigues | Não há entrega |
 
+    <p style={{ textAlign: 'center', fontSize: '15px' }}><b>Autor(es):</b> [Paulo Henrique](https://github.com/paulomh), [Weverton Rodrigues](https://github.com/vevetin)</p>
+
   </TabItem>
   <TabItem value="executado" label="Cronograma Executado">
-    <p style={{ textAlign: 'center', fontSize: '20px' }}><b>Tabela 3</b> - Execução da segunda entrega.</p>
+    <p style={{ textAlign: 'center', fontSize: '20px' }}><b>Tabela 4</b> - Execução da segunda entrega.</p>
 
     | Atividade | Período de desenvolvimento | Responsável | Revisão | Revisor(es) | Data da Entrega |
     | --------- | -------------------------- | ----------- | ------- | --------- | --------------- |
@@ -91,7 +97,7 @@ O cronograma tem como objetivo organizar as atividades do projeto a serem realiz
 
 <Tabs>
   <TabItem value="planejado" label="Cronograma Planejado" default>
-    <p style={{ textAlign: 'center', fontSize: '20px' }}><b>Tabela 4</b> - Planejamento da terceira entrega.</p>
+    <p style={{ textAlign: 'center', fontSize: '20px' }}><b>Tabela 5</b> - Planejamento da terceira entrega.</p>
 
     | Atividade | Período de desenvolvimento | Responsável | Revisão | Revisor(es) | Data da Entrega |
     | --------- | -------------------------- | ----------- | ------- | --------- | --------------- |
@@ -106,9 +112,11 @@ O cronograma tem como objetivo organizar as atividades do projeto a serem realiz
     | Inspeção da entrega da apresentação do projeto etapa 3 do Grupo + 1 | 04/12/2024 | Paulo Henrique, Pedro Luiz, Necivaldo Amaral, Rodrigo Wendrel, Weverton Rodrigues | 04/12/2024 | Necivaldo Amaral | 04/12/2024 |
     | Correção pós-apresentação | 05/12/2024 - 06/12/2024 | Paulo Henrique, Pedro Luiz, Necivaldo Amaral, Rodrigo Wendrel, Weverton Rodrigues | 05/12/2024 - 06/12/2024 | Paulo Henrique, Pedro Luiz, Necivaldo Amaral, Rodrigo Wendrel, Weverton Rodrigues | Não há entrega |
 
+    <p style={{ textAlign: 'center', fontSize: '15px' }}><b>Autor(es):</b> [Paulo Henrique](https://github.com/paulomh), [Weverton Rodrigues](https://github.com/vevetin)</p>
+
   </TabItem>
   <TabItem value="executado" label="Cronograma Executado">
-    <p style={{ textAlign: 'center', fontSize: '20px' }}><b>Tabela 4</b> - Execução da terceira entrega.</p>
+    <p style={{ textAlign: 'center', fontSize: '20px' }}><b>Tabela 6</b> - Execução da terceira entrega.</p>
 
     | Atividade | Período de desenvolvimento | Responsável | Revisão | Revisor(es) | Data da Entrega |
     | --------- | -------------------------- | ----------- | ------- | --------- | --------------- |
@@ -120,7 +128,7 @@ O cronograma tem como objetivo organizar as atividades do projeto a serem realiz
 
 <Tabs>
   <TabItem value="planejado" label="Cronograma Planejado" default>
-    <p style={{ textAlign: 'center', fontSize: '20px' }}><b>Tabela 5</b> - Planejamento da quarta entrega.</p>
+    <p style={{ textAlign: 'center', fontSize: '20px' }}><b>Tabela 7</b> - Planejamento da quarta entrega.</p>
 
     | Atividade | Período de desenvolvimento | Responsável | Revisão | Revisor(es) | Data da Entrega |
     | --------- | -------------------------- | ----------- | ------- | --------- | --------------- |
@@ -135,9 +143,11 @@ O cronograma tem como objetivo organizar as atividades do projeto a serem realiz
     | Inspeção da entrega da apresentação do projeto etapa 4 do Grupo + 1 | 11/12/2024 | Paulo Henrique, Pedro Luiz, Necivaldo Amaral, Rodrigo Wendrel, Weverton Rodrigues | 11/12/2024 | Rodrigo Wendrel | 11/12/2024 |
     | Correção pós-apresentação | 12/12/2024 - 13/12/2024 | Paulo Henrique, Pedro Luiz, Necivaldo Amaral, Rodrigo Wendrel, Weverton Rodrigues | 12/12/2024 - 13/12/2024 | Paulo Henrique, Pedro Luiz, Necivaldo Amaral, Rodrigo Wendrel, Weverton Rodrigues | Não há entrega |
 
+    <p style={{ textAlign: 'center', fontSize: '15px' }}><b>Autor(es):</b> [Paulo Henrique](https://github.com/paulomh), [Weverton Rodrigues](https://github.com/vevetin)</p>
+
   </TabItem>
   <TabItem value="executado" label="Cronograma Executado">
-    <p style={{ textAlign: 'center', fontSize: '20px' }}><b>Tabela 6</b> - Execução da quarta entrega.</p>
+    <p style={{ textAlign: 'center', fontSize: '20px' }}><b>Tabela 8</b> - Execução da quarta entrega.</p>
 
     | Atividade | Período de desenvolvimento | Responsável | Revisão | Revisor(es) | Data da Entrega |
     | --------- | -------------------------- | ----------- | ------- | --------- | --------------- |
@@ -149,7 +159,7 @@ O cronograma tem como objetivo organizar as atividades do projeto a serem realiz
 
 <Tabs>
   <TabItem value="planejado" label="Cronograma Planejado" default>
-    <p style={{ textAlign: 'center', fontSize: '20px' }}><b>Tabela 7</b> - Planejamento da quinta entrega.</p>
+    <p style={{ textAlign: 'center', fontSize: '20px' }}><b>Tabela 9</b> - Planejamento da quinta entrega.</p>
 
     | Atividade | Período de desenvolvimento | Responsável | Revisão | Revisor(es) | Data da Entrega |
     | --------- | -------------------------- | ----------- | ------- | --------- | --------------- |
@@ -164,9 +174,11 @@ O cronograma tem como objetivo organizar as atividades do projeto a serem realiz
     | Inspeção da entrega da apresentação do projeto etapa 5 do Grupo + 1 | 06/01/2025 | Paulo Henrique, Pedro Luiz, Necivaldo Amaral, Rodrigo Wendrel, Weverton Rodrigues | 06/01/2025 | Necivaldo Amaral | 06/01/2025 |
     | Correção pós-apresentação | 07/01/2025 - 08/01/2025 | Paulo Henrique, Pedro Luiz, Necivaldo Amaral, Rodrigo Wendrel, Weverton Rodrigues | 07/01/2025 - 08/01/2025 | Paulo Henrique, Pedro Luiz, Necivaldo Amaral, Rodrigo Wendrel, Weverton Rodrigues | Não há entrega |
 
+    <p style={{ textAlign: 'center', fontSize: '15px' }}><b>Autor(es):</b> [Paulo Henrique](https://github.com/paulomh), [Weverton Rodrigues](https://github.com/vevetin)</p>
+
   </TabItem>
   <TabItem value="executado" label="Cronograma Executado">
-    <p style={{ textAlign: 'center', fontSize: '20px' }}><b>Tabela 7</b> - Execução da quinta entrega.</p>
+    <p style={{ textAlign: 'center', fontSize: '20px' }}><b>Tabela 10</b> - Execução da quinta entrega.</p>
 
     | Atividade | Período de desenvolvimento | Responsável | Revisão | Revisor(es) | Data da Entrega |
     | --------- | -------------------------- | ----------- | ------- | --------- | --------------- |
@@ -178,7 +190,7 @@ O cronograma tem como objetivo organizar as atividades do projeto a serem realiz
 
 <Tabs>
   <TabItem value="planejado" label="Cronograma Planejado" default>
-    <p style={{ textAlign: 'center', fontSize: '20px' }}><b>Tabela 8</b> - Planejamento da sexta entrega.</p>
+    <p style={{ textAlign: 'center', fontSize: '20px' }}><b>Tabela 11</b> - Planejamento da sexta entrega.</p>
 
     | Atividade | Período de desenvolvimento | Responsável | Revisão | Revisor(es) | Data da Entrega |
     | --------- | -------------------------- | ----------- | ------- | --------- | --------------- |
@@ -192,9 +204,11 @@ O cronograma tem como objetivo organizar as atividades do projeto a serem realiz
     | Inspeção da entrega da apresentação do projeto etapa 6 do Grupo + 1 | 15/01/2025 | Paulo Henrique, Pedro Luiz, Necivaldo Amaral, Rodrigo Wendrel, Weverton Rodrigues | 15/01/2025 | Pedro Luiz | 15/01/2025 |
     | Correção pós-apresentação | 16/01/2025 - 17/01/2025 | Paulo Henrique, Pedro Luiz, Necivaldo Amaral, Rodrigo Wendrel, Weverton Rodrigues | 16/01/2025 - 17/01/2025 | Paulo Henrique, Pedro Luiz, Necivaldo Amaral, Rodrigo Wendrel, Weverton Rodrigues | Não há entrega |
 
+    <p style={{ textAlign: 'center', fontSize: '15px' }}><b>Autor(es):</b> [Paulo Henrique](https://github.com/paulomh), [Weverton Rodrigues](https://github.com/vevetin)</p>
+
   </TabItem>
   <TabItem value="executado" label="Cronograma Executado">
-    <p style={{ textAlign: 'center', fontSize: '20px' }}><b>Tabela 8</b> - Execução da sexta entrega.</p>
+    <p style={{ textAlign: 'center', fontSize: '20px' }}><b>Tabela 12</b> - Execução da sexta entrega.</p>
 
     | Atividade | Período de desenvolvimento | Responsável | Revisão | Revisor(es) | Data da Entrega |
     | --------- | -------------------------- | ----------- | ------- | --------- | --------------- |
@@ -206,7 +220,7 @@ O cronograma tem como objetivo organizar as atividades do projeto a serem realiz
 
 <Tabs>
   <TabItem value="planejado" label="Cronograma Planejado" default>
-    <p style={{ textAlign: 'center', fontSize: '20px' }}><b>Tabela 9</b> - Planejamento da sétima entrega.</p>
+    <p style={{ textAlign: 'center', fontSize: '20px' }}><b>Tabela 13</b> - Planejamento da sétima entrega.</p>
 
     | Atividade | Período de desenvolvimento | Responsável | Revisão | Revisor(es) | Data da Entrega |
     | --------- | -------------------------- | ----------- | ------- | --------- | --------------- |
@@ -218,9 +232,11 @@ O cronograma tem como objetivo organizar as atividades do projeto a serem realiz
     | Inspeção da entrega da apresentação do projeto etapa 7 do Grupo + 1 | 27/01/2025 | Paulo Henrique, Pedro Luiz, Necivaldo Amaral, Rodrigo Wendrel, Weverton Rodrigues | 27/01/2025 | Rodrigo Wendrel | 27/01/2025 |
     | Correção pós-apresentação | 28/01/2025 - 29/01/2025 | Paulo Henrique, Pedro Luiz, Necivaldo Amaral, Rodrigo Wendrel, Weverton Rodrigues | 28/01/2025 - 29/01/2025 | Paulo Henrique, Pedro Luiz, Necivaldo Amaral, Rodrigo Wendrel, Weverton Rodrigues | Não há entrega |
 
+    <p style={{ textAlign: 'center', fontSize: '15px' }}><b>Autor(es):</b> [Paulo Henrique](https://github.com/paulomh), [Weverton Rodrigues](https://github.com/vevetin)</p>
+
   </TabItem>
   <TabItem value="executado" label="Cronograma Executado">
-    <p style={{ textAlign: 'center', fontSize: '20px' }}><b>Tabela 10</b> - Execução da sétima entrega.</p>
+    <p style={{ textAlign: 'center', fontSize: '20px' }}><b>Tabela 14</b> - Execução da sétima entrega.</p>
 
     | Atividade | Período de desenvolvimento | Responsável | Revisão | Revisor(es) | Data da Entrega |
     | --------- | -------------------------- | ----------- | ------- | --------- | --------------- |
@@ -232,7 +248,7 @@ O cronograma tem como objetivo organizar as atividades do projeto a serem realiz
 
 <Tabs>
   <TabItem value="planejado" label="Cronograma Planejado" default>
-    <p style={{ textAlign: 'center', fontSize: '20px' }}><b>Tabela 9</b> - Planejamento da oitava entrega.</p>
+    <p style={{ textAlign: 'center', fontSize: '20px' }}><b>Tabela 15</b> - Planejamento da oitava entrega.</p>
 
     | Atividade | Período de desenvolvimento | Responsável | Revisão | Revisor(es) | Data da Entrega |
     | --------- | -------------------------- | ----------- | ------- | --------- | --------------- |
@@ -242,9 +258,11 @@ O cronograma tem como objetivo organizar as atividades do projeto a serem realiz
     | Cronograma executado | 02/02/2025 | Necivaldo Amaral | 02/02/2025 | Paulo Henrique, Pedro Luiz, Necivaldo Amaral, Rodrigo Wendrel, Weverton Rodrigues | 03/02/2025 |
     | Correção pós-apresentação | 05/02/2025 - 06/02/2025 | Paulo Henrique, Pedro Luiz, Necivaldo Amaral, Rodrigo Wendrel, Weverton Rodrigues | 05/02/2025 - 06/02/2025 | Paulo Henrique, Pedro Luiz, Necivaldo Amaral, Rodrigo Wendrel, Weverton Rodrigues | Não há entrega |
 
+    <p style={{ textAlign: 'center', fontSize: '15px' }}><b>Autor(es):</b> [Paulo Henrique](https://github.com/paulomh), [Weverton Rodrigues](https://github.com/vevetin)</p>
+
   </TabItem>
   <TabItem value="executado" label="Cronograma Executado">
-    <p style={{ textAlign: 'center', fontSize: '20px' }}><b>Tabela 10</b> - Execução da oitava entrega.</p>
+    <p style={{ textAlign: 'center', fontSize: '20px' }}><b>Tabela 16</b> - Execução da oitava entrega.</p>
 
     | Atividade | Período de desenvolvimento | Responsável | Revisão | Revisor(es) | Data da Entrega |
     | --------- | -------------------------- | ----------- | ------- | --------- | --------------- |
@@ -256,7 +274,7 @@ O cronograma tem como objetivo organizar as atividades do projeto a serem realiz
 
 <Tabs>
   <TabItem value="planejado" label="Cronograma Planejado" default>
-    <p style={{ textAlign: 'center', fontSize: '20px' }}><b>Tabela 9</b> - Planejamento da entrega final.</p>
+    <p style={{ textAlign: 'center', fontSize: '20px' }}><b>Tabela 17</b> - Planejamento da entrega final.</p>
 
     | Atividade | Período de desenvolvimento | Responsável | Revisão | Revisor(es) | Data da Entrega |
     | --------- | -------------------------- | ----------- | ------- | --------- | --------------- |
@@ -265,9 +283,11 @@ O cronograma tem como objetivo organizar as atividades do projeto a serem realiz
     | Ediçao da gravação | 09/02/2025 | Paulo Henrique | 09/02/2025 | Paulo Henrique, Pedro Luiz, Necivaldo Amaral, Rodrigo Wendrel, Weverton Rodrigues | 10/02/2025 |
     | Cronograma executado | 09/02/2025 | Weverton Rodrigues | 09/02/2025 | Paulo Henrique, Pedro Luiz, Necivaldo Amaral, Rodrigo Wendrel, Weverton Rodrigues | 10/02/2025 |
 
+    <p style={{ textAlign: 'center', fontSize: '15px' }}><b>Autor(es):</b> [Paulo Henrique](https://github.com/paulomh), [Weverton Rodrigues](https://github.com/vevetin)</p>
+
   </TabItem>
   <TabItem value="executado" label="Cronograma Executado">
-    <p style={{ textAlign: 'center', fontSize: '20px' }}><b>Tabela 10</b> - Execução da entrega final.</p>
+    <p style={{ textAlign: 'center', fontSize: '20px' }}><b>Tabela 18</b> - Execução da entrega final.</p>
 
     | Atividade | Período de desenvolvimento | Responsável | Revisão | Revisor(es) | Data da Entrega |
     | --------- | -------------------------- | ----------- | ------- | --------- | --------------- |
@@ -294,3 +314,4 @@ O cronograma tem como objetivo organizar as atividades do projeto a serem realiz
 |  1.2   | 12/11/2024 | [Weverton Rodrigues](https://github.com/vevetin)                                               | Atualização do cronograma               |   12/11/2024    | [Paulo Henrique](https://github.com/paulomh), [Pedro Luiz](https://github.com/pedroluizfo), [Necivaldo Amaral](https://github.com/junioramaral22), [Rodrigo Wendrel](https://github.com/rodwendrel), [Weverton Rodrigues](https://github.com/vevetin)                             |
 |  1.3   | 12/11/2024 | [Rodrigo Wendrel](https://github.com/rodwendrel)                                               | Atualização do cronograma               |   12/11/2024    | [Pedro Luiz](https://github.com/pedroluizfo)|
 | 1.4 | 13/11/2024 |  [Necivaldo Amaral](https://github.com/junioramaral22), [Weverton Rodrigues](https://github.com/vevetin) | Atualização do cronograma executado etapa 1 |13/11/2024 | [Rodrigo Wendrel](https://github.com/rodwendrel)  |
+| 1.4.1 | 20/11/2024 |  [Paulo Henrique](https://github.com/paulomh) | Adicionado autores nos cronogramas planejados e cronograma executado da primeira entrega | 20/11/2024 | [Weverton Rodrigues](https://github.com/vevetin)  |

@@ -43,7 +43,7 @@ O cronograma tem como objetivo organizar as atividades do projeto a serem realiz
 
     | Atividade | Período de desenvolvimento | Responsável | Revisão | Revisor(es) | Data da Entrega |
     | --------- | -------------------------- | ----------- | ------- | --------- | --------------- |
-    | Sites avaliados | 04/11/2024 - 07/11/2024 | Weverton Rodrigues |  |  | 12/11/2024 |
+    | Sites avaliados | 04/11/2024 - 07/11/2024 | Weverton Rodrigues | 20/11/2024 | Paulo Henrique | 12/11/2024 |
     | Heatmap de disponibilidade dos integrantes  | 09/11/2024 | Paulo Henrique | 09/11/2024 | Paulo Henrique, Pedro Luiz, Necivaldo Amaral, Rodrigo Wendrel, Weverton Rodrigues | 12/11/2024 |
     | Site selecionado para o projeto da disciplina | 04/11/2024 - 06/11/2024 | Weverton Rodrigues | 06/11/2024 - 07/11/2024 | Necivaldo Amaral, Paulo Henrique | 12/11/2024 |
     | Definição do cronograma | 05/11/2024 | Paulo Henrique, Weverton Rodrigues |  | Necivaldo Amaral | 12/11/2024 |

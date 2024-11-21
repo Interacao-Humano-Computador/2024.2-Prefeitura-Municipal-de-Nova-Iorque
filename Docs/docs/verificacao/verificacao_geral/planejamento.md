@@ -8,7 +8,7 @@ sidebar_position: 1
 
 O planejamento da verificação geral do projeto visa verificar a estruturação do projeto. Nesta fase, são verificados os artefatos iniciais e toda a estruturação inicial da página de documentação, assegurando que atendam aos requisitos estabelecidos e estejam livres de defeitos. A verificação é essencial para identificar e corrigir problemas precocemente, evitando retrabalho. 
 
-O objetivo deste documento é apresentar o planejamento da verificação geral do projeto, verificando se a estruturação do projeto está adequada com base em uma lista de verificação disponibilizada no plano de ensino da disciplina<sup>[1](../verificacao_geral/planejamento.md#referências)</sup>.
+O objetivo deste documento é apresentar o planejamento da verificação geral do projeto, verificando se a estruturação do projeto está adequada com base em uma lista de verificação disponibilizada no plano de ensino da disciplina<sup>[1](../verificacao_geral/planejamento.md#referências-bibliográficas)</sup>.
 
 ## Lista de Verificação
 
@@ -28,9 +28,9 @@ A lista de verificação é composta por 8 itens, que devem ser verificados para
 | 8 – Os artefatos: Planejamento do Projeto, equipe, lista de sites avaliados, site selecionado para o projeto da disciplina, Ferramentas do projeto, Processo de Design, cronograma das atividades? |                     |                                   |                                |
 
 
-## Referências
+## Referências bibliográficas
 
-> 1. [Plano de Ensino](https://aprender3.unb.br/pluginfile.php/2972625/mod_resource/content/56/Plano_de_Ensino%20FIHC%20022024%20Turma%2001%20v1.pdf) da disciplina Interação Humano Computador, Dr. André Barros de Sales.
+> 1. SALES, André. Plano de Ensino da disciplina Interação Humano Computador. Universidade de Brasília, Campus UNB Gama: Faculdade de Ciências e Tecnologias em Engenharia, 2024. Disponível em: https://aprender3.unb.br/pluginfile.php/2972625/mod_resource/content/56/Plano_de_Ensino%20FIHC%20022024%20Turma%2001%20v1.pdf. Acesso em: 25 out. 2024.
 
 ## Histórico de Versão
 ---

@@ -18,8 +18,9 @@ Neste documento será apresentado um modelo de heatmap adaptado para o contexto 
 
 Utilizando o Google Planilhas para a criação do heatmap, cada membro preencheu individualmente uma planilha com os horários disponíveis para reuniões e atividades do projeto. Feito o preenchimento, foi gerado um quadro geral com disponibilidade de todos da equipe. A figura 1 ilustra o quadro de disponibilidade de horários dos membros do projeto.
 
-![Figura 1 - Heatmap de Disponibilidade de Horários](../planejamento/assets/heatmap.png)
 <p style={{ textAlign: 'center', fontSize: '17px' }}><b>Figura 1</b> - Mapa de calor, onde <b>0</b> indica que nenhum membro está disponível e <b>5</b> indica que todos os membros estão disponíveis naquela dia e horário.</p>
+![Figura 1 - Heatmap de Disponibilidade de Horários](../planejamento/assets/heatmap.png)
+<p style={{ textAlign: 'center', fontSize: '15px' }}><b>Autor:</b> [Paulo Henrique](https://github.com/paulomh)</p>
 
 ## Resultados
 
@@ -36,6 +37,8 @@ Com os dados expressos na figura 1, observa-se que todos os membros possuem disp
 | Versão | Data | Autor(es) | Descrição | Data de Revisão | Revisor(es) |
 |:---:|:---:|---|---|:---:|---|
 | 1.0 | 09/11/2024 | [Paulo Henrique](https://github.com/paulomh) | Criação do cronograma | 09/11/2024 | [Paulo Henrique](https://github.com/paulomh), [Pedro Luiz](https://github.com/pedroluizfo), [Necivaldo Amaral](https://github.com/junioramaral22), [Rodrigo Wendrel](https://github.com/rodwendrel), [Weverton Rodrigues](https://github.com/vevetin)  |
+| 1.0.1 | 20/11/2024 | [Paulo Henrique](https://github.com/paulomh) | Adicionado autor na imagem. | 20/11/2024 | [Paulo Henrique](https://github.com/paulomh), [Pedro Luiz](https://github.com/pedroluizfo), [Necivaldo Amaral](https://github.com/junioramaral22), [Rodrigo Wendrel](https://github.com/rodwendrel), [Weverton Rodrigues](https://github.com/vevetin)  |
+
 
 
 

@@ -51,5 +51,5 @@ De posse dessas informações, gostaríamos que você se pronunciasse acerca da 
 | Versão | Data | Autor(es) | Descrição | Data de Revisão | Revisor(es) |
 |:---:|:---:|---|---|:---:|---|
 | 1.0 | 21/11/2024 | [Paulo Henrique](https://github.com/paulomh) | Criação do documento | 21/11/2024 | [Rodrigo Wendrel](https://github.com/rodwendrel) |
-| 1.1 | 23/11/2024 | [Rodrigo Wendrel](https://github.com/rodwendrel) | Alterações no documento | | [Paulo Henrique](https://github.com/paulomh)  |
+| 1.1 | 23/11/2024 | [Rodrigo Wendrel](https://github.com/rodwendrel) | Alterações no documento | 23/11/2024 | [Paulo Henrique](https://github.com/paulomh)  |
 

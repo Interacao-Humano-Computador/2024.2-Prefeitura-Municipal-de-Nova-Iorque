@@ -17,8 +17,8 @@ Para orientar a realização dessas pesquisas, o Conselho Nacional de Saúde pub
 os participantes vulneráveis, o que garante igual consideração dos interesses envolvidos, não perdendo o sentido de sua destinação sócio-humanitaria.
 
 ## Termo de consentimento
-Somos uma equipe de consultoria da Universidade de Brasília - FCTE Campus Gama, que está participando
-do projeto do site da Prefeitura Municiapl de Nova Iorque para a disciplina de Interação. Nessa etapa do projeto, queremos conhecer o que algumas
+Somos o Grupo 06 da que está participando
+do projeto do site da Prefeitura Municipal de Nova Iorque para a disciplina de Interação Humano-Computador, ministrada pelo Prof. André Barros de Sales na Faculdade de Ciências e Tecnologias em Engenharia da Universidade de Brasília (FCTE - UnB) no período de 2024.2. Nessa etapa do projeto, queremos conhecer o que algumas
 das pessoas que irão usar o sistema pensam a respeito do processo atual e como
 imaginam que o novo sistema deveria apoiar o seu trabalho. <br/>
 Estamos realizando uma série de pesquisas, e solicitamos seu consentimento para a realização e gravação de

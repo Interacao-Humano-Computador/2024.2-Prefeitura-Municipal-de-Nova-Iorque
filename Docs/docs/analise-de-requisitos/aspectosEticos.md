@@ -12,6 +12,33 @@ Para orientar a realização dessas pesquisas, o Conselho Nacional de Saúde pub
 
 - **Princípio da Autonomia:** Respeitar a autonomia dos participantes, garantindo que eles possam tomar decisões livres e informadas sobre sua participação na pesquisa. Nesse sentido, a pesquisa envolvendo seres humanos deverá sempre tratá-los com dignidade, respeitá-los em sua autonomia e defendê-los em sua vulnerabilidade;
 - **Princípio da Beneficência:** Garantir que a pesquisa seja benéfica para os participantes, minimizando os riscos e maximizando os benefícios. Isso significa que a pesquisa deve ser realizada de forma a proteger a saúde e o bem-estar dos participantes, garantindo que os riscos sejam minimizados e os benefícios maximizados;
+- **Princípio da não maleficência:** Garantia de evitar danos previsíveis relacionados à pesquisa, tanto os imediatos quanto os tardios;
+- **Princípio da justiça e equidade:** Relevância social da pesquisa com vantagens significativas para os participantes da pesquisa e minimização do ônus para 
+os participantes vulneráveis, o que garante igual consideração dos interesses envolvidos, não perdendo o sentido de sua destinação sócio-humanitaria.
+
+## Termo de consentimento
+Somos uma equipe de consultoria da Universidade de Brasília - FCTE Campus Gama, que está participando
+do projeto do site da Prefeitura Municiapl de Nova Iorque para a disciplina de Interação. Nessa etapa do projeto, queremos conhecer o que algumas
+das pessoas que irão usar o sistema pensam a respeito do processo atual e como
+imaginam que o novo sistema deveria apoiar o seu trabalho. <br/>
+Estamos realizando uma série de pesquisas, e solicitamos seu consentimento para a realização e gravação de
+uma entrevista. Para decidir sobre o seu consentimento, é importante que você conheça as seguintes informações sobre
+a pesquisa:
+- Os dados coletados durante a entrevista destinam-se estritamente a atividades de análise e desenvolvimento do
+site da Prefeitura Municiapl de Nova Iorque.
+-  Nossa equipe tem o compromisso de divulgar os resultados de nossas pesquisas para o cliente. A divulgação
+desses resultados pauta-se no respeito à sua privacidade, e o anonimato dos participantes será preservado em
+quaisquer documentos que elaborarmos.
+- O consentimento para a entrevista é uma escolha livre, feita mediante a prestação de todos os esclarecimentos
+necessários sobre a pesquisa.
+- A entrevista pode ser interrompida a qualquer momento, segundo a sua disponibilidade e vontade.
+- Nossa equipe encontra-se disponível para contato através do e-mail [e-mail]. <br/>
+De posse dessas informações, gostaríamos que você se pronunciasse acerca da entrevista:
+-  (  ) Dou meu consentimento para a sua realização.
+- (  ) Não consinto com a sua realização
+[local], [data]
+[assinatura do entrevistador] [assinatura do entrevistado]
+[nome do entrevistador] [nome do entrevistado]
 
 ## Bibliografia
 
@@ -24,3 +51,5 @@ Para orientar a realização dessas pesquisas, o Conselho Nacional de Saúde pub
 | Versão | Data | Autor(es) | Descrição | Data de Revisão | Revisor(es) |
 |:---:|:---:|---|---|:---:|---|
 | 1.0 | 21/11/2024 | [Paulo Henrique](https://github.com/paulomh) | Criação do documento | 21/11/2024 | [Rodrigo Wendrel](https://github.com/rodwendrel) |
+| 1.1 | 23/11/2024 | [Rodrigo Wendrel](https://github.com/rodwendrel) | Alterações no documento | | [Paulo Henrique](https://github.com/paulomh)  |
+

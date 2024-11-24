@@ -1,5 +1,5 @@
 ---
-sidebar_position: 2
+sidebar_position: 1
 ---
 
 # Perfil de Usuário
@@ -10,12 +10,15 @@ O perfil de usuário é definido como uma descrição detalhada das característ
 
 ## Metodologia
 
-Para a elaboração do perfil de usuário deste projeto, adotou-se a técnica de **grupos de foco**. Conforme descrita por Simone Diniz (2010)<sup>[1](../analise-de-requisitos/perfilDeUsuario.md#referências-bibliográficas)</sup>, essa abordagem consiste em reunir pequenos grupos de participantes representativos do público-alvo para discutir temas específicos relacionados ao sistema em desenvolvimento. O objetivo principal foi coletar percepções, experiências e expectativas dos usuários em relação ao site da Prefeitura Municipal de Nova Iorque.  
-Adicionalmente, utilizamos dados demográficos e de uso de internet obtidos pelo site do IBGE e pela ferramenta Semrush. As informações do IBGE forneceram um panorama detalhado das características socioeconômicas e demográficas do município de Nova Iorque (MA), como faixa etária, níveis de instrução e acesso à tecnologia. Já os dados do Semrush permitiram compreender aspectos relacionados ao tráfego e ao comportamento dos usuários no site da prefeitura, oferecendo uma base inicial para a identificação do público-alvo e suas necessidades.
+Para a construção do perfil de usuário, adotamos duas abordagens principais: **grupo de foco** e **questionário**. O grupo de foco, conforme descrito por Simone Diniz (2010)<sup>[1](../analise-de-requisitos/perfilDeUsuario.md#referências-bibliográficas)</sup>, foi realizado para entender as percepções, experiências e expectativas dos usuários em relação ao site da Prefeitura Municipal de Nova Iorque.
 
-## Grupos de Foco
+Além disso, um questionário online foi elaborado com o objetivo de alcançar uma amostra maior, considerando usuários de sites de prefeituras em todo o Brasil. As questões do questionário abordaram aspectos como usabilidade, acessibilidade e sugestões de melhorias, complementando as informações obtidas no grupo de foco.
 
-A técnica de grupos de foco foi adotada para construir o perfil de usuário deste projeto, com o objetivo de identificar necessidades, percepções e expectativas dos usuários do site da Prefeitura Municipal de Nova Iorque. Essa abordagem facilita discussões em grupo sobre temas específicos, permitindo a coleta de dados qualitativos sobre usabilidade, funcionalidades e desafios enfrentados pelos usuários.  
+Para enriquecer a análise, também foram utilizados dados demográficos do IBGE e informações sobre tráfego no site, obtidas por meio da ferramenta Semrush, que ajudaram a compreender melhor o perfil e o comportamento dos usuários.
+
+## Grupo de Foco
+
+A técnica de grupo de foco foi adotada para construir o perfil de usuário deste projeto, com o objetivo de identificar necessidades, percepções e expectativas dos usuários do site da Prefeitura Municipal de Nova Iorque. Essa abordagem facilita discussões em grupo sobre temas específicos, permitindo a coleta de dados qualitativos sobre usabilidade, funcionalidades e desafios enfrentados pelos usuários.  
 Embora seja uma técnica qualitativa, também é possível extrair dados quantitativos ao combinar perguntas objetivas e estruturadas, ajudando a identificar padrões como a frequência de uso e as funcionalidades mais valorizadas.
 
 ### Adaptações para o contexto do projeto
@@ -33,18 +36,97 @@ Embora seja uma técnica qualitativa, também é possível extrair dados quantit
 ### Vantagens e Desvantagens
 
 **Vantagens:**
-- Coleta eficiente de dados qualitativos: Permite a obtenção de informações detalhadas em um curto período de tempo, reunindo diferentes perspectivas de um grupo representativo.
-
-- Discussões dinâmicas: A interação entre os participantes gera insights profundos e novas ideias, podendo revelar aspectos não antecipados.
-
-- Adequação para públicos específicos: A técnica permite selecionar participantes com características bem definidas, como no caso dos usuários do site da Prefeitura, assegurando que os dados coletados sejam relevantes para o público-alvo.
+- **Coleta eficiente de dados qualitativos:** Permite a obtenção de informações detalhadas em um curto período de tempo, reunindo diferentes perspectivas de um grupo representativo.
+- **Discussões dinâmicas:** A interação entre os participantes gera insights profundos e novas ideias, podendo revelar aspectos não antecipados.
+- **Adequação para públicos específicos:** A técnica permite selecionar participantes com características bem definidas, como no caso dos usuários do site da Prefeitura, assegurando que os dados coletados sejam relevantes para o público-alvo.
 
 **Desvantagens:**
-- Dificuldade em generalizar os resultados: Como é uma técnica qualitativa, os dados coletados não são representativos da totalidade dos usuários, mas refletem as experiências de um grupo específico.
+- **Dificuldade em generalizar os resultados:** Como é uma técnica qualitativa, os dados coletados não são representativos da totalidade dos usuários, mas refletem as experiências de um grupo específico.
+- **Dependência da interação entre participantes:** A dinâmica do grupo pode influenciar as respostas, com participantes mais extrovertidos ou influentes podendo dominar a discussão.
+- **Necessidade de moderação qualificada:** O sucesso da técnica depende de um moderador que consiga equilibrar a participação, garantindo que todos os participantes tenham a oportunidade de expressar suas opiniões sem interferir nas respostas.
 
-- Dependência da interação entre participantes: A dinâmica do grupo pode influenciar as respostas, com participantes mais extrovertidos ou influentes podendo dominar a discussão.
+## Questionário
 
--  Necessidade de moderação qualificada: O sucesso da técnica depende de um moderador que consiga equilibrar a participação, garantindo que todos os participantes tenham a oportunidade de expressar suas opiniões sem interferir nas respostas.
+Além dos grupos de foco, foi adotada a utilização de um **questionário online** com o objetivo de alcançar uma amostra mais ampla de usuários de sites de prefeituras em geral. O questionário foi projetado para coletar dados quantitativos sobre a experiência de navegação, usabilidade e acessibilidade de sites municipais, permitindo identificar padrões de comportamento, como frequência de acesso e preferências de funcionalidades. Essa abordagem visa complementar os resultados dos grupos de foco, oferecendo uma visão mais abrangente do perfil de usuários de sites de prefeituras, independentemente de sua localidade.
+
+### Estrutura do Questionário
+
+Para a elaboração do questionário, seguimos a abordagem proposta por Simone Diniz (2010, p. 293), no capítulo 9, que apresenta exemplos de perguntas que uma avaliação de IHC pode responder, conforme ilustrado na Tabela 9.1. O objetivo foi criar um questionário direto, com foco principalmente em entender a interação dos usuários com os sites de prefeitura.
+
+:::note Questionário de Avaliação de Uso de Sites de Prefeituras
+1. Qual é a sua faixa etária?
+    - [ ] menos de 18 anos
+    - [ ] 18 a 24 anos
+    - [ ] 25 a 34 anos
+    - [ ] 35 a 44 anos
+    - [ ] 45 a 54 anos
+    - [ ] 55 a 64 anos
+    - [ ] 65 anos ou mais
+
+2. Qual é o seu gênero?
+    - [ ] Masculino
+    - [ ] Feminino
+    - [ ] Prefiro não dizer
+    - [ ] Outro__________
+
+3.  Qual é o seu nível de familiaridade ou experiência com computadores, celulares e navegadores de internet? 
+    - [ ] Tenho pouca ou nenhuma experiência
+    - [ ] Tenho experiência básica
+    - [ ] Tenho experiência intermediária
+    - [ ] Tenho experiência avançada
+
+4. Você já acessou um site de prefeitura?
+    - [ ] Sim
+    - [ ] Não
+    - [ ] Talvez
+
+5. Se você já acessou, com qual frequência você acessa sites de prefeituras? 
+    - [ ] Todos os dias
+    - [ ] Uma vez por semana
+    - [ ] Uma vez por mês
+    - [ ] Raramente
+
+6.  Se você já acessou, costuma acessar sites de prefeituras usando qual dispositivo? 
+    - [ ] Computador
+    - [ ] Celular
+    - [ ] Tablet
+    - [ ] Outro__________
+
+7.  Se você já acessou, considera os sites de prefeituras acessíveis para diferentes públicos (ex.: idosos, pessoas com deficiência, etc.)? 
+    - [ ] Sim
+    - [ ] Não
+    - [ ] Não sei
+
+8.  Se você já acessou, quais motivos o levam a acessar um site de prefeitura? (Marque todas as opções aplicáveis) 
+    - [ ] Consultar informações sobre serviços públicos (saúde, educação, transporte)
+    - [ ] Consultas de taxas e impostos
+    - [ ] Acompanhar notícias ou comunicados oficiais
+    - [ ] Participar de consultas públicas ou audiências
+    - [ ] Procurar contato com a prefeitura
+    - [ ] Outro__________
+
+9.  Se você nunca acessou, por que não utiliza sites de prefeituras? 
+    - [ ] Não sabia que existiam
+    - [ ] Não sei como usar
+    - [ ] Prefiro ir diretamente à prefeitura
+    - [ ] Outro__________
+
+10.  Quais melhorias você sugeriria para sites de prefeituras?     
+    (Campo aberto para sugestões)
+
+_Fonte: Adaptado por [Paulo Henrique](https://github.com/paulomh) e [Weverton Rodrigues](https://github.com/vevetin), com base em BARBOSA, Simone. Interação Humano-Computador. 1 ed. Rio de Janeiro: Elsevier, 2010, p. 293._
+:::
+
+### Vantagens e Desvantagens
+
+**Vantagens:**
+- **Amostra ampla**: Permite alcançar um número maior de participantes, aumentando a representatividade dos dados.
+- **Quantificação dos dados**: Oferece uma análise quantitativa que complementa os dados qualitativos obtidos nos grupos de foco.
+- **Facilidade de acesso e preenchimento**: O formato online facilita o acesso de diferentes perfis de usuários, desde aqueles com mais experiência tecnológica até os menos familiarizados.
+
+**Desvantagens:**
+- **Baixa taxa de resposta**: Pode ocorrer uma baixa taxa de respostas, principalmente por parte de usuários com menos familiaridade com tecnologia.
+- **Limitação nas respostas**: Embora o questionário permita coletar dados objetivos, ele não captura a profundidade de uma experiência de usuário como os grupos de foco.
 
 ## Resultados Coletados
 
@@ -64,7 +146,11 @@ Segundo a ferramenta Semrush, o site da Prefeitura Municipal de Nova Iorque rece
 ![Tráfego Orgânico do site da Prefeitura Municipal de Nova Iorque](../analise-de-requisitos/assets/trafego-organico.jfif)
 <p style={{ textAlign: 'center', fontSize: '17px' }}>Fonte: Semrush, 2024</p>
 
-### Resultados dos Grupos de Foco
+### Resultados do Grupo de Foco
+
+
+
+### Resultados do Questionário
 
 
 
@@ -74,6 +160,8 @@ Segundo a ferramenta Semrush, o site da Prefeitura Municipal de Nova Iorque rece
 
 ## Referências Bibliográficas
 > \- BARBOSA, Simone, et al. Interação Humano-Computador e Experiência do Usuário. Leanpub, 2022. Disponível em: https://leanpub.com/ihc-ux. Acesso em: 18 nov. 2024.
+
+> \- BARBOSA, Simone, et al. Interação Humano-Computador. 1. ed. Rio de Janeiro: Elsevier, 2010. 
 
 ## Bibliografia
 > \- BRASIL. IBGE - Instituto Brasileiro de Geografia e Estatística. Panorama de Nova Iorque (MA). Cidades@IBGE. Disponível em: https://cidades.ibge.gov.br/brasil/ma/nova-iorque/panorama. Acesso em: 19 nov. 2024.
@@ -86,3 +174,4 @@ Segundo a ferramenta Semrush, o site da Prefeitura Municipal de Nova Iorque rece
 |:---:|:---:|---|---|:---:|---|
 | 1.0 | 18/11/2024 | [Weverton Rodrigues](https://github.com/vevetin) | criação do documento | | |
 | 1.1 | 20/11/2024 | [Paulo Henrique](https://github.com/paulomh), [Weverton Rodrigues](https://github.com/vevetin) | atualização do documento | | |
+| 1.2 | 24/11/2024 | [Weverton Rodrigues](https://github.com/vevetin) | atualização da metodologia e inclusão do questionário |  |

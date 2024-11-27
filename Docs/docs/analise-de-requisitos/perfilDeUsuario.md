@@ -136,7 +136,7 @@ Com base nos dados demográficos obtidos pelo IBGE, foi possível entender o per
 
 <p style={{ textAlign: 'center', fontSize: '17px' }}><b>Figura 1</b> - Pirâmide Etária da população de Nova Iorque</p>
 ![Pirâmide Etária de Nova Iorque (MA)](../analise-de-requisitos/assets/piramide-etaria.jfif)
-<p style={{ textAlign: 'center', fontSize: '17px' }}>Fonte: IBGE, 2022 | Autor: </p>
+<p style={{ textAlign: 'center', fontSize: '17px' }}>Autor: [Weverton Rodrigues](https://github.com/vevetin) | Fonte: IBGE, 2022</p>
 
 ### Análise de tráfego do Semrush
 
@@ -144,7 +144,7 @@ Segundo a ferramenta Semrush, o site da Prefeitura Municipal de Nova Iorque rece
 
 <p style={{ textAlign: 'center', fontSize: '17px' }}><b>Figura 2</b> - Tráfego orgânico mensal do site da Prefeitura Municipal de Nova Iorque</p>
 ![Tráfego Orgânico do site da Prefeitura Municipal de Nova Iorque](../analise-de-requisitos/assets/trafego-organico.jfif)
-<p style={{ textAlign: 'center', fontSize: '17px' }}>Fonte: Semrush, 2024</p>
+<p style={{ textAlign: 'center', fontSize: '17px' }}>Autor: [Weverton Rodrigues](https://github.com/vevetin) | Fonte: Semrush, 2024</p>
 
 ### Resultados do Grupo de Foco
 
@@ -152,9 +152,92 @@ Segundo a ferramenta Semrush, o site da Prefeitura Municipal de Nova Iorque rece
 
 ### Resultados do Questionário
 
+Os resultados do questionário fornecem insights valiosos sobre as preferências e características do público em relação ao uso de sites de prefeituras, os quais podem ser comparados com as expectativas preliminares. A seguir, apresentamos uma análise detalhada dos dados coletados:
 
+**Faixa Etária dos Respondentes**  
+<p style={{ textAlign: 'center', fontSize: '17px' }}><b>Figura 3</b> - Gráfico em Pizza da Faixa Etária</p>
+<center>
+    ![gráfico em pizza - faixa etária](../analise-de-requisitos/assets/grafico-pizza-faixa-etaria.jfif)
+</center>
+<p style={{ textAlign: 'center', fontSize: '17px' }}>Autores: [Paulo Henrique](https://github.com/paulomh) e [Weverton Rodrigues](https://github.com/vevetin) | Fonte: Google Forms, 2024</p>
 
-## Análise dos Resultados
+A maioria dos respondentes (57,9%) pertence à faixa etária de 18 a 24 anos, um público jovem, sugerindo uma maior familiaridade com tecnologia. Outros grupos significativos incluem os de 35 a 44 anos (15,8%) e 45 a 54 anos (10,5%). Este perfil etário alinha-se com a expectativa preliminar de que os usuários mais jovens provavelmente dominam o acesso a tecnologias e websites, mas também há uma presença expressiva de faixas etárias que exigem consideração na criação de um design acessível para diversos perfis.
+
+**Gênero dos Respondentes**  
+<p style={{ textAlign: 'center', fontSize: '17px' }}><b>Figura 4</b> - Gráfico em Pizza de Gênero</p>
+<center>
+    ![gráfico em pizza - gênero](../analise-de-requisitos/assets/grafico-pizza-genero.jfif)
+</center>
+<p style={{ textAlign: 'center', fontSize: '17px' }}>Autores: [Paulo Henrique](https://github.com/paulomh) e [Weverton Rodrigues](https://github.com/vevetin) | Fonte: Google Forms, 2024</p>
+
+O público masculino predominou (68,4%), o que pode impactar decisões de design e campanhas direcionadas. Embora a diferença não seja extrema, essa informação é relevante para ajustes no conteúdo e estilo do site, garantindo que se atenda de maneira equilibrada aos diferentes grupos de usuários.
+
+**Nível de Familiaridade com Tecnologia**  
+<p style={{ textAlign: 'center', fontSize: '17px' }}><b>Figura 5</b> - Gráfico em Pizza de Nível de Familiaridade com Tecnologia</p>
+<center>
+    ![gráfico em pizza - familiaridade com tecnologia](../analise-de-requisitos/assets/grafico-pizza-familiaridade.jfif)
+</center>
+<p style={{ textAlign: 'center', fontSize: '17px' }}>Autores: [Paulo Henrique](https://github.com/paulomh) e [Weverton Rodrigues](https://github.com/vevetin) | Fonte: Google Forms, 2024</p>
+
+Observamos uma divisão entre os usuários: 42,1% se consideram com experiência básica, enquanto 42,1% têm experiência avançada. Isso indica que o site deve ser acessível tanto para iniciantes quanto para usuários mais experientes, um ponto que também estava presente nas expectativas iniciais. O site deve, portanto, combinar funcionalidades simples com opções avançadas, criando uma interface intuitiva e eficiente para ambos os grupos.
+
+**Experiência com Sites de Prefeituras**  
+<p style={{ textAlign: 'center', fontSize: '17px' }}><b>Figura 6</b> - Gráfico em Pizza de Experiência com Sites de Prefeituras</p>
+<center>
+    ![gráfico em pizza - experiência](../analise-de-requisitos/assets/grafico-pizza-acesso.jfif)
+</center>
+<p style={{ textAlign: 'center', fontSize: '17px' }}>Autores: [Paulo Henrique](https://github.com/paulomh) e [Weverton Rodrigues](https://github.com/vevetin) | Fonte: Google Forms, 2024</p>
+ 
+A grande maioria dos participantes (78,9%) já acessou um site de prefeitura, o que valida a relevância do questionário para esse público familiarizado com o serviço. No entanto, 21% dos respondentes nunca acessaram um site de prefeitura, o que sugere que há uma lacuna de conhecimento ou uma percepção de que as prefeituras não são comumente acessadas online. Esse dado contrasta com a expectativa preliminar, que assumia uma maior familiaridade com o serviço.
+
+**Frequência de Acesso aos Sites de Prefeituras**  
+<p style={{ textAlign: 'center', fontSize: '17px' }}><b>Figura 7</b> - Gráfico em Pizza de Frequência de Acesso</p>
+<center>
+    ![gráfico em pizza - frequência](../analise-de-requisitos/assets/grafico-pizza-frequencia.jfif)
+</center>
+<p style={{ textAlign: 'center', fontSize: '17px' }}>Autores: [Paulo Henrique](https://github.com/paulomh) e [Weverton Rodrigues](https://github.com/vevetin) | Fonte: Google Forms, 2024</p>
+
+A maioria dos respondentes (58,8%) acessa sites de prefeituras raramente, o que reflete uma utilização esporádica, geralmente quando há uma necessidade específica. Isso sugere que o design do site deve facilitar o acesso rápido a informações essenciais, uma vez que os usuários não visitam com frequência.
+
+**Dispositivos Utilizados para Acesso**  
+<p style={{ textAlign: 'center', fontSize: '17px' }}><b>Figura 8</b> - Gráfico em Barra dos Dispositivos Utilizados</p>
+<center>
+    ![gráfico em pizza - dispositivos](../analise-de-requisitos/assets/grafico-barra-dispositivos.jfif)
+</center>
+<p style={{ textAlign: 'center', fontSize: '17px' }}>Autores: [Paulo Henrique](https://github.com/paulomh) e [Weverton Rodrigues](https://github.com/vevetin) | Fonte: Google Forms, 2024</p>
+
+A predominância de acessos via celular (82,4%) e computador (76,5%) reforça a importância de garantir que o site seja responsivo e eficiente em ambos os dispositivos. Esta tendência confirma a expectativa preliminar de que dispositivos móveis são essenciais, mas também destaca a necessidade de garantir uma experiência otimizada para os usuários de desktop.
+
+**Acessibilidade dos Sites de Prefeituras**  
+<p style={{ textAlign: 'center', fontSize: '17px' }}><b>Figura 9</b> - Gráfico em Pizza de Acessibilidade dos Sites de Prefeituras</p>
+<center>
+    ![gráfico em pizza - acessibilidade](../analise-de-requisitos/assets/grafico-pizza-acessibilidade.jfif)
+</center>
+<p style={{ textAlign: 'center', fontSize: '17px' }}>Autores: [Paulo Henrique](https://github.com/paulomh) e [Weverton Rodrigues](https://github.com/vevetin) | Fonte: Google Forms, 2024</p>
+
+A maior parte dos respondentes (58,8%) considera que os sites de prefeituras não são acessíveis para diferentes públicos, como idosos e pessoas com deficiência. Este dado revela uma oportunidade de melhoria significativa na acessibilidade, alinhando-se com a percepção de que os sites precisam ser mais inclusivos. Recursos como leitores de tela, navegação simplificada e contraste adequado são necessários para garantir uma experiência acessível para todos os usuários.
+
+**Motivos para Acessar Sites de Prefeituras**  
+<p style={{ textAlign: 'center', fontSize: '17px' }}><b>Figura 10</b> - Gráfico em Barra de Motivos para Acessar</p>
+<center>
+    ![gráfico em pizza - motivos para acessar](../analise-de-requisitos/assets/grafico-barra-motivacao.jfif)
+</center>
+<p style={{ textAlign: 'center', fontSize: '17px' }}>Autores: [Paulo Henrique](https://github.com/paulomh) e [Weverton Rodrigues](https://github.com/vevetin) | Fonte: Google Forms, 2024</p>
+O principal motivo citado para acessar sites de prefeituras foi consultar informações sobre serviços públicos (76,5%), seguido por acompanhar notícias (41,2%) e procurar contato com a prefeitura (23,5%). Esse dado confirma que os serviços públicos são o principal foco para os usuários, e o site deve priorizar a organização e fácil acesso dessas informações, enquanto também considera a inclusão de seções de notícias e canais de comunicação.
+
+**Razões para Não Acessar Sites de Prefeituras**  
+<p style={{ textAlign: 'center', fontSize: '17px' }}><b>Figura 11</b> - Gráfico em Barra de Razões para Não Acessar</p>
+<center>
+    ![gráfico em pizza - motivos de não acessar](../analise-de-requisitos/assets/grafico-barra-nunca-acessou.jfif)
+</center>
+<p style={{ textAlign: 'center', fontSize: '17px' }}>Autores: [Paulo Henrique](https://github.com/paulomh) e [Weverton Rodrigues](https://github.com/vevetin) | Fonte: Google Forms, 2024</p>
+
+Para 37,5% dos respondentes que nunca acessaram sites de prefeituras, o motivo principal foi desconhecimento da existência desses sites. Esse dado sugere que há uma necessidade de melhorar a divulgação e promover maior conscientização sobre os serviços online oferecidos pelas prefeituras, algo que não havia sido plenamente considerado na análise preliminar.
+
+**Sugestões de Melhoria para Sites de Prefeituras**  
+As sugestões mais comuns incluem melhorias na estrutura organizacional das páginas, maior acessibilidade e intuitividade no design, estabilidade e velocidade aprimoradas, além de atualizações constantes de informações relevantes. Essas sugestões alinham-se com as expectativas iniciais de que os sites precisam ser mais fáceis de usar e acessíveis. A crítica à estrutura organizacional e à necessidade de informações atualizadas reforçam a importância de um design claro, funcional e constantemente renovado.
+
+## Conclusão
 
 
 
@@ -175,3 +258,4 @@ Segundo a ferramenta Semrush, o site da Prefeitura Municipal de Nova Iorque rece
 | 1.0 | 18/11/2024 | [Weverton Rodrigues](https://github.com/vevetin) | criação do documento | | |
 | 1.1 | 20/11/2024 | [Paulo Henrique](https://github.com/paulomh), [Weverton Rodrigues](https://github.com/vevetin) | atualização do documento | | |
 | 1.2 | 24/11/2024 | [Weverton Rodrigues](https://github.com/vevetin) | atualização da metodologia e inclusão do questionário |  |
+| 1.3 | 26/11/2024 | [Paulo Henrique](https://github.com/paulomh), [Weverton Rodrigues](https://github.com/vevetin) | adicionado resultados do questionário | | |

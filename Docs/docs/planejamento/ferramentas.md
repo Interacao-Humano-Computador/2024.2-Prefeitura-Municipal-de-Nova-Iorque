@@ -24,7 +24,8 @@ Esta seção tem como objetivo apresentar as ferramentas que serão utilizadas a
 | ![Google Docs](../planejamento/assets/google-docs.svg) | Google Docs | Elaboração de documentos para entrega externa do repositório.<sup>6</sup> |
 | ![Docusaurus](../planejamento/assets/docusaurus.svg) | Docusaurus | Utilizado para criação da página de documentação do projeto.<sup>7</sup> |
 | ![Draw.io](../planejamento/assets/draw-io.svg) | Draw.io | Elaboração de diagramas.<sup>8</sup> |
-| ![YouTube](../planejamento/assets/youtube.svg) | YouTube | Hospedar as gravações das reuniões e apresentações das etapas.<sup>9</sup> |
+| ![This Person Does Not Exist](../planejamento/assets/tpdne.svg) | This Person Does Not Exist | Geração de imagens de pessoas fictícias para uso sem comprometer a privacidade de indivíduos reais.<sup>9</sup>|
+| ![YouTube](../planejamento/assets/youtube.svg) | YouTube | Hospedar as gravações das reuniões e apresentações das etapas.<sup>10</sup> |
 
 ## Bibliografia
 
@@ -36,7 +37,8 @@ Esta seção tem como objetivo apresentar as ferramentas que serão utilizadas a
 > 6. Google Docs. Disponível em: [https://www.google.com/docs/about/](https://www.google.com/docs/about/). Acesso em: 07 de novembro de 2024.
 > 7. Docusaurus. Disponível em: [https://docusaurus.io/](https://docusaurus.io/). Acesso em: 07 de novembro de 2024.
 > 8. Draw.io. Disponível em: [https://app.diagrams.net/](https://app.diagrams.net/). Acesso em: 07 de novembro de 2024.
-> 9. YouTube. Disponível em: [https://www.youtube.com/](https://www.youtube.com/). Acesso em: 07 de novembro de 2024.
+> 9. This Person Does Not Exist. Disponível em: [https://thispersondoesnotexist.com/](https://thispersondoesnotexist.com/). Acesso em: 22 de novembro de 2024.
+> 10. YouTube. Disponível em: [https://www.youtube.com/](https://www.youtube.com/). Acesso em: 07 de novembro de 2024.
 
 ## Histórico de Versão
 ---
@@ -44,7 +46,4 @@ Esta seção tem como objetivo apresentar as ferramentas que serão utilizadas a
 |:---:|:---:|---|---|:---:|---|
 | 1.0 | 07/11/2024 | [Paulo Henrique](https://github.com/paulomh) | Criação do documento | 09/11/2024 | [Paulo Henrique](https://github.com/paulomh), [Pedro Luiz](https://github.com/pedroluizfo), [Necivaldo Amaral](https://github.com/junioramaral22), [Rodrigo Wendrel](https://github.com/rodwendrel), [Weverton Rodrigues](https://github.com/vevetin)  |
 | 1.1 | 09/11/2024 | [Paulo Henrique](https://github.com/paulomh) | Adição do histórico de versão | 09/11/2024 | [Pedro Luiz](https://github.com/pedroluizfo)  |
-
-
-
-
+| 1.2 | 26/11/2024| [Weverton Rodrigues](https://github.com/vevetin) | Atualização na tabela de ferramentas | 26/11/2024 | [Paulo Henrique](https://github.com/paulomh) |

@@ -16,14 +16,14 @@ Dessa forma, trabalhar com personas permite não apenas criar soluções mais pr
 
 Com base no perfil dos usuários, foram elaborados os perfis das personas, resultando em um conjunto composto por quatro categorias: duas personas primárias, uma secundária e uma antipersona. Essa definição foi realizada em conformidade com o intervalo sugerido por Courage e Baxter, que recomendam um elenco de 3 a 12 personas distintas para garantir diversidade e representatividade no processo de design.
 
-Para fortalecer a identificação e facilitar a empatia da equipe de desenvolvimento com os usuários finais, cada persona foi representada visualmente por meio de imagens geradas na ferramenta This Person Doesn't Exist. Essa abordagem visual complementa a descrição comportamental das personas, promovendo uma conexão mais intuitiva e realista com os perfis definidos.
+Para fortalecer a identificação e facilitar a empatia da equipe de desenvolvimento com os usuários finais, cada persona foi representada visualmente por meio de imagens geradas na ferramenta [This Person Doesn't Exist.](https://thispersondoesnotexist.com/) Essa abordagem visual complementa a descrição comportamental das personas, promovendo uma conexão mais intuitiva e realista com os perfis definidos.
 
 Ao integrar essas representações no processo de design, as personas tornam-se elementos centrais na criação do sistema, direcionando o desenvolvimento das funcionalidades para atender às expectativas e necessidades reais do público-alvo. Dessa forma, contribuem significativamente para a construção de soluções mais eficazes e orientadas ao usuário.
 
 
 ## Elenco de Personas
 
-+ *João Ricardo*
+### João Ricardo
 
 |    |    |
 | :----: | :---------------------: |
@@ -38,10 +38,11 @@ Ao integrar essas representações no processo de design, as personas tornam-se 
 |  Tarefas |  Prepara aulas, corrige atividades, participa de reuniões pedagógicas e busca materiais online para enriquecer o aprendizado dos alunos.  |
 | Expectativas | Um sistema simples e intuitivo que ofereça acesso rápido a informações e materiais relevantes para suas aulas. |
 | Requisitos |  Disponibilizar informações claras sobre eventos educacionais, acesso a materiais didáticos e suporte tecnológico básico.    |
+---
 
 Tabela 1: Primeira persona.
 
-+ *Carmen Lucia*
+### Carmen Lucia
 
 |    |    |
 | :----: | :---------------------: |
@@ -56,15 +57,16 @@ Tabela 1: Primeira persona.
 |  Tarefas |  Participar de reuniões comunitárias, acessar informações de saúde e conferir eventos de lazer em sua cidade.  |
 | Expectativas | Um site fácil de navegar, com recursos de acessibilidade e informações organizadas para atender às suas necessidades. |
 | Requisitos |  Interface acessível para idosos, com letras grandes, boa organização e suporte a leitores de tela.    |
+---
 
 Tabela 2: Segunda persona.
 
-+ **Leonardo Almeida   **
+### Leonardo Almeida
 
 |    |    |
 | :----: | :---------------------: |
 |  Nome  |   Leonardo Almeida     |
-|  Foto  |   ![persona1](../analise-de-requisitos/assets/persona3.png) Imagem:  persona 3 |
+|  Foto  |   ![persona1](../analise-de-requisitos/assets/persona3.png) Imagem: persona 3 |
 | Descrição | Leonardo Almeida, 38 anos, empresário do setor de varejo |
 | Relacionamentos | Sócios, funcionários e contatos da prefeitura local | 
 | Tipo| Persona Secundaria |
@@ -75,6 +77,7 @@ Tabela 2: Segunda persona.
 | Expectativas | Um sistema eficiente que permita acesso rápido e confiável às informações de que necessita para o negócio. |
 | Requisitos |  Disponibilizar licitações organizadas, guias de tributos acessíveis e suporte para busca de regulamentações específicas.    |
 
+---
 Tabela 3: Terceira persona.
 
 ### Antipersona: Carlos Eduardo
@@ -98,9 +101,7 @@ Tabela 4: Antipersona.
 
 
 ## Referências Bibliográficas
-> \- BARBOSA, Simone, et al. Interação Humano-Computador e Experiência do Usuário. Leanpub, 2022. Disponível em: https://leanpub.com/ihc-ux. Acesso em: 18 nov. 2024.
-
-> \- BARBOSA, Simone, et al. Interação Humano-Computador. 1. ed. Rio de Janeiro: Elsevier, 2010. 
+> \- COOPER, Alan; REIMANN, Robert; CRONIN, Dave. About Face 3: The Essentials of Interaction Design. 3. ed. Indianapolis: Wiley Publishing, 2007. Acesso em 28 nov. 2024  p. 104
 
 ## Bibliografia
 > \- COOPER, Alan; REIMANN, Robert; CRONIN, Dave. About Face 3: The Essentials of Interaction Design. 3. ed. Indianapolis: Wiley Publishing, 2007. Acesso em 28 nov. 2024

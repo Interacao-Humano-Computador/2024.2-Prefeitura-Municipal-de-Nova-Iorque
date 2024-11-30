@@ -72,7 +72,7 @@ const config = {
             label: 'Docs',
           },
           {
-            href: 'https://github.com/Interacao-Humano-Computador/2024.2-Grupo06',
+            href: 'https://github.com/Interacao-Humano-Computador/2024.2-Prefeitura-Municipal-de-Nova-Iorque',
             label: 'GitHub',
             position: 'right',
           },

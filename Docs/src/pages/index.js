@@ -30,7 +30,7 @@ function HomepageHeader() {
 }
 
 export default function Home() {
-  return <Redirect to="/2024.2-Grupo06/docs/inicio" />;
+  return <Redirect to="/2024.2-Prefeitura-Municipal-de-Nova-Iorque/docs/inicio" />;
 }
 
 /*

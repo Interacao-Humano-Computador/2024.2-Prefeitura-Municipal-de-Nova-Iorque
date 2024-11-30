@@ -10,44 +10,11 @@ O perfil de usuário é definido como uma descrição detalhada das característ
 
 ## Metodologia
 
-Para a construção do perfil de usuário, adotamos duas abordagens principais: **grupo de foco** e **questionário**. O grupo de foco, conforme descrito por Simone Diniz (2010)<sup>[1](../analise-de-requisitos/perfilDeUsuario.md#referências-bibliográficas)</sup>, foi realizado para entender as percepções, experiências e expectativas dos usuários em relação ao site da Prefeitura Municipal de Nova Iorque.
-
-Além disso, um questionário online foi elaborado com o objetivo de alcançar uma amostra maior, considerando usuários de sites de prefeituras em todo o Brasil. As questões do questionário abordaram aspectos como usabilidade, acessibilidade e sugestões de melhorias, complementando as informações obtidas no grupo de foco.
-
-Para enriquecer a análise, também foram utilizados dados demográficos do IBGE e informações sobre tráfego no site, obtidas por meio da ferramenta Semrush, que ajudaram a compreender melhor o perfil e o comportamento dos usuários.
-
-## Grupo de Foco
-
-A técnica de grupo de foco foi adotada para construir o perfil de usuário deste projeto, com o objetivo de identificar necessidades, percepções e expectativas dos usuários do site da Prefeitura Municipal de Nova Iorque. Essa abordagem facilita discussões em grupo sobre temas específicos, permitindo a coleta de dados qualitativos sobre usabilidade, funcionalidades e desafios enfrentados pelos usuários.  
-Embora seja uma técnica qualitativa, também é possível extrair dados quantitativos ao combinar perguntas objetivas e estruturadas, ajudando a identificar padrões como a frequência de uso e as funcionalidades mais valorizadas.
-
-### Adaptações para o contexto do projeto
-
-**Foco nas perguntas sobre o uso do site:** As sessões foram direcionadas para questões que abordam direramente a navegação no site da Prefeitura Municipal de Nova Iorque, buscando entender as experiências dos usuários em relação à usabilidade, funcionalidades, dificuldades encontradas e áreas que necessitam de melhorias.
-
-**Uso de dados pré-existentes para orientar as discussões:** Para contextualizar as respostas e otimizar as discussões, foram utilizados dados demográficos e de uso da internet obtidos pelo IBGE e pela ferramenta Semrush. Esses dados ajudaram a entender melhor o perfil do público-alvo, como faixa etária, nível educacional e acesso à tecnologia, e a guiar as discussões em temas mais relevantes para os usuários.
-
-**Estratégia de recrutamento direcionada:** O público-alvo do site da Prefeitura de Nova Iorque é específico, por isso a seleção dos participantes foi feita de forma cuidadosa, incluindo cidadãos locais que utilizam regularmente o site. Os participantes foram escolhidos para refletir a diversidade do público, levando em consideração variáveis como idade, cargo e frequência de acesso ao site.
-
-**Aproveitamento do tempo limitado:** As sessões de grupos de foco foram planejadas para durar entre 30 a 40 minutos, um tempo eficiente para obter informações tanto qualitativas quanto quantitativas. Durante esse período, os participantes responderiam a perguntas abertas e fechadas, permitindo uma coleta de dados abrangente. Além disso, a realização das sessões por videoconferência possibilitou a participação de pessoas de diferentes localizações, ampliando a diversidade de opiniões.
-
-**Garantia de anonimato e ética:** De acordo com as orientações éticas, todas as entrevistas foram conduzidas com o consentimento informado dos participantes. A privacidade e o anonimato foram garantidos, assegurando que os participantes se sentissem confortáveis para compartilhar suas opiniões e experiências de forma livre e sem receio de identificação.
-
-### Vantagens e Desvantagens
-
-**Vantagens:**
-- **Coleta eficiente de dados qualitativos:** Permite a obtenção de informações detalhadas em um curto período de tempo, reunindo diferentes perspectivas de um grupo representativo.
-- **Discussões dinâmicas:** A interação entre os participantes gera insights profundos e novas ideias, podendo revelar aspectos não antecipados.
-- **Adequação para públicos específicos:** A técnica permite selecionar participantes com características bem definidas, como no caso dos usuários do site da Prefeitura, assegurando que os dados coletados sejam relevantes para o público-alvo.
-
-**Desvantagens:**
-- **Dificuldade em generalizar os resultados:** Como é uma técnica qualitativa, os dados coletados não são representativos da totalidade dos usuários, mas refletem as experiências de um grupo específico.
-- **Dependência da interação entre participantes:** A dinâmica do grupo pode influenciar as respostas, com participantes mais extrovertidos ou influentes podendo dominar a discussão.
-- **Necessidade de moderação qualificada:** O sucesso da técnica depende de um moderador que consiga equilibrar a participação, garantindo que todos os participantes tenham a oportunidade de expressar suas opiniões sem interferir nas respostas.
+A construção do perfil de usuário foi realizada por meio de duas abordagens principais: o **questionário online** e a **análise documental**. O questionário foi elaborado com o objetivo de obter dados quantitativos sobre a experiência de usuários de sites de prefeituras em todo o Brasil, abordando aspectos como usabilidade, acessibilidade e sugestões de melhorias. Esta ferramenta permitiu coletar informações diretas e representativas sobre a interação dos usuários com sistemas municipais, proporcionando uma visão geral das necessidades e expectativas. Complementando essa abordagem, a análise documental foi conduzida com base na revisão de fontes institucionais e confiáveis, como páginas de órgãos governamentais, que fornecem informações sobre o público-alvo e suas características. A análise dessas fontes contribuiu para a compreensão dos padrões de comportamento e das necessidades dos usuários de sistemas governamentais, permitindo um aprofundamento na identificação de grupos com perfis semelhantes. Ambas as abordagens, aliadas, possibilitaram uma visão abrangente e detalhada do perfil dos usuários, essencial para informar e direcionar o desenvolvimento do sistema.
 
 ## Questionário
 
-Além dos grupos de foco, foi adotada a utilização de um **questionário online** com o objetivo de alcançar uma amostra mais ampla de usuários de sites de prefeituras em geral. O questionário foi projetado para coletar dados quantitativos sobre a experiência de navegação, usabilidade e acessibilidade de sites municipais, permitindo identificar padrões de comportamento, como frequência de acesso e preferências de funcionalidades. Essa abordagem visa complementar os resultados dos grupos de foco, oferecendo uma visão mais abrangente do perfil de usuários de sites de prefeituras, independentemente de sua localidade.
+Com o objetivo de alcançar uma amostra ampla de usuários de sites de prefeituras em geral, utilizamos um **questionário online** como principal ferramenta de coleta de dados. O questionário foi projetado para coletar informações quantitativas sobre a experiência de navegação, usabilidade e acessibilidade de sites municipais. Essa abordagem permitiu identificar padrões de comportamento, como frequência de acesso e preferências de funcionalidades, oferecendo uma visão abrangente do perfil de usuários de sites de prefeituras, independentemente de sua localidade.
 
 ### Estrutura do Questionário
 
@@ -128,31 +95,50 @@ _Fonte: Adaptado por [Paulo Henrique](https://github.com/paulomh) e [Weverton Ro
 - **Baixa taxa de resposta**: Pode ocorrer uma baixa taxa de respostas, principalmente por parte de usuários com menos familiaridade com tecnologia.
 - **Limitação nas respostas**: Embora o questionário permita coletar dados objetivos, ele não captura a profundidade de uma experiência de usuário como os grupos de foco.
 
+## Análise Documental
+
+A análise documental teve como objetivo compreender o público-alvo e os potenciais usuários de sites governamentais, incluindo o site da Prefeitura Municipal de Nova Iorque. Essa abordagem permitiu identificar padrões de comportamento, necessidades e interesses, por meio de uma investigação em fontes externas relevantes, como sites institucionais e dados demográficos.
+
+### Abordagem Documental
+
+A análise foi realizada com base em documentos e informações provenientes de sites institucionais confiáveis, como a Controladoria Geral do Município de São Paulo e o gov.br. A escolha dessas fontes considerou a representatividade de públicos semelhantes aos do site da Prefeitura de Nova Iorque, permitindo inferências úteis para a construção do perfil de usuários. A partir dessas fontes, foi possível identificar os principais grupos de usuários e suas necessidades, além de analisar dados demográficos e de tráfego para direcionar o desenvolvimento do sistema.
+
+### Vantagens e Desvantagens
+
+**Vantagens:**
+- **Fontes confiáveis**: Utilizar informações já validadas por órgãos institucionais aumenta a credibilidade dos dados coletados.
+- **Escalabilidade**: Permite identificar tendências e padrões que podem ser aplicados a outras prefeituras, não se limitando ao caso de Nova Iorque.
+- **Facilidade de acesso**: Dados documentais estão disponíveis online e são acessíveis em qualquer momento, agilizando o processo.
+
+**Desvantagens:**
+- **Limitação de contexto local**: As informações consultadas são generalistas e podem não refletir totalmente as particularidades de Nova Iorque.
+- **Falta de interatividade com usuários reais**: Não há possibilidade de validar ou aprofundar os dados com a perspectiva direta dos usuários.
+
 ## Resultados Coletados
 
-### Dados demográficos do IBGE
+### Resultados da Análise Documental
 
-Com base nos dados demográficos obtidos pelo IBGE, foi possível entender o perfil demográfico da população de Nova Iorque. A Figura 1 mostra a distribuição etária, evidenciando que a maior parte da população se concentra nas faixas etárias de **20 a 44 anos** e **60 anos ou mais**. Esses grupos são essenciais para compreender o comportamento do público-alvo do site da Prefeitura, pois representam tanto a população jovem-adulta, mais familiarizada com a tecnologia, quanto a população idosa, que pode ter necessidades específicas em termos de acesso e usabilidade.
+A investigação nas fontes externas trouxe informações valiosas sobre o público-alvo de sites governamentais, as quais podem ser aplicadas ao site da Prefeitura de Nova Iorque. De acordo com os dados do site da Controladoria Geral do Município de São Paulo, os principais usuários incluem gestores públicos, como prefeitos e secretários municipais, além de ouvidores, trabalhadores de ouvidorias, movimentos sociais e conselhos de participação social. No portal gov.br, os serviços atendem a uma variedade de públicos, como cidadãos, ONGs, empresas, órgãos públicos e servidores.
+
+**Dados demográficos do IBGE**  
+
+Com base nos dados do IBGE, foi possível analisar o perfil demográfico da população de Nova Iorque. A pirâmide etária (Figura 1) mostra que a maioria da população se concentra nas faixas etárias de **20 a 44 anos** e **60 anos ou mais**. Esses grupos são cruciais para entender as necessidades tecnológicas dos usuários, considerando que a população jovem tende a ter maior familiaridade com a tecnologia, enquanto a faixa etária mais idosa pode necessitar de ajustes na usabilidade e acessibilidade do site.
 
 <p style={{ textAlign: 'center', fontSize: '17px' }}><b>Figura 1</b> - Pirâmide Etária da população de Nova Iorque</p>
 ![Pirâmide Etária de Nova Iorque (MA)](../analise-de-requisitos/assets/piramide-etaria.jfif)
 <p style={{ textAlign: 'center', fontSize: '17px' }}>Autor: [Weverton Rodrigues](https://github.com/vevetin) | Fonte: IBGE, 2022</p>
 
-### Análise de tráfego do Semrush
+**Análise de tráfego do Semrush**  
 
-Segundo a ferramenta Semrush, o site da Prefeitura Municipal de Nova Iorque recebeu um tráfego orgânico estimado em **891 acessos mensais** no período de 23 de outubro a 17 de novembro de 2024 (Figura 2). Esse dado reflete a relevância do site nos mecanismos de busca, evidenciando a importância de melhorar sua experiência de uso para atender ao público existente.
+A ferramenta Semrush indicou que o site da Prefeitura Municipal de Nova Iorque recebeu um tráfego orgânico estimado de **891 acessos mensais** no período de 23 de outubro a 17 de novembro de 2024 (Figura 2). Esse dado reflete a relevância do site nos motores de busca e evidencia a importância de melhorar sua usabilidade e interação, com foco em um design mais acessível e intuitivo.
 
 <p style={{ textAlign: 'center', fontSize: '17px' }}><b>Figura 2</b> - Tráfego orgânico mensal do site da Prefeitura Municipal de Nova Iorque</p>
 ![Tráfego Orgânico do site da Prefeitura Municipal de Nova Iorque](../analise-de-requisitos/assets/trafego-organico.jfif)
 <p style={{ textAlign: 'center', fontSize: '17px' }}>Autor: [Weverton Rodrigues](https://github.com/vevetin) | Fonte: Semrush, 2024</p>
 
-### Resultados do Grupo de Foco
-
-
-
 ### Resultados do Questionário
 
-Os resultados do questionário fornecem insights valiosos sobre as preferências e características do público em relação ao uso de sites de prefeituras, os quais podem ser comparados com as expectativas preliminares. A seguir, apresentamos uma análise detalhada dos dados coletados:
+O questionário realizado proporcionou informações detalhadas sobre o público de sites de prefeituras, ajudando a validar as expectativas iniciais. A seguir, destacam-se alguns dos principais resultados obtidos:
 
 **Faixa Etária dos Respondentes**  
 <p style={{ textAlign: 'center', fontSize: '17px' }}><b>Figura 3</b> - Gráfico em Pizza da Faixa Etária</p>
@@ -161,7 +147,7 @@ Os resultados do questionário fornecem insights valiosos sobre as preferências
 </center>
 <p style={{ textAlign: 'center', fontSize: '17px' }}>Autores: [Paulo Henrique](https://github.com/paulomh) e [Weverton Rodrigues](https://github.com/vevetin) | Fonte: Google Forms, 2024</p>
 
-A maioria dos respondentes (57,9%) pertence à faixa etária de 18 a 24 anos, um público jovem, sugerindo uma maior familiaridade com tecnologia. Outros grupos significativos incluem os de 35 a 44 anos (15,8%) e 45 a 54 anos (10,5%). Este perfil etário alinha-se com a expectativa preliminar de que os usuários mais jovens provavelmente dominam o acesso a tecnologias e websites, mas também há uma presença expressiva de faixas etárias que exigem consideração na criação de um design acessível para diversos perfis.
+A maioria dos participantes (57,9%) tem entre 18 e 24 anos, o que sugere um público jovem, geralmente mais familiarizado com tecnologia. No entanto, também há uma presença significativa de outras faixas etárias (Figura 3).
 
 **Gênero dos Respondentes**  
 <p style={{ textAlign: 'center', fontSize: '17px' }}><b>Figura 4</b> - Gráfico em Pizza de Gênero</p>
@@ -170,7 +156,7 @@ A maioria dos respondentes (57,9%) pertence à faixa etária de 18 a 24 anos, um
 </center>
 <p style={{ textAlign: 'center', fontSize: '17px' }}>Autores: [Paulo Henrique](https://github.com/paulomh) e [Weverton Rodrigues](https://github.com/vevetin) | Fonte: Google Forms, 2024</p>
 
-O público masculino predominou (68,4%), o que pode impactar decisões de design e campanhas direcionadas. Embora a diferença não seja extrema, essa informação é relevante para ajustes no conteúdo e estilo do site, garantindo que se atenda de maneira equilibrada aos diferentes grupos de usuários.
+A maioria dos respondentes (68,4%) é do gênero masculino (Figura 4), o que pode influenciar o design e as campanhas voltadas para o público do site.
 
 **Nível de Familiaridade com Tecnologia**  
 <p style={{ textAlign: 'center', fontSize: '17px' }}><b>Figura 5</b> - Gráfico em Pizza de Nível de Familiaridade com Tecnologia</p>
@@ -179,7 +165,7 @@ O público masculino predominou (68,4%), o que pode impactar decisões de design
 </center>
 <p style={{ textAlign: 'center', fontSize: '17px' }}>Autores: [Paulo Henrique](https://github.com/paulomh) e [Weverton Rodrigues](https://github.com/vevetin) | Fonte: Google Forms, 2024</p>
 
-Observamos uma divisão entre os usuários: 42,1% se consideram com experiência básica, enquanto 42,1% têm experiência avançada. Isso indica que o site deve ser acessível tanto para iniciantes quanto para usuários mais experientes, um ponto que também estava presente nas expectativas iniciais. O site deve, portanto, combinar funcionalidades simples com opções avançadas, criando uma interface intuitiva e eficiente para ambos os grupos.
+A divisão entre usuários com familiaridade básica e avançada com tecnologia (42,1% para cada grupo) indica que o site precisa ser acessível tanto para iniciantes quanto para usuários experientes (Figura 5).
 
 **Experiência com Sites de Prefeituras**  
 <p style={{ textAlign: 'center', fontSize: '17px' }}><b>Figura 6</b> - Gráfico em Pizza de Experiência com Sites de Prefeituras</p>
@@ -188,7 +174,7 @@ Observamos uma divisão entre os usuários: 42,1% se consideram com experiência
 </center>
 <p style={{ textAlign: 'center', fontSize: '17px' }}>Autores: [Paulo Henrique](https://github.com/paulomh) e [Weverton Rodrigues](https://github.com/vevetin) | Fonte: Google Forms, 2024</p>
  
-A grande maioria dos participantes (78,9%) já acessou um site de prefeitura, o que valida a relevância do questionário para esse público familiarizado com o serviço. No entanto, 21% dos respondentes nunca acessaram um site de prefeitura, o que sugere que há uma lacuna de conhecimento ou uma percepção de que as prefeituras não são comumente acessadas online. Esse dado contrasta com a expectativa preliminar, que assumia uma maior familiaridade com o serviço.
+A maioria dos respondentes (78,9%) já acessou um site de prefeitura, validando a relevância do estudo, embora 21% nunca tenham acessado (Figura 6).
 
 **Frequência de Acesso aos Sites de Prefeituras**  
 <p style={{ textAlign: 'center', fontSize: '17px' }}><b>Figura 7</b> - Gráfico em Pizza de Frequência de Acesso</p>
@@ -197,7 +183,7 @@ A grande maioria dos participantes (78,9%) já acessou um site de prefeitura, o 
 </center>
 <p style={{ textAlign: 'center', fontSize: '17px' }}>Autores: [Paulo Henrique](https://github.com/paulomh) e [Weverton Rodrigues](https://github.com/vevetin) | Fonte: Google Forms, 2024</p>
 
-A maioria dos respondentes (58,8%) acessa sites de prefeituras raramente, o que reflete uma utilização esporádica, geralmente quando há uma necessidade específica. Isso sugere que o design do site deve facilitar o acesso rápido a informações essenciais, uma vez que os usuários não visitam com frequência.
+A maioria dos participantes (58,8%) acessa sites de prefeituras raramente, o que indica a necessidade de facilitar o acesso rápido a informações essenciais (Figura 7).
 
 **Dispositivos Utilizados para Acesso**  
 <p style={{ textAlign: 'center', fontSize: '17px' }}><b>Figura 8</b> - Gráfico em Barra dos Dispositivos Utilizados</p>
@@ -206,7 +192,7 @@ A maioria dos respondentes (58,8%) acessa sites de prefeituras raramente, o que 
 </center>
 <p style={{ textAlign: 'center', fontSize: '17px' }}>Autores: [Paulo Henrique](https://github.com/paulomh) e [Weverton Rodrigues](https://github.com/vevetin) | Fonte: Google Forms, 2024</p>
 
-A predominância de acessos via celular (82,4%) e computador (76,5%) reforça a importância de garantir que o site seja responsivo e eficiente em ambos os dispositivos. Esta tendência confirma a expectativa preliminar de que dispositivos móveis são essenciais, mas também destaca a necessidade de garantir uma experiência otimizada para os usuários de desktop.
+A predominância de acessos via celular (82,4%) reforça a necessidade de um design responsivo (Figura 8).
 
 **Acessibilidade dos Sites de Prefeituras**  
 <p style={{ textAlign: 'center', fontSize: '17px' }}><b>Figura 9</b> - Gráfico em Pizza de Acessibilidade dos Sites de Prefeituras</p>
@@ -215,7 +201,7 @@ A predominância de acessos via celular (82,4%) e computador (76,5%) reforça a 
 </center>
 <p style={{ textAlign: 'center', fontSize: '17px' }}>Autores: [Paulo Henrique](https://github.com/paulomh) e [Weverton Rodrigues](https://github.com/vevetin) | Fonte: Google Forms, 2024</p>
 
-A maior parte dos respondentes (58,8%) considera que os sites de prefeituras não são acessíveis para diferentes públicos, como idosos e pessoas com deficiência. Este dado revela uma oportunidade de melhoria significativa na acessibilidade, alinhando-se com a percepção de que os sites precisam ser mais inclusivos. Recursos como leitores de tela, navegação simplificada e contraste adequado são necessários para garantir uma experiência acessível para todos os usuários.
+A maioria dos respondentes (58,8%) considera que os sites de prefeituras não são acessíveis para todos os públicos, destacando a necessidade de melhorias nesse aspecto (Figura 9).
 
 **Motivos para Acessar Sites de Prefeituras**  
 <p style={{ textAlign: 'center', fontSize: '17px' }}><b>Figura 10</b> - Gráfico em Barra de Motivos para Acessar</p>
@@ -223,7 +209,8 @@ A maior parte dos respondentes (58,8%) considera que os sites de prefeituras nã
     ![gráfico em pizza - motivos para acessar](../analise-de-requisitos/assets/grafico-barra-motivacao.jfif)
 </center>
 <p style={{ textAlign: 'center', fontSize: '17px' }}>Autores: [Paulo Henrique](https://github.com/paulomh) e [Weverton Rodrigues](https://github.com/vevetin) | Fonte: Google Forms, 2024</p>
-O principal motivo citado para acessar sites de prefeituras foi consultar informações sobre serviços públicos (76,5%), seguido por acompanhar notícias (41,2%) e procurar contato com a prefeitura (23,5%). Esse dado confirma que os serviços públicos são o principal foco para os usuários, e o site deve priorizar a organização e fácil acesso dessas informações, enquanto também considera a inclusão de seções de notícias e canais de comunicação.
+
+A consulta a informações sobre serviços públicos foi o principal motivo citado pelos usuários, sugerindo que o site deve priorizar essas funcionalidades (Figura 10).
 
 **Razões para Não Acessar Sites de Prefeituras**  
 <p style={{ textAlign: 'center', fontSize: '17px' }}><b>Figura 11</b> - Gráfico em Barra de Razões para Não Acessar</p>
@@ -232,22 +219,38 @@ O principal motivo citado para acessar sites de prefeituras foi consultar inform
 </center>
 <p style={{ textAlign: 'center', fontSize: '17px' }}>Autores: [Paulo Henrique](https://github.com/paulomh) e [Weverton Rodrigues](https://github.com/vevetin) | Fonte: Google Forms, 2024</p>
 
-Para 37,5% dos respondentes que nunca acessaram sites de prefeituras, o motivo principal foi desconhecimento da existência desses sites. Esse dado sugere que há uma necessidade de melhorar a divulgação e promover maior conscientização sobre os serviços online oferecidos pelas prefeituras, algo que não havia sido plenamente considerado na análise preliminar.
+A falta de conhecimento sobre a existência de sites de prefeituras foi o principal motivo para não acessar, o que aponta a necessidade de aumentar a divulgação desses serviços (Figura 11).
 
-**Sugestões de Melhoria para Sites de Prefeituras**  
-As sugestões mais comuns incluem melhorias na estrutura organizacional das páginas, maior acessibilidade e intuitividade no design, estabilidade e velocidade aprimoradas, além de atualizações constantes de informações relevantes. Essas sugestões alinham-se com as expectativas iniciais de que os sites precisam ser mais fáceis de usar e acessíveis. A crítica à estrutura organizacional e à necessidade de informações atualizadas reforçam a importância de um design claro, funcional e constantemente renovado.
+**Sugestões de Melhoria**  
+Os respondentes sugeriram melhorias na organização, acessibilidade, design intuitivo, velocidade e atualização constante das informações, alinhando-se com as expectativas iniciais de facilitar o uso e melhorar a inclusão.
 
 ## Conclusão
 
+Com base nos resultados do questionário e da análise documental, o público-alvo do site da Prefeitura Municipal de Nova Iorque pode ser definido de forma abrangente, considerando os diversos perfis de usuários que interagem com plataformas governamentais. O público é composto principalmente por:
+
+- Cidadãos em Geral (faixa etária predominante: 18 a 60 anos): Representam a maior parte dos usuários, com grande diversidade de faixas etárias, sendo especialmente importante considerar tanto a juventude conectada, que utiliza frequentemente o site em busca de informações e serviços, quanto a população idosa (acima de 60 anos), que pode enfrentar dificuldades em navegar por interfaces não intuitivas. Para este grupo, a acessibilidade e a facilidade de navegação são fundamentais. A faixa etária entre 30 a 45 anos tende a ser a mais ativa em interações com o site, buscando serviços como pagamento de impostos, consulta a informações públicas e serviços municipais.
+
+- Movimentos Sociais e Organizações Comunitárias (faixa etária predominante: 20 a 50 anos): Estes usuários, em sua maioria adultos jovens e de meia-idade, buscam informações sobre serviços públicos, políticas e programas que atendem à comunidade. Para eles, a clareza das informações, a disponibilidade de dados atualizados e a facilidade de acesso aos serviços são aspectos essenciais.
+
+- Profissionais de Setores Públicos e Privados (faixa etária predominante: 25 a 55 anos): Técnicos, empresários e profissionais que necessitam acessar informações relacionadas a regulamentações, projetos e serviços da Prefeitura. Este público demanda um site funcional e rápido, com conteúdo estruturado e fácil de encontrar.
+
+- Usuários com Necessidades Especiais (faixa etária variada): Embora não tão amplamente representados no questionário, a análise indica que uma parcela significativa da população pode ter limitações de acessibilidade. Este grupo, composto por usuários de todas as idades, precisa de recursos como texto alternativo para imagens, navegação simplificada e adaptação a tecnologias assistivas.
+
+Em termos de comportamento de uso, o público acessa o site principalmente por dispositivos móveis, o que reforça a necessidade de um design responsivo e otimizado para garantir uma navegação eficiente, independentemente do dispositivo utilizado. Além disso, os acessos tendem a ser pontuais, indicando que os usuários buscam informações específicas e necessitam de uma navegação intuitiva que permita localizá-las rapidamente.
+
+Portanto, o público-alvo do site da Prefeitura Municipal de Nova Iorque é heterogêneo, composto por cidadãos de diferentes faixas etárias, incluindo jovens, adultos e idosos, além de profissionais do setor público e privado, movimentos sociais e usuários com necessidades especiais. A estrutura do site deve ser inclusiva, acessível e prática, atendendo às expectativas e necessidades de cada um desses grupos, com foco em usabilidade, clareza de informações e otimização para dispositivos móveis.
 
 
-## Referências Bibliográficas
+## Bibliografia
 > \- BARBOSA, Simone, et al. Interação Humano-Computador e Experiência do Usuário. Leanpub, 2022. Disponível em: https://leanpub.com/ihc-ux. Acesso em: 18 nov. 2024.
 
 > \- BARBOSA, Simone, et al. Interação Humano-Computador. 1. ed. Rio de Janeiro: Elsevier, 2010. 
 
-## Bibliografia
+> \- BRASIL. Governo Federal. Serviços e Informações do Brasil. Disponível em: https://www.gov.br/pt-br/servicos/servicos-por-publico-alvo. Acesso em: 27 nov. 2024.
+
 > \- BRASIL. IBGE - Instituto Brasileiro de Geografia e Estatística. Panorama de Nova Iorque (MA). Cidades@IBGE. Disponível em: https://cidades.ibge.gov.br/brasil/ma/nova-iorque/panorama. Acesso em: 19 nov. 2024.
+
+> \- BRASIL. São Paulo (SP). Caravanas das Ouvidorias. Controladoria Geral do Município. Disponível em: https://capital.sp.gov.br/web/controladoria_geral/w/caravanas_das_ouvidorias/154568. Acesso em: 27 nov. 2024.
 
 > \- SEMrush. SEMrush. Disponível em: https://pt.semrush.com. Acesso em: 20 nov. 2024.
 
@@ -259,3 +262,4 @@ As sugestões mais comuns incluem melhorias na estrutura organizacional das pág
 | 1.1 | 20/11/2024 | [Paulo Henrique](https://github.com/paulomh), [Weverton Rodrigues](https://github.com/vevetin) | atualização do documento | | |
 | 1.2 | 24/11/2024 | [Weverton Rodrigues](https://github.com/vevetin) | atualização da metodologia e inclusão do questionário |  |
 | 1.3 | 26/11/2024 | [Paulo Henrique](https://github.com/paulomh), [Weverton Rodrigues](https://github.com/vevetin) | adicionado resultados do questionário | | |
+| 1.4 | 27/11/2024 | [Weverton Rodrigues](https://github.com/vevetin) | ajustes finais no conteúdo | | |

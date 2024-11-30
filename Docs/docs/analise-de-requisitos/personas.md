@@ -67,7 +67,7 @@ Tabela 2: Segunda persona.
 | :----: | :---------------------: |
 |  Nome  |   Leonardo Almeida     |
 |  Foto  |   ![persona1](../analise-de-requisitos/assets/persona3.png) Imagem: persona 3 |
-| Descrição | Leonardo Almeida, 38 anos, empresário do setor de varejo |
+| Descrição | Leonardo Almeida, 60 anos, empresário do setor de varejo |
 | Relacionamentos | Sócios, funcionários e contatos da prefeitura local | 
 | Tipo| Persona Secundaria |
 | Informações | Leonardo é dono de uma loja de roupas e precisa acessar informações sobre tributos, licitações e regulamentações para manter seu negócio em conformidade. Ele é focado em resultados e valoriza a praticidade. Seu dia a dia é corrido, dividido entre gerenciar a equipe, atender clientes e acompanhar as finanças da empresa.|

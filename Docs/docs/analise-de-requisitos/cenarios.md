@@ -69,6 +69,26 @@ A combinação desses dois modelos resultou em uma estrutura abrangente, que inc
   </TabItem>
 </Tabs>
 
+<Tabs>
+  <TabItem value="C01" label="Cenário 02" default>
+    <p style={{ textAlign: 'center', fontSize: '20px' }}><b>Tabela 2</b> - Cenário: Consulta e Download de Editais de Licitação para Leonardo Almeida</p>
+
+        |Elemento| Descrição |                     
+        |:---:|---|
+        | Objetivo |Leonardo deseja acessar rapidamente editais de licitação relevantes ao setor de varejo para identificar oportunidades de fornecimento de uniformes para uma instituição pública local.|
+        | Contexto/Ambiente | Leonardo está em seu escritório, usando um computador com acesso à internet. Ele acessa o site oficial da prefeitura de Nova Iorque-MA durante uma pausa entre reuniões com sua equipe. |
+        | Recursos | - Computador com acesso à internet;<br/>- Site da prefeitura (seção de licitações e contratos)|
+        | Ator(es)    | 		Leonardo Almeida, empresário do setor de varejo, com habilidades intermediárias em tecnologia e conhecimento básico sobre licitações.                                        |
+        | Episódios/Planejamento | 1. Leonardo abre o navegador e acessa o site da prefeitura.;<br/>2. Ele procura pela seção de licitações e editais;<br/>3. Identifica os documentos relacionados a fornecimento de bens ou serviços para sua área.<br/>4. Utiliza dos filtros disponiveis para buscar o edital desejado<br/>5. Realiza o download dos arquivos selecionados para análise detalhada. <br/>  |
+        | Ações | - Acessa o site oficial (https://www.novaiorque.ma.gov.br/);<br/>- Navega pelo menu principal até localizar "Licitações e Contratos";<br/>- Filtra os editais por data ou categoria. <br/>- Clica em um botão de download para salvar os arquivos em PDF no computador. |
+        | Eventos | -Leonardo encontra uma lista de editais com descrições.;<br/>- Leonardo encontra um edital relevante e consegue realizar o download.;<br/>- O edital é armazenado no dispositivo de Leonardo.|
+        | Restrições| - O sistema deve ser responsivo e acessível, permitindo ajustes de tamanho de fonte e alto contraste;<br/>- A conexão com o site pode prejudicar o download do edital; <br/> Editais podem estar organizados de maneira confusa ou em formatos não compatíveis com os softwares que Leonardo utiliza.|
+        | Exceção | -  O site pode estar fora do ar ou apresentar erro ao acessar a seção de licitações.;<br/>- O edital pode não conter informações claras ou estar com links quebrados para download;<br/>|
+        | Avaliação | Leonardo confirma o sucesso da interação ao verificar que os editais foram baixados corretamente e contêm informações claras sobre as condições e prazos da licitação. |
+
+   <p style={{ textAlign: 'center', fontSize: '17px' }}>Autor: [Necivaldo Amaral](https://github.com/junioramaral22)</p>
+  </TabItem>
+</Tabs>
 
 # Referência Bibliográfica
 > \- BARBOSA, Simone, et al. Interação Humano-Computador. 1. ed. Rio de Janeiro: Elsevier, 2010. 
@@ -87,3 +107,4 @@ A combinação desses dois modelos resultou em uma estrutura abrangente, que inc
 | Versão | Data | Autor(es) | Descrição | Data de Revisão | Revisor(es) |
 |:---:|:---:|---|---|:---:|---|
 | 1.0 | 30/11/2024 | [Weverton Rodrigues](https://github.com/vevetin) | criação do documento | | |
+| 1.1 | 30/11/2024 | [Necivaldo Amaral](https://github.com/junioramaral22) | Adição de cenários ao documento  | | |

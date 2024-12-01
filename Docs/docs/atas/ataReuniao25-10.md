@@ -1,3 +1,7 @@
+---
+sidebar_position: 1
+---
+
 # Ata da reunião do dia 25/10/2024
 
 ## <a>1. Data, Horário, Duração e Local</a>

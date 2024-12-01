@@ -67,9 +67,6 @@ A combinação desses dois modelos resultou em uma estrutura abrangente, que inc
 
    <p style={{ textAlign: 'center', fontSize: '17px' }}>Autor: [Weverton Rodrigues](https://github.com/vevetin)</p>
   </TabItem>
-</Tabs>
-
-<Tabs>
   <TabItem value="C02" label="Cenário 02" default>
     <p style={{ textAlign: 'center', fontSize: '20px' }}><b>Tabela 3</b> - Cenário: Consulta e Download de Editais de Licitação para Leonardo Almeida</p>
 
@@ -88,27 +85,41 @@ A combinação desses dois modelos resultou em uma estrutura abrangente, que inc
 
    <p style={{ textAlign: 'center', fontSize: '17px' }}>Autor: [Necivaldo Amaral](https://github.com/junioramaral22)</p>
   </TabItem>
-</Tabs>
-
-
-<Tabs>
   <TabItem value="C03" label="Cenário 03" default>
     <p style={{ textAlign: 'center', fontSize: '20px' }}><b>Tabela 4</b> - Cenário de reclamação sobre coleta de lixo para João Da Silva</p>
 
-| Elemento | Descrição |
-|:---:|---|
-| Objetivo | Facilitar o uso do canal eletrônico de ouvidoria pelos cidadãos para registrar elogios, reclamações, solicitações, sugestões e denúncias.                                                                         |
-| Contexto/Ambiente | O site da prefeitura apresenta uma interface pouco informativa e recursos mal localizados. A [ouvidoria digital](https://www.administracaopublica.com.br/ouvidoria?token=4f1cf16edf5d73feaad4fec2a03c7c9e1cf536aa) não conta com campos informativos para orientar um usuário em como as solicitações devem ser feitas, a parte de [perguntas e respostas](https://www.administracaopublica.com.br/ouvidoria/acompanhamento?token=4f1cf16edf5d73feaad4fec2a03c7c9e1cf536aa[) e pouco abrangente e muito geral, a página ["Fale Conosco"](https://www.novaiorque.ma.gov.br/atendimento/fale-conosco-atendimento) retorna erro 404, e o único canal de atendimento está escondido no rodapé, dificultando o acesso dos usuários. |
-| Recursos | - Computador ou dispositivo móvel com acesso à internet;<br/>- [Site oficial da prefeitura](https://www.novaiorque.ma.gov.br/);<br/>- Possível suporte técnico do setor de TI da prefeitura.                       |
-| Ator(es) | Usuário fictício: João da Silva, 35 anos, trabalhador autônomo com pouco conhecimento técnico, tentando registrar uma reclamação sobre a coleta de lixo em sua rua.                                              |
-| Episódios/Planejamento | 1. João acessa o site da prefeitura pelo celular;<br/>2. Encontra a seção de ouvidoria no menu;<br/>3. Clica em "Canal Eletrônico", mas não entende as opções por falta de explicação;<br/>4. Nota que a página "Fale Conosco" não funciona;<br/>5. Encontra o canal de dúvidas no rodapé do site, mas não obtém resposta imediata. |
-| Ações | - João tenta usar o formulário de ouvidoria;<br/>- Explora as opções de contato sem sucesso;<br/>- Desiste de registrar sua reclamação devido à dificuldade.                                                     |
-| Eventos | - João acessa o site para registrar sua reclamação;<br/>- Percebe a falta de campos explicativos e recursos de ajuda no canal eletrônico;<br/>- Não consegue completar sua solicitação.                            |
-| Restrições | - Ausência de uma seção de FAQ abrangente;<br/>- A página "Fale Conosco" está fora do ar (erro 404);<br/>- Canal de atendimento mal posicionado (rodapé), dificultando a usabilidade.                              |
-| Exceção | - João tenta acessar o site em um horário de manutenção ou enfrenta lentidão;<br/>- O canal de atendimento no rodapé também não responde.                                                                         |
-| Avaliação | João considera a experiência frustrante e conclui que o site não atende às suas necessidades, deixando de registrar sua reclamação.                                                                              |
+      | Elemento | Descrição |
+      |:---:|---|
+      | Objetivo | Facilitar o uso do canal eletrônico de ouvidoria pelos cidadãos para registrar elogios, reclamações, solicitações, sugestões e denúncias.                                                                         |
+      | Contexto/Ambiente | O site da prefeitura apresenta uma interface pouco informativa e recursos mal localizados. A [ouvidoria digital](https://www.administracaopublica.com.br/ouvidoria?token=4f1cf16edf5d73feaad4fec2a03c7c9e1cf536aa) não conta com campos informativos para orientar um usuário em como as solicitações devem ser feitas, a parte de [perguntas e respostas](https://www.administracaopublica.com.br/ouvidoria/acompanhamento?token=4f1cf16edf5d73feaad4fec2a03c7c9e1cf536aa[) e pouco abrangente e muito geral, a página ["Fale Conosco"](https://www.novaiorque.ma.gov.br/atendimento/fale-conosco-atendimento) retorna erro 404, e o único canal de atendimento está escondido no rodapé, dificultando o acesso dos usuários. |
+      | Recursos | - Computador ou dispositivo móvel com acesso à internet;<br/>- [Site oficial da prefeitura](https://www.novaiorque.ma.gov.br/);<br/>- Possível suporte técnico do setor de TI da prefeitura.                       |
+      | Ator(es) | Usuário fictício: João da Silva, 35 anos, trabalhador autônomo com pouco conhecimento técnico, tentando registrar uma reclamação sobre a coleta de lixo em sua rua.                                              |
+      | Episódios/Planejamento | 1. João acessa o site da prefeitura pelo celular;<br/>2. Encontra a seção de ouvidoria no menu;<br/>3. Clica em "Canal Eletrônico", mas não entende as opções por falta de explicação;<br/>4. Nota que a página "Fale Conosco" não funciona;<br/>5. Encontra o canal de dúvidas no rodapé do site, mas não obtém resposta imediata. |
+      | Ações | - João tenta usar o formulário de ouvidoria;<br/>- Explora as opções de contato sem sucesso;<br/>- Desiste de registrar sua reclamação devido à dificuldade.                                                     |
+      | Eventos | - João acessa o site para registrar sua reclamação;<br/>- Percebe a falta de campos explicativos e recursos de ajuda no canal eletrônico;<br/>- Não consegue completar sua solicitação.                            |
+      | Restrições | - Ausência de uma seção de FAQ abrangente;<br/>- A página "Fale Conosco" está fora do ar (erro 404);<br/>- Canal de atendimento mal posicionado (rodapé), dificultando a usabilidade.                              |
+      | Exceção | - João tenta acessar o site em um horário de manutenção ou enfrenta lentidão;<br/>- O canal de atendimento no rodapé também não responde.                                                                         |
+      | Avaliação | João considera a experiência frustrante e conclui que o site não atende às suas necessidades, deixando de registrar sua reclamação.                                                                              |
 
   <p style={{ textAlign: 'center', fontSize: '17px' }}>Autor: [ Pedro Luiz](https://github.com/pedroluizfo)</p>
+  </TabItem>
+<TabItem value="C04" label="Cenário 04" default>
+    <p style={{ textAlign: 'center', fontSize: '20px' }}><b>Tabela 5</b> - Cenário de utilização do e-SIC</p>
+
+        |Elemento| Descrição |                     
+        |:---:|---|
+        | Objetivo | Permitir que José Ricardo, um educador da rede municipal de Nova Iorque, utilize o sistema e-SIC para solicitar informações sobre políticas educacionais, materiais de ensino e eventos educacionais. A meta é que ele possa acessar facilmente essas informações para se manter atualizado sobre decisões que impactam diretamente sua prática pedagógica, garantindo transparência e eficiência no processo.|
+        | Contexto/Ambiente | José Ricardo é professor da rede municipal de Nova Iorque, e está preocupado com a qualidade dos materiais didáticos e a organização de eventos educacionais na rede pública. Recentemente, soube de mudanças nas políticas educacionais municipais e deseja entender como essas decisões impactam sua escola. Além disso, quer garantir que a verba destinada à educação está sendo usada de forma transparente. |
+        | Recursos | - Computador ou notebook com acesso à internet;<br/>- Site da prefeitura. |
+        | Ator(es)    | João Ricardo, 35 anos, Professor da rede municipal de ensino |
+        | Episódios/Planejamento | 1. José Ricardo acessa o site da prefeitura municipal de Nova Iorque;<br/>2. Na página inicial, José Ricardo clica em "Mapa do Site" no canto superior direito;<br/>3. Inicialmente, ele não percebe nenhuma diferença no site, mas usa o scroll do mouse para descer a página e encontra todos os tópicos de itens que o site possui;<br/>4. Com auxílio do scroll do mouse, José desce até a seção "Cidadão / e-SIC" e clica em e-SIC;<br/>5. José é redirecionado para uma nova página explicando como o processo de atendimento é feito com base na Lei de Acesso à Informação;<br/>6. No canto superior direito dessa nova página, existe um botão cujo nome é "Pedido de Informação", sendo possível entrar com uma conta existente, cadastrar uma nova ou fazer um pedido anônimo. Com receio, José decide fazer um pedido anônimo;<br/>7. José é redirecionado para uma nova página que contém um formulário de preenchimento anônimo;<br/>8. Ele preenche os campos e faz um breve detalhamento da solicitação no formulário;<br/>9. Feito o preenchimento, José clica em "Cadastrar" para enviar o formulário.  |
+        | Ações | - Navegar até a seção correta do site;<br/>- Preencher os campos no formulário de preenchimento anônimo;<br/>- Confirmar as informações e enviar os dados.<br/> |
+        | Eventos | - A necessidade de uma consulta médica de rotina motiva o agendamento;<br/>- A conclusão do agendamento gera uma confirmação visual na tela e a opção de baixar o comprovante;<br/>- O comprovante é armazenado no dispositivo do usuário. |
+        | Restrições| - O sistema deve ser responsivo e acessível, permitindo ajustes de tamanho de fonte e alto contraste. |
+        | Exceção | - Perda de conexão com a rede do José Ricardo;<br/>- Servidor onde o site está hospedado não responder. |
+        | Avaliação | O objetivo foi alcançado por José mas com algumas dificuldades relacionas à organização dos componentes do site, deixando-o confuso em diversos momentos. |
+
+   <p style={{ textAlign: 'center', fontSize: '17px' }}>Autor: [Paulo Henrique](https://github.com/paulomh)<br/></p>
   </TabItem>
 </Tabs>
 
@@ -132,3 +143,4 @@ A combinação desses dois modelos resultou em uma estrutura abrangente, que inc
 | 1.0 | 30/11/2024 | [Weverton Rodrigues](https://github.com/vevetin) | criação do documento | | |
 | 1.1 | 30/11/2024 | [Necivaldo Amaral](https://github.com/junioramaral22) | Adição de cenário ao documento  | | |
 | 1.2 | 01/12/2024 | [Pedro Luiz](https://github.com/pedroluizfo) | Adição do cenário 3 ao documento  | | |
+| 1.3 | 01/12/2024 | [Paulo Henrique](https://github.com/paulomh) | Adição do cenário 4 ao documento  | | [Weverton Rodrigues](https://github.com/vevetin) |

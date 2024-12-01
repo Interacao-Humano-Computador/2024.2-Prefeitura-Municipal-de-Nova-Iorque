@@ -50,7 +50,7 @@ A combinação desses dois modelos resultou em uma estrutura abrangente, que inc
 
 <Tabs>
   <TabItem value="C01" label="Cenário 01" default>
-    <p style={{ textAlign: 'center', fontSize: '20px' }}><b>Tabela 1</b> - Cenário de Agendamento de Consulta Médica para Dona Lúcia</p>
+    <p style={{ textAlign: 'center', fontSize: '20px' }}><b>Tabela 2</b> - Cenário de Agendamento de Consulta Médica para Dona Lúcia</p>
 
         |Elemento| Descrição |                     
         |:---:|---|
@@ -70,8 +70,8 @@ A combinação desses dois modelos resultou em uma estrutura abrangente, que inc
 </Tabs>
 
 <Tabs>
-  <TabItem value="C01" label="Cenário 02" default>
-    <p style={{ textAlign: 'center', fontSize: '20px' }}><b>Tabela 2</b> - Cenário: Consulta e Download de Editais de Licitação para Leonardo Almeida</p>
+  <TabItem value="C02" label="Cenário 02" default>
+    <p style={{ textAlign: 'center', fontSize: '20px' }}><b>Tabela 3</b> - Cenário: Consulta e Download de Editais de Licitação para Leonardo Almeida</p>
 
         |Elemento| Descrição |                     
         |:---:|---|
@@ -92,21 +92,21 @@ A combinação desses dois modelos resultou em uma estrutura abrangente, que inc
 
 
 <Tabs>
-  <TabItem value="C01" label="Cenário 01" default>
-    <p style={{ textAlign: 'center', fontSize: '20px' }}><b>Tabela 3</b> - Cenário de reclamação sobre coleta de lixo para João Da Silva</p>
+  <TabItem value="C03" label="Cenário 03" default>
+    <p style={{ textAlign: 'center', fontSize: '20px' }}><b>Tabela 4</b> - Cenário de reclamação sobre coleta de lixo para João Da Silva</p>
 
-| **Elemento**         | **Descrição**                                                                                                                                                                                                     |
-|-----------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Objetivo**          | Facilitar o uso do canal eletrônico de ouvidoria pelos cidadãos para registrar elogios, reclamações, solicitações, sugestões e denúncias.                                                                         |
-| **Contexto/Ambiente** | O site da prefeitura apresenta uma interface pouco informativa e recursos mal localizados. A [ouvidoria digital](https://www.administracaopublica.com.br/ouvidoria?token=4f1cf16edf5d73feaad4fec2a03c7c9e1cf536aa) não conta com campos informativos para orientar um usuário em como as solicitações devem ser feitas, a parte de [perguntas e respostas](https://www.administracaopublica.com.br/ouvidoria/acompanhamento?token=4f1cf16edf5d73feaad4fec2a03c7c9e1cf536aa[) e pouco abrangente e muito geral, a página ["Fale Conosco"](https://www.novaiorque.ma.gov.br/atendimento/fale-conosco-atendimento) retorna erro 404, e o único canal de atendimento está escondido no rodapé, dificultando o acesso dos usuários. |
-| **Recursos**          | - Computador ou dispositivo móvel com acesso à internet;<br/>- [Site oficial da prefeitura](https://www.novaiorque.ma.gov.br/);<br/>- Possível suporte técnico do setor de TI da prefeitura.                       |
-| **Ator(es)**          | Usuário fictício: João da Silva, 35 anos, trabalhador autônomo com pouco conhecimento técnico, tentando registrar uma reclamação sobre a coleta de lixo em sua rua.                                              |
-| **Episódios/Planejamento** | 1. João acessa o site da prefeitura pelo celular;<br/>2. Encontra a seção de ouvidoria no menu;<br/>3. Clica em "Canal Eletrônico", mas não entende as opções por falta de explicação;<br/>4. Nota que a página "Fale Conosco" não funciona;<br/>5. Encontra o canal de dúvidas no rodapé do site, mas não obtém resposta imediata. |
-| **Ações**             | - João tenta usar o formulário de ouvidoria;<br/>- Explora as opções de contato sem sucesso;<br/>- Desiste de registrar sua reclamação devido à dificuldade.                                                     |
-| **Eventos**           | - João acessa o site para registrar sua reclamação;<br/>- Percebe a falta de campos explicativos e recursos de ajuda no canal eletrônico;<br/>- Não consegue completar sua solicitação.                            |
-| **Restrições**        | - Ausência de uma seção de FAQ abrangente;<br/>- A página "Fale Conosco" está fora do ar (erro 404);<br/>- Canal de atendimento mal posicionado (rodapé), dificultando a usabilidade.                              |
-| **Exceção**           | - João tenta acessar o site em um horário de manutenção ou enfrenta lentidão;<br/>- O canal de atendimento no rodapé também não responde.                                                                         |
-| **Avaliação**         | João considera a experiência frustrante e conclui que o site não atende às suas necessidades, deixando de registrar sua reclamação.                                                                              |
+| Elemento | Descrição |
+|:---:|---|
+| Objetivo | Facilitar o uso do canal eletrônico de ouvidoria pelos cidadãos para registrar elogios, reclamações, solicitações, sugestões e denúncias.                                                                         |
+| Contexto/Ambiente | O site da prefeitura apresenta uma interface pouco informativa e recursos mal localizados. A [ouvidoria digital](https://www.administracaopublica.com.br/ouvidoria?token=4f1cf16edf5d73feaad4fec2a03c7c9e1cf536aa) não conta com campos informativos para orientar um usuário em como as solicitações devem ser feitas, a parte de [perguntas e respostas](https://www.administracaopublica.com.br/ouvidoria/acompanhamento?token=4f1cf16edf5d73feaad4fec2a03c7c9e1cf536aa[) e pouco abrangente e muito geral, a página ["Fale Conosco"](https://www.novaiorque.ma.gov.br/atendimento/fale-conosco-atendimento) retorna erro 404, e o único canal de atendimento está escondido no rodapé, dificultando o acesso dos usuários. |
+| Recursos | - Computador ou dispositivo móvel com acesso à internet;<br/>- [Site oficial da prefeitura](https://www.novaiorque.ma.gov.br/);<br/>- Possível suporte técnico do setor de TI da prefeitura.                       |
+| Ator(es) | Usuário fictício: João da Silva, 35 anos, trabalhador autônomo com pouco conhecimento técnico, tentando registrar uma reclamação sobre a coleta de lixo em sua rua.                                              |
+| Episódios/Planejamento | 1. João acessa o site da prefeitura pelo celular;<br/>2. Encontra a seção de ouvidoria no menu;<br/>3. Clica em "Canal Eletrônico", mas não entende as opções por falta de explicação;<br/>4. Nota que a página "Fale Conosco" não funciona;<br/>5. Encontra o canal de dúvidas no rodapé do site, mas não obtém resposta imediata. |
+| Ações | - João tenta usar o formulário de ouvidoria;<br/>- Explora as opções de contato sem sucesso;<br/>- Desiste de registrar sua reclamação devido à dificuldade.                                                     |
+| Eventos | - João acessa o site para registrar sua reclamação;<br/>- Percebe a falta de campos explicativos e recursos de ajuda no canal eletrônico;<br/>- Não consegue completar sua solicitação.                            |
+| Restrições | - Ausência de uma seção de FAQ abrangente;<br/>- A página "Fale Conosco" está fora do ar (erro 404);<br/>- Canal de atendimento mal posicionado (rodapé), dificultando a usabilidade.                              |
+| Exceção | - João tenta acessar o site em um horário de manutenção ou enfrenta lentidão;<br/>- O canal de atendimento no rodapé também não responde.                                                                         |
+| Avaliação | João considera a experiência frustrante e conclui que o site não atende às suas necessidades, deixando de registrar sua reclamação.                                                                              |
 
   <p style={{ textAlign: 'center', fontSize: '17px' }}>Autor: [ Pedro Luiz](https://github.com/pedroluizfo)</p>
   </TabItem>
@@ -130,5 +130,5 @@ A combinação desses dois modelos resultou em uma estrutura abrangente, que inc
 | Versão | Data | Autor(es) | Descrição | Data de Revisão | Revisor(es) |
 |:---:|:---:|---|---|:---:|---|
 | 1.0 | 30/11/2024 | [Weverton Rodrigues](https://github.com/vevetin) | criação do documento | | |
-| 1.1 | 30/11/2024 | [Necivaldo Amaral](https://github.com/junioramaral22) | Adição de cenários ao documento  | | |
+| 1.1 | 30/11/2024 | [Necivaldo Amaral](https://github.com/junioramaral22) | Adição de cenário ao documento  | | |
 | 1.2 | 01/12/2024 | [Pedro Luiz](https://github.com/pedroluizfo) | Adição do cenário 3 ao documento  | | |

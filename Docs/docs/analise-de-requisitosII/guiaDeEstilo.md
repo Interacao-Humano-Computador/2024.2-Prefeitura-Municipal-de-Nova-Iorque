@@ -27,9 +27,12 @@ Este guia deve ser consultado continuamente durante o desenvolvimento do site e 
 A manutenção do guia de estilo deve ser uma prática contínua. O documento precisa ser atualizado sempre que novas diretrizes ou alterações no design forem feitas, garantindo que todos os membros da equipe tenham acesso à versão mais atualizada. Isso assegura que futuras melhorias ou ajustes no site sigam as mesmas diretrizes, mantendo a consistência e qualidade ao longo do tempo.
 
 ## Resultados de Análise
-<!--
-Descrição do ambiente de trabalho do usuário: Relatar as condições de uso do site, levando em consideração os tipos de dispositivos utilizados pelos usuários (computadores, celulares, tablets), e o contexto em que o site será acessado (em casa, no trabalho, em locais públicos, etc.).
--->
+
+A análise do site da Prefeitura Municipal de Nova Iorque revelou aspectos importantes sobre o ambiente de uso e os [perfis de seus usuários](../analise-de-requisitos/perfilDeUsuario.md). Embora o site seja acessível a partir de diferentes dispositivos, como celulares e tablets, esta análise focou na interação por computadores, considerando que muitos usuários realizam tarefas mais detalhadas e formais, como consultas a informações públicas, pagamento de impostos e agendamento de serviços, nesse tipo de dispositivo.
+
+O público é composto por cidadãos em geral, movimentos sociais, profissionais de setores públicos e privados, além de pessoas com necessidades especiais. A diversidade desse público exige uma interface que combine clareza na navegação com simplicidade no design, garantindo que as diferentes necessidades sejam atendidas de maneira eficaz.
+
+Os acessos ao site ocorrem, predominantemente, em ambientes domiciliares ou profissionais, onde a confiabilidade e a funcionalidade são essenciais para a realização de tarefas específicas. Apesar de o site apresentar elementos que buscam facilitar a interação do usuário, a análise indicou que há oportunidades de melhoria, especialmente em aspectos de acessibilidade e usabilidade, com foco nos usuários que possuem pouca familiaridade tecnológica ou necessidades especiais.
 
 ## Elementos de Interface
 
@@ -51,7 +54,6 @@ Caso a fonte principal não esteja disponível, o sistema recorrerá às fontes 
 
 A seguir, apresentamos os estilos tipográficos utilizados no site, com exemplos de cada tipo de texto, incluindo seu tamanho e peso.
 
-
 <p style={{ textAlign: 'center', fontSize: '17px' }}><b>Figura x</b> - Estilos Tipográficos</p>
 <center>
     ![tipografia](../analise-de-requisitosII/assets/tipografia.jfif)
@@ -72,7 +74,11 @@ A seguir, são apresentados os ícones atualmente utilizados no site:
 
 Para melhorar a experiência do usuário, propomos a adoção de ícones revisados, baseados nos Princípios de Gestalt, conforme descrito por Simone Barbosa (2010)<sup>[1](guiaDeEstilo.md#referências-bibliográficas)</sup>. Os ícones revisados seguem, principalmente, os princípios de simetria, similaridade e fecho, promovendo maior padronização e clareza.
 
-[inserir imagem aqui]
+<p style={{ textAlign: 'center', fontSize: '17px' }}><b>Figura x</b> - Proposta de Ícones para o Site da Prefeitura de Nova Iorque</p>
+    <center>
+        ![proposta](../analise-de-requisitosII/assets/proposta.jfif)
+    </center>
+<p style={{ textAlign: 'center', fontSize: '17px' }}>Autor: [Weverton Rodrigues](https://github.com/vevetin) | Fonte: Figma, 2024</p>
 
 A aplicação desses princípios garantirá uma interface mais intuitiva, consistente e alinhada às boas práticas de design visual.
 
@@ -86,12 +92,16 @@ As cores utilizadas no design do site da Prefeitura Municipal de Nova Iorque for
     </center>
 <p style={{ textAlign: 'center', fontSize: '17px' }}>Autor: [Weverton Rodrigues](https://github.com/vevetin) | Fonte: Figma, 2024</p>
 
-<!--
-Animações: Quando e como as animações devem ser usadas no site, garantindo que não distraiam o usuário e sim complementem a interação.
--->
-
 
 ## Elementos de Interação
+
+<!--
+<p style={{ textAlign: 'center', fontSize: '17px' }}><b>Figura x</b> - Botões e Caixas de Texto Utilizadas no Design do Site</p>
+    <center>
+        ![tipografia](../analise-de-requisitosII/assets/botoes-e-caixas-de-texto.jfif)
+    </center>
+<p style={{ textAlign: 'center', fontSize: '17px' }}>Autor:  [Rodrigo Wendrel](https://github.com/rodwendrel) | Fonte: Figma, 2024</p>
+-->
 
 ### Estilos de interação
 <!-- Explicar os tipos de interação disponíveis no site (clique, toque, arrastar, etc.) e como eles devem ser implementados. -->
@@ -117,24 +127,36 @@ Animações: Quando e como as animações devem ser usadas no site, garantindo q
 ## Vocabulário e Padrões
 
 ### Terminologia 
-<!-- Definir os termos técnicos que serão usados ao longo do site e garantir que sejam compreendidos pelos usuários. -->
+
+A terminologia utilizada no site deve ser simples e direta, evitando jargões ou termos técnicos que possam dificultar a compreensão por parte dos usuários. É essencial manter uma nomenclatura consistente em todas as seções, botões e funcionalidades, assegurando uniformidade e facilitando a navegação. Sempre que necessário, recomenda-se incluir explicações adicionais, como descrições ou dicas, especialmente para termos ou funcionalidades mais complexas.
 
 ### Tipos de tela
-<!-- Descrever os tipos de tela que serão apresentados aos usuários, como telas iniciais, de erro, de confirmação, etc. -->
+
+Os tipos de tela devem ser organizados de forma lógica e funcional. A tela inicial, por exemplo, deve destacar atalhos para as funcionalidades mais relevantes, como serviços frequentemente utilizados ou notícias importantes. Já as telas secundárias devem seguir uma hierarquia visual clara, enfatizando as informações principais. Telas de erro precisam apresentar mensagens objetivas e fornecer orientações práticas para que o usuário saiba como proceder. Além disso, telas de confirmação devem validar as ações realizadas com mensagens claras, como “Agendamento concluído com sucesso”. Por fim, telas de suporte devem estar facilmente acessíveis e oferecer conteúdos úteis, como FAQs, contatos e links para soluções rápidas.
 
 ### Sequências de diálogos
-<!-- Estabelecer as sequências de interações típicas, como fluxos de navegação e feedback ao usuário. -->
+
+As sequências de diálogos devem priorizar clareza e objetividade, garantindo que as interações sigam um fluxo lógico e intuitivo. Tarefas mais complexas, como preenchimento de formulários, devem ser divididas em etapas progressivas, acompanhadas por uma indicação do progresso. É importante fornecer feedback constante ao usuário, por meio de notificações visuais ou mensagens que confirmem as ações realizadas. Adicionalmente, mecanismos de prevenção de erros, como validação de campos e mensagens de alerta, devem ser implementados para evitar falhas durante a interação. Sempre que possível, deve-se permitir que o usuário revise as informações antes de confirmá-las, promovendo maior confiança no processo e reduzindo possíveis retrabalhos.
 
 
 ## Considerações Finais
-<!--
-Design Rationale: Justificar as decisões de design tomadas ao longo do projeto, alinhando-as às necessidades e expectativas dos usuários.
-Implementação e Atualizações: Como o guia será implementado na prática e as atualizações serão feitas à medida que o site evolui.
--->
+
+O Guia de Estilo desenvolvido para o site da Prefeitura Municipal de Nova Iorque consolida as principais diretrizes e recomendações para a criação de uma interface coesa, acessível e funcional. A análise realizada ao longo deste documento destacou tanto os pontos fortes quanto as limitações da interface existente, fornecendo uma base para a proposição de melhorias que atendam às diversas necessidades dos usuários.
+
+Embora o site já possua uma estrutura funcional, foram identificados aspectos a serem aprimorados, especialmente em relação à acessibilidade, usabilidade e clareza visual. A organização e apresentação dos conteúdos também foram revisadas para facilitar a navegação, promovendo uma experiência intuitiva e eficiente ao usuário.
+
+O sucesso deste guia depende diretamente de sua adoção e manutenção contínua. Recomenda-se que ele seja tratado como um documento dinâmico, sendo atualizado sempre que novas práticas de design ou alterações na interface forem implementadas. A consistência na aplicação deste guia contribuirá não apenas para a melhoria contínua do site, mas também para o atendimento mais eficaz aos objetivos institucionais e às expectativas dos usuários.
+
+Em suma, este documento oferece uma base sólida para orientar o design e o desenvolvimento do site, promovendo a criação de uma interface inclusiva, funcional e visualmente atrativa. Alinhado às melhores práticas de Interação Humano-Computador, este trabalho representa um passo importante na formação dos alunos, consolidando o aprendizado e as práticas desenvolvidas na disciplina de IHC.
 
 ## Bibliografia
 
 > \- BARBOSA, Simone, et al. Interação Humano-Computador e Experiência do Usuário. Leanpub, 2022. Disponível em: https://leanpub.com/ihc-ux. Acesso em: 18 nov. 2024.
+
+> \- BRASIL. Ministério da Gestão e da Inovação em Serviços Públicos. Padrões Web em Governo Eletrônico. [S.l]: MGI, [2024?]. Disponível em: https://www.gov.br/governodigital/pt-br/acessibilidade-e-usuario/acessibilidade-digital/padroes-web-em-governo-eletronico. Acesso em: 28 nov. 2024.
+
+> \- BRASIL. Prefeitura Municipal de Nova Iorque. Prefeitura Municipal de Nova Iorque. Disponível em: https://www.novaiorque.ma.gov.br/. Acesso em: 28 nov. 2024.   
+
 
 ## Referências Bibliográficas
 

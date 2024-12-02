@@ -117,7 +117,7 @@ Neta tarefa, a persona José Ricardo deseja realizar um pedido de informação n
 <center>
     <p><strong>Figura 5:</strong> Análise da tarefa: Realizar pedido no e-SIC</p>
     ![analise-tarefa-hta-paulo](../analise-de-requisitos/assets/analise-hta-paulo.svg)
-    Autor: [Paulo Henrique](https://github.com/paulomh)
+    Autor: [Paulo Henrique](https://github.com/paulomh) | Fonte: Draw.io, 2024
 </center>
 
 #### Análise CMN-GOMS
@@ -212,7 +212,7 @@ GOAL 0: Agendar consulta médica no site da prefeitura.
 <center>
     <p><strong>Figura 6:</strong> Análise da tarefa: Agendar consulta médica no site da prefeitura</p>
     ![analise-tarefa-hta-weverton](../analise-de-requisitos/assets/analise-hta-weverton.svg)
-    Autor: [Weverton Rodrigues](https://github.com/vevetin)
+    Autor: [Weverton Rodrigues](https://github.com/vevetin) | Fonte: Draw.io, 2024
 </center>
 
 

@@ -38,8 +38,20 @@ Os acessos ao site ocorrem, predominantemente, em ambientes domiciliares ou prof
 
 ### Disposição espacial e grid
 <!-- Definir a estrutura de layout e a utilização de grids para garantir que o design seja organizado e responsivo. --> 
+<p style={{ textAlign: 'center', fontSize: '17px' }}><b>Figura 1</b> - Grid e layout do site</p>
 
-### Janelas
+![layout e grid](../analise-de-requisitosII/assets/grid.png)
+<p style={{ textAlign: 'center', fontSize: '17px' }}>Autor: [Rodrigo Wendrel](https://github.com/rodwendrel) | Fonte: Figma, 2024</p>
+
+**Configurações do Grid:** 
+
+- 8 colunas<br/>
+- 24 px gutter (espaçamento entre colunas)<br/>
+- 40 px margins (margem extra)<br/>
+
+Se tratando de um portal .gov ele deve seguir diretivas e estilos de design definidos no Padrão Digital do Governo Disponível em: https://www.gov.br/ds/fundamentos-visuais/grid.
+
+<!-- ### Janelas -->
 <!-- Descrever o uso de janelas ou painéis, como elas devem ser estruturadas e quando devem ser usadas. --> 
  
 ### Tipografia
@@ -54,7 +66,7 @@ Caso a fonte principal não esteja disponível, o sistema recorrerá às fontes 
 
 A seguir, apresentamos os estilos tipográficos utilizados no site, com exemplos de cada tipo de texto, incluindo seu tamanho e peso.
 
-<p style={{ textAlign: 'center', fontSize: '17px' }}><b>Figura x</b> - Estilos Tipográficos</p>
+<p style={{ textAlign: 'center', fontSize: '17px' }}><b>Figura 2</b> - Estilos Tipográficos</p>
 <center>
     ![tipografia](../analise-de-requisitosII/assets/tipografia.jfif)
 </center>
@@ -66,7 +78,7 @@ Os símbolos não tipográficos, como ícones e gráficos, são essenciais para 
 
 A seguir, são apresentados os ícones atualmente utilizados no site:
 
-<p style={{ textAlign: 'center', fontSize: '17px' }}><b>Figura x</b> - Ícones Atuais do Site da Prefeitura de Nova Iorque</p>
+<p style={{ textAlign: 'center', fontSize: '17px' }}><b>Figura 3</b> - Ícones Atuais do Site da Prefeitura de Nova Iorque</p>
     <center>
         ![icones-atuais](../analise-de-requisitosII/assets/icones-atuais.jfif)
     </center>
@@ -74,7 +86,7 @@ A seguir, são apresentados os ícones atualmente utilizados no site:
 
 Para melhorar a experiência do usuário, propomos a adoção de ícones revisados, baseados nos Princípios de Gestalt, conforme descrito por Simone Barbosa (2010)<sup>[1](guiaDeEstilo.md#referências-bibliográficas)</sup>. Os ícones revisados seguem, principalmente, os princípios de simetria, similaridade e fecho, promovendo maior padronização e clareza.
 
-<p style={{ textAlign: 'center', fontSize: '17px' }}><b>Figura x</b> - Proposta de Ícones para o Site da Prefeitura de Nova Iorque</p>
+<p style={{ textAlign: 'center', fontSize: '17px' }}><b>Figura 4</b> - Proposta de Ícones para o Site da Prefeitura de Nova Iorque</p>
     <center>
         ![proposta](../analise-de-requisitosII/assets/proposta.jfif)
     </center>
@@ -86,7 +98,7 @@ A aplicação desses princípios garantirá uma interface mais intuitiva, consis
 
 As cores utilizadas no design do site da Prefeitura Municipal de Nova Iorque foram escolhidas com base na harmonia e acessibilidade. A paleta de cores inclui tons principais, neutros e de status, visando garantir contraste e legibilidade em diversos dispositivos e contextos.
 
-<p style={{ textAlign: 'center', fontSize: '17px' }}><b>Figura x</b> - Cores Utilizadas no Design do Site</p>
+<p style={{ textAlign: 'center', fontSize: '17px' }}><b>Figura 5</b> - Cores Utilizadas no Design do Site</p>
     <center>
         ![tipografia](../analise-de-requisitosII/assets/cores.jfif)
     </center>
@@ -95,36 +107,40 @@ As cores utilizadas no design do site da Prefeitura Municipal de Nova Iorque for
 
 ## Elementos de Interação
 
-<!--
-<p style={{ textAlign: 'center', fontSize: '17px' }}><b>Figura x</b> - Botões e Caixas de Texto Utilizadas no Design do Site</p>
+<p style={{ textAlign: 'center', fontSize: '17px' }}><b>Figura 6</b> - Botões e Caixas de Texto Utilizadas no Design do Site</p>
     <center>
         ![tipografia](../analise-de-requisitosII/assets/botoes-e-caixas-de-texto.jfif)
     </center>
 <p style={{ textAlign: 'center', fontSize: '17px' }}>Autor:  [Rodrigo Wendrel](https://github.com/rodwendrel) | Fonte: Figma, 2024</p>
--->
 
-### Estilos de interação
+
+<!-- ### Estilos de interação
 <!-- Explicar os tipos de interação disponíveis no site (clique, toque, arrastar, etc.) e como eles devem ser implementados. -->
 
-### Seleção de um estilo
+<!-- ### Seleção de um estilo -->
 <!-- Determinar qual estilo de interação será adotado para ações como navegação, preenchimento de formulários, etc. -->
 
-### Aceleradores (teclas de atalho)
+<!-- ### Aceleradores (teclas de atalho) -->
 <!-- Se for pertinente, listar as teclas de atalho que podem ser usadas para otimizar a navegação no site. -->
 
-## Elementos de Ação
+<!-- ## Elementos de Ação -->
 
-### Preenchimento de campos
+<!-- ### Preenchimento de campos -->
 <!-- Instruções sobre como os campos de formulários devem ser estruturados e como o usuário deve interagir com eles. -->
 
-### Seleção
+<!-- ### Seleção -->
 <!-- Definir as regras para selecionar opções, como menus suspensos ou caixas de seleção. -->
 
-### Ativação
+<!-- ### Ativação -->
 <!-- Descrever como os botões de ação devem ser utilizados para ativar funções, como envio de formulários ou navegação entre páginas. -->
 
 
-## Vocabulário e Padrões
+## Exemplo de uso de Cores
+<p style={{ textAlign: 'center', fontSize: '17px' }}><b>Figura 7</b> - Uso de cores dentro do site</p>
+    <center>
+        ![uso de cores](../analise-de-requisitosII/assets/uso-de-cores.svg)
+    </center>
+<p style={{ textAlign: 'center', fontSize: '17px' }}>Autor:  [Rodrigo Wendrel](https://github.com/rodwendrel) | Fonte: Figma, 2024</p>
 
 ### Terminologia 
 
@@ -157,6 +173,8 @@ Em suma, este documento oferece uma base sólida para orientar o design e o dese
 
 > \- BRASIL. Prefeitura Municipal de Nova Iorque. Prefeitura Municipal de Nova Iorque. Disponível em: https://www.novaiorque.ma.gov.br/. Acesso em: 28 nov. 2024.   
 
+> \- BRASIL. Padrão Digital do Governo. Fundamentos visuais. Disponível em: https://www.gov.br/ds/fundamentos-visuais/grid. Acesso em: 02 dez. 2024.   
+
 
 ## Referências Bibliográficas
 
@@ -168,3 +186,4 @@ Em suma, este documento oferece uma base sólida para orientar o design e o dese
 |:---:|:---:|---|---|:---:|---|
 | 1.0 | 28/11/2024 | [Weverton Rodrigues](https://github.com/vevetin) | criação do documento | 02/12/2024 | [Paulo Henrique](https://github.com/paulomh), [Pedro Luiz](https://github.com/pedroluizfo) |
 | 1.1 | 30/11/2024 | [Weverton Rodrigues](https://github.com/vevetin) | adição dos subtópicos tipografia, símbolos não tipográficos e cores | 02/12/2024 | [Paulo Henrique](https://github.com/paulomh), [Pedro Luiz](https://github.com/pedroluizfo) | 
+| 1.1 | 30/11/2024 | [Rodrigo Wendrel](https://github.com/rodwendrel) | Numeração das figuras, grid e layout, exemplo de uso de cores, atualização das bibliografia | | | 

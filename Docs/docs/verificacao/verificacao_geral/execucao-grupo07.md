@@ -6,7 +6,7 @@ sidebar_position: 3
 
 ## Introdução
 
-O presente documento tem como objetivo apresentar a verificação dos artefatos do grupo 07, com base em uma lista de verificação disponibilizada no plano de ensino da disciplina.
+O presente documento tem como objetivo apresentar a verificação dos artefatos do grupo 07, com base em uma lista de verificação disponibilizada no plano de ensino da disciplina<sup>[1](../verificacao_geral/execucao-grupo07.md#referências-bibliográficas)</sup>.
 
 <p style={{ textAlign: 'center', fontSize: '18px' }}><b>Tabela 1</b> - Itens do Planejamento Geral do Projeto (Grupo 07)</p>
 
@@ -22,9 +22,9 @@ O presente documento tem como objetivo apresentar a verificação dos artefatos 
 | 8 – Os artefatos: Planejamento do Projeto, equipe, lista de sites avaliados, site selecionado para o projeto da disciplina, Ferramentas do projeto, Processo de Design, cronograma das atividades? | Sim                                            | v1.1, 13/11/2024, 19:38            | Listados na barra lateral esquerda |
 
 
-## Bibliografia
+## Referências Bibliográficas
 
-> \- [Plano de Ensino](https://aprender3.unb.br/pluginfile.php/2972625/mod_resource/content/56/Plano_de_Ensino%20FIHC%20022024%20Turma%2001%20v1.pdf) da disciplina Interação Humano Computador, Dr. André Barros de Sales.
+> \- SALES, André. Plano de Ensino da disciplina Interação Humano Computador. Universidade de Brasília, Campus UNB Gama: Faculdade de Ciências e Tecnologias em Engenharia, 2024. Disponível em: https://aprender3.unb.br/pluginfile.php/2972625/mod_resource/content/56/Plano_de_Ensino%20FIHC%20022024%20Turma%2001%20v1.pdf. Acesso em: 25 out. 2024.
 
 
 ## Histórico de Versão

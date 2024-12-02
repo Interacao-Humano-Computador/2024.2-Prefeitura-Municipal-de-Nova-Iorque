@@ -11,7 +11,7 @@ Esta seção tem como objetivo apresentar as ferramentas que serão utilizadas a
 ## Ferramentas utilizadas
 
 
-<p style={{ textAlign: 'center', fontSize: '20px' }}><b>Tabela 1</b> - Planejamento da primeira entrega.</p>
+<p style={{ textAlign: 'center', fontSize: '20px' }}><b>Tabela 1</b> - Ferramentas utilizadas no projeto e suas finalidades.</p>
 
 |         | Ferramenta | Finalidade |
 |---------|------------|------------|

@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Planejamento dos Itens do Desenvolvimento do Projeto.
+# Planejamento dos Itens do Desenvolvimento do Projeto
 
 ## Introdução
 
@@ -10,7 +10,7 @@ O planejamento da verificação  dos itens do desenvolvimento do projeto norteia
 
 ## Objetivo
 
-O objetivo deste documento é apresentar o planejamento da verificação dos itens do desenvolvimento do projeto, verificando se os artefatos produzidos durante a etapa estão de acordo com uma lista de verificação disponibilizada no plano de ensino da disciplina<sup>[1](../etapa01/planejamento.md#referências)</sup>.
+O objetivo deste documento é apresentar o planejamento da verificação dos itens do desenvolvimento do projeto, verificando se os artefatos produzidos durante a etapa estão de acordo com uma lista de verificação disponibilizada no plano de ensino da disciplina<sup>[1](../etapa01/planejamento.md#referências-bibliográficas)</sup>.
 
 ## Lista de Verificação
 
@@ -30,9 +30,9 @@ O objetivo deste documento é apresentar o planejamento da verificação dos ite
 | 10 – A justificativa da escolha do Processo de Design? Adicionar: referência bibliográfica da fonte e foto do texto da referência. Autor(es).  |                     |                                    |                                |       
 
 
-## Referências
+## Referências Bibliográficas
 
-> 1. [Plano de Ensino](https://aprender3.unb.br/pluginfile.php/2972625/mod_resource/content/56/Plano_de_Ensino%20FIHC%20022024%20Turma%2001%20v1.pdf) da disciplina Interação Humano Computador, Dr. André Barros de Sales.
+> 1. SALES, André. Plano de Ensino da disciplina Interação Humano Computador. Universidade de Brasília, Campus UNB Gama: Faculdade de Ciências e Tecnologias em Engenharia, 2024. Disponível em: https://aprender3.unb.br/pluginfile.php/2972625/mod_resource/content/56/Plano_de_Ensino%20FIHC%20022024%20Turma%2001%20v1.pdf. Acesso em: 25 out. 2024.
 
 ## Histórico de Versão
 ---

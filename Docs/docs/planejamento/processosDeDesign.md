@@ -21,7 +21,9 @@ ser completo e abranger diversos detalhes que podem auxiliar a equipe com o plan
 
 ![Ciclo de vida Mayhew](../planejamento/assets/mayhew.png)
 <br/>
-<small>(Capítulo 6, ítem 6.3.3, Figura 6.7, página 106, Interação Humano-Computador e Experiência do Usuário, Simone Barbosa e Bruno Santana)</small>
+<p style={{ textAlign: 'center', fontSize: '15px' }}><b>Fonte:</b> (Capítulo 6, ítem 6.3.3, Figura 6.7, página 106, Interação Humano-Computador e Experiência do Usuário, Simone Barbosa e Bruno Santana)</p>
+
+<p style={{ textAlign: 'center', fontSize: '15px' }}><b>Autor:</b> [Rodrigo Wendrel](https://github.com/rodwendrel)</p>
 
 ## Outros Ciclos de Vida
 
@@ -32,15 +34,16 @@ Esse ciclo de vida organiza o desenvolvimento de forma mais prática e direta, c
 
 ![Ciclo De Vida Simples](../planejamento/assets/simples.png)
 <br/>
-<small>(Capítulo 4, Figura 4.4, página 102, Interação Humano-Computador, Simone Barbosa e Bruno Santana, 2010)</small>
+<p style={{ textAlign: 'center', fontSize: '15px' }}><b>Fonte:</b> (Capítulo 4, Figura 4.4, página 102, Interação Humano-Computador, Simone Barbosa e Bruno Santana, 2010)</p>
+<p style={{ textAlign: 'center', fontSize: '15px' }}><b>Autor:</b> [Necivaldo Amaral](https://github.com/junioramaral22)</p>
 
 ### Ciclo de Vida em Estrela
 O ciclo em estrela é flexível e permite que o designer comece por qualquer etapa do processo. A principal regra é que, depois de completar cada atividade, o designer revise o que foi feito para garantir qualidade e alinhamento com os objetivos. Esse ciclo divide o processo de criação em fases como conceituação, prototipagem e implementação, proporcionando um pouco mais de estrutura em relação ao ciclo simples, mas ainda exigindo uma boa dose de experiência do designer, já que também não há um roteiro detalhado.
 
 ![Ciclo De Vida em Estrela](../planejamento/assets/estrela.png)
 <br/>
-
-<small>(Capítulo 4, Figura 4.5, página 103, Interação Humano-Computador, Simone Barbosa e Bruno Santana, 2010)</small>
+<p style={{ textAlign: 'center', fontSize: '15px' }}>(Capítulo 4, Figura 4.5, página 103, Interação Humano-Computador, Simone Barbosa e Bruno Santana, 2010)</p>
+<p style={{ textAlign: 'center', fontSize: '15px' }}><b>Autor:</b> [Necivaldo Amaral](https://github.com/junioramaral22)</p>
 
 
 ### Ciclo de Vida de Nielsen
@@ -68,4 +71,6 @@ Nielsen aborda o desenvolvimento com foco na usabilidade, destacando que algumas
 | Versão |    Data    | Autor(es)                                        | Descrição                | Data de Revisão | Revisor(es) |
 | :----: | :--------: | ------------------------------------------------ | ------------------------ | :-------------: | ----------- |
 |  1.0   | 07/11/2024 | [Rodrigo Wendrel](https://github.com/rodwendrel), [Necivaldo Amaral](https://github.com/junioramaral22) | Criação do documento | 09/11/2024 | [Weverton Rodrigues](https://github.com/vevetin) |
-|  1.1   | 07/11/2024 | [Rodrigo Wendrel](https://github.com/rodwendrel),  | Revisão no text de de justificativa da escolha do processo de design. |  |  |
+|  1.1   | 07/11/2024 | [Rodrigo Wendrel](https://github.com/rodwendrel)  | Revisão no texto de justificativa da escolha do processo de design. | 09/11/2024  | [Necivaldo Amaral](https://github.com/junioramaral22)  |
+|  1.1.1   | 20/11/2024 | [Paulo Henrique](https://github.com/paulomh)  | Adicionado autores nas imagens. | 20/11/2024  | [Rodrigo Wendrel](https://github.com/rodwendrel), [Necivaldo Amaral](https://github.com/junioramaral22)  |
+

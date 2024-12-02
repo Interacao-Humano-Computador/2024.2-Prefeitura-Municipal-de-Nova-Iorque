@@ -6,7 +6,7 @@ sidebar_position: 2
 
 ## Introdução
 
-Feito o [planejamento da verificação geral do projeto](../verificacao_geral/planejamento.md), o presente documento tem como objetivo apresentar a execução do planejamento de verificação dos artefatos do próprio grupo, com base em uma lista de verificação disponibilizada no plano de ensino da disciplina.
+Feito o [planejamento da verificação geral do projeto](../verificacao_geral/planejamento.md), o presente documento tem como objetivo apresentar a execução do planejamento de verificação dos artefatos do próprio grupo, com base em uma lista de verificação disponibilizada no plano de ensino da disciplina<sup>[1](../verificacao_geral/execucao-interna.md#referências-bibliográficas)</sup>.
 
 <p style={{ textAlign: 'center', fontSize: '18px' }}><b>Tabela 1</b> - Itens do Planejamento Geral do Projeto</p>
 
@@ -21,9 +21,11 @@ Feito o [planejamento da verificação geral do projeto](../verificacao_geral/pl
 | 7 – Possui opção de contraste de cores?                                                                                                                                                            | Sim                                            | v1, 12/11/2024, 21:50            | Canto superior direito da página   |
 | 8 – Os artefatos: Planejamento do Projeto, equipe, lista de sites avaliados, site selecionado para o projeto da disciplina, Ferramentas do projeto, Processo de Design, cronograma das atividades? | Sim                                            | v1, 12/11/2024, 21:50            | Listados na barra lateral esquerda |
 
-## Bibliografia
+## Referências Bibliográficas
 
-> \- [Plano de Ensino](https://aprender3.unb.br/pluginfile.php/2972625/mod_resource/content/56/Plano_de_Ensino%20FIHC%20022024%20Turma%2001%20v1.pdf) da disciplina Interação Humano Computador, Dr. André Barros de Sales.
+> \- SALES, André. Plano de Ensino da disciplina Interação Humano Computador. Universidade de Brasília, Campus UNB Gama: Faculdade de Ciências e Tecnologias em Engenharia, 2024. Disponível em: https://aprender3.unb.br/pluginfile.php/2972625/mod_resource/content/56/Plano_de_Ensino%20FIHC%20022024%20Turma%2001%20v1.pdf. Acesso em: 25 out. 2024.
+
+
 
 ## Histórico de Versão
 

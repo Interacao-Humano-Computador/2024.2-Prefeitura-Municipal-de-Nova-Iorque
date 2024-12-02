@@ -64,6 +64,8 @@ Além disso, durante a avaliação, cada meta possuirá uma <strong>pergunta cha
 
 ## Bibliografia
 
+> NIELSEN, Jacob . Designing Web Usability: The Practice of Simplicity. Peachpit Press, 1a. edição, 1999.
+
 ## Histórico de Versão
 ---
 | Versão | Data | Autor(es) | Descrição | Data de Revisão | Revisor(es) |

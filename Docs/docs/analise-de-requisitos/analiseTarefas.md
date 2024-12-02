@@ -108,6 +108,60 @@ Com base nos [cenários](../analise-de-requisitos/cenarios.md) desenvolvidos ant
 
 ## Análise das Tarefas
 
+### Tarefa 01 - Realizar pedido no e-SIC
+
+Neta tarefa, a persona José Ricardo deseja realizar um pedido de informação no e-SIC. Para isso, ele acessa o site da prefeitura, navega até a aba do e-SIC, busca pelo formulário de pedido de informação, preenche os campos obrigatórios e envia o pedido.
+
+#### Análise HTA
+
+<center>
+
+<p><strong>Figura 5:</strong> Análise da tarefa: Realizar pedido no e-SIC</p>
+
+![analise-tarefa-hta-paulo](../analise-de-requisitos/assets/analise-hta-paulo.svg)
+
+Autor: [Paulo Henrique](https://github.com/paulomh)
+
+</center>
+
+#### Análise CMN-GOMS
+
+```
+GOAL 0: Buscar informações no e-SIC
+    GOAL 1: Localizar a seção "Cidadão / e-SIC"
+        OP 1.1: Guiar o cursor para o botão "Mapa do Site"
+        OP 1.2: Clicar no botão "Mapa do Site"
+        OP 1.3: Ler as opções do mapa e identificar a seção "Cidadão / e-SIC"
+        OP 1.4: Clicar na seção "Cidadão / e-SIC"
+    OR
+        OP 1.5: Usar o carousel para navegar pelas opções
+        OP 1.6: Clicar na opção "e-SIC" no carousel
+
+    GOAL 2: Acessar o e-SIC
+        OP 2.1: Identificar as opções "Pedido Identificado" ou "Pedido Anônimo"
+        SE o usuário deseja anonimato
+            OP 2.2: Clicar em "Pedido Anônimo"
+        ELSE
+            OP 2.3: Clicar em "Pedido Identificado"
+            OP 2.4: Inserir e-mail e senha
+            OP 2.5: Confirmar login ou criar nova conta
+
+    GOAL 3: Preencher o formulário de solicitação
+        OP 3.1: Inserir informações básicas (nome, endereço, título da solicitação)
+        OP 3.2: Descrever detalhadamente a solicitação
+        OP 3.3: Anexar arquivos, se necessário
+
+    GOAL 4: Cadastrar a solicitação
+        OP 4.1: Verificar se todos os campos estão preenchidos corretamente
+        OP 4.2: Clicar no botão "Cadastrar"
+        OP 4.3: Confirmar recebimento da mensagem de sucesso ou verificar mensagens de erro
+GOAL 5: Solicitação de informações enviada com sucesso
+```
+<center>
+
+Autor: [Paulo Henrique](https://github.com/paulomh)
+
+</center>
 
 ## Referências Bibliográficas
 > \- 1. BARBOSA, Simone, et al. Interação Humano-Computador. 1. ed. Rio de Janeiro: Elsevier, 2010. 
@@ -120,3 +174,4 @@ Com base nos [cenários](../analise-de-requisitos/cenarios.md) desenvolvidos ant
 | Versão | Data | Autor(es) | Descrição | Data de Revisão | Revisor(es) |
 |:---:|:---:|---|---|:---:|---|
 | 1.0 | 01/12/2024 | [Paulo Henrique](https://github.com/paulomh) | criação do documento | 01/12/2024 | [Weverton Rodrigues](https://github.com/vevetin) |
+| 1.0 | 02/12/2024 | [Paulo Henrique](https://github.com/paulomh) | Adição da Tarefa 01 | 02/12/2024 | [Necivaldo Amaral](https://github.com/junioramaral22) |

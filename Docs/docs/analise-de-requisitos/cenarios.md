@@ -121,6 +121,24 @@ A combinação desses dois modelos resultou em uma estrutura abrangente, que inc
 
    <p style={{ textAlign: 'center', fontSize: '17px' }}>Autor: [Paulo Henrique](https://github.com/paulomh)<br/></p>
   </TabItem>
+  <TabItem value="C05" label="Cenário 05" default>
+    <p style={{ textAlign: 'center', fontSize: '20px' }}><b>Tabela 5</b> - Busca por licitações</p>
+        <a id="tabela5-utilizacao-esic"></a>
+        |Elemento| Descrição |                     
+        |:---:|---|
+        | Objetivo | Acessar a lista de licitações desertas ou fracassadas, fazer uma busca pelo ano e filtrando por Modalidade, Status, Unidade, Número do Processo ou Número do Instrumento. Após encontrada, detalhar os dados da licitação, buscar por seus documentos e realizar o download no formado PDF.  |
+        | Contexto/Ambiente | Um funcionário da Secretaria Municipal de Educação de Nova Iorque deseja verificar os detalhes de uma licitação acerca de um registro de preços para aquisição de materiais de escritório para demanda interna e salvar as informações para um arquivo PDF para anexá-las à um email.  |
+        | Recursos | - Computador com acesso à internet;<br/>- Site da prefeitura;<br/> - Informações sobre a licitação  |
+        | Ator(es)    | Antônio Freitas, 28 anos, Funcionario da Secretaria Municipal de Educação |
+        | Episódios/Planejamento | 1. Antônio acessa o site da prefeitura municipal de Nova Iorque;<br/>2. Na página inicial, passa o mouse sobre a seção "Licitações e Contratos" no menu de navegação carrossel ;<br/>3. Procura na lista de opções o campo "Destas ou Fracassadas";<br/>4. Antônio visualiza a página de licitações e com o mouse, seleciona o ano de 2023;<br/>5. Uma lista de licitações é exibida na página;<br/>6. Antônio aplica o filtro de modalidade e número do processo obtendo o resultado exato que buscava; <br/>7. Ao clicar no botão "Detalhar", Antônio é redirecionado para a página com os detalhes sobre a licitação;<br/>8. Ele identifica campos sem preenchimento ou com mensagens de erro do sistema;<br/>9. Antônio rola a visualização para baixo e encontra o botão escrito "PDF". Após clicar, ele é redirecionado para uma nova aba com o arquivo, conseguindo realizar o download corretamente.  |
+        | Ações | - Navegar até a seção correta do site;<br/>- Filtrar os resultados pelos campos desejados;<br/>- Clicar no botão de Detalhar;<br/> - Navegar até o botão de PDF e baixar o arquivo; |
+        | Eventos | - Necessidade de informações acerca de uma licitação;<br/>- Busca pela licitação através de campos de filtro;<br/>- O arquivo desejado é baixado no formato PDF. |
+        | Restrições| - Informações de busca fornecidas à Antônio estarem incorretas |
+        | Exceção | - Perda de conexão com a internet. |
+        | Avaliação | O objetivo foi alcançado ao realizar o download do arquivo com as informações necessárias. |
+
+   <p style={{ textAlign: 'center', fontSize: '17px' }}>Autor: [Rodrigo Wendrel](https://github.com/rodwendrel)<br/></p>
+  </TabItem>
 </Tabs>
 
 
@@ -144,3 +162,4 @@ A combinação desses dois modelos resultou em uma estrutura abrangente, que inc
 | 1.1 | 30/11/2024 | [Necivaldo Amaral](https://github.com/junioramaral22) | Adição de cenário ao documento  | 01/12/2024 | [Weverton Rodrigues](https://github.com/vevetin) |
 | 1.2 | 01/12/2024 | [Pedro Luiz](https://github.com/pedroluizfo) | Adição do cenário 3 ao documento  | 01/12/2024 | [Weverton Rodrigues](https://github.com/vevetin) |
 | 1.3 | 01/12/2024 | [Paulo Henrique](https://github.com/paulomh) | Adição do cenário 4 ao documento  | 01/12/2024 | [Weverton Rodrigues](https://github.com/vevetin) |
+| 1.4 | 01/12/2024 | [Rodrigo Wendrel](https://github.com/rodwendrel) | Adição do cenário 5 ao documento  | |  |

@@ -215,6 +215,56 @@ GOAL 0: Agendar consulta médica no site da prefeitura.
     Autor: [Weverton Rodrigues](https://github.com/vevetin) | Fonte: Draw.io, 2024
 </center>
 
+### Tarefa 03 - Acessar informações de licitações desertas ou fracassadas
+
+#### Análise HTA
+<center>
+    <p><strong>Figura 7:</strong> Análise da tarefa: cessar informações de licitações desertas ou fracassadas</p>
+    ![analise-tarefa-hta-rodrigo](../analise-de-requisitos/assets/analise-hta-rodrigo.svg)
+    Autor: [Rodrigo Wendrel](https://github.com/rodwendrel) | Fonte: Draw.io, 2024
+</center>
+
+#### Análise CMN-GOMS detalhado
+ 
+```
+GOAL 0: Baixar o documento de uma licitação no site da prefeitura.  
+	GOAL 1: Acessar a seção de licitações desertas ou fracassadas.  
+		METHOD 1.A: Navegar pelo menu principal.  
+		(SEL. RULE: O usuário identifica visualmente a opção correta no menu)  
+			OP. 1.A.1: Posicionar o cursor do mouse sobre o menu "Licitações e Contratos".  
+			OP. 1.A.2: Verificar se o submenu exibe a opção "Desertas ou Fracassadas".  
+			OP. 1.A.3: Clicar na opção "Desertas ou Fracassadas".  
+			OP. 1.A.4: Aguardar o carregamento da página correspondente.  
+
+	GOAL 2: Localizar a licitação desejada.  
+		METHOD 2.A: Aplicar os filtros de busca.  
+		(SEL. RULE: O usuário busca por ano, modalidade ou número do processo)  
+			OP. 2.A.1: Identificar o campo de busca de ano e selecionar "2023".  
+			OP. 2.A.2: Preencher o filtro "Modalidade" com a informação correta.  
+			OP. 2.A.3: Inserir o número do processo no campo correspondente.  
+			OP. 2.A.4: Clicar no botão "Pesquisar".  
+			OP. 2.A.5: Aguardar os resultados da pesquisa.  
+
+	GOAL 3: Visualizar os detalhes da licitação.  
+		METHOD 3.A: Selecionar a licitação correta nos resultados.  
+		(SEL. RULE: O usuário verifica visualmente os dados exibidos)  
+			OP. 3.A.1: Analisar as informações das licitações listadas nos resultados.  
+			OP. 3.A.2: Confirmar se a licitação desejada aparece na lista.  
+			OP. 3.A.3: Clicar no botão "Detalhar" associado à licitação correta.  
+			OP. 3.A.4: Aguardar o carregamento da página de detalhes.  
+
+	GOAL 4: Baixar o arquivo PDF correspondente.  
+		METHOD 4.A: Utilizar o botão de download.  
+		(SEL. RULE: O botão de download do arquivo está visível e acessível)  
+			OP. 4.A.1: Localizar o botão "PDF" na página de detalhes da licitação.  
+			OP. 4.A.2: Clicar no botão "PDF" para abrir o arquivo.  
+			OP. 4.A.3: Selecionar a opção "Salvar como" no navegador.  
+			OP. 4.A.4: Escolher o diretório onde o arquivo será salvo.  
+			OP. 4.A.5: Confirmar a ação de salvar o arquivo no dispositivo.  
+```
+<center>
+    Autor: [Rodrigo Wendrel](https://github.com/rodwendrel)
+</center>
 
 ## Referências Bibliográficas
 > \- 1. BARBOSA, Simone, et al. Interação Humano-Computador. 1. ed. Rio de Janeiro: Elsevier, 2010. 
@@ -229,3 +279,4 @@ GOAL 0: Agendar consulta médica no site da prefeitura.
 | 1.0 | 01/12/2024 | [Paulo Henrique](https://github.com/paulomh) | criação do documento | 01/12/2024 | [Weverton Rodrigues](https://github.com/vevetin) |
 | 1.1 | 02/12/2024 | [Paulo Henrique](https://github.com/paulomh) | Adição da Tarefa 01 | 02/12/2024 | [Necivaldo Amaral](https://github.com/junioramaral22) |
 | 1.2 | 02/12/2024 | [Weverton Rodrigues](https://github.com/vevetin) | Adição da Tarefa 02 | 02/12/2024 | [Paulo Henrique](https://github.com/paulomh) |
+| 1.3 | 02/12/2024 | [Rodrigo Wendrel](https://github.com/rodwendrel) | Adição da Tarefa 03 | 02/12/2024 | |

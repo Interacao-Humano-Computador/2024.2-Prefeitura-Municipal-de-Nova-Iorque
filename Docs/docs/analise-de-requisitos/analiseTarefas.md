@@ -110,7 +110,7 @@ Com base nos [cenários](../analise-de-requisitos/cenarios.md) desenvolvidos ant
 
 ### Tarefa 01 - Realizar pedido no e-SIC
 
-Neta tarefa, a persona José Ricardo deseja realizar um pedido de informação no e-SIC. Para isso, ele acessa o site da prefeitura, navega até a aba do e-SIC, busca pelo formulário de pedido de informação, preenche os campos obrigatórios e envia o pedido.
+Nesta tarefa, a persona José Ricardo deseja realizar um pedido de informação no e-SIC. Para isso, ele acessa o site da prefeitura, navega até a aba do e-SIC, busca pelo formulário de pedido de informação, preenche os campos obrigatórios e envia o pedido.
 
 #### Análise HTA
 
@@ -266,6 +266,70 @@ GOAL 0: Baixar o documento de uma licitação no site da prefeitura.
     Autor: [Rodrigo Wendrel](https://github.com/rodwendrel)
 </center>
 
+### Tarefa 04 - Consulta e Envio de Nota Fiscal Eletrônica no Site da Prefeitura
+
+Esta tarefa foi realizada com base na persona Leonardo Almeida, um empresário do setor de varejo. Ele utiliza o site da Prefeitura de Nova Iorque (MA) para acessar serviços de emissão e consulta de notas fiscais eletrônicas (NF-e). A análise foi conduzida utilizando as técnicas de CMN-GOMS detalhado e Análise Hierárquica de Tarefas (HTA).
+
+
+
+#### Análise HTA
+<center>
+    <p><strong>Figura 8:</strong> Análise da tarefa: Consulta e Envio de Nota Fiscal Eletrônica no Site da Prefeitura</p>
+    ![analise-tarefa-hta-necivaldo](../analise-de-requisitos/assets/analise-hta-necivaldo.svg)
+    Autor: [Necivaldo Amaral](https://github.com/junioramaral22) | Fonte: Draw.io, 2024
+</center>
+
+#### Análise CMN-GOMS detalhado
+ 
+```
+GOAL 0: Emitir Nota Fiscal Eletrônica no sistema NF-e.  
+	GOAL 1: Localizar o sistema NF-e no site.  
+		METHOD 1.A: Navegar pelo menu principal.  
+		(SEL. RULE: O usuário identifica visualmente a opção correta no menu)  
+			OP. 1.A.1: Identificar e clicar na seção "Empresas" ou "Nota Fiscal Eletrônica".
+			OP. 1.A.2: Verificar se o submenu exibe a opção "Emitir Nota Fiscal Eletrônica".  
+			OP. 1.A.3: Confirmar se a página do sistema NF-e é exibida.
+		METHOD 1.B: Usar a barra de pesquisa do site.
+		(SEL. RULE: Se o empresário prefere buscar diretamente.)
+			OP. 1.B.1: Localizar a barra de pesquisa.
+			OP. 1.B.2: Posicionar o cursor e digitar "Nota Fiscal Eletrônica" ou "NF-e".
+			OP. 1.B.3: Pressionar "Enter".
+			OP. 1.B.4: Verificar os resultados da busca e clicar no link correspondente ao sistema NF-e.
+	GOAL 2: Fazer login no sistema NF-e.
+		METHOD 2.A: Inserir credenciais existentes.
+		(SEL. RULE: Caso o empresário já tenha um cadastro no sistema.)  
+			OP. 2.A.1: Inserir CNPJ da empresa no campo específico.
+			OP. 2.A.2: Digitar a senha cadastrada.
+			OP. 2.A.3: Clicar em "Entrar".
+		METHOD 2.B: Recuperar senha (caso necessária)
+		(SEL. RULE: Quando o empresário não se lembra da senha.)
+			OP. 2.B.1: Clicar no link "Esqueceu sua senha?".
+			OP. 2.B.2: Inserir e-mail ou dados cadastrais (CNPJ, razão social).
+			OP. 2.B.3: Seguir instruções para redefinir a senha e realizar login.
+
+	GOAL 3: Preencher os dados da Nota Fiscal.
+		METHOD 3.A: Preencher manualmente os campos obrigatórios.  
+		(SEL. RULE: Para informações não preenchidas automaticamente.)  
+			OP. 3.A.1: Inserir dados do prestador (CNPJ, endereço, e-mail).
+			OP. 3.A.2: Inserir dados do tomador (CPF/CNPJ, nome/razão social, endereço).
+			OP. 3.A.3: Adicionar descrição detalhada do serviço prestado.
+			OP. 3.A.4: Informar o valor, alíquota e tributos correspondentes.
+		METHOD 3.B: Revisar dados preenchidos automaticamente (se houver).
+			(SEL. RULE: Quando o sistema já possui informações do cadastro do prestador.)
+			OP. 3.B.1: Verificar informações exibidas nos campos obrigatórios.
+			OP. 3.B.2: Atualizar qualquer informação incorreta antes de prosseguir.
+
+	GOAL 4: Emitir a Nota Fiscal.
+		METHOD 4.A: Utilizar o botão de download.  
+		(SEL. RULE: Quando todas as informações estão completas e validadas.)  
+			OP. 4.A.1: Clicar no botão "Emitir Nota Fiscal".
+			OP. 4.A.2: Esperar a geração do documento em formato eletrônico.  
+			OP. 4.A.3: Salvar ou imprimir o arquivo gerado (PDF).  
+```
+<center>
+    Autor: [Necivaldo Amaral](https://github.com/junioramaral22)
+</center>
+
 ## Referências Bibliográficas
 > \- 1. BARBOSA, Simone, et al. Interação Humano-Computador. 1. ed. Rio de Janeiro: Elsevier, 2010. 
 
@@ -280,3 +344,4 @@ GOAL 0: Baixar o documento de uma licitação no site da prefeitura.
 | 1.1 | 02/12/2024 | [Paulo Henrique](https://github.com/paulomh) | Adição da Tarefa 01 | 02/12/2024 | [Necivaldo Amaral](https://github.com/junioramaral22) |
 | 1.2 | 02/12/2024 | [Weverton Rodrigues](https://github.com/vevetin) | Adição da Tarefa 02 | 02/12/2024 | [Paulo Henrique](https://github.com/paulomh) |
 | 1.3 | 02/12/2024 | [Rodrigo Wendrel](https://github.com/rodwendrel) | Adição da Tarefa 03 | 02/12/2024 | |
+| 1.4 | 02/12/2024 | [Necivaldo Amaral](https://github.com/junioramaral22) | Adição da Tarefa 04 | 02/12/2024 | [Pedro Luiz](https://github.com/pedroluizfo)|

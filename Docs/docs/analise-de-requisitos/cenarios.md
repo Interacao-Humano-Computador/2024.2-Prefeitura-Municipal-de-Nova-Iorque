@@ -50,8 +50,8 @@ A combinação desses dois modelos resultou em uma estrutura abrangente, que inc
 
 <Tabs>
   <TabItem value="C01" label="Cenário 01" default>
-    <p style={{ textAlign: 'center', fontSize: '20px' }}><b>Tabela 2</b> - Cenário de Agendamento de Consulta Médica para Dona Lúcia</p>
-
+    <p style={{ textAlign: 'center', fontSize: '20px' }}><b>Tabela 2</b> - Agendamento de Consulta Médica para Dona Lúcia</p>
+    
         |Elemento| Descrição |                     
         |:---:|---|
         | Objetivo | Agendar uma consulta médica para Dona Lúcia em um serviço público de saúde, garantindo simplicidade e acessibilidade. Dona Lúcia precisa selecionar o tipo de consulta, horário e data disponíveis, além de obter a confirmação do agendamento.|
@@ -68,8 +68,8 @@ A combinação desses dois modelos resultou em uma estrutura abrangente, que inc
    <p style={{ textAlign: 'center', fontSize: '17px' }}>Autor: [Weverton Rodrigues](https://github.com/vevetin)</p>
   </TabItem>
   <TabItem value="C02" label="Cenário 02" default>
-    <p style={{ textAlign: 'center', fontSize: '20px' }}><b>Tabela 3</b> - Cenário: Consulta e Download de Editais de Licitação para Leonardo Almeida</p>
-
+    <p style={{ textAlign: 'center', fontSize: '20px' }}><b>Tabela 3</b> - Consulta e Download de Editais de Licitação para Leonardo Almeida</p>
+        
         |Elemento| Descrição |                     
         |:---:|---|
         | Objetivo |Leonardo deseja acessar rapidamente editais de licitação relevantes ao setor de varejo para identificar oportunidades de fornecimento de uniformes para uma instituição pública local.|
@@ -86,12 +86,12 @@ A combinação desses dois modelos resultou em uma estrutura abrangente, que inc
    <p style={{ textAlign: 'center', fontSize: '17px' }}>Autor: [Necivaldo Amaral](https://github.com/junioramaral22)</p>
   </TabItem>
   <TabItem value="C03" label="Cenário 03" default>
-    <p style={{ textAlign: 'center', fontSize: '20px' }}><b>Tabela 4</b> - Cenário de reclamação sobre coleta de lixo para João Da Silva</p>
+    <p style={{ textAlign: 'center', fontSize: '20px' }}><b>Tabela 4</b> - Reclamação sobre coleta de lixo para João Da Silva</p>
 
       | Elemento | Descrição |
       |:---:|---|
       | Objetivo | Facilitar o uso do canal eletrônico de ouvidoria pelos cidadãos para registrar elogios, reclamações, solicitações, sugestões e denúncias.                                                                         |
-      | Contexto/Ambiente | O site da prefeitura apresenta uma interface pouco informativa e recursos mal localizados. A [ouvidoria digital](https://www.administracaopublica.com.br/ouvidoria?token=4f1cf16edf5d73feaad4fec2a03c7c9e1cf536aa) não conta com campos informativos para orientar um usuário em como as solicitações devem ser feitas, a parte de [perguntas e respostas](https://www.administracaopublica.com.br/ouvidoria/acompanhamento?token=4f1cf16edf5d73feaad4fec2a03c7c9e1cf536aa[) e pouco abrangente e muito geral, a página ["Fale Conosco"](https://www.novaiorque.ma.gov.br/atendimento/fale-conosco-atendimento) retorna erro 404, e o único canal de atendimento está escondido no rodapé, dificultando o acesso dos usuários. |
+      | Contexto/Ambiente | O site da prefeitura apresenta uma interface pouco informativa e recursos mal localizados. A [ouvidoria digital](https://www.administracaopublica.com.br/ouvidoria?token=4f1cf16edf5d73feaad4fec2a03c7c9e1cf536aa) não conta com campos informativos para orientar um usuário em como as solicitações devem ser feitas, a parte de [perguntas e respostas](https://www.administracaopublica.com.br/ouvidoria/acompanhamento?token=4f1cf16edf5d73feaad4fec2a03c7c9e1cf536aa) e pouco abrangente e muito geral, a página ["Fale Conosco"](https://www.novaiorque.ma.gov.br/atendimento/fale-conosco-atendimento) retorna erro 404, e o único canal de atendimento está escondido no rodapé, dificultando o acesso dos usuários. |
       | Recursos | - Computador ou dispositivo móvel com acesso à internet;<br/>- [Site oficial da prefeitura](https://www.novaiorque.ma.gov.br/);<br/>- Possível suporte técnico do setor de TI da prefeitura.                       |
       | Ator(es) | Usuário fictício: João da Silva, 35 anos, trabalhador autônomo com pouco conhecimento técnico, tentando registrar uma reclamação sobre a coleta de lixo em sua rua.                                              |
       | Episódios/Planejamento | 1. João acessa o site da prefeitura pelo celular;<br/>2. Encontra a seção de ouvidoria no menu;<br/>3. Clica em "Canal Eletrônico", mas não entende as opções por falta de explicação;<br/>4. Nota que a página "Fale Conosco" não funciona;<br/>5. Encontra o canal de dúvidas no rodapé do site, mas não obtém resposta imediata. |
@@ -104,8 +104,8 @@ A combinação desses dois modelos resultou em uma estrutura abrangente, que inc
   <p style={{ textAlign: 'center', fontSize: '17px' }}>Autor: [ Pedro Luiz](https://github.com/pedroluizfo)</p>
   </TabItem>
 <TabItem value="C04" label="Cenário 04" default>
-    <p style={{ textAlign: 'center', fontSize: '20px' }}><b>Tabela 5</b> - Cenário de utilização do e-SIC</p>
-
+    <p style={{ textAlign: 'center', fontSize: '20px' }}><b>Tabela 5</b> - Utilização do e-SIC</p>
+        <a id="tabela5-utilizacao-esic"></a>
         |Elemento| Descrição |                     
         |:---:|---|
         | Objetivo | Permitir que José Ricardo, um educador da rede municipal de Nova Iorque, utilize o sistema e-SIC para solicitar informações sobre políticas educacionais, materiais de ensino e eventos educacionais. A meta é que ele possa acessar facilmente essas informações para se manter atualizado sobre decisões que impactam diretamente sua prática pedagógica, garantindo transparência e eficiência no processo.|

@@ -115,13 +115,9 @@ Neta tarefa, a persona José Ricardo deseja realizar um pedido de informação n
 #### Análise HTA
 
 <center>
-
-<p><strong>Figura 5:</strong> Análise da tarefa: Realizar pedido no e-SIC</p>
-
-![analise-tarefa-hta-paulo](../analise-de-requisitos/assets/analise-hta-paulo.svg)
-
-Autor: [Paulo Henrique](https://github.com/paulomh)
-
+    <p><strong>Figura 5:</strong> Análise da tarefa: Realizar pedido no e-SIC</p>
+    ![analise-tarefa-hta-paulo](../analise-de-requisitos/assets/analise-hta-paulo.svg)
+    Autor: [Paulo Henrique](https://github.com/paulomh)
 </center>
 
 #### Análise CMN-GOMS
@@ -158,10 +154,67 @@ GOAL 0: Buscar informações no e-SIC
 GOAL 5: Solicitação de informações enviada com sucesso
 ```
 <center>
-
-Autor: [Paulo Henrique](https://github.com/paulomh)
-
+    Autor: [Paulo Henrique](https://github.com/paulomh)
 </center>
+
+
+### Tarefa 02 - Agendar consulta médica no site da prefeitura
+
+Esta tarefa foi realizada com base no [Cenário 1: Agendamento de Consulta Médica para Dona Lúcia](../analise-de-requisitos/cenarios.md#cenários-identificados), descrito no documento de Cenários. O cenário ilustra as dificuldades de usuários com baixa familiaridade tecnológica, como Dona Lúcia, ao interagir com o site da Prefeitura de Nova Iorque. A análise foi realizada utilizando as técnicas de CMN-GOMS detalhado e Análise Hierárquica de Tarefas (HTA), que permitiram decompor as atividades em etapas claras e objetivas.
+
+#### Análise CMN-GOMS detalhado
+
+```
+GOAL 0: Agendar consulta médica no site da prefeitura.
+	GOAL 1: Localizar a seção de agendamento.
+		METHOD 1.A: Navegar pelo menu principal.
+		(SEL. RULE: Usuário identifica visualmente a opção correta no menu)
+    			OP. 1.A.1: Ler as opções do menu principal.
+    			OP. 1.A.2: Clicar na seção "Saúde".
+    			OP. 1.A.3: Verificar se aparece a opção "Agendamento de Consultas".
+    			OP. 1.A.4: Clicar em "Agendamento de Consultas".
+		METHOD 1.B: Usar a barra de pesquisa do site.
+		(SEL. RULE: Usuário não encontra a opção no menu principal ou prefere buscar diretamente)
+    			OP. 1.B.1: Localizar a barra de pesquisa no site.
+    			OP. 1.B.2: Posicionar o cursor na barra de pesquisa.
+    			OP. 1.B.3: Digitar "agendamento de consultas".
+    			OP. 1.B.4: Pressionar "Enter".
+    			OP. 1.B.5: Verificar se os resultados incluem a opção correta.
+    			OP. 1.B.6: Clicar no link correspondente.
+
+	GOAL 2: Preencher o formulário de agendamento.
+   		METHOD 2.A: Informar dados obrigatórios.
+		(SEL. RULE: Se o usuário não fez login, ele deve preencher os dados obrigatórios)
+    			METHOD 2.A.A:Preencher campos obrigatórios.
+    	   			OP. 2.A.A.1:Preencher nome, CPF, endereço, número do CNS.
+    			METHOD 2.A.B:Revisar preenchimento automático.
+        			OP. 2.A.B.1:Verificar se os campos obrigatórios estão preenchidos automaticamente (login já efetuado).
+        			OP. 2.A.B.2:Confirmar ou corrigir os dados preenchidos automaticamente.
+    		METHOD 2.B: Escolher especialidade, data, horário e UBS disponível.
+    		(SEL. RULE: Usuário deve selecionar todos os campos antes de submeter)
+        		OP. 2.B.1: Escolher especialidade médica no menu suspenso.
+        		OP. 2.B.2: Selecionar a data desejada no calendário interativo.
+        		OP. 2.B.3: Escolher o horário disponível na lista de opções.
+       			OP. 2.B.4: Escolher a UBS disponível mais próxima.
+	
+	GOAL 3: Concluir o agendamento.
+		METHOD 3.A: Salvar o comprovante de agendamento.
+		(SEL. RULE: Usuário quer armazenar o comprovante)
+    			OP. 3.A.1: Clicar no botão "Baixar comprovante".
+    			OP. 3.A.2: Escolher o local para salvar o arquivo.
+    			OP. 3.A.3: Confirmar o download.
+ ```
+<center>
+    Autor: [Weverton Rodrigues](https://github.com/vevetin)
+</center>
+
+#### Análise HTA
+<center>
+    <p><strong>Figura 6:</strong> Análise da tarefa: Agendar consulta médica no site da prefeitura</p>
+    ![analise-tarefa-hta-weverton](../analise-de-requisitos/assets/analise-hta-weverton.svg)
+    Autor: [Weverton Rodrigues](https://github.com/vevetin)
+</center>
+
 
 ## Referências Bibliográficas
 > \- 1. BARBOSA, Simone, et al. Interação Humano-Computador. 1. ed. Rio de Janeiro: Elsevier, 2010. 
@@ -175,3 +228,4 @@ Autor: [Paulo Henrique](https://github.com/paulomh)
 |:---:|:---:|---|---|:---:|---|
 | 1.0 | 01/12/2024 | [Paulo Henrique](https://github.com/paulomh) | criação do documento | 01/12/2024 | [Weverton Rodrigues](https://github.com/vevetin) |
 | 1.1 | 02/12/2024 | [Paulo Henrique](https://github.com/paulomh) | Adição da Tarefa 01 | 02/12/2024 | [Necivaldo Amaral](https://github.com/junioramaral22) |
+| 1.2 | 02/12/2024 | [Weverton Rodrigues](https://github.com/vevetin) | Adição da Tarefa 02 | 02/12/2024 | [Paulo Henrique](https://github.com/paulomh) |

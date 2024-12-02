@@ -258,8 +258,8 @@ Portanto, o público-alvo do site da Prefeitura Municipal de Nova Iorque é hete
 ---
 | Versão | Data | Autor(es) | Descrição | Data de Revisão | Revisor(es) |
 |:---:|:---:|---|---|:---:|---|
-| 1.0 | 18/11/2024 | [Weverton Rodrigues](https://github.com/vevetin) | criação do documento | | |
-| 1.1 | 20/11/2024 | [Paulo Henrique](https://github.com/paulomh), [Weverton Rodrigues](https://github.com/vevetin) | atualização do documento | | |
-| 1.2 | 24/11/2024 | [Weverton Rodrigues](https://github.com/vevetin) | atualização da metodologia e inclusão do questionário |  |
-| 1.3 | 26/11/2024 | [Paulo Henrique](https://github.com/paulomh), [Weverton Rodrigues](https://github.com/vevetin) | adicionado resultados do questionário | | |
-| 1.4 | 27/11/2024 | [Weverton Rodrigues](https://github.com/vevetin) | ajustes finais no conteúdo | | |
+| 1.0 | 18/11/2024 | [Weverton Rodrigues](https://github.com/vevetin) | criação do documento | 02/12/2024 | [Pedro Luiz](https://github.com/pedroluizfo) |
+| 1.1 | 20/11/2024 | [Paulo Henrique](https://github.com/paulomh), [Weverton Rodrigues](https://github.com/vevetin) | atualização do documento | 02/12/2024 | [Pedro Luiz](https://github.com/pedroluizfo) |
+| 1.2 | 24/11/2024 | [Weverton Rodrigues](https://github.com/vevetin) | atualização da metodologia e inclusão do questionário |  02/12/2024 | [Pedro Luiz](https://github.com/pedroluizfo) |
+| 1.3 | 26/11/2024 | [Paulo Henrique](https://github.com/paulomh), [Weverton Rodrigues](https://github.com/vevetin) | adicionado resultados do questionário | 02/12/2024 | [Pedro Luiz](https://github.com/pedroluizfo) |
+| 1.4 | 27/11/2024 | [Weverton Rodrigues](https://github.com/vevetin) | ajustes finais no conteúdo | 02/12/2024 | [Pedro Luiz](https://github.com/pedroluizfo) |

@@ -111,4 +111,4 @@ Tabela 4: Antipersona.
 ---
 | Versão | Data | Autor(es) | Descrição | Data de Revisão | Revisor(es) |
 |:---:|:---:|---|---|:---:|---|
-| 1.0 | 28/11/2024 | [Pedro Luiz](https://github.com/pedroluizfo), [Necivaldo Amaral](https://github.com/junioramaral22) | Criação do documento, introdução, metodologia e personas| | |
+| 1.0 | 28/11/2024 | [Pedro Luiz](https://github.com/pedroluizfo), [Necivaldo Amaral](https://github.com/junioramaral22) | Criação do documento, introdução, metodologia e personas| 01/12/2024 | [Paulo Henrique](https://github.com/paulomh) |

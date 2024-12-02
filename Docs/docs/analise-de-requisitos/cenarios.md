@@ -140,7 +140,7 @@ A combinação desses dois modelos resultou em uma estrutura abrangente, que inc
 ---
 | Versão | Data | Autor(es) | Descrição | Data de Revisão | Revisor(es) |
 |:---:|:---:|---|---|:---:|---|
-| 1.0 | 30/11/2024 | [Weverton Rodrigues](https://github.com/vevetin) | criação do documento | | |
-| 1.1 | 30/11/2024 | [Necivaldo Amaral](https://github.com/junioramaral22) | Adição de cenário ao documento  | | |
-| 1.2 | 01/12/2024 | [Pedro Luiz](https://github.com/pedroluizfo) | Adição do cenário 3 ao documento  | | |
-| 1.3 | 01/12/2024 | [Paulo Henrique](https://github.com/paulomh) | Adição do cenário 4 ao documento  | | [Weverton Rodrigues](https://github.com/vevetin) |
+| 1.0 | 30/11/2024 | [Weverton Rodrigues](https://github.com/vevetin) | criação do documento | 01/12/2024 | [Rodrigo Wendrel](https://github.com/rodwendrel) |
+| 1.1 | 30/11/2024 | [Necivaldo Amaral](https://github.com/junioramaral22) | Adição de cenário ao documento  | 01/12/2024 | [Weverton Rodrigues](https://github.com/vevetin) |
+| 1.2 | 01/12/2024 | [Pedro Luiz](https://github.com/pedroluizfo) | Adição do cenário 3 ao documento  | 01/12/2024 | [Weverton Rodrigues](https://github.com/vevetin) |
+| 1.3 | 01/12/2024 | [Paulo Henrique](https://github.com/paulomh) | Adição do cenário 4 ao documento  | 01/12/2024 | [Weverton Rodrigues](https://github.com/vevetin) |

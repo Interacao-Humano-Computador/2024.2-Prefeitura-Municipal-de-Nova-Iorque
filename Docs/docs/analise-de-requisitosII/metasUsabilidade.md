@@ -36,6 +36,8 @@ Além disso, durante a avaliação, cada meta possuirá uma <strong>pergunta cha
 
 ![Página Inicial do Site](../analise-de-requisitosII/assets/carousel.png)
 
+Autor: [Paulo Henrique](https://github.com/paulomh) | Fonte: BRASIL. Prefeitura Municipal de Nova Iorque
+
 </center> 
 
 ### Eficiência
@@ -52,15 +54,56 @@ Além disso, durante a avaliação, cada meta possuirá uma <strong>pergunta cha
 
 ### Memorização
 
+<strong>Pergunta Chave:</strong> O usuário consegue lembrar como utilizar o site após já ter aprendido?
+
+<strong>Avaliação:</strong> A memorização do site é consideravelmente boa, dado o fato que as funcionalidades não mudam de local, evitando que o usuário tenha que reaprender a utilizá-las. Porém, a falta de um suporte adequado para aprendizagem inicial prejudica a memorização, exigindo um esforço inicial maior. Para que essa meta seja satisfeita, é necessário implementar uma seção de perguntas e respostas mais consistente com guias de uso do site, além do mapa do site que já é disponibilizado.
+
 ### Segurança
 
+<strong>Pergunta Chave:</strong> O usuário consegue recuperar-se de erros com facilidade?
+
+<strong>Avaliação:</strong> A segurança do site é considerada baixa, pois não há mecanismos de recuperação de erros. O site não possui uma seção de ajuda ou um FAQ que possa auxiliar o usuário em caso de dúvidas ou erros. Além disso, na página inicial, a barra de pesquisa não funciona, impedindo que o usuário consiga digitar o que deseja procurar. Para driblar esse problema, o usuário precisa clicar na tupla de pesquisa, que o redireciona para uma página de busca, sendo considerado um erro gravíssimo que impede a recuperação de erros. Para que essa meta seja satisfeita, é necessário implementar uma seção de ajuda e um FAQ, além de corrigir a barra de pesquisa e possíveis funcinalidades com problemas semelhantes.
+
+<center>
+
+<p><strong>Figura 2a:</strong> Pesquisa página inicial (quebrada)</p>
+
+![Pesquisa página inicial (quebrada)](../analise-de-requisitosII/assets/pesquisaA.png)
+
+Autor: [Paulo Henrique](https://github.com/paulomh) | Fonte: BRASIL. Prefeitura Municipal de Nova Iorque
+
+</center> 
+
+<center>
+
+<p><strong>Figura 2b:</strong> Barra de pesquisa funcional</p>
+
+![Barra de pesquisa funcional](../analise-de-requisitosII/assets/pesquisaB.png)
+
+Autor: [Paulo Henrique](https://github.com/paulomh) | Fonte: BRASIL. Prefeitura Municipal de Nova Iorque
+
+</center> 
+
 ### Utilidade
+
+<strong>Pergunta Chave:</strong> O site oferece as funcionalidades necessárias para o usuário realizar as tarefas desejadas?
+
+<strong>Avaliação:</strong> A utilidade do site é considerada baixa, pois muitas funcionalidades são ofuscadas ou encontram-se ausentes. Além disso, algumas funcionalidades não funcionam corretamente, como a barra de pesquisa, quebrando a utilidade do site. Para que essa meta seja satisfeita, é necessário corrigir as funcionalidades quebradas e reorganizar o site de modo que as funcionalidades sejam claras e acessíveis.
+
+
+## Conclusão
+
+É notório que o site da prefeitura municipal de Nova Iorque não satisfaz grande parte das metas de usabilidade de forma satisfatória. A forma como o site foi organizado que é o principal fator que prejudica a usabilidade do site. A falta de clareza e organização das informações, além de funcionalidades quebradas, prejudicam a experiência do usuário e a eficácia do site. Para que o site atenda às metas de usabilidade, é necessário reorganizar as informações e corrigir as funcionalidades quebradas, tornando o site mais claro e acessível para o usuário.
+
+Assim, as metas que devem ser priorizadas, para que ele satisfaça minimamente a maioria das metas, no projeto são: aprendizagem, eficiência, segurança e utilidade. Essas metas são as que possuem uma implementação mais problemática e que devem ser priorizadas no projeto.
 
 ## Referências Bibliográficas
 
 > 1 - Diana Fournier. As 6 metas de Usabilidade. MEDIUM, 2016. Disponível em: https://medium.com/vivareal-ux-chapter/as-6-metas-de-usabilidade-9491442fd56a. Acesso em: 02 de dezembro de 2024.
 
 > 2 - Metas de Usabilidade Banco Central. Disponível em: [2023.1-BancoCentral](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/analise_requisitos/metas_usabilidade). Acesso em: 02 de dezembro de 2024.
+
+> \- BRASIL. Prefeitura Municipal de Nova Iorque. Prefeitura Municipal de Nova Iorque. Disponível em: https://www.novaiorque.ma.gov.br/. Acesso em: 03 dez. 2024.
 
 ## Bibliografia
 
@@ -71,3 +114,4 @@ Além disso, durante a avaliação, cada meta possuirá uma <strong>pergunta cha
 | Versão | Data | Autor(es) | Descrição | Data de Revisão | Revisor(es) |
 |:---:|:---:|---|---|:---:|---|
 | 1.0 | 02/12/2024 | [Paulo Henrique](https://github.com/paulomh) | criação do documento | 02/12/2024 | [Weverton Rodrigues](https://github.com/vevetin) |
+| 1.1 | 03/12/2024 | [Paulo Henrique](https://github.com/paulomh) | finalizando as metas de usabilidade faltantes | 03/12/2024 | [Pedro Luiz](https://github.com/pedroluizfo) |

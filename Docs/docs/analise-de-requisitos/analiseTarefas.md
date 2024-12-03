@@ -480,6 +480,6 @@ OP. 3.B.3: Clicar em "Buscar" para visualizar o status da solicitação.
 | 1.0 | 01/12/2024 | [Paulo Henrique](https://github.com/paulomh) | criação do documento | 01/12/2024 | [Weverton Rodrigues](https://github.com/vevetin) |
 | 1.1 | 02/12/2024 | [Paulo Henrique](https://github.com/paulomh) | Adição da Tarefa 01 | 02/12/2024 | [Necivaldo Amaral](https://github.com/junioramaral22) |
 | 1.2 | 02/12/2024 | [Weverton Rodrigues](https://github.com/vevetin) | Adição da Tarefa 02 | 02/12/2024 | [Paulo Henrique](https://github.com/paulomh) |
-| 1.3 | 02/12/2024 | [Rodrigo Wendrel](https://github.com/rodwendrel) | Adição da Tarefa 03 | 02/12/2024 | |
+| 1.3 | 02/12/2024 | [Rodrigo Wendrel](https://github.com/rodwendrel) | Adição da Tarefa 03 | 02/12/2024 | 03/12/2024|[Weverton Rodrigues](https://github.com/vevetin)|
 | 1.4 | 02/12/2024 | [Necivaldo Amaral](https://github.com/junioramaral22) | Adição da Tarefa 04 | 02/12/2024 | [Pedro Luiz](https://github.com/pedroluizfo)|
-| 1.5 | 03/12/2024 | [Pedro Luiz](https://github.com/pedroluizfo) | Adição da Tarefa 05 | | |
+| 1.5 | 03/12/2024 | [Pedro Luiz](https://github.com/pedroluizfo) | Adição da Tarefa 05 |03/12/2024 | [Weverton Rodrigues](https://github.com/vevetin)|

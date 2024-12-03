@@ -27,7 +27,7 @@ O objetivo deste documento é apresentar o planejamento da verificação dos ite
 | 7 – Ata(s) da(s) reuniões (com data, horário de início e do final, participantes, objetivo, atividades definidas etc). |                     |                                   |                                |
 | 8 – A gravação da reunião do grupo. |                     |                                   |                                |
 | 9 – Vídeo de apresentação na categoria “não listado” no YouTube?  |                     |                                   |                                |
-| 10 – A justificativa da escolha do Processo de Design?  |                     |                                   |                                |
+| 10 – As características da plataforma para o projeto  |                     |                                   |                                |
 | 11 – Os Princípios Gerais do Projeto que serão utilizados no projeto? |                     |                                   |                                |
 | 12 – Os Princípios Gerais do Projeto contém os seguintes tópicos:                                                    |                     |                                   |                                |
 | 12.1 – Correspondência com as expectativas dos usuários  |                     |                                   |                                |

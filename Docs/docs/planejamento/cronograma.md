@@ -153,7 +153,7 @@ O cronograma tem como objetivo organizar as atividades do projeto a serem realiz
     | Inspeção da entrega da apresentação do projeto Etapa 4 | 06/12/2024 | Paulo Henrique, Pedro Luiz, Necivaldo Amaral, Rodrigo Wendrel, Weverton Rodrigues | 06/12/2024 | Weverton Rodrigues | 10/12/2024 |
     | Gravação da apresentação | 07/12/2024 - 08/12/2024 | Paulo Henrique, Pedro Luiz, Necivaldo Amaral, Rodrigo Wendrel, Weverton Rodrigues | 08/12/2024 | Paulo Henrique | 10/12/2024 |
     | Edição da gravação | 08/12/2024 | Paulo Henrique | 08/12/2024 | Paulo Henrique, Pedro Luiz, Necivaldo Amaral, Rodrigo Wendrel, Weverton Rodrigues | 10/12/2024 |
-    | Cronograma executado | 08/12/2024 | 1 membro aqui | 08/12/2024 | Paulo Henrique, Pedro Luiz, Necivaldo Amaral, Rodrigo Wendrel, Weverton Rodrigues | 10/12/2024 |
+    | Cronograma executado | 08/12/2024 | Paulo Henrique | 08/12/2024 | Paulo Henrique, Pedro Luiz, Necivaldo Amaral, Rodrigo Wendrel, Weverton Rodrigues | 10/12/2024 |
     | Inspeção da entrega da apresentação do projeto etapa 4 do Grupo + 1 | 11/12/2024 | Paulo Henrique, Pedro Luiz, Necivaldo Amaral, Rodrigo Wendrel, Weverton Rodrigues | 11/12/2024 | Rodrigo Wendrel | 11/12/2024 |
     | Correção pós-apresentação | 12/12/2024 - 13/12/2024 | Paulo Henrique, Pedro Luiz, Necivaldo Amaral, Rodrigo Wendrel, Weverton Rodrigues | 12/12/2024 - 13/12/2024 | Paulo Henrique, Pedro Luiz, Necivaldo Amaral, Rodrigo Wendrel, Weverton Rodrigues | Não há entrega |
 

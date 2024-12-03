@@ -120,6 +120,26 @@ Nesta tarefa, a persona José Ricardo deseja realizar um pedido de informação 
     Autor: [Paulo Henrique](https://github.com/paulomh) | Fonte: Draw.io, 2024
 </center>
 
+<center>
+	<p><strong>Tabela 1:</strong> Tabela diagrama HTA: Realizar pedido no e-SIC</p>
+
+	| **Objetivos/Operações**                          | **Problemas e Recomendações**                                                                       |
+	|--------------------------------------------------|-----------------------------------------------------------------------------------------------------|
+	| 0. Buscar informações no e-SIC                   |                                                                                                     |
+	| 1. Localizar a seção "Cidadão / e-SIC"           |                                                                                                     |
+	| 1.1 Mapa do site                                 | **input**: clicar no botão "Mapa do site".<br/> **feedback**: exibição completa do mapa do site.<br/> **plano**: selecionar a seção "Cidadão / e-SIC" pelo mapa.                                                                   |
+	| 1.2 Buscar no carrossel                          | **feedback**: seção "e-SIC" acessível pelo carrossel.                                                                         |
+	| 2. Acessar o e-SIC                               | **input**: escolher entre "Pedido Identificado" ou "Pedido Anônimo".<br/> **feedback**: redirecionamento para a página correspondente.<br/> **plano**: entrar com login ou seguir com pedido anônimo.                              |
+	| 2.1 Pedido Identificado                          | **input**: inserir e-mail e senha ou fazer cadastro.<br/> **feedback**: usuário autenticado com sucesso.<br/> **plano**: acessar formulário de solicitação identificado.                                                           |
+	| 2.2 Pedido Anônimo                               | **input**: preencher o formulário sem dados pessoais.<br/> **feedback**: acesso direto ao formulário de pedido anônimo.<br/> **plano**: prosseguir com a solicitação sem identificação.                                            |
+	| 3. Preencher formulário                          | |
+	| 3.1 Preencher campos                             | **input**: fornecer informações como se reside no município, sexo, escolaridade, faixa etária e detalhamento da solicitação.<br/> **plano**: detalhamento da solicitação obrigatório            |
+	| 3.2 Anexar arquivos                              | **input**: selecionar arquivos no dispositivo.<br/> **feedback**: arquivos carregados com sucesso.                                                              |
+	| 4. Cadastrar                                     | **input**: clicar no botão "Cadastrar".<br/> **feedback**: confirmação do envio da solicitação.<br/> **plano**: finalizar o processo de solicitação de informações.                                                                |
+	
+	Autor: [Paulo Henrique](https://github.com/paulomh)
+</center>
+
 #### Análise CMN-GOMS
 
 ```

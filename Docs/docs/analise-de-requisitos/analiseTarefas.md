@@ -258,9 +258,32 @@ GOAL 0: Agendar consulta médica no site da prefeitura.
 
 #### Análise HTA
 <center>
-    <p><strong>Figura 7:</strong> Análise da tarefa: cessar informações de licitações desertas ou fracassadas</p>
+    <p><strong>Figura 7:</strong> Análise da tarefa: Acessar informações de licitações desertas ou fracassadas</p>
     ![analise-tarefa-hta-rodrigo](../analise-de-requisitos/assets/analise-hta-rodrigo.svg)
     Autor: [Rodrigo Wendrel](https://github.com/rodwendrel) | Fonte: Draw.io, 2024
+</center>
+
+<center>
+	<p><strong>Tabela 3:</strong> Tabela diagrama HTA: Acessar informações de licitações desertas ou fracassadas</p>
+
+# Tabela de Análise HTA
+
+| **Objetivos/Operações** | **Problemas e Recomendações** |
+|---|---|
+| 0. Acessar informações de licitações 1 > 2 > 3 | **input:** usuário acessa o sistema de licitações.<br/> **feedback:** informações acessíveis e seção de download disponível.<br/> **plano:** realizar todas as etapas em sequência.<br/> **recomendação:** simplificar o acesso à seção de licitações com um link direto na página inicial. |
+| 1. Acessar a seção de Licitações 1.1 / 1.2 | **plano:** alcançar navegando pelo menu **ou** utilizando a barra de pesquisa. |
+| 1.1 Buscar "Licitações e Contratos" | **input:** termo buscado pelo usuário.<br/> **feedback:** resultados exibidos com destaque para "Licitações e Contratos".<br/> **recomendação:** melhorar o algoritmo de busca para priorizar termos exatos. |
+| 1.2 Encontrar a opção "Desertas" | **input:** usuário navega pela seção.<br/> **feedback:** opção claramente visível na interface.<br/> **recomendação:** reorganizar as opções para maior visibilidade da seção "Desertas". |
+| 2. Filtrar resultados das licitações 2.1 > 2.4 | **plano:** aplicar filtros específicos para restringir os resultados desejados. |
+| 2.1 Filtrar por ano e número da licitação | **input:** critérios de filtro (ano e número).<br/> **feedback:** resultados atualizados conforme critérios aplicados.<br/> **recomendação:** adicionar exemplos nos campos de entrada para orientar o usuário. |
+| 2.2 Clicar em "Detalhar" na lista | **ação:** usuário clica na opção detalhar.<br/> **feedback:** detalhes da licitação carregados na tela.<br/> **recomendação:** incluir botão com descrição clara e destaque visual. |
+| 2.3 Visualizar informações | **input:** informações detalhadas exibidas na tela.<br/> **feedback:** informações completas e bem organizadas.<br/> **recomendação:** apresentar um resumo inicial com links para detalhes adicionais. |
+| 2.4 Ir até a seção de download | **input:** usuário navega até o local de download.<br/> **feedback:** botão de download claramente identificado.<br/> **recomendação:** criar um atalho direto para o botão de download na seção de detalhes. |
+| 3. Fazer download do PDF | **ação:** botão "Baixar PDF".<br/> **feedback:** download iniciado e arquivo salvo.<br/> **recomendação 1:** destacar o botão de download com cor ou ícone.<br/> **recomendação 2:** enviar o arquivo por e-mail automaticamente. |
+
+
+	
+Autor [Rodrigo Wendrel](https://github.com/rodwendrel)
 </center>
 
 #### Análise CMN-GOMS detalhado
@@ -301,6 +324,7 @@ GOAL 0: Baixar o documento de uma licitação no site da prefeitura.
 			OP. 4.A.4: Escolher o diretório onde o arquivo será salvo.  
 			OP. 4.A.5: Confirmar a ação de salvar o arquivo no dispositivo.  
 ```
+
 <center>
     Autor: [Rodrigo Wendrel](https://github.com/rodwendrel)
 </center>
@@ -483,3 +507,4 @@ OP. 3.B.3: Clicar em "Buscar" para visualizar o status da solicitação.
 | 1.3 | 02/12/2024 | [Rodrigo Wendrel](https://github.com/rodwendrel) | Adição da Tarefa 03 | 02/12/2024 | [Weverton Rodrigues](https://github.com/vevetin)|
 | 1.4 | 02/12/2024 | [Necivaldo Amaral](https://github.com/junioramaral22) | Adição da Tarefa 04 | 02/12/2024 | [Pedro Luiz](https://github.com/pedroluizfo)|
 | 1.5 | 03/12/2024 | [Pedro Luiz](https://github.com/pedroluizfo) | Adição da Tarefa 05 |03/12/2024 | [Weverton Rodrigues](https://github.com/vevetin)|
+| 1.6 | 03/12/2024 | [Rodrigo Wendrel](https://github.com/rodwendrel) | Adição da tabela hta 03 |03/12/2024 | [Weverton Rodrigues](https://github.com/vevetin)|

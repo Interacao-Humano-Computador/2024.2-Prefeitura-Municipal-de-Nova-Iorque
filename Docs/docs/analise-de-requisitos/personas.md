@@ -24,7 +24,8 @@ Ao integrar essas representações no processo de design, as personas tornam-se 
 ## Elenco de Personas
 
 ### João Ricardo
-
+<p align="center">Tabela 1: Primeira persona.</p>
+ 
 |    |    |
 | :----: | :---------------------: |
 |  Nome  |   João Ricardo   |
@@ -40,9 +41,11 @@ Ao integrar essas representações no processo de design, as personas tornam-se 
 | Requisitos |  Disponibilizar informações claras sobre eventos educacionais, acesso a materiais didáticos e suporte tecnológico básico.    |
 ---
 
-Tabela 1: Primeira persona.
+<p align="center"> Autor: [Necivaldo Amaral](https://github.com/junioramaral22)</p>
 
 ### Carmen Lucia
+<p align="center">Tabela 2: Segunda persona.</p>
+
 
 |    |    |
 | :----: | :---------------------: |
@@ -59,9 +62,11 @@ Tabela 1: Primeira persona.
 | Requisitos |  Interface acessível para idosos, com letras grandes, boa organização e suporte a leitores de tela.    |
 ---
 
-Tabela 2: Segunda persona.
+<p align="center"> Autor: [Necivaldo Amaral](https://github.com/junioramaral22)</p>
+
 
 ### Leonardo Almeida
+<p align="center">Tabela 3: Terceira persona.</p>
 
 |    |    |
 | :----: | :---------------------: |
@@ -78,9 +83,12 @@ Tabela 2: Segunda persona.
 | Requisitos |  Disponibilizar licitações organizadas, guias de tributos acessíveis e suporte para busca de regulamentações específicas.    |
 
 ---
-Tabela 3: Terceira persona.
+<p align="center"> Autor: [Necivaldo Amaral](https://github.com/junioramaral22)</p>
+
 
 ### Antipersona: Carlos Eduardo
+<p align="center">Tabela 4: Antipersona.</p>
+
 
 |    |    |
 | :----: | :---------------------: |
@@ -97,7 +105,8 @@ Tabela 3: Terceira persona.
 | Requisitos | Nenhum requisito relacionado ao site da prefeitura, pois não pertence ao público-alvo e não usa os serviços municipais. |
 
 ---
-Tabela 4: Antipersona.
+<p align="center"> Autor: [Pedro Luiz](https://github.com/pedroluizfo)</p>
+
 
 
 ## Referências Bibliográficas

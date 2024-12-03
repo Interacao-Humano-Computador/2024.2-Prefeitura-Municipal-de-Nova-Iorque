@@ -123,26 +123,26 @@ Nesta tarefa, a persona José Ricardo deseja realizar um pedido de informação 
 <center>
 	<p><strong>Tabela 1:</strong> Tabela diagrama HTA: Realizar pedido no e-SIC</p>
 
-	| **Objetivos/Operações**                          | **Problemas e Recomendações**                                                                       |
+	| *Objetivos/Operações*                          | *Problemas e Recomendações*                                                                       |
 	|--------------------------------------------------|-----------------------------------------------------------------------------------------------------|
 	| 0. Buscar informações no e-SIC                   |                                                                                                     |
 	| 1. Localizar a seção "Cidadão / e-SIC"           |                                                                                                     |
-	| 1.1 Mapa do site                                 | **input**: clicar no botão "Mapa do site".<br/> **feedback**: exibição completa do mapa do site.<br/> **plano**: selecionar a seção "Cidadão / e-SIC" pelo mapa.                                                                   |
-	| 1.2 Buscar no carrossel                          | **feedback**: seção "e-SIC" acessível pelo carrossel.                                                                         |
-	| 2. Acessar o e-SIC                               | **input**: escolher entre "Pedido Identificado" ou "Pedido Anônimo".<br/> **feedback**: redirecionamento para a página correspondente.<br/> **plano**: entrar com login ou seguir com pedido anônimo.                              |
-	| 2.1 Pedido Identificado                          | **input**: inserir e-mail e senha ou fazer cadastro.<br/> **feedback**: usuário autenticado com sucesso.<br/> **plano**: acessar formulário de solicitação identificado.                                                           |
-	| 2.2 Pedido Anônimo                               | **input**: preencher o formulário sem dados pessoais.<br/> **feedback**: acesso direto ao formulário de pedido anônimo.<br/> **plano**: prosseguir com a solicitação sem identificação.                                            |
+	| 1.1 Mapa do site                                 | *input: clicar no botão "Mapa do site".<br/> **feedback: exibição completa do mapa do site.<br/> **plano*: selecionar a seção "Cidadão / e-SIC" pelo mapa.                                                                   |
+	| 1.2 Buscar no carrossel                          | *feedback*: seção "e-SIC" acessível pelo carrossel.                                                                         |
+	| 2. Acessar o e-SIC                               | *input: escolher entre "Pedido Identificado" ou "Pedido Anônimo".<br/> **feedback: redirecionamento para a página correspondente.<br/> **plano*: entrar com login ou seguir com pedido anônimo.                              |
+	| 2.1 Pedido Identificado                          | *input: inserir e-mail e senha ou fazer cadastro.<br/> **feedback: usuário autenticado com sucesso.<br/> **plano*: acessar formulário de solicitação identificado.                                                           |
+	| 2.2 Pedido Anônimo                               | *input: preencher o formulário sem dados pessoais.<br/> **feedback: acesso direto ao formulário de pedido anônimo.<br/> **plano*: prosseguir com a solicitação sem identificação.                                            |
 	| 3. Preencher formulário                          | |
-	| 3.1 Preencher campos                             | **input**: fornecer informações como se reside no município, sexo, escolaridade, faixa etária e detalhamento da solicitação.<br/> **plano**: detalhamento da solicitação obrigatório            |
-	| 3.2 Anexar arquivos                              | **input**: selecionar arquivos no dispositivo.<br/> **feedback**: arquivos carregados com sucesso.                                                              |
-	| 4. Cadastrar                                     | **input**: clicar no botão "Cadastrar".<br/> **feedback**: confirmação do envio da solicitação.<br/> **plano**: finalizar o processo de solicitação de informações.                                                                |
+	| 3.1 Preencher campos                             | *input: fornecer informações como se reside no município, sexo, escolaridade, faixa etária e detalhamento da solicitação.<br/> **plano*: detalhamento da solicitação obrigatório            |
+	| 3.2 Anexar arquivos                              | *input: selecionar arquivos no dispositivo.<br/> **feedback*: arquivos carregados com sucesso.                                                              |
+	| 4. Cadastrar                                     | *input: clicar no botão "Cadastrar".<br/> **feedback: confirmação do envio da solicitação.<br/> **plano*: finalizar o processo de solicitação de informações.                                                                |
 	
 	Autor: [Paulo Henrique](https://github.com/paulomh)
 </center>
 
 #### Análise CMN-GOMS
 
-```
+
 GOAL 0: Buscar informações no e-SIC
     GOAL 1: Localizar a seção "Cidadão / e-SIC"
         OP 1.1: Guiar o cursor para o botão "Mapa do Site"
@@ -172,7 +172,7 @@ GOAL 0: Buscar informações no e-SIC
         OP 4.2: Clicar no botão "Cadastrar"
         OP 4.3: Confirmar recebimento da mensagem de sucesso ou verificar mensagens de erro
 GOAL 5: Solicitação de informações enviada com sucesso
-```
+
 <center>
     Autor: [Paulo Henrique](https://github.com/paulomh)
 </center>
@@ -184,7 +184,7 @@ Esta tarefa foi realizada com base no [Cenário 1: Agendamento de Consulta Médi
 
 #### Análise CMN-GOMS detalhado
 
-```
+
 GOAL 0: Agendar consulta médica no site da prefeitura.
 	GOAL 1: Localizar a seção de agendamento.
 		METHOD 1.A: Navegar pelo menu principal.
@@ -223,7 +223,7 @@ GOAL 0: Agendar consulta médica no site da prefeitura.
     			OP. 3.A.1: Clicar no botão "Baixar comprovante".
     			OP. 3.A.2: Escolher o local para salvar o arquivo.
     			OP. 3.A.3: Confirmar o download.
- ```
+ 
 <center>
     Autor: [Weverton Rodrigues](https://github.com/vevetin)
 </center>
@@ -258,14 +258,14 @@ GOAL 0: Agendar consulta médica no site da prefeitura.
 
 #### Análise HTA
 <center>
-    <p><strong>Figura 7:</strong> Análise da tarefa: Acessar informações de licitações desertas ou fracassadas</p>
+    <p><strong>Figura 7:</strong> Análise da tarefa: cessar informações de licitações desertas ou fracassadas</p>
     ![analise-tarefa-hta-rodrigo](../analise-de-requisitos/assets/analise-hta-rodrigo.svg)
     Autor: [Rodrigo Wendrel](https://github.com/rodwendrel) | Fonte: Draw.io, 2024
 </center>
 
 #### Análise CMN-GOMS detalhado
  
-```
+
 GOAL 0: Baixar o documento de uma licitação no site da prefeitura.  
 	GOAL 1: Acessar a seção de licitações desertas ou fracassadas.  
 		METHOD 1.A: Navegar pelo menu principal.  
@@ -300,7 +300,7 @@ GOAL 0: Baixar o documento de uma licitação no site da prefeitura.
 			OP. 4.A.3: Selecionar a opção "Salvar como" no navegador.  
 			OP. 4.A.4: Escolher o diretório onde o arquivo será salvo.  
 			OP. 4.A.5: Confirmar a ação de salvar o arquivo no dispositivo.  
-```
+
 <center>
     Autor: [Rodrigo Wendrel](https://github.com/rodwendrel)
 </center>
@@ -320,7 +320,7 @@ Esta tarefa foi realizada com base na persona Leonardo Almeida, um empresário d
 
 #### Análise CMN-GOMS detalhado
  
-```
+
 GOAL 0: Emitir Nota Fiscal Eletrônica no sistema NF-e.  
 	GOAL 1: Localizar o sistema NF-e no site.  
 		METHOD 1.A: Navegar pelo menu principal.  
@@ -364,7 +364,7 @@ GOAL 0: Emitir Nota Fiscal Eletrônica no sistema NF-e.
 			OP. 4.A.1: Clicar no botão "Emitir Nota Fiscal".
 			OP. 4.A.2: Esperar a geração do documento em formato eletrônico.  
 			OP. 4.A.3: Salvar ou imprimir o arquivo gerado (PDF).  
-```
+
 <center>
     Autor: [Necivaldo Amaral](https://github.com/junioramaral22)
 </center>
@@ -380,9 +380,36 @@ GOAL 0: Emitir Nota Fiscal Eletrônica no sistema NF-e.
     Autor: [Pedro Luiz](https://github.com/pedroluizfo) | Fonte: Draw.io, 2024
 </center>
 
+
+<center>
+	<p><strong>Tabela 1:</strong> Tabela diagrama HTA: Rgistro de solicitação por meio de canal digital</p>
+
+
+
+| *Objetivos/Operações*                         | *Problemas e Recomendações*                                                                                              
+|-------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
+| 0. Abrir uma nova solicitação dentro do canal da ouvidoria virtual | *Problema: Falta de orientação inicial para usuários novos.<br/>Recomendação*: Adicionar um guia rápido ou tutorial para introdução. |
+| 1. Localizar seção da ouvidoria                 | *Problema: Ícone de ouvidoria pode ser difícil de identificar.<br/>Recomendação*: Melhorar a visibilidade e descrição do ícone. |
+| 1.1 Navegar pelo carrossel de ícones            | *Problema: Navegação por carrossel pode ser confusa para usuários iniciantes.<br/>Recomendação*: Substituir o carrossel por um menu fixo ou lista hierárquica. |
+| 1.2 Passar o mouse sobre o ícone da ouvidoria   | *input: passar o cursor sobre o ícone.<br/>feedback: exibição do nome e descrição do ícone.<br/>plano*: clicar no ícone correto. |
+| 1.3 Selecionar opção canal eletrônico de acesso | *input: clicar na opção para abrir o canal.<br/>feedback*: redirecionamento para o canal eletrônico. |
+| 2. Preencher formulário de solicitação          | *Problema: Campos obrigatórios não destacados adequadamente.<br/>Recomendação*: Usar validação em tempo real e marcadores visuais. |
+| 2.1 Preencher informações pessoais              | *input: inserir nome, email, telefone, CEP, bairro, cidade e UF.<br/>feedback*: mensagem indicando campos preenchidos corretamente. |
+| 2.2 Selecionar o tipo de manifestação           | *input: escolher entre reclamação, solicitação, sugestão e denúncia.<br/>feedback*: formulário ajustado ao tipo selecionado. |
+| 2.3 Escolher se a manifestação será pública ou privada | *input: clicar na opção desejada.<br/>feedback*: exibição da configuração selecionada no formulário. |
+| 3. Registrar código de acompanhamento           | *Problema: Código pode ser perdido por usuários.<br/>Recomendação*: Enviar o código também por email ou SMS. |
+| 3.1 Enviar a manifestação para gerar o código   | *input: clicar no botão "Enviar".<br/>feedback*: mensagem de confirmação com o código de acompanhamento. |
+| 3.2 Ir para a página de acompanhamento          | *input: clicar no link para acompanhamento.<br/>feedback*: redirecionamento para a página com detalhes do acompanhamento. |
+
+
+*Autor:* [Pedro Luiz](https://github.com/pedroluizfo)  
+
+</center>
+
+
 #### Análise CMN-GOMS detalhado
  
-```
+
 GOAL 0: Abrir uma nova solicitação dentro do canal de ouvidoria virtual.
 GOAL 1: Localizar a seção da ouvidoria.
 METHOD 1.A: Navegar pelo carrossel de ícones.
@@ -435,7 +462,7 @@ OP. 3.B.1: Navegar até a seção de "Acompanhamento de Solicitações".
 OP. 3.B.2: Inserir o código de acompanhamento no campo apropriado.
 OP. 3.B.3: Clicar em "Buscar" para visualizar o status da solicitação.
 
-```
+
 <center>
     Autor: [Pedro Luiz](https://github.com/pedroluizfo)
 </center>
@@ -453,6 +480,6 @@ OP. 3.B.3: Clicar em "Buscar" para visualizar o status da solicitação.
 | 1.0 | 01/12/2024 | [Paulo Henrique](https://github.com/paulomh) | criação do documento | 01/12/2024 | [Weverton Rodrigues](https://github.com/vevetin) |
 | 1.1 | 02/12/2024 | [Paulo Henrique](https://github.com/paulomh) | Adição da Tarefa 01 | 02/12/2024 | [Necivaldo Amaral](https://github.com/junioramaral22) |
 | 1.2 | 02/12/2024 | [Weverton Rodrigues](https://github.com/vevetin) | Adição da Tarefa 02 | 02/12/2024 | [Paulo Henrique](https://github.com/paulomh) |
-| 1.3 | 02/12/2024 | [Rodrigo Wendrel](https://github.com/rodwendrel) | Adição da Tarefa 03 | 02/12/2024 | 03/12/2024 | [Weverton Rodrigues](https://github.com/vevetin) |
+| 1.3 | 02/12/2024 | [Rodrigo Wendrel](https://github.com/rodwendrel) | Adição da Tarefa 03 | 02/12/2024 | |
 | 1.4 | 02/12/2024 | [Necivaldo Amaral](https://github.com/junioramaral22) | Adição da Tarefa 04 | 02/12/2024 | [Pedro Luiz](https://github.com/pedroluizfo)|
-| 1.5 | 03/12/2024 | [Pedro Luiz](https://github.com/pedroluizfo) | Adição da Tarefa 05 | 03/12/2024 | [Weverton Rodrigues](https://github.com/vevetin) |
+| 1.5 | 03/12/2024 | [Pedro Luiz](https://github.com/pedroluizfo) | Adição da Tarefa 05 | | |

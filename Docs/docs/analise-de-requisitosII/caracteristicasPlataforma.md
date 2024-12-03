@@ -45,4 +45,4 @@ Os requisitos do sistema são aspectos fundamentais para garantir que a platafor
 | Versão | Data | Autor(es) | Descrição | Data de Revisão | Revisor(es) |
 |:---:|:---:|---|---|:---:|---|
 | 1.0 | 01/12/2024 | [Paulo Henrique](https://github.com/paulomh) | criação do documento | 01/12/2024 | [Necivaldo Amaral](https://github.com/junioramaral22) |
-| 1.0 | 03/12/2024 | [Pedro Luiz](https://github.com/pedroluizfo) | Adicionando as seções de caracteristicas, requisitos e limites | 03/12/2024 | [Paulo Henrique](https://github.com/paulomh) |
+| 1.0 | 03/12/2024 | [Pedro Luiz](https://github.com/pedroluizfo) | Adicionando as seções de caracteristicas, requisitos e limites | 03/12/2024 | [Necivaldo Amaral](https://github.com/junioramaral22) |

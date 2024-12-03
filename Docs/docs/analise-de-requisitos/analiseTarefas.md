@@ -361,6 +361,33 @@ GOAL 0: Emitir Nota Fiscal Eletrônica no sistema NF-e.
     Autor: [Pedro Luiz](https://github.com/pedroluizfo) | Fonte: Draw.io, 2024
 </center>
 
+
+<center>
+	<p><strong>Tabela 1:</strong> Tabela diagrama HTA: Rgistro de solicitação por meio de canal digital</p>
+
+
+
+| **Objetivos/Operações**                         | **Problemas e Recomendações**                                                                                              
+|-------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
+| 0. Abrir uma nova solicitação dentro do canal da ouvidoria virtual | **Problema**: Falta de orientação inicial para usuários novos.<br/>**Recomendação**: Adicionar um guia rápido ou tutorial para introdução. |
+| 1. Localizar seção da ouvidoria                 | **Problema**: Ícone de ouvidoria pode ser difícil de identificar.<br/>**Recomendação**: Melhorar a visibilidade e descrição do ícone. |
+| 1.1 Navegar pelo carrossel de ícones            | **Problema**: Navegação por carrossel pode ser confusa para usuários iniciantes.<br/>**Recomendação**: Substituir o carrossel por um menu fixo ou lista hierárquica. |
+| 1.2 Passar o mouse sobre o ícone da ouvidoria   | **input**: passar o cursor sobre o ícone.<br/>**feedback**: exibição do nome e descrição do ícone.<br/>**plano**: clicar no ícone correto. |
+| 1.3 Selecionar opção canal eletrônico de acesso | **input**: clicar na opção para abrir o canal.<br/>**feedback**: redirecionamento para o canal eletrônico. |
+| 2. Preencher formulário de solicitação          | **Problema**: Campos obrigatórios não destacados adequadamente.<br/>**Recomendação**: Usar validação em tempo real e marcadores visuais. |
+| 2.1 Preencher informações pessoais              | **input**: inserir nome, email, telefone, CEP, bairro, cidade e UF.<br/>**feedback**: mensagem indicando campos preenchidos corretamente. |
+| 2.2 Selecionar o tipo de manifestação           | **input**: escolher entre reclamação, solicitação, sugestão e denúncia.<br/>**feedback**: formulário ajustado ao tipo selecionado. |
+| 2.3 Escolher se a manifestação será pública ou privada | **input**: clicar na opção desejada.<br/>**feedback**: exibição da configuração selecionada no formulário. |
+| 3. Registrar código de acompanhamento           | **Problema**: Código pode ser perdido por usuários.<br/>**Recomendação**: Enviar o código também por email ou SMS. |
+| 3.1 Enviar a manifestação para gerar o código   | **input**: clicar no botão "Enviar".<br/>**feedback**: mensagem de confirmação com o código de acompanhamento. |
+| 3.2 Ir para a página de acompanhamento          | **input**: clicar no link para acompanhamento.<br/>**feedback**: redirecionamento para a página com detalhes do acompanhamento. |
+
+
+**Autor:** [Pedro Luiz](https://github.com/pedroluizfo)  
+
+</center>
+
+
 #### Análise CMN-GOMS detalhado
  
 ```

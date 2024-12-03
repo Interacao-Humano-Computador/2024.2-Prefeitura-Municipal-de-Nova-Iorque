@@ -90,6 +90,19 @@ O cronograma tem como objetivo organizar as atividades do projeto a serem realiz
 
     | Atividade | Período de desenvolvimento | Responsável | Revisão | Revisor(es) | Data da Entrega |
     | --------- | -------------------------- | ----------- | ------- | --------- | --------------- |
+    | Perfil do usuário | 18/11/2024 - 27/11/2024 | Paulo Henrique, Weverton Rodrigues | 02/12/2024 | Pedro Luiz | 27/11/2024 |
+    | Desenvolvimento das personas | 18/11/2024 - 28/11/2024 | Necivaldo Amaral, Pedro Luiz | 01/11/2024 | Paulo Henrique | 28/11/2024 |
+    | Aspectos éticos de pesquisas envolvendo pessoas | 20/11/2024 - 23/11/2024 | Paulo Henrique, Rodrigo Wendrel | 23/11/2024 | Weverton Rodrigues, Pedro Luiz |23/11/2024 |
+    | Análise de tarefas: HTA e CTT | 18/11/2024 - 02/12/2024 | Paulo Henrique, Pedro Luiz, Necivaldo Amaral, Rodrigo Wendrel, Weverton Rodrigues | 02/12/2024 | Rodrigo Wendrel, Pedro Luiz | 02/12/2024 |
+    | Inspeção da entrega da apresentação do projeto Etapa 2 | 22/11/2024 | Paulo Henrique, Pedro Luiz, Necivaldo Amaral, Rodrigo Wendrel, Weverton Rodrigues | 22/11/2024 | Necivaldo Amaral | 26/11/2024 |
+    | Gravação da apresentação | 23/11/2024 - 24/11/2024 | Paulo Henrique, Pedro Luiz, Necivaldo Amaral, Rodrigo Wendrel, Weverton Rodrigues | 24/11/2024 | Paulo Henrique | 26/11/2024 |
+    | Edição da gravação | 24/11/2024 | Paulo Henrique | 24/11/2024 | Paulo Henrique, Pedro Luiz, Necivaldo Amaral, Rodrigo Wendrel, Weverton Rodrigues | 26/11/2024 |
+    | Cronograma executado | 02/12/2024 | Pedro Luiz | 02/12/2024| Paulo Henrique, Pedro Luiz, Necivaldo Amaral, Rodrigo Wendrel, Weverton Rodrigues | 02/12/2024 |
+    | Inspeção da entrega da apresentação do projeto etapa 2 do Grupo + 1 | 27/11/2024 | Paulo Henrique, Pedro Luiz, Necivaldo Amaral, Rodrigo Wendrel, Weverton Rodrigues | 27/11/2024 | Rodrigo Wendrel | 27/11/2024 |
+    | Correção pós-apresentação | 28/11/2024 - 29/11/2024 | Paulo Henrique, Pedro Luiz, Necivaldo Amaral, Rodrigo Wendrel, Weverton Rodrigues | 28/11/2024 - 29/11/2024 | Paulo Henrique, Pedro Luiz, Necivaldo Amaral, Rodrigo Wendrel, Weverton Rodrigues | Não há entrega |
+
+    <p style={{ textAlign: 'center', fontSize: '15px' }}><b>Autor(es):</b> [Pedro Luiz](https://github.com/pedroluizfo)</p>
+
 
   </TabItem>
 </Tabs>

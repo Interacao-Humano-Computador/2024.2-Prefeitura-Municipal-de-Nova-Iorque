@@ -330,6 +330,77 @@ GOAL 0: Emitir Nota Fiscal Eletrônica no sistema NF-e.
     Autor: [Necivaldo Amaral](https://github.com/junioramaral22)
 </center>
 
+### Tarefa 05 - Registro de manisfestação de solicitação via canal digital.
+
+ As análises buscam acompanhar o caminho de um usuário que utiliza o canal de ouvidoria virtual do site da prefeitura de Nova Iorque(MA) para registrar uma manifestações de solicitação. A análise foi conduzida utilizando as técnicas de CMN-GOMS detalhado e Análise Hierárquica de Tarefas (HTA), com foco nas etapas de navegação pelo site, preenchimento do formulário de solicitação e registro do código de acompanhamento gerado.
+
+#### Análise HTA
+<center>
+    <p><strong>Figura 8:</strong> Análise da tarefa: registro de solicitação por canal digital no Site da Prefeitura</p>
+    ![analise-tarefa-hta-pedro](../analise-de-requisitos/assets/AnáliseDeTarefas.drawio.svg)
+    Autor: [Pedro Luiz](https://github.com/pedroluizfo) | Fonte: Draw.io, 2024
+</center>
+
+#### Análise CMN-GOMS detalhado
+ 
+```
+GOAL 0: Abrir uma nova solicitação dentro do canal de ouvidoria virtual.
+GOAL 1: Localizar a seção da ouvidoria.
+METHOD 1.A: Navegar pelo carrossel de ícones.
+(SEL. RULE: Usuário prefere explorar visualmente o site pelo carrossel)
+
+OP. 1.A.1: Identificar o carrossel na página principal.
+OP. 1.A.2: Navegar pelas opções disponíveis no carrossel.
+OP. 1.A.3: Localizar o ícone da ouvidoria no carrossel.
+OP. 1.A.4: Clicar no ícone para acessar a seção.
+METHOD 1.B: Passar o mouse sobre o ícone da ouvidoria.
+(SEL. RULE: Usuário encontrou o ícone diretamente sem usar o carrossel)
+
+OP. 1.B.1: Posicionar o cursor sobre o ícone da ouvidoria.
+OP. 1.B.2: Confirmar a descrição da funcionalidade exibida ao passar o mouse.
+OP. 1.B.3: Clicar para acessar a página de ouvidoria.
+METHOD 1.C: Selecionar a opção "canal eletrônico de acesso".
+(SEL. RULE: Usuário já conhece a funcionalidade e vai direto ao ponto)
+
+OP. 1.C.1: Identificar o link "canal eletrônico de acesso" na página inicial.
+OP. 1.C.2: Clicar no link para acessar a ouvidoria virtual.
+GOAL 2: Preencher formulário de solicitação.
+METHOD 2.A: Preencher informações pessoais.
+(SEL. RULE: Campos obrigatórios exigem preenchimento manual)
+
+OP. 2.A.1: Localizar os campos Nome, E-mail, Telefone, Endereço, Bairro, Cidade e UF.
+OP. 2.A.2: Inserir as informações em cada campo correspondente.
+OP. 2.A.3: Confirmar se todos os campos estão preenchidos corretamente.
+METHOD 2.B: Selecionar o tipo de manifestação.
+(SEL. RULE: Usuário deve especificar a natureza da manifestação)
+
+OP. 2.B.1: Identificar o menu de tipos de manifestação.
+OP. 2.B.2: Clicar na opção desejada, como Elogio, Reclamação, Solicitação, Sugestão ou Denúncia.
+METHOD 2.C: Escrever comentário da manifestação.
+(SEL. RULE: É necessário incluir detalhes no campo de comentário)
+
+OP. 2.C.1: Localizar o campo de texto para descrição.
+OP. 2.C.2: Digitar os detalhes da manifestação.
+OP. 2.C.3: Selecionar se a manifestação será pública ou anônima.
+GOAL 3: Registrar código de acompanhamento da solicitação gerado.
+METHOD 3.A: Enviar a manifestação.
+(SEL. RULE: Usuário deseja gerar um código automaticamente após o envio)
+
+OP. 3.A.1: Revisar todos os dados preenchidos no formulário.
+OP. 3.A.2: Clicar no botão "Enviar".
+OP. 3.A.3: Anotar o código de acompanhamento gerado na tela.
+METHOD 3.B: Acessar página de acompanhamento.
+(SEL. RULE: Usuário já possui um código e deseja acompanhar a solicitação)
+
+OP. 3.B.1: Navegar até a seção de "Acompanhamento de Solicitações".
+OP. 3.B.2: Inserir o código de acompanhamento no campo apropriado.
+OP. 3.B.3: Clicar em "Buscar" para visualizar o status da solicitação.
+
+```
+<center>
+    Autor: [Pedro Luiz](https://github.com/pedroluizfo)
+</center>
+
 ## Referências Bibliográficas
 > \- 1. BARBOSA, Simone, et al. Interação Humano-Computador. 1. ed. Rio de Janeiro: Elsevier, 2010. 
 
@@ -345,3 +416,4 @@ GOAL 0: Emitir Nota Fiscal Eletrônica no sistema NF-e.
 | 1.2 | 02/12/2024 | [Weverton Rodrigues](https://github.com/vevetin) | Adição da Tarefa 02 | 02/12/2024 | [Paulo Henrique](https://github.com/paulomh) |
 | 1.3 | 02/12/2024 | [Rodrigo Wendrel](https://github.com/rodwendrel) | Adição da Tarefa 03 | 02/12/2024 | |
 | 1.4 | 02/12/2024 | [Necivaldo Amaral](https://github.com/junioramaral22) | Adição da Tarefa 04 | 02/12/2024 | [Pedro Luiz](https://github.com/pedroluizfo)|
+| 1.5 | 03/12/2024 | [Pedro Luiz](https://github.com/pedroluizfo) | Adição da Tarefa 05 | | |

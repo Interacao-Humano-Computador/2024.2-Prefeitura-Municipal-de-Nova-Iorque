@@ -235,11 +235,30 @@ GOAL 0: Agendar consulta médica no site da prefeitura.
     Autor: [Weverton Rodrigues](https://github.com/vevetin) | Fonte: Draw.io, 2024
 </center>
 
+<center>
+	<p><strong>Tabela 2:</strong> Tabela diagrama HTA: Agendar consulta médica no site da prefeitura</p>
+
+	| **Objetivos/Operações** | **Problemas e Recomendações** |
+	|---|---|
+	| 0. Agendar uma consulta médica 1 > 2 > 3  | **input:** usuário acessa o site.<br/> **feedback:** agendamento confirmado com comprovante baixado.<br/> **plano:** realizar todas as etapas em sequência. <br/> **recomendação:** fornecer um guia passo a passo na interface para orientar o usuário.  |
+  	| 1. Localizar a seção de agendamento 1.1 / 1.2| **plano:** pode ser alcançado navegando pelo menu **ou** utilizando a barra de pesquisa. |
+	|1.1 Navegar pelo menu principal ||
+	|1.2 Usar a barra de pesquisa do site||
+	|2. Preencher o formulário de agendamento 2.1 > 2.2 | **plano:** preencher os dados obrigatórios e depois selecionar especialidade, data, horário e UBS disponíveis.  |
+	|2.1 Informar dados obrigatórios 2.1.1 > 2.1.2 | **plano:** incluir as informações necessárias manualmente **ou** revisar as preenchidas automaticamente. |
+	|2.1.1 Preencher campos obrigatórios (nome, CPF, endereço, número do CNS) | **input:** campos obrigatórios como nome, CPF e CNS para completar o cadastro.<br/> **feedback:** campos destacados com erros, caso estejam faltando informações.<br/> **recomendação:** fornecer validação em tempo real para os campos preenchidos. |
+	|2.1.2 Revisar preenchimento automático | **input:** sistema exibe informações cadastradas anteriormente para revisão.<br/> **feedback:** preenchimento exibido para confirmação.<br/> **recomendação:** permitir edição simples e clara dos campos automáticos. |
+	|2.2 Escolher especialidade, data, horário e UBS disponível ||
+	|3. Baixar comprovante de agendamento | **ação:** botão "Baixar Comprovante".<br/> **recomendação 1:** tornar o botão mais visível, com texto descritivo e ícone associado.<br/> **recomendação 2:** enviar uma cópia do comprovante automaticamente por e-mail ao usuário. |
+	
+	Autor: [Weverton Rodrigues](https://github.com/vevetin)
+</center>
+
 ### Tarefa 03 - Acessar informações de licitações desertas ou fracassadas
 
 #### Análise HTA
 <center>
-    <p><strong>Figura 7:</strong> Análise da tarefa: cessar informações de licitações desertas ou fracassadas</p>
+    <p><strong>Figura 7:</strong> Análise da tarefa: Acessar informações de licitações desertas ou fracassadas</p>
     ![analise-tarefa-hta-rodrigo](../analise-de-requisitos/assets/analise-hta-rodrigo.svg)
     Autor: [Rodrigo Wendrel](https://github.com/rodwendrel) | Fonte: Draw.io, 2024
 </center>
@@ -434,6 +453,6 @@ OP. 3.B.3: Clicar em "Buscar" para visualizar o status da solicitação.
 | 1.0 | 01/12/2024 | [Paulo Henrique](https://github.com/paulomh) | criação do documento | 01/12/2024 | [Weverton Rodrigues](https://github.com/vevetin) |
 | 1.1 | 02/12/2024 | [Paulo Henrique](https://github.com/paulomh) | Adição da Tarefa 01 | 02/12/2024 | [Necivaldo Amaral](https://github.com/junioramaral22) |
 | 1.2 | 02/12/2024 | [Weverton Rodrigues](https://github.com/vevetin) | Adição da Tarefa 02 | 02/12/2024 | [Paulo Henrique](https://github.com/paulomh) |
-| 1.3 | 02/12/2024 | [Rodrigo Wendrel](https://github.com/rodwendrel) | Adição da Tarefa 03 | 02/12/2024 | |
+| 1.3 | 02/12/2024 | [Rodrigo Wendrel](https://github.com/rodwendrel) | Adição da Tarefa 03 | 02/12/2024 | 03/12/2024 | [Weverton Rodrigues](https://github.com/vevetin) |
 | 1.4 | 02/12/2024 | [Necivaldo Amaral](https://github.com/junioramaral22) | Adição da Tarefa 04 | 02/12/2024 | [Pedro Luiz](https://github.com/pedroluizfo)|
-| 1.5 | 03/12/2024 | [Pedro Luiz](https://github.com/pedroluizfo) | Adição da Tarefa 05 | | |
+| 1.5 | 03/12/2024 | [Pedro Luiz](https://github.com/pedroluizfo) | Adição da Tarefa 05 | 03/12/2024 | [Weverton Rodrigues](https://github.com/vevetin) |

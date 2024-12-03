@@ -142,7 +142,7 @@ Nesta tarefa, a persona José Ricardo deseja realizar um pedido de informação 
 
 #### Análise CMN-GOMS
 
-
+```
 GOAL 0: Buscar informações no e-SIC
     GOAL 1: Localizar a seção "Cidadão / e-SIC"
         OP 1.1: Guiar o cursor para o botão "Mapa do Site"
@@ -172,7 +172,7 @@ GOAL 0: Buscar informações no e-SIC
         OP 4.2: Clicar no botão "Cadastrar"
         OP 4.3: Confirmar recebimento da mensagem de sucesso ou verificar mensagens de erro
 GOAL 5: Solicitação de informações enviada com sucesso
-
+```
 <center>
     Autor: [Paulo Henrique](https://github.com/paulomh)
 </center>
@@ -184,7 +184,7 @@ Esta tarefa foi realizada com base no [Cenário 1: Agendamento de Consulta Médi
 
 #### Análise CMN-GOMS detalhado
 
-
+```
 GOAL 0: Agendar consulta médica no site da prefeitura.
 	GOAL 1: Localizar a seção de agendamento.
 		METHOD 1.A: Navegar pelo menu principal.
@@ -223,7 +223,7 @@ GOAL 0: Agendar consulta médica no site da prefeitura.
     			OP. 3.A.1: Clicar no botão "Baixar comprovante".
     			OP. 3.A.2: Escolher o local para salvar o arquivo.
     			OP. 3.A.3: Confirmar o download.
- 
+``` 
 <center>
     Autor: [Weverton Rodrigues](https://github.com/vevetin)
 </center>
@@ -265,7 +265,7 @@ GOAL 0: Agendar consulta médica no site da prefeitura.
 
 #### Análise CMN-GOMS detalhado
  
-
+```
 GOAL 0: Baixar o documento de uma licitação no site da prefeitura.  
 	GOAL 1: Acessar a seção de licitações desertas ou fracassadas.  
 		METHOD 1.A: Navegar pelo menu principal.  
@@ -300,7 +300,7 @@ GOAL 0: Baixar o documento de uma licitação no site da prefeitura.
 			OP. 4.A.3: Selecionar a opção "Salvar como" no navegador.  
 			OP. 4.A.4: Escolher o diretório onde o arquivo será salvo.  
 			OP. 4.A.5: Confirmar a ação de salvar o arquivo no dispositivo.  
-
+```
 <center>
     Autor: [Rodrigo Wendrel](https://github.com/rodwendrel)
 </center>
@@ -320,7 +320,7 @@ Esta tarefa foi realizada com base na persona Leonardo Almeida, um empresário d
 
 #### Análise CMN-GOMS detalhado
  
-
+```
 GOAL 0: Emitir Nota Fiscal Eletrônica no sistema NF-e.  
 	GOAL 1: Localizar o sistema NF-e no site.  
 		METHOD 1.A: Navegar pelo menu principal.  
@@ -364,7 +364,7 @@ GOAL 0: Emitir Nota Fiscal Eletrônica no sistema NF-e.
 			OP. 4.A.1: Clicar no botão "Emitir Nota Fiscal".
 			OP. 4.A.2: Esperar a geração do documento em formato eletrônico.  
 			OP. 4.A.3: Salvar ou imprimir o arquivo gerado (PDF).  
-
+```
 <center>
     Autor: [Necivaldo Amaral](https://github.com/junioramaral22)
 </center>
@@ -409,7 +409,7 @@ GOAL 0: Emitir Nota Fiscal Eletrônica no sistema NF-e.
 
 #### Análise CMN-GOMS detalhado
  
-
+```
 GOAL 0: Abrir uma nova solicitação dentro do canal de ouvidoria virtual.
 GOAL 1: Localizar a seção da ouvidoria.
 METHOD 1.A: Navegar pelo carrossel de ícones.
@@ -461,7 +461,7 @@ METHOD 3.B: Acessar página de acompanhamento.
 OP. 3.B.1: Navegar até a seção de "Acompanhamento de Solicitações".
 OP. 3.B.2: Inserir o código de acompanhamento no campo apropriado.
 OP. 3.B.3: Clicar em "Buscar" para visualizar o status da solicitação.
-
+```
 
 <center>
     Autor: [Pedro Luiz](https://github.com/pedroluizfo)
@@ -480,6 +480,6 @@ OP. 3.B.3: Clicar em "Buscar" para visualizar o status da solicitação.
 | 1.0 | 01/12/2024 | [Paulo Henrique](https://github.com/paulomh) | criação do documento | 01/12/2024 | [Weverton Rodrigues](https://github.com/vevetin) |
 | 1.1 | 02/12/2024 | [Paulo Henrique](https://github.com/paulomh) | Adição da Tarefa 01 | 02/12/2024 | [Necivaldo Amaral](https://github.com/junioramaral22) |
 | 1.2 | 02/12/2024 | [Weverton Rodrigues](https://github.com/vevetin) | Adição da Tarefa 02 | 02/12/2024 | [Paulo Henrique](https://github.com/paulomh) |
-| 1.3 | 02/12/2024 | [Rodrigo Wendrel](https://github.com/rodwendrel) | Adição da Tarefa 03 | 02/12/2024 | 03/12/2024|[Weverton Rodrigues](https://github.com/vevetin)|
+| 1.3 | 02/12/2024 | [Rodrigo Wendrel](https://github.com/rodwendrel) | Adição da Tarefa 03 | 02/12/2024 | [Weverton Rodrigues](https://github.com/vevetin)|
 | 1.4 | 02/12/2024 | [Necivaldo Amaral](https://github.com/junioramaral22) | Adição da Tarefa 04 | 02/12/2024 | [Pedro Luiz](https://github.com/pedroluizfo)|
 | 1.5 | 03/12/2024 | [Pedro Luiz](https://github.com/pedroluizfo) | Adição da Tarefa 05 |03/12/2024 | [Weverton Rodrigues](https://github.com/vevetin)|

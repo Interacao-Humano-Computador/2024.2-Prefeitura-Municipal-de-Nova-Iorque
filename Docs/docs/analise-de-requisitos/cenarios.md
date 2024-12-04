@@ -122,7 +122,7 @@ A combinação desses dois modelos resultou em uma estrutura abrangente, que inc
    <p style={{ textAlign: 'center', fontSize: '17px' }}>Autor: [Paulo Henrique](https://github.com/paulomh)<br/></p>
   </TabItem>
   <TabItem value="C05" label="Cenário 05" default>
-    <p style={{ textAlign: 'center', fontSize: '20px' }}><b>Tabela 5</b> - Busca por licitações</p>
+    <p style={{ textAlign: 'center', fontSize: '20px' }}><b>Tabela 6</b> - Busca por licitações</p>
         <a id="tabela5-utilizacao-esic"></a>
         |Elemento| Descrição |                     
         |:---:|---|

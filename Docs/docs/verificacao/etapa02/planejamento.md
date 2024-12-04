@@ -27,7 +27,19 @@ O objetivo deste documento é apresentar o planejamento da verificação dos ite
 | 7 – Ata(s) da(s) reuniões (com data, horário de início e do final, participantes, objetivo, atividades definidas etc).                            |          |                                  |            |
 | 8 – A gravação da reunião do grupo.                                                                                                               |          |                                  |            |
 | 9 – Vídeo de apresentação na categoria “não listado” no YouTube?                                                                                  |          |                                  |            |
-| 10 – A justificativa da escolha do Processo de Design? Adicionar: referência bibliográfica da fonte e foto do texto da referência. Autor(es).     |          |                                  |            |
+| 10 – O perfil do usuário?                                                                                                                         |          |                                  |            |
+| 11 – O perfil do usuário possui os atributos de um perfil.                                                                                        |          |                                  |            |
+| 12 – O perfil do usuário define os grupos de atributos apresentados no capítulo 8 - Organização do Espaço de Problema?                            |          |                                  |            |
+| 13 – Considera aspectos Éticos de Pesquisas Envolvendo Pessoas?                                                                                   |          |                                  |            |
+| 14 – Os 4 princípios (da autonomia, da beneficência, princípio da não maleficência e da justiça e equidade)?                                      |          |                                  |            |
+| 15 – Que solicitará a permissão para gravar a voz ou imagem de qualquer pessoa, antes de começar a gravação?                                      |          |                                  |            |
+| 16 – O termo de consentimento livre e esclarecido dos participantes?                                                                              |          |                                  |            |
+| 17 – Foram utilizadas no mínimo duas técnicas para coletar dados e levantar os requisitos dos usuários (quanto mais melhor)?                      |          |                                  |            |
+| 18 – Os Cenários?                                                                                                                                 |          |                                  |            |
+| 19 – A análise de tarefas?                                                                                                                        |          |                                  |            |
+| 20 – Uma atividade para cada integrante do grupo que deve estar modelizado em ao menos duas técnicas para especificar as tarefas?                 |          |                                  |            |
+| 21 – Utilizaram alguma técnica para especificar as tarefas?                                                                                       |          |                                  |            |
+
 
 # Lista de Verificação (Itens Membros do Grupo)
 
@@ -35,32 +47,22 @@ O objetivo deste documento é apresentar o planejamento da verificação dos ite
 
 | O GitHub Pages possui:                                                                                       | Resposta  | Versão, Data e Hora da Avaliação | Observação   | Autor(es)  |
 |-------------------------------------------------------------------------------------------------------------|-----------|----------------------------------|--------------|------------|
-| 11. Foram definidas políticas de privacidade dos dados coletados?                                           |           |                                  |              |            |
-| 12. O termo de consentimento prevê o interrompimento da entrevista a qualquer momento?                      |           |                                  |              |            |
-| 13. A política de privacidade é clara ao passar informações?                                                |           |                                  |              |            |
-| 14. O perfil do usuário considera restrições de acessibilidade (ex.: dificuldades de visão, audição ou limitações motoras)? |           |                                  |              |            |
-| 15. O perfil do usuário divide os dados coletados em grupos etários?                                        |           |                                  |              |            |
-| 16. O perfil do usuário considera variáveis como nível de alfabetização tecnológica ou experiência com ferramentas digitais? |           |                                  |              |            |
-| 17. O questionário de perfil de usuário coleta dados relevantes quanto ao contexto do sistema escolhido?    |           |                                  |              |            |
-| 18. Cada persona está associada a um fluxo de uso típico do sistema?                                        |           |                                  |              |            |
-| 19. A persona possui classificação?                                                                         |           |                                  |              |            |
-| 20. As personas incluem objetivos e motivações que influenciam o comportamento do usuário no sistema?       |           |                                  |              |            |
-| 21. Os cenários consideram mudanças contextuais e imprevistos durante a interação do usuário?               |           |                                  |              |            |
-| 22. Os cenários possuem modelo?                                                                             |           |                                  |              |            |
-| 23. Os cenários são representativos quanto à funcionalidade apresentada?                                    |           |                                  |              |            |
-| 24. A análise explora alternativas ou atalhos que o usuário pode utilizar para concluir as tarefas?         |           |                                  |              |            |
-| 25. A análise de tarefas possui uma documentação detalhando cada tipo de análise de tarefa e suas técnicas? |           |                                  |              |            |
-| 26. A análise de tarefas identifica possíveis erros comuns dos usuários e propõe soluções para mitigá-los?  |           |                                  |              |            |
-| 27. Os princípios gerais do projeto correspondem ao site escolhido?                                        |           |                                  |              |            |
-| 28. Os princípios gerais do projeto estão alinhados com as necessidades dos usuários?                       |           |                                  |              |            |
-| 29. As metas de usabilidade estão priorizadas?                                                              |           |                                  |              |            |
-| 30. As metas de usabilidade incluem objetivos específicos para cada funcionalidade principal?               |           |                                  |              |            |
-| 31. Nas características da plataforma há o detalhamento dos limites do site?                               |           |                                  |              |            |
-| 32. A plataforma foi testada para identificar possíveis problemas em dispositivos móveis?                   |           |                                  |              |            |
-| 33. O guia de estilo possui uma organização relacionada ao layout do site?                                  |           |                                  |              |            |
-| 34. O guia de estilo fornece exemplos visuais para facilitar a aplicação pelas equipes?                     |           |                                  |              |            |
-| 35. Considera as necessidades e preferências do público-alvo?                                              |           |                                  |              |            |
-
+| 1. Foram definidas políticas de privacidade dos dados coletados?                                           |           |                                  |              |            |
+| 2. O termo de consentimento prevê o interrompimento da entrevista a qualquer momento?                      |           |                                  |              |            |
+| 3. A política de privacidade é clara ao passar informações?                                                |           |                                  |              |            |
+| 4. O perfil do usuário considera restrições de acessibilidade (ex.: dificuldades de visão, audição ou limitações motoras)? |           |                                  |              |            |
+| 5. O perfil do usuário divide os dados coletados em grupos etários?                                        |           |                                  |              |            |
+| 6. O perfil do usuário considera variáveis como nível de alfabetização tecnológica ou experiência com ferramentas digitais? |           |                                  |              |            |
+| 7. O questionário de perfil de usuário coleta dados relevantes quanto ao contexto do sistema escolhido?    |           |                                  |              |            |
+| 8. Cada persona está associada a um fluxo de uso típico do sistema?                                        |           |                                  |              |            |
+| 9. A persona possui classificação?                                                                         |           |                                  |              |            |
+| 10. As personas incluem objetivos e motivações que influenciam o comportamento do usuário no sistema?       |           |                                  |              |            |
+| 11. Os cenários consideram mudanças contextuais e imprevistos durante a interação do usuário?               |           |                                  |              |            |
+| 12. Os cenários possuem modelo?                                                                             |           |                                  |              |            |
+| 13. Os cenários são representativos quanto à funcionalidade apresentada?                                    |           |                                  |              |            |
+| 14. A análise explora alternativas ou atalhos que o usuário pode utilizar para concluir as tarefas?         |           |                                  |              |            |
+| 15. A análise de tarefas possui uma documentação detalhando cada tipo de análise de tarefa e suas técnicas? |           |                                  |              |            |
+| 16. A análise de tarefas identifica possíveis erros comuns dos usuários e propõe soluções para mitigá-los?  |           |                                  |              |            |
 
 ## Referências Bibliográficas
 

@@ -55,8 +55,16 @@ O objetivo deste documento é apresentar o planejamento da verificação dos ite
 <p style={{ textAlign: 'center', fontSize: '18px' }}><b>Tabela 1</b> - Itens do Desenvolvimento do Projeto (Membros)</p>
 
 | O github pages possui: | Resposta  | Versão, Data e hora da avaliação | Observação   | Autor(es)  |                               
-|----------------------- |-----------|----------------------------------|--------------|------------|
-||||
+|----------------------- |-----------|----------------------------------|--------------|------------|    
+| 1 – Os princípios gerais do projeto correspondem ao site escolhido? |                                |    |       |                               | 
+| 2 – Os princípios gerais do projeto estão alinhados com as necessidades dos usuários? |                           |     |                               |                             |
+| 3 – As metas de usabilidade estão priorizadas? |                               |           |      |                           |
+| 4 – As metas de usabilidade incluem objetivos específicos para cada funcionalidade principal? |                       |       |                          |                                 |
+| 5 – Nas características da plataforma há o detalhamento dos limites do site? |                              |     |                             |                                 |
+| 6 – A plataforma foi testada para identificar possíveis problemas de responsividade em diferentes telas? |                     |    |                              |                                  |
+| 7 – O guia de estilo possui uma organização relacionada ao layout do site? |                    |     |                       |                                 |
+| 8 – O guia de estilo fornece exemplos visuais para facilitar a aplicação pelas equipes? |                |       |                      |                                 |
+| 9 – Considera as necessidades e preferências do público-alvo? |                      |      |                           |                                |
 
 
 
@@ -69,6 +77,8 @@ O objetivo deste documento é apresentar o planejamento da verificação dos ite
 | Versão | Data | Autor(es) | Descrição | Data de Revisão | Revisor(es) |
 |:---:|:---:|---|---|:---:|---|
 | 1.0 | 03/12/2024 | [Paulo Henrique](https://github.com/paulomh) | Criação do planejamento dos itens do desenvolvimento do projeto da etapa 03 | 03/12/2024 | [Weverton Rodrigues](https://github.com/vevetin) |
+| 1.1 | 03/12/2024 | [Pedro Luiz](https://github.com/pedroluizfo), [Weverton Rodrigues](https://github.com/vevetin)|Perguntas dos membros adicionadas e verificação da etapa 3 feita | 03/12/2024 | [Necivaldo Amaral](https://github.com/junioramaral22),[Rodrigo Wendrel](https://github.com/rodwendrel)   |
+
 
 
 

@@ -10,7 +10,7 @@ A execução da verificação dos itens do desenvolvimento do projeto norteiam o
 
 ## Objetivo
 
-O objetivo deste documento é apresentar a execução da verificação dos itens do desenvolvimento do projeto, verificando se os artefatos produzidos durante a etapa estão de acordo com uma lista de verificação disponibilizada no plano de ensino da disciplina<sup>[1](../etapa01/execução.md#referências-bibliográficas)</sup>.
+O objetivo deste documento é apresentar a execução da verificação dos itens do desenvolvimento do projeto, verificando se os artefatos produzidos durante a etapa estão de acordo com uma lista de verificação disponibilizada no plano de ensino da disciplina.
 
 ## Lista de Verificação
 

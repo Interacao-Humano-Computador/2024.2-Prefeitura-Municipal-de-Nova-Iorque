@@ -22,8 +22,8 @@ Feito o [planejamento da verificação dos itens do desenvolvimento do projeto](
 | 8 – A gravação da reunião do grupo. | Sim  | 1.0 03/12/2024 19:32 |                                |
 | 9 – Vídeo de apresentação na categoria “não listado” no YouTube?  | Sim | 1.0 03/12/2024 19:32 |                                |
 | 10 – As características da plataforma para o projeto?    | Sim | 1.0 03/12/2024 19:43 |                                |
-| 11 – Os Princípios Gerais do Projeto que serão utilizados no projeto? | Incompleto | 1.0 03/12/2024 19:44 | Faltou referência bibliográfica |
-| 12 – Os Princípios Gerais do Projeto contém os seguintes tópicos:                                                    |                     |                                   |                                |
+| 11 – Os Princípios Gerais do Projeto que serão utilizados no projeto? | Incompleto | 1.0 03/12/2024 19:44 |  ![1](../assets/Q11.jpg)  BARBOSA, Simone, et al. Interação Humano-Computador e Experiência do Usuário. Leanpub, p.237  cap 10, 2022.|
+| 12 – Os Princípios Gerais do Projeto contém os seguintes tópicos:                                                    |                     |                                   |         ![2](../assets/Q12.jpg)  BARBOSA, Simone, et al. Interação Humano-Computador e Experiência do Usuário. Leanpub, p.238  cap 10, 2022.                      |
 | 12.1 – Correspondência com as expectativas dos usuários  | Sim | 1.0 03/12/2024 19:48 |                                |
 | 12.2 – Simplicidade nas estruturas das tarefas  |      Sim               |    1.0 03/12/2024 22:04                               |                                |
 | 12.3 – Equilíbrio entre controle e liberdade do usuário |       Sim              |     1.0 03/12/2024 22:06                              |                                |
@@ -32,10 +32,10 @@ Feito o [planejamento da verificação dos itens do desenvolvimento do projeto](
 | 12.6 – Visibilidade e reconhecimento  |       Sim              |     1.0 03/12/2024 22:08                              |                                |
 | 12.7 – Conteúdo relevante e expressão adequada;  |         Sim              |     1.0 03/12/2024 22:08                             |                                |
 | 12.8 – Projeto para erros.  |               Sim              |     1.0 03/12/2024 22:09                             |                                |
-| 13 – As metas de usabilidade que devem ser alcançadas no projeto ou os objetivos de uma avaliação de IHC.  |              Sim              |     1.1 03/12/2024 22:12                           |                                |
+| 13 – As metas de usabilidade que devem ser alcançadas no projeto ou os objetivos de uma avaliação de IHC.  |              Sim              |     1.1 03/12/2024 22:12                           |       ![3](../assets/Q13.jpg)  BARBOSA, Simone, et al. Interação Humano-Computador e Experiência do Usuário. Leanpub, p.117  cap 6, 2022.                        |
 | 14 – A razão da seleção das metas de usabilidade?  |                  Sim              |     1.1 03/12/2024 22:16                              |                                |
-| 15 – O Guia de Estilo do projeto?  |               Sim              |     1.2 03/12/2024 22:16                               |                                |
-| 16 – O Guia de Estilo do projeto possui a seguinte estrutura:   |                  Sim              |     1.2 03/12/2024 22:18                                |                                |
+| 15 – O Guia de Estilo do projeto?  |               Sim              |     1.2 03/12/2024 22:16                               |  ![4](../assets/Q15.jpg) BARBOSA, Simone, et al. Interação Humano-Computador e Experiência do Usuário. Leanpub, p.257 cap 10, 2022.                              |
+| 16 – O Guia de Estilo do projeto possui a seguinte estrutura:   |                  Sim              |     1.2 03/12/2024 22:18                                | ![5](../assets/Q16.jpg)   BARBOSA, Simone, et al. Interação Humano-Computador e Experiência do Usuário. Leanpub, p.258 cap 10, 2022.                             |
 | 16.1 – Introdução (Objetivo, Organização, Público-alvo, Utilização, Manutenção); |                           Sim              |     1.2 03/12/2024 22:18                             |
 | 16.2 – Resultados de análise (Descrição do ambiente de trabalho do usuário); |                  Sim              |     1.2 03/12/2024 22:18                                 |                                |
 | 16.3 – Elementos de interface (Disposição espacial, Janelas, Tipografia, Cores) |                   Sim              |     1.2 03/12/2024 22:18                                  |                                |
@@ -61,9 +61,19 @@ Feito o [planejamento da verificação dos itens do desenvolvimento do projeto](
 | 9 – Considera as necessidades e preferências do público-alvo? |               Sim       |   1.2 03/12/2024 22:32    |                           | Autor: [Weverton Rodrigues](https://github.com/vevetin)                                |
 
 
-## Referências Bibliográficas
+
+
+
+
+## Bibliografia
 
 > \- SALES, André. Plano de Ensino da disciplina Interação Humano Computador. Universidade de Brasília, Campus UNB Gama: Faculdade de Ciências e Tecnologias em Engenharia, 2024. Disponível em: https://aprender3.unb.br/pluginfile.php/2972625/mod_resource/content/56/Plano_de_Ensino%20FIHC%20022024%20Turma%2001%20v1.pdf. Acesso em: 25 out. 2024.
+
+Itens membros do grupo:
+Itens 1 e 2: BARBOSA, Simone, et al. Interação Humano-Computador e Experiência do Usuário. Leanpub, p.178, 181 cap 8, 2022.
+itens 3 e 4: BARBOSA, Simone, et al. Interação Humano-Computador e Experiência do Usuário. Leanpub, p.117  cap 6, 2022.
+itens 5 e 6:  BARBOSA, Simone, et al. Interação Humano-Computador e Experiência do Usuário. Leanpub, p.119 cap 6, 2022.
+itens 7, 8 e 9: BARBOSA, Simone, et al. Interação Humano-Computador e Experiência do Usuário. Leanpub, p.257 cap 10, 2022.
 
 ## Histórico de Versão
 ---
@@ -71,5 +81,7 @@ Feito o [planejamento da verificação dos itens do desenvolvimento do projeto](
 |:---:|:---:|---|---|:---:|---|
 | 1.0 | 03/12/2024 | [Paulo Henrique](https://github.com/paulomh) | Criação da execução da verificação do planejamento dos itens do desenvolvimento do projeto | 03/12/2024 | [Weverton Rodrigues](https://github.com/vevetin) |
 | 1.1 | 03/12/2024 | [Pedro Luiz](https://github.com/pedroluizfo), [Weverton Rodrigues](https://github.com/vevetin)|Perguntas dos membros adicionadas e verificação da etapa 3 feita | 03/12/2024 | [Necivaldo Amaral](https://github.com/junioramaral22),[Rodrigo Wendrel](https://github.com/rodwendrel)   |
+| 1.2 | 03/12/2024 | [Pedro Luiz](https://github.com/pedroluizfo), [Weverton Rodrigues](https://github.com/vevetin)|Bibliografia e ajustes | 03/12/2024 | [Necivaldo Amaral](https://github.com/junioramaral22),[Rodrigo Wendrel](https://github.com/rodwendrel)   |
+
 
 

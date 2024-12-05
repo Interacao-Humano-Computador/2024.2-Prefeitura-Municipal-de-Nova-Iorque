@@ -14,11 +14,11 @@ O presente documento tem como objetivo apresentar a Lista de Verificação (disp
 
 | O github pages possui:  | Resposta | Versão, Data e hora da avaliação | Observação |
 |---|---|---|---|
-| 1 – O histórico de versão padronizado? | Sim | 04/12/2024, 20:44 |  |
-| 2 – O(s) autor(es) e o(s) revisor(es) para cada artefato? | Sim |    04/12/2024, 20:45 |  |
-| 3 – Referências bibliográficas e/ou bibliografia em todos os artefatos?  | Sim |    04/12/2024, 20:46  |  |
-| 4 – As tabelas e imagens possuem legenda e fonte e elas chamadas dentro do texto? | Incompleto | 04/12/2024, 20:49 | Não há chamadas das tabelas e imagens no texto. |
-| 5 – Um texto fazendo uma introdução dos artefatos?  | Sim  |   04/12/2024, 20:50 |   |
+| 1 – O histórico de versão padronizado? | Sim | v1.0, 04/12/2024, 20:44 |  |
+| 2 – O(s) autor(es) e o(s) revisor(es) para cada artefato? | Sim |    v1.0, 04/12/2024, 20:45 |  |
+| 3 – Referências bibliográficas e/ou bibliografia em todos os artefatos?  | Sim |    v1.0, 04/12/2024, 20:46  |  |
+| 4 – As tabelas e imagens possuem legenda e fonte e elas chamadas dentro do texto? | Incompleto | v1.0, 04/12/2024, 20:49 | Não há chamadas das tabelas e imagens no texto. |
+| 5 – Um texto fazendo uma introdução dos artefatos?  | Sim  |   v1.0, 04/12/2024, 20:50 |   |
 | 6 – O cronograma executado com quem realizou cada artefato/atividade com as datas de início e fim da construção/realização do artefato/atividade. |  Incompleto |  04/12/2024, 20:53 | Não há revisores na coluna destinada do cronograma executado. |
 | 7 – Ata(s) da(s) reuniões (com data, horário de início e do final, participantes, objetivo, atividades definidas etc). | Sim |   v1.0, 04/12/2024, 20:55 |    |
 | 8 – A gravação da reunião do grupo.  | Incompleto |   v1.0, 04/12/2024, 20:57   | |

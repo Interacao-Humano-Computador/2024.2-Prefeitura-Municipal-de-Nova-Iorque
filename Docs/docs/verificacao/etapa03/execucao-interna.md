@@ -50,15 +50,15 @@ Feito o [planejamento da verificação dos itens do desenvolvimento do projeto](
 
 | O github pages possui: | Resposta  | Versão, Data e hora da avaliação | Observação   | Autor(es)  |                               
 |----------------------- |-----------|----------------------------------|--------------|------------|    
-| 1 – Os princípios gerais do projeto correspondem ao site escolhido? |                  Sim              |     1.0 03/12/2024 22:21                          |       |    Autor: [Paulo Henrique](https://github.com/paulomh), [Weverton Rodrigues](https://github.com/vevetin)                            | 
-| 2 – Os princípios gerais do projeto estão alinhados com as necessidades dos usuários? |             Sim              |     1.0 03/12/2024 22:22  |                               |       Autores: [Pedro Luiz](https://github.com/pedroluizfo),    [Necivaldo Amaral](https://github.com/junioramaral22)                      |
-| 3 – As metas de usabilidade estão priorizadas? |                 Sim              |     1.1 03/12/2024 22:24      |      |   Autores: [Paulo Henrique](https://github.com/paulomh),[Rodrigo Wendrel](https://github.com/rodwendrel)                             |
-| 4 – As metas de usabilidade incluem objetivos específicos para cada funcionalidade principal? |         Sim              |     1.1 03/12/2024 22:25   |                          |  Autores: [Pedro Luiz](https://github.com/pedroluizfo),    [Necivaldo Amaral](https://github.com/junioramaral22)                               |
-| 5 – Nas características da plataforma há o detalhamento dos limites do site? |                Sim              |     1.1 03/12/2024 22:25  |                             |    Autor: [Paulo Henrique](https://github.com/paulomh)                             |
-| 6 – A plataforma foi testada para identificar possíveis problemas de responsividade em diferentes telas? |              Sim       |   1.1 03/12/2024 22:25  |                              | Autores: [Pedro Luiz](https://github.com/pedroluizfo),    [Necivaldo Amaral](https://github.com/junioramaral22)                                 |
-| 7 – O guia de estilo possui uma organização relacionada ao layout do site? |             Sim       |   1.2 03/12/2024 22:30     |                       | Autor: [Paulo Henrique](https://github.com/paulomh)                                |
-| 8 – O guia de estilo fornece exemplos visuais para facilitar a aplicação pelas equipes? |         Sim       |   1.2 03/12/2024 22:32     |                      |Autores: [Pedro Luiz](https://github.com/pedroluizfo),   [Rodrigo Wendrel](https://github.com/rodwendrel)                                 |
-| 9 – Considera as necessidades e preferências do público-alvo? |               Sim       |   1.2 03/12/2024 22:32    |                           | Autor: [Weverton Rodrigues](https://github.com/vevetin)                                |
+| 1 – Os princípios gerais do projeto correspondem ao site escolhido? |                  Sim              |     1.0 03/12/2024 22:21                          |       |     [Paulo Henrique](https://github.com/paulomh), [Weverton Rodrigues](https://github.com/vevetin)                            | 
+| 2 – Os princípios gerais do projeto estão alinhados com as necessidades dos usuários? |             Sim              |     1.0 03/12/2024 22:22  |                               |        [Pedro Luiz](https://github.com/pedroluizfo),    [Necivaldo Amaral](https://github.com/junioramaral22)                      |
+| 3 – As metas de usabilidade estão priorizadas? |                 Sim              |     1.1 03/12/2024 22:24      |      |    [Paulo Henrique](https://github.com/paulomh),[Rodrigo Wendrel](https://github.com/rodwendrel)                             |
+| 4 – As metas de usabilidade incluem objetivos específicos para cada funcionalidade principal? |         Sim              |     1.1 03/12/2024 22:25   |                          |  [Pedro Luiz](https://github.com/pedroluizfo),    [Necivaldo Amaral](https://github.com/junioramaral22)                               |
+| 5 – Nas características da plataforma há o detalhamento dos limites do site? |                Sim              |     1.1 03/12/2024 22:25  |                             |  [Paulo Henrique](https://github.com/paulomh)                             |
+| 6 – A plataforma foi testada para identificar possíveis problemas de responsividade em diferentes telas? |              Sim       |   1.1 03/12/2024 22:25  |                              |  [Pedro Luiz](https://github.com/pedroluizfo),    [Necivaldo Amaral](https://github.com/junioramaral22)                                 |
+| 7 – O guia de estilo possui uma organização relacionada ao layout do site? |             Sim       |   1.2 03/12/2024 22:30     |                       | [Paulo Henrique](https://github.com/paulomh)                                |
+| 8 – O guia de estilo fornece exemplos visuais para facilitar a aplicação pelas equipes? |         Sim       |   1.2 03/12/2024 22:32     |                      | [Pedro Luiz](https://github.com/pedroluizfo),   [Rodrigo Wendrel](https://github.com/rodwendrel)                                 |
+| 9 – Considera as necessidades e preferências do público-alvo? |               Sim       |   1.2 03/12/2024 22:32    |                           | [Weverton Rodrigues](https://github.com/vevetin)                                |
 
 
 
@@ -69,10 +69,10 @@ Feito o [planejamento da verificação dos itens do desenvolvimento do projeto](
 
 > \- SALES, André. Plano de Ensino da disciplina Interação Humano Computador. Universidade de Brasília, Campus UNB Gama: Faculdade de Ciências e Tecnologias em Engenharia, 2024. Disponível em: https://aprender3.unb.br/pluginfile.php/2972625/mod_resource/content/56/Plano_de_Ensino%20FIHC%20022024%20Turma%2001%20v1.pdf. Acesso em: 25 out. 2024.
 
-Itens membros do grupo:
-Itens 1 e 2: BARBOSA, Simone, et al. Interação Humano-Computador e Experiência do Usuário. Leanpub, p.178, 181 cap 8, 2022.
-itens 3 e 4: BARBOSA, Simone, et al. Interação Humano-Computador e Experiência do Usuário. Leanpub, p.117  cap 6, 2022.
-itens 5 e 6:  BARBOSA, Simone, et al. Interação Humano-Computador e Experiência do Usuário. Leanpub, p.119 cap 6, 2022.
+Itens membros do grupo:  
+Itens 1 e 2: BARBOSA, Simone, et al. Interação Humano-Computador e Experiência do Usuário. Leanpub, p.178, 181 cap 8, 2022.  
+itens 3 e 4: BARBOSA, Simone, et al. Interação Humano-Computador e Experiência do Usuário. Leanpub, p.117  cap 6, 2022.  
+itens 5 e 6:  BARBOSA, Simone, et al. Interação Humano-Computador e Experiência do Usuário. Leanpub, p.119 cap 6, 2022.  
 itens 7, 8 e 9: BARBOSA, Simone, et al. Interação Humano-Computador e Experiência do Usuário. Leanpub, p.257 cap 10, 2022.
 
 ## Histórico de Versão

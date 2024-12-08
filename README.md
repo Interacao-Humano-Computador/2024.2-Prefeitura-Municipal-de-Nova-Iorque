@@ -12,7 +12,7 @@
 
 Este projeto documenta a avaliação do site da Prefeitura Municipal de Nova Iorque, realizada para a disciplina de Interação Humano Computador da Universidade de Brasília, Campus UnB Gama. O site oferece serviços administrativos essenciais à população local, como informações sobre o município, licitações, serviços institucionais, entre outros. O objetivo é identificar problemas e sugerir melhorias que tornem o site mais acessível e fácil de usar para todos os cidadãos, aplicando os conceitos e técnicas estudados em sala de aula.  
 
-*Consulte a [documentação completa do projeto](https://interacao-humano-computador.github.io/2024.2-Grupo06/) para mais detalhes.*
+*Consulte a [documentação completa do projeto](https://interacao-humano-computador.github.io/2024.2-Prefeitura-Municipal-de-Nova-Iorque/) para mais detalhes.*
 
 ### Equipe do Projeto:
 

@@ -10,7 +10,7 @@ O storyboard é uma técnica de prototipação de baixa fidelidade amplamente ut
 
 No contexto deste trabalho, os storyboards foram elaborados para visualizar cenários de uso identificados durante a análise de tarefas (HTA e GOMS). Cada storyboard representa uma sequência lógica de interações, com o objetivo de identificar pontos de melhoria no design da interface e na experiência do usuário.
 
-### Storyboard 1:
+### Storyboard 1 - Fazer um pedido no e-SIC:
 
 O Storyboard abaixo mostra o ator João Ricardo, professor da rede municipal de ensino do município de Nova Iorque, inicialmente na escola, preocupado com os repasses financeiros para a educação daquele ano. Sabendo da transparência que o site da prefeitura fornece, João decide ir para casa e investigar utilizando o “e-SIC” presente no site, que da direito ao cidadão pedir informações de cunho governamental. Basicamente, João precisa ter acesso a um computador com internet e, logo em seguida, acessar o site da prefeitura e navegar até a aba do “e-SIC”. Feito esses passos iniciais e na página inicial do “e-SIC”, ele clica para fazer um “pedido anônimo”, pois ele não quer se identificar para manter sua privacidade. João é redirecionado para outra página contendo um formulário de preenchimento. João preenche o formulário com seus questionamentos e clica em “cadastrar”, finalizando sua tarefa e aguardando o retorno por parte da prefeitura.
 

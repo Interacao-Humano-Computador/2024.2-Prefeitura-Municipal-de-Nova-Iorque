@@ -12,7 +12,17 @@ No contexto deste trabalho, os storyboards foram elaborados para visualizar cen�
 
 ### Storyboard 1:
 
+O Storyboard abaixo mostra o ator João Ricardo, professor da rede municipal de ensino do município de Nova Iorque, inicialmente na escola, preocupado com os repasses financeiros para a educação daquele ano. Sabendo da transparência que o site da prefeitura fornece, João decide ir para casa e investigar utilizando o “e-SIC” presente no site, que da direito ao cidadão pedir informações de cunho governamental. Basicamente, João precisa ter acesso a um computador com internet e, logo em seguida, acessar o site da prefeitura e navegar até a aba do “e-SIC”. Feito esses passos iniciais e na página inicial do “e-SIC”, ele clica para fazer um “pedido anônimo”, pois ele não quer se identificar para manter sua privacidade. João é redirecionado para outra página contendo um formulário de preenchimento. João preenche o formulário com seus questionamentos e clica em “cadastrar”, finalizando sua tarefa e aguardando o retorno por parte da prefeitura.
 
+<center>
+
+<p style={{ textAlign: 'center', fontSize: '18px' }}><b>Figura 1</b> - Storyboard: fazer um pedido no e-SIC</p>
+
+![Storyboard: fazer um pedido no e-SIC](../assets/storyboard-paulo.jpg)
+
+<p style={{ textAlign: 'center', fontSize: '17px' }}>Autor(es): [Paulo Henrique](https://github.com/paulomh)</p>
+
+</center>
 
 ### Storyboard 2:
 
@@ -40,4 +50,5 @@ No contexto deste trabalho, os storyboards foram elaborados para visualizar cen�
 
 | Versão | Data | Autor(es) | Descrição | Data de Revisão | Revisor(es) |
 |:---:|:---:|---|---|:---:|---|
-| 1.0 | 08/12/2024 | [Weverton Rodrigues](https://github.com/vevetin) | criação do documento | | |
+| 1.0 | 08/12/2024 | [Weverton Rodrigues](https://github.com/vevetin) | criação do documento | 10/12/2024 | [Paulo Henrique](https://github.com/paulomh) |
+| 1.1 | 10/12/2024 | [Paulo Henrique](https://github.com/paulomh) | adição do storyboard 1 | 10/12/2024 | [Weverton Rodrigues](https://github.com/vevetin) |

@@ -84,7 +84,9 @@ De posse dessas informações, gostaríamos que você se pronunciasse acerca da 
 
 ## E - Avaliar, interpretar e apresentar os dados
 
+A avaliação dos dados coletados será conduzida de acordo com as etapas descritas no documento [Planejamento do Relato do Storyboard](../nivel01/planejamentoRelatoStoryboard.md).
 
+Essa análise incluirá a organização, codificação e interpretação dos feedbacks obtidos, com foco em identificar padrões, dificuldades e oportunidades de melhoria nos storyboards. Os resultados serão apresentados de forma estruturada, destacando os problemas encontrados, as recomendações de melhoria e as lições aprendidas, conforme descrito no planejamento do relato.
 
 ## Planejamento do Teste Piloto
 

@@ -39,4 +39,4 @@ Descreve as ações baseadas nos resultados da avaliação, sugerindo mudanças 
 
 | Versão | Data | Autor(es) | Descrição | Data de Revisão | Revisor(es) |
 |:---:|:---:|---|---|:---:|---|
-| 1.0 | 10/12/2024 | [Rodrigo Wendrel](https://github.com/rodwendrel) | Criação do documento, introdução e tópicos | | |
+| 1.0 | 10/12/2024 | [Rodrigo Wendrel](https://github.com/rodwendrel) | Criação do documento, introdução e tópicos | 10/12/2024 | [Weverton Rodrigues](https://github.com/vevetin) |

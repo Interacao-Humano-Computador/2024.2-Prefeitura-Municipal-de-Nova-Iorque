@@ -102,6 +102,10 @@ De posse dessas informações, gostaríamos que você se pronunciasse acerca da 
 
 ## E - Avaliar, interpretar e apresentar os dados
 
+A avaliação dos dados coletados será conduzida de acordo com as etapas descritas no documento [Planejamento do Relato da Análise de Tarefas](../nivel01/planejamentoRelatoAnaliseDeTarefas.md).
+
+Essa análise incluirá a organização, codificação e interpretação dos feedbacks obtidos, com foco em identificar padrões, dificuldades e oportunidades de melhoria nas análises de tarefas. Os resultados serão apresentados de forma estruturada, conforme descrito no planejamento do relato.
+
 ## Planejamento do Teste Piloto
 
 O teste piloto tem como objetivo avaliar o planejamento da avaliação, garantindo que ele produza os dados necessários para responder às questões do estudo. Durante o teste, o avaliador verifica se os materiais (roteiros, explicações e recursos) são claros e adequados, e se os sistemas e equipamentos funcionam corretamente.

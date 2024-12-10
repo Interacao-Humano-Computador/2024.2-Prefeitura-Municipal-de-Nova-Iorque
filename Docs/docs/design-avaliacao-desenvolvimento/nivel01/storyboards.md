@@ -20,12 +20,23 @@ O Storyboard abaixo mostra o ator João Ricardo, professor da rede municipal de 
 
 ![Storyboard: fazer um pedido no e-SIC](../assets/storyboard-paulo.jpg)
 
-<p style={{ textAlign: 'center', fontSize: '17px' }}>Autor(es): [Paulo Henrique](https://github.com/paulomh)</p>
+<p style={{ textAlign: 'center', fontSize: '17px' }}>Autor: [Paulo Henrique](https://github.com/paulomh)</p>
 
 </center>
 
-### Storyboard 2:
+### Storyboard 2 - Agendamento de Consulta Médica para Dona Lúcia:
 
+Dona Lúcia, uma senhora com baixa familiaridade tecnológica, decidiu agendar sua consulta médica online para evitar filas e dificuldades administrativas. Com o auxílio do neto, acessou o site da prefeitura em sua residência, localizou a seção de agendamentos, preencheu o formulário com os dados necessários e imprimiu o comprovante. No dia da consulta, foi atendida na UBS de forma prática e sem complicações, o que trouxe alívio e confiança para futuras utilizações do sistema, motivada pela conveniência e pela melhoria no acesso aos serviços de saúde.
+
+<center>
+
+<p style={{ textAlign: 'center', fontSize: '18px' }}><b>Figura 2</b> - Storyboard: Agendamento de Consulta Médica para Dona Lúcia</p>
+
+![Storyboard: agendamento de consulta médica](../assets/storyboard-weverton.jfif)
+
+<p style={{ textAlign: 'center', fontSize: '17px' }}>Autor: [Weverton Rodrigues](https://github.com/vevetin)</p>
+
+</center>
 
 
 ### Storyboard 3:
@@ -52,3 +63,4 @@ O Storyboard abaixo mostra o ator João Ricardo, professor da rede municipal de 
 |:---:|:---:|---|---|:---:|---|
 | 1.0 | 08/12/2024 | [Weverton Rodrigues](https://github.com/vevetin) | criação do documento | 10/12/2024 | [Paulo Henrique](https://github.com/paulomh) |
 | 1.1 | 10/12/2024 | [Paulo Henrique](https://github.com/paulomh) | adição do storyboard 1 | 10/12/2024 | [Weverton Rodrigues](https://github.com/vevetin) |
+| 1.2 | 10/12/2024 | [Weverton Rodrigues](https://github.com/vevetin) | adição do storyboard 2 | |  |

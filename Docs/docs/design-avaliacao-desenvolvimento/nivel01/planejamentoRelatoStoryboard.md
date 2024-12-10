@@ -56,11 +56,16 @@ O entrevistador deve registrar de forma detalhada as sugestões e propostas de m
 Essas propostas devem ser objetivas e focadas em melhorar a usabilidade e atender às necessidades dos usuários de maneira eficaz.
 
 ### Registro da avaliação:
-Neste item será apresentado pelos avaliadores, as gravações tanto dos testes-pilotos quanto a da avaliações junto aos usuários.
+A seção Registro da Avaliação tem como foco documentar todas as evidências coletadas durante o processo de avaliação, garantindo que as observações feitas pelos avaliadores sejam registradas de maneira precisa e confiável. Esta etapa incui as gravações tanto dos testes-piloto quanto a da avaliações junto aos usuários. A qualidade do registro deve ser priorizada, incluindo áudio, vídeo e anotações detalhadas sempre que possível. 
 
 ### Planejamento de reprojeto:
-O objetivo principal dessa atividade é validar o artefato com o auxílio de usuários reais. Dessa forma, as mudanças sugeridas e os problemas identificados durante a análise devem ser levados em conta no desenvolvimento de um reprojeto. Contudo, é essencial preservar a essência do projeto original, implementando apenas as alterações que sejam realmente necessárias.
+O planejamento de reprojeto tem como principal objetivo incorporar as melhorias necessárias no sistema com base nos resultados obtidos durante a avaliação. Essa etapa é essencial para validar o artefato junto aos usuários reais, garantindo que as mudanças implementadas atendam às necessidades identificadas e promovam uma experiência de uso mais eficiente e satisfatória. Durante o reprojeto, busca-se resolver os problemas apontados na avaliação, priorizando os ajustes mais críticos para assegurar que os usuários consigam realizar suas tarefas de forma eficiente, sem dificuldades ou obstáculos. É fundamental que, ao longo do processo, seja preservada a essência do projeto original, mantendo intactas as características fundamentais que sustentam o propósito do sistema, ao mesmo tempo em que são feitas somente as alterações necessárias e relevantes para o contexto.
 
+O reprojeto segue um processo estruturado, começando pela análise detalhada dos resultados da avaliação, que inclui a revisão dos problemas identificados e das sugestões de melhorias propostas. Com base nessa análise, é definido o escopo do reprojeto, delimitando as mudanças que são prioritárias e essenciais para o aprimoramento do sistema. A implementação das melhorias deve ser conduzida de forma criteriosa, garantindo consistência com o restante do projeto, enquanto novos testes com os usuários são realizados para validar as alterações e coletar feedbacks adicionais.
+
+Para organizar as atividades, é elaborado um cronograma que estabelece prazos e responsabilidades entre os membros da equipe. Este cronograma, embora planejado, é flexível e ajustável conforme as demandas do projeto e eventuais imprevistos. Essa flexibilidade permite que a equipe reaja prontamente a novos feedbacks que possam surgir durante o processo, assegurando que a qualidade do sistema seja mantida. O cronograma inicial sugere que o reprojeto tenha início no dia seguinte às entrevistas realizadas na etapa de avaliação, com horários ajustáveis de acordo com a necessidade.
+
+Em essência, o reprojeto não se limita a corrigir problemas; ele é uma oportunidade de aperfeiçoar o sistema, tornando-o mais funcional, intuitivo e alinhado às expectativas dos usuários. Por meio desse processo, busca-se alcançar um equilíbrio entre atender às demandas dos usuários e manter a integridade do projeto original, garantindo que o produto final seja eficiente, eficaz e satisfatório. Ao final do reprojeto, espera-se que o sistema tenha evoluído significativamente, consolidando-se como uma solução robusta e bem-adaptada às necessidades de seu público.
 A Tabela 2 apresenta um cronograma sugerido para o reprojeto, com início planejado para o dia seguinte à entrevista. O horário é flexível, permitindo ajustes conforme as necessidades da equipe, sem a obrigatoriedade de ser seguido rigorosamente.
 
 <center>
@@ -84,3 +89,4 @@ A Tabela 2 apresenta um cronograma sugerido para o reprojeto, com início planej
 | Versão | Data | Autor(es) | Descrição | Data de Revisão | Revisor(es) |
 |:---:|:---:|---|---|:---:|---|
 | 1.0 |  10/12/2024 | [Necivaldo Amaral](https://github.com/junioramaral22) | Criação do documento de Planejamento do Relato dos Resultados da Avaliação do StoryBoard | 10/12/2024 | [Rodrigo Wendrel](https://github.com/rodwendrel) |
+| 1.1 |  10/12/2024 | [Pedro Luiz](https://github.com/pedroluizfo) | Complemento teórico e incrementos nas explicações dos tópicos | 10/12/2024 | [Rodrigo Wendrel](https://github.com/rodwendrel) |

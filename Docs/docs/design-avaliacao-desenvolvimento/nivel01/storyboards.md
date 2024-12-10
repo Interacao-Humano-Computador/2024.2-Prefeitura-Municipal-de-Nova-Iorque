@@ -70,6 +70,18 @@ João Da Silva, um trabalhador autônomo de 35 anos, busca registrar uma reclama
 
 ### Storyboard 5:
 
+Um funcionário da Secretaria Municipal de Educação de Nova Iorque deseja verificar os detalhes de uma licitação acerca de um registro de preços para aquisição de materiais de escritório para demanda interna e salvar as informações para um arquivo PDF para anexá-las à um email.
+
+<center>
+
+<p style={{ textAlign: 'center', fontSize: '18px' }}><b>Figura 5</b> - Storyboard: Busca por licitação fracassada.</p>
+
+![Ouvidoria](../assets/storyboard-rodrigo.png)
+
+<p style={{ textAlign: 'center', fontSize: '17px' }}>Autor: [Rodrigo Wendrel](https://github.com/rodwendrel)</p>
+
+</center>
+
 
 
 
@@ -87,3 +99,4 @@ João Da Silva, um trabalhador autônomo de 35 anos, busca registrar uma reclama
 | 1.2 | 10/12/2024 | [Weverton Rodrigues](https://github.com/vevetin) | adição do storyboard 2 | 10/12/2024 |  |
 | 1.3 | 10/12/2024 | [Necivaldo Amaral](https://github.com/junioramaral22) | adição do storyboard 3 | 10/12/2024 | [Pedro Luiz](https://github.com/pedroluizfo) |
 | 1.4 | 10/12/2024 | [Necivaldo Amaral](https://github.com/pedroluizfo) | adição do storyboard 4 | 10/12/2024 |  |
+| 1.5 | 10/12/2024 | [Rodrigo Wendrel](https://github.com/rodwendrel) | adição do storyboard 5 | 10/12/2024 |  |

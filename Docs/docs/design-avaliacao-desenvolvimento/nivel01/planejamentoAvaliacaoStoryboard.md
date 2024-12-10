@@ -39,21 +39,9 @@ As perguntas a serem exploradas nesta avaliação foram adaptadas a partir da ta
 
 </center>
 
-**Apropriação da Tecnologia:**  
-- Os usuários compreendem o objetivo de cada interação representada no storyboard?
-- Os fluxos propostos são claros e intuitivos?
-- Há evidências de que os usuários conseguiriam utilizar o sistema com base no que foi apresentado?
-- Quais aspectos dos fluxos apresentados no storyboard podem impedir os usuários de adotarem o sistema em suas rotinas diárias?
-
-**Identificação de Problemas de Interação e Interface:**  
-- Existem elementos confusos ou difíceis de interpretar nos storyboards?
-- Quais barreiras de interação podem surgir para os usuários ao realizarem as tarefas propostas?
-- A sequência de interações está clara, ou os usuários têm dificuldades em entender o que fazer a seguir?
-- Os usuários têm acesso a todas as informações necessárias para concluir as tarefas ou há falta de clareza nas instruções?
-
 ## C - Escolher os métodos de avaliação a serem utilizados
 
-O método escolhido para esta avaliação é a entrevista semiestruturada, uma técnica comum para coleta de dados e levantamento de requisitos em IHC. Segundo Simone Barbosa (adaptado de Seidman, 2019), trata-se de uma conversa guiada por um roteiro de perguntas ou tópicos, permitindo ao entrevistador explorar em profundidade as respostas dos participantes.
+O método escolhido para esta avaliação é a **entrevista semiestruturada**, uma técnica comum para coleta de dados e levantamento de requisitos em IHC. Segundo Simone Barbosa (adaptado de Seidman, 2019), trata-se de uma conversa guiada por um roteiro de perguntas ou tópicos, permitindo ao entrevistador explorar em profundidade as respostas dos participantes.
 
 Neste contexto, a entrevista semiestruturada será usada para coletar feedback sobre os storyboards. O objetivo é obter opiniões, reações e sugestões dos usuários sobre as interações apresentadas, com perguntas abertas que possibilitam uma compreensão detalhada das experiências e percepções. O entrevistador poderá adaptar as perguntas conforme a conversa, garantindo que todos os aspectos relevantes sejam abordados.
 
@@ -62,13 +50,13 @@ Essa abordagem facilita a exploração de pontos específicos, mantendo o foco n
 ## I - Identificar e administrar as questões práticas da avaliação
 
 - Participantes: Serão selecionados 5 participantes representativos do público-alvo, priorizando aqueles que possuam características semelhantes ao [perfil do usuário](../../analise-de-requisitos/perfilDeUsuario.md) definido no projeto.
+
 - Ferramentas: Storyboards impressos ou apresentados digitalmente, roteiro de avaliação, formulário para coleta de feedback, câmera ou celular para gravação das entrevistas (se aplicável), e ferramentas de videoconferência como Microsoft Teams (para entrevistas remotas).
 
 - Cronograma:
-    > Preparação: 1 dia para preparação dos materiais e definição do roteiro de avaliação.
-    > Coleta de Dados: 1 dia para execução do teste piloto (30 minutos antes da sessão) e condução das entrevistas semiestruturadas.
-    > Interpretação: 1 dia para análise dos dados coletados e consolidação das informações.
-    > Consolidação e Relato dos Resultados: 1 dia para redação do relatório de resultados da avaliação.
+    > Preparação: 1 dia para preparação dos materiais e definição do roteiro de avaliação.  
+    > Coleta de Dados: 1 dia para execução do teste piloto (30 minutos antes da sessão) e condução das entrevistas semiestruturadas.  
+    > Relato dos Resultados: 1 dia para redação do relatório de resultados da avaliação.  
 
 - Local: Ambiente presencial ou remoto, dependendo da disponibilidade dos participantes.
 
@@ -90,8 +78,9 @@ quaisquer documentos que elaborarmos.
 necessários sobre a pesquisa.
 - A entrevista pode ser interrompida a qualquer momento, segundo a sua disponibilidade e vontade.
 - Nossa equipe encontra-se disponível para contato através do e-mail: melopaulo210@gmail.com. <br/>
-De posse dessas informações, gostaríamos que você se pronunciasse acerca da entrevista:
--  (  ) Dou meu consentimento para a sua realização. | (  ) Não consinto com a sua realização.
+
+De posse dessas informações, gostaríamos que você se pronunciasse acerca da entrevista:   
+(  ) Dou meu consentimento para a sua realização. &emsp; (  ) Não consinto com a sua realização.
 
 ## E - Avaliar, interpretar e apresentar os dados
 

@@ -54,9 +54,19 @@ O Storyboard apresenta Leonardo Almeida, empresário, que precisa emitir uma Not
 </center>
 
 
-### Storyboard 4:
+### Storyboard 4 Registro de reclamação na ouvidoria:
 
+João Da Silva, um trabalhador autônomo de 35 anos, busca registrar uma reclamação sobre a coleta de lixo em sua rua utilizando o canal eletrônico de ouvidoria no site da prefeitura. Com uma interface funcional e explicativa, o sistema permite que João realize a tarefa de forma prática e eficiente, desde o preenchimento do formulário até o acompanhamento da solicitação. Ao ver sua demanda atendida com rapidez, João sente-se satisfeito com o serviço prestado.
 
+<center>
+
+<p style={{ textAlign: 'center', fontSize: '18px' }}><b>Figura 4</b> - Storyboard: Registro de reclamação na ouvidoria.</p>
+
+![Storyboard: agendamento de consulta médica](../assets/Storyboard-Pedro.jpg)
+
+<p style={{ textAlign: 'center', fontSize: '17px' }}>Autor: [Pedro Luiz](https://github.com/pedroluizfo)</p>
+
+</center>
 
 ### Storyboard 5:
 
@@ -76,3 +86,4 @@ O Storyboard apresenta Leonardo Almeida, empresário, que precisa emitir uma Not
 | 1.1 | 10/12/2024 | [Paulo Henrique](https://github.com/paulomh) | adição do storyboard 1 | 10/12/2024 | [Weverton Rodrigues](https://github.com/vevetin) |
 | 1.2 | 10/12/2024 | [Weverton Rodrigues](https://github.com/vevetin) | adição do storyboard 2 | 10/12/2024 |  |
 | 1.3 | 10/12/2024 | [Necivaldo Amaral](https://github.com/junioramaral22) | adição do storyboard 3 | 10/12/2024 | [Pedro Luiz](https://github.com/pedroluizfo) |
+| 1.4 | 10/12/2024 | [Necivaldo Amaral](https://github.com/pedroluizfo) | adição do storyboard 4 | 10/12/2024 |  |

@@ -10,7 +10,7 @@ O documento em questão tem como base o [planejamento da avaliação do Storyboa
 
 ## Metodologia
 
-A construção do relato dos resultados será fundamentada no documento "Planejamento da Avaliação do Storyboard" e nos critérios de avaliação mencionados por Barbosa [1], os quais incluem:
+A construção do relato dos resultados será fundamentada no documento "Planejamento da Avaliação do Storyboard" e nos critérios de avaliação mencionados por Barbosa <sup>[1](../nivel01/planejamentoRelatoStoryboard.md#referências-bibliográficas)</sup>, os quais incluem:
 1. Objetivo e âmbito da avaliação;
 2. Método de avaliação;
 3. Seleção dos participantes;
@@ -26,7 +26,7 @@ A construção do relato dos resultados será fundamentada no documento "Planeja
 Nesta fase, o responsável pela redação do documento deverá esclarecer as motivações para a realização da avaliação, bem como especificar os objetivos que o grupo busca alcançar por meio da análise das tarefas. Isso inclui justificar a relevância da avaliação, definir as expectativas e metas estabelecidas, além de oferecer uma visão geral sobre o propósito e o contexto no qual a avaliação está inserida.
 
 ### Método de avaliação: 
-A avaliação será conduzida por meio de uma abordagem que combina observação e entrevistas com os usuários, garantindo uma coleta de dados precisa e detalhada. Para assegurar uniformidade e objetividade no relato dos resultados, os entrevistadores deverão respeitar um cronograma padronizado durante a realização das entrevistas.
+A avaliação será conduzida por meio de entrevistas com os usuários, garantindo uma coleta de dados precisa e detalhada. Para assegurar uniformidade e objetividade no relato dos resultados, os entrevistadores deverão respeitar um cronograma padronizado durante a realização das entrevistas.
 
 Iremos ilustrar na tabela 1, o exemplo de um item de cronograma.
 <center>
@@ -75,15 +75,16 @@ A Tabela 2 apresenta um cronograma sugerido para o reprojeto, com início planej
 |:---:|:---:|---|---|
 </center>
 
-
-
-
-
 ## Bibliografia
-> 1. Planejamento do Relato dos Resultados - Storyboard. Repositório do grupo Bilheteria Digial da disciplina de Interação Humano Computador da Universidade de Brasília, 2023. Disponível em: https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/analise-de-requisitos/principios/. Acesso em: 10 de dezembro 2024.
-> 2. Planejamento do relato de resultados. Repositório do Grupo Dominio-Publico da disciplina de Interação Humano Computador da Universidade de Brasília, 2023. Disponível em: https://interacao-humano-computador.github.io/2023.2-Dominio-Publico/design_avalaiacao_desenvolvimento/nivel1/storyboard/planejamento_relato/. Acesso em: 10 de dezembro 2024.
+
+> \- Planejamento do Relato dos Resultados - Storyboard. Repositório do grupo Bilheteria Digial da disciplina de Interação Humano Computador da Universidade de Brasília, 2023. Disponível em: https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/analise-de-requisitos/principios/. Acesso em: 10 de dezembro 2024.
+
+> \- Planejamento do relato de resultados. Repositório do Grupo Dominio-Publico da disciplina de Interação Humano Computador da Universidade de Brasília, 2023. Disponível em: https://interacao-humano-computador.github.io/2023.2-Dominio-Publico/design_avalaiacao_desenvolvimento/nivel1/storyboard/planejamento_relato/. Acesso em: 10 de dezembro 2024.
+
 ## Referências Bibliográficas
-1. BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2010.
+
+> 1. BARBOSA, Simone Diniz Junqueira et al. Interação humano-computador e experiência do usuário. 1. ed. Rio de Janeiro: Simone Diniz Junqueira Barbosa, 2021. Capítulo 11: Planejamento da Avaliação de IHC. Página 279. Autopublicação. ISBN: 978-65-00-19677-1.
+
 ## Histórico de Versão
 
 | Versão | Data | Autor(es) | Descrição | Data de Revisão | Revisor(es) |

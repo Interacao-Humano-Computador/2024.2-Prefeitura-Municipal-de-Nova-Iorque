@@ -39,8 +39,19 @@ Dona Lúcia, uma senhora com baixa familiaridade tecnológica, decidiu agendar s
 </center>
 
 
-### Storyboard 3:
+### Storyboard 3 Envio de Nota Fiscal de Serviço:
 
+O Storyboard apresenta Leonardo Almeida, empresário, que precisa emitir uma Nota Fiscal Eletrônica (NF-e). Ele acessa o site da prefeitura, localiza a seção “Nota Fiscal Eletrônica” e faz login com seu CNPJ e senha. Após preencher os campos obrigatórios, como dados do prestador, tomador e serviço, Leonardo clica em “Emitir NF-e” e salva o documento. Com isso, regulariza suas obrigações fiscais e formaliza o serviço prestado, sentindo-se satisfeito pelo processo simples e eficiente.
+
+<center>
+
+<p style={{ textAlign: 'center', fontSize: '18px' }}><b>Figura 3</b> - Storyboard: Criação de Nota Fiscal de Serviço</p>
+
+![Storyboard: agendamento de consulta médica](../assets/storyboard-necivaldo.png)
+
+<p style={{ textAlign: 'center', fontSize: '17px' }}>Autor: [Necivaldo Amaral](https://github.com/junioramaral22)</p>
+
+</center>
 
 
 ### Storyboard 4:
@@ -63,4 +74,5 @@ Dona Lúcia, uma senhora com baixa familiaridade tecnológica, decidiu agendar s
 |:---:|:---:|---|---|:---:|---|
 | 1.0 | 08/12/2024 | [Weverton Rodrigues](https://github.com/vevetin) | criação do documento | 10/12/2024 | [Paulo Henrique](https://github.com/paulomh) |
 | 1.1 | 10/12/2024 | [Paulo Henrique](https://github.com/paulomh) | adição do storyboard 1 | 10/12/2024 | [Weverton Rodrigues](https://github.com/vevetin) |
-| 1.2 | 10/12/2024 | [Weverton Rodrigues](https://github.com/vevetin) | adição do storyboard 2 | |  |
+| 1.2 | 10/12/2024 | [Weverton Rodrigues](https://github.com/vevetin) | adição do storyboard 2 | 10/12/2024 |  |
+| 1.3 | 10/12/2024 | [Necivaldo Amaral](https://github.com/junioramaral22) | adição do storyboard 3 | 10/12/2024 | [Pedro Luiz](https://github.com/pedroluizfo) |

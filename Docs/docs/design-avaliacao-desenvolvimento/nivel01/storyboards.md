@@ -62,7 +62,7 @@ João Da Silva, um trabalhador autônomo de 35 anos, busca registrar uma reclama
 
 <p style={{ textAlign: 'center', fontSize: '18px' }}><b>Figura 4</b> - Storyboard: Registro de reclamação na ouvidoria.</p>
 
-![Storyboard: agendamento de consulta médica](../assets/Storyboard-Pedro.jpg)
+![Ouvidoria](../assets/Storyboard-Pedro.jpg)
 
 <p style={{ textAlign: 'center', fontSize: '17px' }}>Autor: [Pedro Luiz](https://github.com/pedroluizfo)</p>
 

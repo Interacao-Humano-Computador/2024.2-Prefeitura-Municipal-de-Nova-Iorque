@@ -1,5 +1,5 @@
 ---
-sidebar_position: 5
+sidebar_position: 1
 ---
 
 # Storyboards
@@ -68,7 +68,7 @@ João Da Silva, um trabalhador autônomo de 35 anos, busca registrar uma reclama
 
 </center>
 
-### Storyboard 5:
+### Storyboard 5: Busca por licitação fracassada
 
 Um funcionário da Secretaria Municipal de Educação de Nova Iorque deseja verificar os detalhes de uma licitação acerca de um registro de preços para aquisição de materiais de escritório para demanda interna e salvar as informações para um arquivo PDF para anexá-las à um email.
 
@@ -98,5 +98,5 @@ Um funcionário da Secretaria Municipal de Educação de Nova Iorque deseja veri
 | 1.1 | 10/12/2024 | [Paulo Henrique](https://github.com/paulomh) | adição do storyboard 1 | 10/12/2024 | [Weverton Rodrigues](https://github.com/vevetin) |
 | 1.2 | 10/12/2024 | [Weverton Rodrigues](https://github.com/vevetin) | adição do storyboard 2 | 10/12/2024 | [Necivaldo Amaral](https://github.com/pedroluizfo) |
 | 1.3 | 10/12/2024 | [Necivaldo Amaral](https://github.com/junioramaral22) | adição do storyboard 3 | 10/12/2024 | [Pedro Luiz](https://github.com/pedroluizfo) |
-| 1.4 | 10/12/2024 | [Necivaldo Amaral](https://github.com/pedroluizfo) | adição do storyboard 4 | 10/12/2024 | [Weverton Rodrigues](https://github.com/vevetin)  |
+| 1.4 | 10/12/2024 | [Pedro Luiz](https://github.com/pedroluizfo) | adição do storyboard 4 | 10/12/2024 | [Weverton Rodrigues](https://github.com/vevetin)  |
 | 1.5 | 10/12/2024 | [Rodrigo Wendrel](https://github.com/rodwendrel) | adição do storyboard 5 | 10/12/2024 |  [Weverton Rodrigues](https://github.com/vevetin) |

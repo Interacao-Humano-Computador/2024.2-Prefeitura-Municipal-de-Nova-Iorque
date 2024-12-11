@@ -182,7 +182,7 @@ O cronograma tem como objetivo organizar as atividades do projeto a serem realiz
     | Planejamento do relato dos resultados da avaliação do Storyboard | 10/12/2024 - 10/12/2024 | Necivaldo Amaral, Pedro Luiz | 10/12/2024 - 10/12/2024 | Rodrigo Wendrel | 10/12/2024 |
     | Planejamento da avaliação da análise de tarefas | 10/12/2024 - 10/12/2024 | Weverton Rodrigues | 10/12/2024 - 10/12/2024 | Paulo Henrique| 10/12/2024 |
     | Planejamento do relato da avaliação de análise de tarefas | 10/12/2024 - 10/12/2024 | Rodrigo Wendrel | 10/12/2024 - 10/12/2024 | Weverton Rodrigues | 10/12/2024 |
-    | Inspeção da entrega da apresentação do projeto Etapa 4 | 10/12/2024 - 10/12/2024 | Paulo Henrique, Pedro Luiz, Necivaldo Amaral, Rodrigo Wendrel, Weverton Rodrigues | 10/12/2024 - 10/12/2024 | Weverton Rodrigues | 10/12/2024 |
+    | Inspeção da entrega da apresentação do projeto Etapa 4 | 10/12/2024 - 10/12/2024 |  Pedro Luiz, Weverton Rodrigues | 10/12/2024 - 10/12/2024 | Paulo Henrique | 10/12/2024 |
     | Gravação da apresentação | 10/12/2024 - 10/12/2024 | Paulo Henrique, Pedro Luiz, Necivaldo Amaral, Rodrigo Wendrel, Weverton Rodrigues | 10/12/2024 - 10/12/2024 | Paulo Henrique | 10/12/2024 |
     | Edição da gravação | 10/12/2024 - 10/12/2024 | Paulo Henrique | 10/12/2024 - 10/12/2024 | Paulo Henrique, Pedro Luiz, Necivaldo Amaral, Rodrigo Wendrel, Weverton Rodrigues | 10/12/2024 |
     | Cronograma executado | 10/12/2024 - 10/12/2024 | Paulo Henrique | 10/12/2024 - 10/12/2024 | Paulo Henrique, Pedro Luiz, Necivaldo Amaral, Rodrigo Wendrel, Weverton Rodrigues | 10/12/2024 |

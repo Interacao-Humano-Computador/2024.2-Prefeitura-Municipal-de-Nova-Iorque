@@ -46,7 +46,7 @@ Feito o [planejamento da verificação dos itens do desenvolvimento do projeto](
 
 # Lista de Verificação (Itens Membros do Grupo) #a1
 
-<p style={{ textAlign: 'center', fontSize: '18px' }}><b>Tabela 1</b> - Itens do Desenvolvimento do Projeto (Membros)</p>
+<p style={{ textAlign: 'center', fontSize: '18px' }}><b>Tabela 2</b> - Itens do Desenvolvimento do Projeto (Membros)</p>
 
 | O github pages possui: | Resposta  | Versão, Data e hora da avaliação | Observação   | Autor(es)  |                               
 |----------------------- |-----------|----------------------------------|--------------|------------|    

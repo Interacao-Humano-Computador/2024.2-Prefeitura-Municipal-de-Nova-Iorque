@@ -10,7 +10,7 @@ O presente documento tem como objetivo apresentar a Lista de Verificação (disp
 
 ## Lista de Verificação
 
-<p style={{ textAlign: 'center', fontSize: '18px' }}><b>Tabela 1</b> - Itens do Desenvolvimento do Projeto</p>
+<p style={{ textAlign: 'center', fontSize: '18px' }}><b>Tabela 1</b> - Itens do Desenvolvimento do Projeto (Grupo 07)</p>
 
 | O github pages possui:  | Resposta | Versão, Data e hora da avaliação | Observação |
 |---|---|---|---|
@@ -39,7 +39,7 @@ O presente documento tem como objetivo apresentar a Lista de Verificação (disp
 
 # Lista de Verificação (Itens Membros do Grupo)
 
-<p style={{ textAlign: 'center', fontSize: '18px' }}><b>Tabela 1</b> - Itens do Desenvolvimento do Projeto (Membros)</p>
+<p style={{ textAlign: 'center', fontSize: '18px' }}><b>Tabela 2</b> - Itens do Desenvolvimento do Projeto (Membros)</p>
 
 | O GitHub Pages possui:  |Resposta  | Versão, Data e Hora da Avaliação | Observação   | Autor(es)  |
 |---|---|---|---|---|

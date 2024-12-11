@@ -13,4 +13,4 @@ O presente documento tem como objetivo disponibilizar o vídeo da terceira apres
 ---
 | Versão | Data | Autor(es) | Descrição | Data de Revisão | Revisor(es) |
 |:---:|:---:|---|---|:---:|---|
-| 1.0 | 03/12/2024 | [Paulo Henrique](https://github.com/paulomh) | Adicionando vídeo da terceira entrega | 10/11/2024 | [Paulo Henrique](https://github.com/paulomh), [Pedro Luiz](https://github.com/pedroluizfo), [Necivaldo Amaral](https://github.com/junioramaral22), [Rodrigo Wendrel](https://github.com/rodwendrel), [Weverton Rodrigues](https://github.com/vevetin) |
+| 1.0 | 03/12/2024 | [Paulo Henrique](https://github.com/paulomh) | Adicionando vídeo da terceira entrega | 03/12/2024 | [Paulo Henrique](https://github.com/paulomh), [Pedro Luiz](https://github.com/pedroluizfo), [Necivaldo Amaral](https://github.com/junioramaral22), [Rodrigo Wendrel](https://github.com/rodwendrel), [Weverton Rodrigues](https://github.com/vevetin) |

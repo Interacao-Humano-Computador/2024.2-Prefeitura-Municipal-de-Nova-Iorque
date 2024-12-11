@@ -178,6 +178,18 @@ O cronograma tem como objetivo organizar as atividades do projeto a serem realiz
 
     | Atividade | Período de desenvolvimento | Responsável | Revisão | Revisor(es) | Data da Entrega |
     | --------- | -------------------------- | ----------- | ------- | --------- | --------------- |
+    | Planejamento da avaliação do Storyboard | 09/12/2024 - 10/12/2024 | Paulo Henrique, Weverton Rodrigues | 10/12/2024 - 10/12/2024 | Necivaldo Amaral | 10/12/2024 - 10/12/2024 |
+    | Planejamento do relato dos resultados da avaliação do Storyboard | 10/12/2024 - 10/12/2024 | Necivaldo Amaral, Pedro Luiz | 10/12/2024 - 10/12/2024 | Rodrigo Wendrel | 10/12/2024 |
+    | Planejamento da avaliação da análise de tarefas | 10/12/2024 - 10/12/2024 | Weverton Rodrigues | 10/12/2024 - 10/12/2024 | Paulo Henrique| 10/12/2024 |
+    | Planejamento do relato da avaliação de análise de tarefas | 10/12/2024 - 10/12/2024 | Rodrigo Wendrel | 10/12/2024 - 10/12/2024 | Weverton Rodrigues | 10/12/2024 |
+    | Inspeção da entrega da apresentação do projeto Etapa 4 | 10/12/2024 - 10/12/2024 | Paulo Henrique, Pedro Luiz, Necivaldo Amaral, Rodrigo Wendrel, Weverton Rodrigues | 10/12/2024 - 10/12/2024 | Weverton Rodrigues | 10/12/2024 |
+    | Gravação da apresentação | 10/12/2024 - 10/12/2024 | Paulo Henrique, Pedro Luiz, Necivaldo Amaral, Rodrigo Wendrel, Weverton Rodrigues | 10/12/2024 - 10/12/2024 | Paulo Henrique | 10/12/2024 |
+    | Edição da gravação | 10/12/2024 - 10/12/2024 | Paulo Henrique | 10/12/2024 - 10/12/2024 | Paulo Henrique, Pedro Luiz, Necivaldo Amaral, Rodrigo Wendrel, Weverton Rodrigues | 10/12/2024 |
+    | Cronograma executado | 10/12/2024 - 10/12/2024 | Paulo Henrique | 10/12/2024 - 10/12/2024 | Paulo Henrique, Pedro Luiz, Necivaldo Amaral, Rodrigo Wendrel, Weverton Rodrigues | 10/12/2024 |
+    | Inspeção da entrega da apresentação do projeto etapa 4 do Grupo + 1 | 11/12/2024 | Paulo Henrique, Pedro Luiz, Necivaldo Amaral, Rodrigo Wendrel, Weverton Rodrigues | 11/12/2024 | Rodrigo Wendrel | 11/12/2024 |
+    | Correção pós-apresentação | 12/12/2024 - 13/12/2024 | Paulo Henrique, Pedro Luiz, Necivaldo Amaral, Rodrigo Wendrel, Weverton Rodrigues | 12/12/2024 - 13/12/2024 | Paulo Henrique, Pedro Luiz, Necivaldo Amaral, Rodrigo Wendrel, Weverton Rodrigues | Não há entrega |
+
+    <p style={{ textAlign: 'center', fontSize: '15px' }}><b>Autor(es):</b> [Paulo Henrique](https://github.com/paulomh) </p>
 
   </TabItem>
 </Tabs>
@@ -336,11 +348,10 @@ O cronograma tem como objetivo organizar as atividades do projeto a serem realiz
 
 | Versão |    Data    | Autor(es)                                                                                      | Descrição                               | Data de Revisão | Revisor(es)                                           |
 | :----: | :--------: | ---------------------------------------------------------------------------------------------- | --------------------------------------- | :-------------: | ----------------------------------------------------- |
-|  1.0   | 05/11/2024 | [Paulo Henrique](https://github.com/paulomh), [Weverton Rodrigues](https://github.com/vevetin) | Criação do cronograma                   |                 | [Necivaldo Amaral](https://github.com/junioramaral22) |
+|  1.0   | 05/11/2024 | [Paulo Henrique](https://github.com/paulomh), [Weverton Rodrigues](https://github.com/vevetin) | Criação do cronograma                   |    05/11/2024   | [Necivaldo Amaral](https://github.com/junioramaral22) |
 |  1.1   | 11/11/2024 | [Weverton Rodrigues](https://github.com/vevetin)                                               | Adicionado cronograma executado Etapa 1 |   11/11/2024    |  [Paulo Henrique](https://github.com/paulomh), [Pedro Luiz](https://github.com/pedroluizfo), [Necivaldo Amaral](https://github.com/junioramaral22), [Rodrigo Wendrel](https://github.com/rodwendrel), [Weverton Rodrigues](https://github.com/vevetin)                                      |
 |  1.2   | 12/11/2024 | [Weverton Rodrigues](https://github.com/vevetin)                                               | Atualização do cronograma               |   12/11/2024    | [Paulo Henrique](https://github.com/paulomh), [Pedro Luiz](https://github.com/pedroluizfo), [Necivaldo Amaral](https://github.com/junioramaral22), [Rodrigo Wendrel](https://github.com/rodwendrel), [Weverton Rodrigues](https://github.com/vevetin)                             |
 |  1.3   | 12/11/2024 | [Rodrigo Wendrel](https://github.com/rodwendrel)                                               | Atualização do cronograma               |   12/11/2024    | [Pedro Luiz](https://github.com/pedroluizfo)|
 | 1.4 | 13/11/2024 |  [Necivaldo Amaral](https://github.com/junioramaral22), [Weverton Rodrigues](https://github.com/vevetin) | Atualização do cronograma executado etapa 1 |13/11/2024 | [Rodrigo Wendrel](https://github.com/rodwendrel)  |
 | 1.4.1 | 20/11/2024 |  [Paulo Henrique](https://github.com/paulomh) | Adicionado autores nos cronogramas planejados e cronograma executado da primeira entrega | 20/11/2024 | [Weverton Rodrigues](https://github.com/vevetin)  |
-| 1.5 | | | | | |
-| 1.6 | | | | | |
+|  1.5   | 10/12/2024 | [Paulo Henrique](https://github.com/paulomh)                                               | Adicionado cronograma executado Etapa 1 |   10/12/2024    |  [Paulo Henrique](https://github.com/paulomh), [Pedro Luiz](https://github.com/pedroluizfo), [Necivaldo Amaral](https://github.com/junioramaral22), [Rodrigo Wendrel](https://github.com/rodwendrel), [Weverton Rodrigues](https://github.com/vevetin)                                      |

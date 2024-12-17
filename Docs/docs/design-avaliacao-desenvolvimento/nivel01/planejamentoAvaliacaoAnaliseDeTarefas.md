@@ -56,29 +56,50 @@ A combinação desses dois métodos proporciona uma análise abrangente, unindo 
 
 ## I - Identificar e administrar as questões práticas da avaliação
 
-- Participantes: Serão selecionados 5 participantes representativos do público-alvo, com perfis semelhantes ao [perfil do usuário](../../analise-de-requisitos/perfilDeUsuario.md) definido no projeto. A seleção terá como critério a familiaridade com os tipos de tarefas a serem analisadas e o uso do sistema, com a intenção de garantir que as análises reflitam o comportamento e as dificuldades do público-alvo.
+A identificação e administração das questões práticas asseguram que a avaliação ocorra de forma eficiente, dentro das limitações de recursos, tempo e logística. A seguir, as questões são detalhadas em subtópicos.
 
-- Ferramentas: 
-> Entrevista Semiestruturada:  
-> - Roteiro de avaliação: Conjunto de perguntas predefinidas para guiar a conversa, permitindo a flexibilidade para explorar tópicos emergentes.
-> - Formulário de coleta de feedback: Para registrar as respostas dos participantes e quaisquer observações adicionais.
-> - Equipamento de gravação: Câmera ou celular para registrar a entrevista, caso necessário (para análise posterior).
-> - Ferramentas de videoconferência: Como Microsoft Teams, no caso de entrevistas remotas.
+### Recrutamento
 
-> Avaliação Heurística:  
-> - Protótipos ou telas do sistema: Representações da interface a ser avaliada, que podem ser executáveis ou não, conforme o estágio do design.
-> - Diretrizes heurísticas: Conjunto de princípios de usabilidade a ser seguido para avaliar a conformidade da interface com boas práticas de usabilidade.
-> - Lista de problemas identificados: Documentação das violação das heurísticas, incluindo a localização do problema, sua gravidade e sugestões de solução.
-> - Ferramentas de colaboração: Caso a avaliação seja realizada por mais de um avaliador, ferramentas de compartilhamento de documentos, como Google Docs ou planilhas, podem ser úteis para consolidar os resultados.
- 
-- Cronograma:
-    > Preparação: 1 dia para preparação dos materiais, definição do roteiro de avaliação e organização das telas ou protótipos para avaliação heurística.  
-    > Coleta de Dados: 1 dia para execução do teste piloto (30 minutos antes da sessão), condução das entrevistas semiestruturadas e realização da avaliação heurística pelos avaliadores.  
-    > Relato dos Resultados: 1 dia para redação do relatório de resultados da avaliação, consolidando as informações das entrevistas e da avaliação heurística. 
+Os 5 participantes serão selecionados conforme o [perfil de usuário](/2024.2-Prefeitura-Municipal-de-Nova-Iorque/Docs/docs/analise-de-requisitos/perfilDeUsuario.md) definido durante a análise de requisitos, priorizando usuários que representem os principais públicos do site. Será utilizado um processo de recrutamento com convites diretos, priorizando voluntários que se encaixem nos requisitos.
 
-- Local: Ambiente presencial ou remoto, dependendo da disponibilidade dos participantes.
+### Preparação
 
-- Testes Piloto: Será realizado um teste piloto com um participante para ajustar o roteiro da entrevista e os materiais utilizados, garantindo que todos os aspectos da avaliação sejam abordados de maneira clara e eficaz.
+A preparação envolve a organização de todos os materiais e recursos necessários para a condução da entrevista semiestruturada e da avaliação heurística:
+- Ferramentas: Celular para gravação de áudio e vídeo;
+
+**Entrevistas:**  
+- Materiais: Termo de consentimento, roteiro de entrevistas, formulário de avaliação e material de apoio relacionado ao artefato de [análise de tarefas](/2024.2-Prefeitura-Municipal-de-Nova-Iorque/Docs/docs/analise-de-requisitos/analiseTarefas.md);
+- Ambiente: A entrevista ocorrerá presencialmente em local combinado com os participantes ou, em último caso, de forma remota;
+
+**Avaliação Heurística:**  
+- A avaliação heurística será conduzida individualmente pelo avaliador;
+- Materiais: Lista de verificação baseadas nas 10 heurísticas de Nielsen, documento para registrar as violações identificadas;
+
+### Custos
+
+Os principais custos estão relacionados ao transporte, impressão de materiais e eventuais equipamentos para gravação. A equipe buscará otimizar os recursos disponíveis para minimizar despesas.
+
+### Prazos
+
+A avaliação será realizada conforme a tabela abaixo, com a definição dos responsáveis, participantes, horários e locais:
+
+<center>
+
+<p style={{ textAlign: 'center', fontSize: '18px' }}><b>Tabela 2</b> - Cronograma da Entrevista</p>
+
+| Entrevistador | Entrevistado(a) | Horário Início | Horário Fim | Data | Local |
+|---|---|:---:|:---:|:---:|---|
+| [Necivaldo Amaral](https://github.com/junioramaral22) | A definir | A definir | A definir | 17/12/2024 - 09/01/2025 | Presencialmente |
+| [Paulo Henrique](https://github.com/paulomh)| Igor Abreu | 13:30 | 14:00 | 19/12/2024 | Campus UnB Gama |
+| [Pedro Luiz](https://github.com/pedroluizfo) | A definir | A definir | A definir | 17/12/2024 - 09/01/2025 | Presencialmente | 
+| [Rodrigo Ferreira](https://github.com/rodwendrel) | A definir | A definir | A definir | 17/12/2024 - 09/01/2025 | Presencialmente | 
+| [Weverton Rodrigues](https://github.com/vevetin) | Vanessa Oliveira | 13:00 | 13:30 | 27/12/2024 | Casa da entrevistada |
+
+<p style={{ textAlign: 'center', fontSize: '17px' }}>Autor: [Weverton Rodrigues](https://github.com/vevetin)</p>
+
+</center>
+
+Os entrevistadores deverão garantir que todos os materiais estejam prontos com antecedência e que os participantes sejam contatados para confirmar o horário agendado.
 
 ## D - Decidir como lidar com as questões éticas
 
@@ -108,11 +129,15 @@ Essa análise incluirá a organização, codificação e interpretação dos fee
 
 ## Planejamento do Teste Piloto
 
-O teste piloto tem como objetivo avaliar o planejamento da avaliação, garantindo que ele produza os dados necessários para responder às questões do estudo. Durante o teste, o avaliador verifica se os materiais (roteiros, explicações e recursos) são claros e adequados, e se os sistemas e equipamentos funcionam corretamente.
+O teste piloto consiste em uma execução prévia da avaliação, com o objetivo de validar o planejamento e identificar possíveis problemas nos métodos, materiais e equipamentos utilizados. Essa etapa garante que ajustes possam ser feitos antes da aplicação final, assegurando a qualidade e a eficácia dos dados coletados.
 
-Após o teste, o avaliador realiza uma análise preliminar dos dados coletados para assegurar que são relevantes e suficientes para atender aos objetivos da avaliação. Se forem identificados problemas, o planejamento e os materiais devem ser ajustados, sendo possível a realização de um novo teste piloto, caso necessário.
+**Detalhes:**  
+- Data: 17/12/2024
+- Horário: 13:00 às 13:30
+- Integrantes responsáveis: Paulo Henrique e Weverton Rodrigues
+- Local: Campus UnB Gama (presencialmente)
 
-Os dados do teste piloto devem ser descartados, pois podem estar contaminados ou não serem compatíveis com o planejamento revisado. Se não houver participantes suficientes com o perfil desejado, é possível convidar pessoas com perfis ligeiramente diferentes, como colegas ou amigos, mas sem envolvimento no planejamento da avaliação.
+## Resultado do Teste Piloto
 
 ## Referências Bibliográficas
 
@@ -129,3 +154,4 @@ Os dados do teste piloto devem ser descartados, pois podem estar contaminados ou
 | Versão | Data | Autor(es) | Descrição | Data de Revisão | Revisor(es) |
 |:---:|:---:|---|---|:---:|---|
 | 1.0 | 09/12/2024 | [Weverton Rodrigues](https://github.com/vevetin) | Criação do documento | 10/12/2024 | [Paulo Henrique](https://github.com/paulomh) |
+| 1.1 | 15/12/2024 | [Weverton Rodrigues](https://github.com/vevetin) | Correção dos tópicos 'I - Identificar e administrar as questões práticas da avaliação' e 'Planejamento do Teste Piloto' | 16/12/2024 | [Paulo Henrique](https://github.com/paulomh) | 

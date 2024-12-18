@@ -77,7 +77,7 @@ A avaliação será realizada conforme a tabela abaixo, com a definição dos re
 | Entrevistador | Entrevistado(a) | Horário Início | Horário Fim | Data | Local |
 |---|---|:---:|:---:|:---:|---|
 | [Necivaldo Amaral](https://github.com/junioramaral22) | A definir | A definir | A definir | 17/12/2024 - 09/01/2025 | Presencialmente |
-| [Paulo Henrique](https://github.com/paulomh)| Igor Abreu | 13:30 | 14:00 | 20/12/2024 | Campus UnB Gama |
+| [Paulo Henrique](https://github.com/paulomh)| Igor Abreu | 10:00 | 10:15 | 19/12/2024 | Campus UnB Gama |
 | [Pedro Luiz](https://github.com/pedroluizfo) | A definir | A definir | A definir | 17/12/2024 - 09/01/2025 | Presencialmente | 
 | [Rodrigo Ferreira](https://github.com/rodwendrel) | A definir | A definir | A definir | 17/12/2024 - 09/01/2025 | Presencialmente | 
 | [Weverton Rodrigues](https://github.com/vevetin) | Vanessa Oliveira | 13:30 | 14:00 | 27/12/2024 | Casa da entrevistada |
@@ -119,12 +119,22 @@ Essa análise incluirá a organização, codificação e interpretação dos fee
 O teste piloto consiste em uma execução prévia da avaliação, com o objetivo de validar o planejamento e identificar possíveis problemas nos métodos, materiais e equipamentos utilizados. Essa etapa garante que ajustes possam ser feitos antes da aplicação final, assegurando a qualidade e a eficácia dos dados coletados.
 
 **Detalhes:**  
-- Data: 20/12/2024
-- Horário: 13:00 às 13:30
-- Integrantes responsáveis: Pedro Luiz e Rodrigo Ferreira
+- Data: 17/12/2024
+- Horário: 11:00 às 11:20
+- Integrantes responsáveis: Paulo Henrique, Pedro Luiz, Necivaldo Amaral, Rodrigo Ferreira, Weverton Rodrigos
 - Local: Campus UnB Gama (presencialmente)
 
 ## Resultado do Teste Piloto
+
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pevPKX113NY?si=7bHasaVD-P77Ux-y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</center>
+
+O teste piloto foi realizado com sucesso, permitindo validar o planejamento da avaliação e identificar possíveis ajustes necessários. Para uma melhor dinamicidade e organização, considerando o tempo do entrevistado, os membros decidiram por realizar a entrevista da avaliação do storyboard e, logo em seguida, a avaliação do diagrama da análise de tarefas em um único vídeo. A parte da avaliação da análise de tarefas: [teste piloto análise de tarefas](./planejamentoAvaliacaoAnaliseDeTarefas.md#resultado-do-teste-piloto)
+
+Da parte da avaliação do storyboard, a entrevista foi conduzida de forma clara e objetiva, porém, foi identificado uma pequena falta de preparo com relação ao termo de consentimento, que não estava disponível na forma impressa para o entrevistado. Além disso, ainda sobre o termo de consentimento, o teste piloto evidenciou a necessidade de uma maior clareza e objetividade no que será feito durante a realização da entrevista no termo de consentimento.
+
+Feita essas reflexões, os erros identificados serão corrigidos para que a entrevista seja realizada de forma mais eficiente e eficaz.
 
 ## Referências Bibliográficas
 
@@ -139,4 +149,5 @@ O teste piloto consiste em uma execução prévia da avaliação, com o objetivo
 | Versão | Data | Autor(es) | Descrição | Data de Revisão | Revisor(es) |
 |:---:|:---:|---|---|:---:|---|
 | 1.0 | 09/12/2024 | [Paulo Henrique](https://github.com/paulomh), [Weverton Rodrigues](https://github.com/vevetin) | Criação do documento | 09/12/2024 | [Necivaldo Amaral](https://github.com/junioramaral22) |
-| 1.1 | 15/12/2024 | [Weverton Rodrigues](https://github.com/vevetin) | Correção dos tópicos 'I - Identificar e administrar as questões práticas da avaliação' e 'Planejamento do Teste Piloto' | 16/12/2024 | [Paulo Henrique](https://github.com/paulomh) | 
+| 1.1 | 15/12/2024 | [Weverton Rodrigues](https://github.com/vevetin) | Correção dos tópicos 'I - Identificar e administrar as questões práticas da avaliação' e 'Planejamento do Teste Piloto' | 16/12/2024 | [Paulo Henrique](https://github.com/paulomh) |
+| 1.2 | 18/12/2024 | [Paulo Henrique](https://github.com/paulomh) | Adição do teste piloto | 18/12/2024 | [Rodrigo Wendrel](https://github.com/rodwendrel) | 

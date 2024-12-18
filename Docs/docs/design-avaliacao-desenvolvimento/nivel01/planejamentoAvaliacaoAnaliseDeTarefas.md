@@ -133,11 +133,21 @@ O teste piloto consiste em uma execução prévia da avaliação, com o objetivo
 
 **Detalhes:**  
 - Data: 17/12/2024
-- Horário: 13:00 às 13:30
-- Integrantes responsáveis: Paulo Henrique e Weverton Rodrigues
+- Horário: 11:00 às 11:20
+- Integrantes responsáveis: Paulo Henrique, Pedro Luiz, Necivaldo Amaral, Rodrigo Ferreira, Weverton Rodrigos
 - Local: Campus UnB Gama (presencialmente)
 
 ## Resultado do Teste Piloto
+
+Como dito no [planejamento da avaliação do storyboard](./planejamentoAvaliacaoStoryboard.md#resultado-do-teste-piloto), foi feito um único vídeo de teste piloto para avaliar tanto o storyboard quanto a análise de tarefas. Dessa forma, o entrevistado fica mais confortável e a avaliação é realizada de forma mais dinâmica. Vale ressaltar que o termo de consentimento foi apresentado no início do vídeo. A gravação do teste piloto da parte da avaliação do diagrama da análise de tarefas (HTA) pode ser visualizada abaixo:
+
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pevPKX113NY?si=FB_INRkd9nhfEqdI&amp;start=265" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</center>
+
+Da parte da avaliação da análise de tarefas, foi identificado uma falta de clareza nas perguntas feitas, o que dificultou a compreensão do entrevistado. Além disso, ainda sobre o termo de consentimento, o teste piloto evidenciou a necessidade de uma maior clareza e objetividade no que será feito durante a realização da entrevista no termo de consentimento.
+
+Feita essas reflexões, os erros identificados serão corrigidos para que a entrevista seja realizada de forma mais eficiente e eficaz.
 
 ## Referências Bibliográficas
 
@@ -154,4 +164,5 @@ O teste piloto consiste em uma execução prévia da avaliação, com o objetivo
 | Versão | Data | Autor(es) | Descrição | Data de Revisão | Revisor(es) |
 |:---:|:---:|---|---|:---:|---|
 | 1.0 | 09/12/2024 | [Weverton Rodrigues](https://github.com/vevetin) | Criação do documento | 10/12/2024 | [Paulo Henrique](https://github.com/paulomh) |
-| 1.1 | 15/12/2024 | [Weverton Rodrigues](https://github.com/vevetin) | Correção dos tópicos 'I - Identificar e administrar as questões práticas da avaliação' e 'Planejamento do Teste Piloto' | 16/12/2024 | [Paulo Henrique](https://github.com/paulomh) | 
+| 1.1 | 15/12/2024 | [Weverton Rodrigues](https://github.com/vevetin) | Correção dos tópicos 'I - Identificar e administrar as questões práticas da avaliação' e 'Planejamento do Teste Piloto' | 16/12/2024 | [Paulo Henrique](https://github.com/paulomh) |
+| 1.2 | 18/12/2024 | [Paulo Henrique](https://github.com/paulomh) | Adição do teste piloto | 18/12/2024 | [Rodrigo Wendrel](https://github.com/rodwendrel) |

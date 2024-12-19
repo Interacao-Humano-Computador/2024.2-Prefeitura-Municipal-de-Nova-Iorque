@@ -75,7 +75,7 @@ A avaliação será realizada conforme a tabela abaixo, com a definição dos re
 
 | Entrevistador | Entrevistado(a) | Horário Início | Horário Fim | Data | Local |
 |---|---|:---:|:---:|:---:|---|
-| [Necivaldo Amaral](https://github.com/junioramaral22) | A definir | A definir | A definir | 17/12/2024 - 09/01/2025 | Presencialmente |
+| [Necivaldo Amaral](https://github.com/junioramaral22) | 17:10 | 17:20 | Lago Sul | 31/12/2024 | Presencialmente |
 | [Paulo Henrique](https://github.com/paulomh)| Igor Abreu | 10:10 | 10:20 | 19/12/2024 | Campus UnB Gama |
 | [Pedro Luiz](https://github.com/pedroluizfo) | A definir | A definir | A definir | 17/12/2024 - 09/01/2025 | Presencialmente | 
 | [Rodrigo Ferreira](https://github.com/rodwendrel) | A definir | A definir | A definir | 17/12/2024 - 09/01/2025 | Presencialmente | 

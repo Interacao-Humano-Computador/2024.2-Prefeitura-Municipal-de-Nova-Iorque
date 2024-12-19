@@ -14,11 +14,11 @@ A avaliação segue o framework DECIDE (Barbosa, 2021)<sup>[2](../nivel01/planej
 
 ## D - Determinar os objetivos da avaliação de IHC
 
-Os objetivos desta avaliação são voltados para compreender como os usuários percebem e realizam as tarefas analisadas, bem como identificar oportunidades de melhoria nos fluxos propostos. Em relação à apropriação da tecnologia, busca-se avaliar se as tarefas representadas são compatíveis com o contexto e as capacidades dos usuários, garantindo que eles compreendam os fluxos e consigam executá-los. No que diz respeito aos problemas na interação e na interface, o foco está em identificar barreiras, inconsistências ou ambiguidades que possam dificultar a execução das tarefas e comprometer a experiência do usuário. Por fim, o objetivo também inclui explorar ideias e alternativas de design, investigando se a análise de tarefas oferece insights para refinar as interações e melhorar a interface do sistema.
+Os objetivos desta avaliação são voltados para compreender como os usuários percebem e realizam as tarefas analisadas, bem como identificar oportunidades de melhoria nos fluxos propostos. Em relação à apropriação da tecnologia, busca-se avaliar se as tarefas representadas são compatíveis com o contexto e as capacidades dos usuários, garantindo que eles compreendam os fluxos e consigam executá-los. No que diz respeito aos problemas na interação e na interface, o foco está em identificar barreiras, inconsistências ou ambiguidades que possam dificultar a execução das tarefas e comprometer a experiência do usuário.
 
 ## E - Explorar perguntas a serem respondidas com a avaliação 
 
-As perguntas exploradas nesta avaliação foram adaptadas da tabela de exemplos de perguntas propostas por Barbosa (2021)<sup>[3](../nivel01/planejamentoAvaliacaoAnaliseDeTarefas.md#referências-bibliográficas)</sup>, considerando o contexto específico da análise de tarefas. O objetivo é compreender como as tarefas analisadas atendem às necessidades dos usuários, avaliar alternativas de design e identificar possíveis problemas na interação e interface.
+As perguntas exploradas nesta avaliação foram adaptadas da tabela de exemplos de perguntas propostas por Barbosa (2021)<sup>[3](../nivel01/planejamentoAvaliacaoAnaliseDeTarefas.md#referências-bibliográficas)</sup>, considerando o contexto específico da análise de tarefas. O objetivo é compreender como as tarefas analisadas atendem às necessidades dos usuários e identificar possíveis problemas na interação.
 
 <center>
 
@@ -31,14 +31,10 @@ As perguntas exploradas nesta avaliação foram adaptadas da tabela de exemplos 
 | Apropriação da Tecnologia | 3. Os usuários percebem que o sistema oferece suporte suficiente para a realização das tarefas? ||
 | Apropriação da Tecnologia | 4. Há aspectos das tarefas que desmotivam os usuários ou dificultam a adoção do sistema em suas rotinas? ||
 | Apropriação da Tecnologia | 5. Quais necessidades e objetivos dos usuários são atendidos pelas tarefas analisadas? E quais não são? ||
-| Ideias e Alternativas de Design | 6. Entre diferentes formas de realizar as tarefas, quais os usuários preferem? Por quê? ||
-| Ideias e Alternativas de Design | 7. Alguma etapa das tarefas analisadas sugere possibilidades de melhoria no design do sistema? ||
-| Ideias e Alternativas de Design | 8. Quais alternativas de design poderiam simplificar ou tornar as tarefas mais eficientes? ||
-| Ideias e Alternativas de Design | 9. Existem formas mais intuitivas ou rápidas de apresentar as etapas das tarefas aos usuários? ||
-| Problemas na Interação e Interface | 10. Os usuários conseguem entender e realizar cada etapa das tarefas com eficiência? ||
-| Problemas na Interação e Interface | 11. Que dificuldades surgem ao longo da execução das tarefas? Com que frequência essas dificuldades ocorrem?||
-| Problemas na Interação e Interface | 12. Os usuários sabem o que fazer em seguida após cada etapa da tarefa? ||
-| Problemas na Interação e Interface | 13. As informações apresentadas durante a execução das tarefas são claras e suficientes para o usuário atingir seus objetivos ||
+| Problemas na Interação e Interface | 6. Os usuários conseguem entender e realizar cada etapa das tarefas com eficiência? ||
+| Problemas na Interação e Interface | 7. Que dificuldades surgem ao longo da execução das tarefas? Com que frequência essas dificuldades ocorrem?||
+| Problemas na Interação e Interface | 8. Os usuários sabem o que fazer em seguida após cada etapa da tarefa? ||
+| Problemas na Interação e Interface | 9. As informações apresentadas durante a execução das tarefas são claras e suficientes para o usuário atingir seus objetivos? ||
 
 <p style={{ textAlign: 'center', fontSize: '17px' }}>Autor: [Weverton Rodrigues](https://github.com/vevetin)</p>
 
@@ -46,13 +42,9 @@ As perguntas exploradas nesta avaliação foram adaptadas da tabela de exemplos 
 
 ## C - Escolher os métodos de avaliação a serem utilizados
 
-Para avaliar os aspectos definidos, com base nas diretrizes fornecidas no livro de Simone Barbosa (2021)<sup>[4](../nivel01/planejamentoAvaliacaoAnaliseDeTarefas.md#referências-bibliográficas)</sup>, serão utilizados dois métodos principais: a **entrevista semiestruturada** e a **avaliação heurística**.
+Para avaliar os aspectos definidos, com base nas diretrizes fornecidas no livro de Simone Barbosa (2021)<sup>[4](../nivel01/planejamentoAvaliacaoAnaliseDeTarefas.md#referências-bibliográficas)</sup>, será utilizado o método de **entrevista semiestruturada**.
 
-A entrevista semiestruturada é uma técnica flexível que combina perguntas predefinidas com a possibilidade de explorar temas que surgem ao longo da conversa. Esse método permite obter informações diretas dos usuários sobre como percebem e utilizam o sistema, além de identificar dificuldades e oportunidades de melhoria. No contexto desta avaliação, as entrevistas serão conduzidas para investigar como os usuários se apropriam da tecnologia.
-
-A avaliação heurística, por sua vez, será utilizada para analisar alternativas de design e identificar problemas na interação e na interface. Este método baseia-se em critérios predefinidos, como os princípios heurísticos de Nielsen, e permite avaliar a conformidade do sistema com boas práticas de usabilidade. A partir dessa análise, é possível detectar inconsistências, barreiras na execução das tarefas e oportunidades de aperfeiçoamento no design.
-
-A combinação desses dois métodos proporciona uma análise abrangente, unindo a perspectiva dos usuários com uma revisão técnica detalhada do sistema. Dessa forma, espera-se identificar insights valiosos para aprimorar a interação e a interface.
+A entrevista semiestruturada é uma técnica flexível que combina perguntas predefinidas com a possibilidade de explorar temas que surgem ao longo da conversa. Esse método permite obter informações diretas dos usuários sobre como percebem e utilizam o sistema, além de identificar dificuldades e oportunidades de melhoria. No contexto desta avaliação, as entrevistas serão conduzidas para investigar como os usuários se apropriam da tecnologia e identificar possíveis problemas de IHC.
 
 ## I - Identificar e administrar as questões práticas da avaliação
 
@@ -66,14 +58,8 @@ Os 5 participantes serão selecionados conforme o [perfil de usuário](/2024.2-P
 
 A preparação envolve a organização de todos os materiais e recursos necessários para a condução da entrevista semiestruturada e da avaliação heurística:
 - Ferramentas: Celular para gravação de áudio e vídeo;
-
-**Entrevistas:**  
 - Materiais: Termo de consentimento, roteiro de entrevistas, formulário de avaliação e material de apoio relacionado ao artefato de [análise de tarefas](/2024.2-Prefeitura-Municipal-de-Nova-Iorque/Docs/docs/analise-de-requisitos/analiseTarefas.md);
 - Ambiente: A entrevista ocorrerá presencialmente em local combinado com os participantes ou, em último caso, de forma remota;
-
-**Avaliação Heurística:**  
-- A avaliação heurística será conduzida individualmente pelo avaliador;
-- Materiais: Lista de verificação baseadas nas 10 heurísticas de Nielsen, documento para registrar as violações identificadas;
 
 ### Custos
 
@@ -90,10 +76,10 @@ A avaliação será realizada conforme a tabela abaixo, com a definição dos re
 | Entrevistador | Entrevistado(a) | Horário Início | Horário Fim | Data | Local |
 |---|---|:---:|:---:|:---:|---|
 | [Necivaldo Amaral](https://github.com/junioramaral22) | A definir | A definir | A definir | 17/12/2024 - 09/01/2025 | Presencialmente |
-| [Paulo Henrique](https://github.com/paulomh)| Igor Abreu | 13:30 | 14:00 | 19/12/2024 | Campus UnB Gama |
+| [Paulo Henrique](https://github.com/paulomh)| Igor Abreu | 10:10 | 10:20 | 19/12/2024 | Campus UnB Gama |
 | [Pedro Luiz](https://github.com/pedroluizfo) | A definir | A definir | A definir | 17/12/2024 - 09/01/2025 | Presencialmente | 
 | [Rodrigo Ferreira](https://github.com/rodwendrel) | A definir | A definir | A definir | 17/12/2024 - 09/01/2025 | Presencialmente | 
-| [Weverton Rodrigues](https://github.com/vevetin) | Vanessa Oliveira | 13:00 | 13:30 | 27/12/2024 | Casa da entrevistada |
+| [Weverton Rodrigues](https://github.com/vevetin) | Vanessa Oliveira | 13:40 | 13:50 | 27/12/2024 | Casa da entrevistada |
 
 <p style={{ textAlign: 'center', fontSize: '17px' }}>Autor: [Weverton Rodrigues](https://github.com/vevetin)</p>
 
@@ -134,7 +120,7 @@ O teste piloto consiste em uma execução prévia da avaliação, com o objetivo
 **Detalhes:**  
 - Data: 17/12/2024
 - Horário: 11:00 às 11:20
-- Integrantes responsáveis: Paulo Henrique, Pedro Luiz, Necivaldo Amaral, Rodrigo Ferreira, Weverton Rodrigos
+- Integrantes responsáveis: Paulo Henrique, Pedro Luiz, Necivaldo Amaral, Rodrigo Ferreira, Weverton Rodrigues
 - Local: Campus UnB Gama (presencialmente)
 
 ## Resultado do Teste Piloto
@@ -166,3 +152,4 @@ Feita essas reflexões, os erros identificados serão corrigidos para que a entr
 | 1.0 | 09/12/2024 | [Weverton Rodrigues](https://github.com/vevetin) | Criação do documento | 10/12/2024 | [Paulo Henrique](https://github.com/paulomh) |
 | 1.1 | 15/12/2024 | [Weverton Rodrigues](https://github.com/vevetin) | Correção dos tópicos 'I - Identificar e administrar as questões práticas da avaliação' e 'Planejamento do Teste Piloto' | 16/12/2024 | [Paulo Henrique](https://github.com/paulomh) |
 | 1.2 | 18/12/2024 | [Paulo Henrique](https://github.com/paulomh) | Adição do teste piloto | 18/12/2024 | [Rodrigo Wendrel](https://github.com/rodwendrel) |
+| 1.3 | 18/12/2024 | [Weverton Rodrigues](https://github.com/vevetin) | Correção textual pós teste piloto | 18/12/2024 | [Paulo Henrique](https://github.com/paulomh) |

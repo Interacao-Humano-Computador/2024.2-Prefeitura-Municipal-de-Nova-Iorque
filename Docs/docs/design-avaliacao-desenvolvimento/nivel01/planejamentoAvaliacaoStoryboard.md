@@ -10,7 +10,7 @@ A avaliação de IHC é uma atividade fundamental em qualquer processo de desenv
 
 ## Metodologia
 
-A metodologia adotada para a avaliação segue o modelo do framework DECIDE (Barbosa, 2021)<sup>[2](./planejamentoAvaliacaoStoryboard.md#referências-bibliográficas)</sup>, uma abordagem estruturada que organiza o processo de avaliação em seis etapas principais: (D) determinar os objetivos da avaliação, (E) explorar perguntas a serem respondidas, (C) escolher os métodos de avaliação, (I) identificar e administrar questões práticas, (D) decidir como lidar com questões éticas, e, por fim, (E) avaliar, interpretar e apresentar os dados. Essa metodologia permite um planejamento claro e detalhado, garantindo que a avaliação aborde tanto os aspectos de apropriação da tecnologia quanto a identificação de problemas na interação e interface.
+A metodologia adotada para a avaliação segue o modelo do framework DECIDE (Barbosa, 2021)<sup>[2](./planejamentoAvaliacaoStoryboard.md#referências-bibliográficas)</sup>, uma abordagem estruturada que organiza o processo de avaliação em seis etapas principais: (D) determinar os objetivos da avaliação, (E) explorar perguntas a serem respondidas, (C) escolher os métodos de avaliação, (I) identificar e administrar questões práticas, (D) decidir como lidar com questões éticas, e, por fim, (E) avaliar, interpretar e apresentar os dados. Essa metodologia permite um planejamento claro e detalhado, garantindo que a avaliação aborde tanto os aspectos de apropriação da tecnologia quanto a identificação de problemas de interação humano computador.
 
 ## D - Determinar os objetivos da avaliação de IHC
 
@@ -18,7 +18,7 @@ Os objetivos desta avaliação são voltados para compreender como os usuários 
 
 ## E - Explorar perguntas a serem respondidas com a avaliação 
 
-As perguntas a serem exploradas nesta avaliação foram adaptadas a partir da tabela de exemplos de perguntas que uma avaliação de IHC pode responder (Barbosa, 2021)<sup>[3](./planejamentoAvaliacaoStoryboard.md#referências-bibliográficas)</sup>, visando o contexto específico da avaliação de storyboards. O objetivo é compreender como os usuários percebem os fluxos de interação e identificar possíveis problemas na interface que possam afetar a experiência de uso. As questões foram elaboradas para investigar tanto a apropriação da tecnologia quanto a identificação de problemas de interação e interface, considerando as interações apresentadas nos storyboards.
+As perguntas a serem exploradas nesta avaliação foram adaptadas a partir da tabela de exemplos de perguntas que uma avaliação de IHC pode responder (Barbosa, 2021)<sup>[3](./planejamentoAvaliacaoStoryboard.md#referências-bibliográficas)</sup>, visando o contexto específico da avaliação de storyboards. O objetivo é compreender como os usuários percebem os fluxos de interação que possam afetar a experiência de uso. As questões foram elaboradas para investigar tanto a apropriação da tecnologia quanto a identificação de problemas de IHC, considerando as interações apresentadas nos storyboards.
 
 <center>
 
@@ -45,7 +45,7 @@ O método escolhido para esta avaliação é a **entrevista semiestruturada**, u
 
 Neste contexto, a entrevista semiestruturada será usada para coletar feedback sobre os storyboards. O objetivo é obter opiniões, reações e sugestões dos usuários sobre as interações apresentadas, com perguntas abertas que possibilitam uma compreensão detalhada das experiências e percepções. O entrevistador poderá adaptar as perguntas conforme a conversa, garantindo que todos os aspectos relevantes sejam abordados.
 
-Essa abordagem facilita a exploração de pontos específicos, mantendo o foco nos objetivos de avaliar a apropriação da tecnologia e identificar problemas de interação e interface.
+Essa abordagem facilita a exploração de pontos específicos, mantendo o foco nos objetivos de avaliar a apropriação da tecnologia e identificar problemas de IHC.
 
 ## I - Identificar e administrar as questões práticas da avaliação
 
@@ -77,10 +77,10 @@ A avaliação será realizada conforme a tabela abaixo, com a definição dos re
 | Entrevistador | Entrevistado(a) | Horário Início | Horário Fim | Data | Local |
 |---|---|:---:|:---:|:---:|---|
 | [Necivaldo Amaral](https://github.com/junioramaral22) | A definir | A definir | A definir | 17/12/2024 - 09/01/2025 | Presencialmente |
-| [Paulo Henrique](https://github.com/paulomh)| Igor Abreu | 10:00 | 10:15 | 19/12/2024 | Campus UnB Gama |
+| [Paulo Henrique](https://github.com/paulomh)| Igor Abreu | 10:00 | 10:10 | 19/12/2024 | Campus UnB Gama |
 | [Pedro Luiz](https://github.com/pedroluizfo) | A definir | A definir | A definir | 17/12/2024 - 09/01/2025 | Presencialmente | 
 | [Rodrigo Ferreira](https://github.com/rodwendrel) | A definir | A definir | A definir | 17/12/2024 - 09/01/2025 | Presencialmente | 
-| [Weverton Rodrigues](https://github.com/vevetin) | Vanessa Oliveira | 13:30 | 14:00 | 27/12/2024 | Casa da entrevistada |
+| [Weverton Rodrigues](https://github.com/vevetin) | Vanessa Oliveira | 13:30 | 13:40 | 27/12/2024 | Casa da entrevistada |
 
 <p style={{ textAlign: 'center', fontSize: '17px' }}>Autor: [Weverton Rodrigues](https://github.com/vevetin)</p>
 
@@ -121,7 +121,7 @@ O teste piloto consiste em uma execução prévia da avaliação, com o objetivo
 **Detalhes:**  
 - Data: 17/12/2024
 - Horário: 11:00 às 11:20
-- Integrantes responsáveis: Paulo Henrique, Pedro Luiz, Necivaldo Amaral, Rodrigo Ferreira, Weverton Rodrigos
+- Integrantes responsáveis: Paulo Henrique, Pedro Luiz, Necivaldo Amaral, Rodrigo Ferreira, Weverton Rodrigues
 - Local: Campus UnB Gama (presencialmente)
 
 ## Resultado do Teste Piloto
@@ -151,3 +151,4 @@ Feita essas reflexões, os erros identificados serão corrigidos para que a entr
 | 1.0 | 09/12/2024 | [Paulo Henrique](https://github.com/paulomh), [Weverton Rodrigues](https://github.com/vevetin) | Criação do documento | 09/12/2024 | [Necivaldo Amaral](https://github.com/junioramaral22) |
 | 1.1 | 15/12/2024 | [Weverton Rodrigues](https://github.com/vevetin) | Correção dos tópicos 'I - Identificar e administrar as questões práticas da avaliação' e 'Planejamento do Teste Piloto' | 16/12/2024 | [Paulo Henrique](https://github.com/paulomh) |
 | 1.2 | 18/12/2024 | [Paulo Henrique](https://github.com/paulomh) | Adição do teste piloto | 18/12/2024 | [Rodrigo Wendrel](https://github.com/rodwendrel) | 
+| 1.3 | 18/12/2024 | [Weverton Rodrigues](https://github.com/vevetin) | Correção textual pós teste piloto | 18/12/2024 | [Paulo Henrique](https://github.com/paulomh) |

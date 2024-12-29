@@ -6,9 +6,7 @@ sidebar_position: 4
 
 ## Introdução
 
-O presente documento tem como objetivo relatar os resultados obtidos durante a avaliação do Storyboard, realizada com o intuito de identificar possíveis problemas e oportunidades de melhoria no sistema proposto. A análise foi conduzida com base no [planejamento da avaliação do Storyboard](./planejamentoAvaliacaoStoryboard.md) e a organização dos dados foi feita com base no [planejamento do relato dos resultados da avaliação do storyboard](./planejamentoRelatoStoryboard.md).
-
-Cada membro ficou responsável por realizar a entrevista da avaliação dos storyboards na qual será sumarizada a seguir.
+O presente documento tem como objetivo relatar os resultados obtidos durante a avaliação do Storyboard, realizada com o intuito de identificar possíveis problemas e oportunidades de melhoria no sistema proposto. A análise foi conduzida com base no [Planejamento da Avaliação do Storyboard](./planejamentoAvaliacaoStoryboard.md) e a organização dos dados foi feita com base no [Planejamento do Relato dos Resultados da Avaliação do Storyboard](./planejamentoRelatoStoryboard.md).
 
 ## Entrevista - Fazer um pedido no e-SIC
 
@@ -20,7 +18,7 @@ O objetivo da avaliação do storyboard proposto visa buscar se a tarefa de faze
 
 ### Método de avaliação
 
-O método de avaliação utilizado foi a entrevista semiestruturada, acordado comm o [planejamento da avaliação do Storyboard](./planejamentoAvaliacaoStoryboard.md). Os dados da entrevista estão indicados na tabela 1.
+O método de avaliação utilizado foi a entrevista semiestruturada, acordado comm o [Planejamento da Avaliação do Storyboard](./planejamentoAvaliacaoStoryboard.md). Os dados da entrevista estão indicados na tabela 1.
 
 <center>
 
@@ -28,7 +26,9 @@ O método de avaliação utilizado foi a entrevista semiestruturada, acordado co
 
 |    Entrevistador(es)   | Entrevistado(s) | Horário de Início | Horário de Fim | Data Planejada |  Tarefa   |  Local    |
 | :---------: | :-------------: | :---------------: | :------------: | :------------: | :-------------------------: | :------------------------: |
-| [Paulo Henrique](https://github.com/paulomh)       | Igor Abreu | 10:00 | 10:10 | 19/12/2024 | [Fazer um pedido no e-SIC](./storyboards.md#storyboard-1---fazer-um-pedido-no-e-sic) | Campus UnB Gama  |
+| [Paulo Henrique](https://github.com/paulomh)       | Igor Abreu | 10:00 | 10:10 | 19/12/2024 | [Storyboard 1 - Fazer um pedido no e-SIC](./storyboards.md#storyboard-1---fazer-um-pedido-no-e-sic) | Campus UnB Gama  |
+
+<p style={{ textAlign: 'center', fontSize: '17px' }}>Autor: [Paulo Henrique](https://github.com/paulomh)</p>
 
 </center>
 

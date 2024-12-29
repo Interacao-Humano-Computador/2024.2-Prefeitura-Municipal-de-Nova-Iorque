@@ -10,7 +10,7 @@ A avaliação de IHC é uma atividade fundamental em qualquer processo de desenv
 
 ## Metodologia
 
-A metodologia adotada para a avaliação segue o modelo do framework DECIDE (Barbosa, 2021)<sup>[2](./planejamentoAvaliacaoStoryboard.md#referências-bibliográficas)</sup>, uma abordagem estruturada que organiza o processo de avaliação em seis etapas principais: (D) determinar os objetivos da avaliação, (E) explorar perguntas a serem respondidas, (C) escolher os métodos de avaliação, (I) identificar e administrar questões práticas, (D) decidir como lidar com questões éticas, e, por fim, (E) avaliar, interpretar e apresentar os dados. Essa metodologia permite um planejamento claro e detalhado, garantindo que a avaliação aborde tanto os aspectos de apropriação da tecnologia quanto a identificação de problemas na interação e interface.
+A metodologia adotada para a avaliação segue o modelo do framework DECIDE (Barbosa, 2021)<sup>[2](./planejamentoAvaliacaoStoryboard.md#referências-bibliográficas)</sup>, uma abordagem estruturada que organiza o processo de avaliação em seis etapas principais: (D) determinar os objetivos da avaliação, (E) explorar perguntas a serem respondidas, (C) escolher os métodos de avaliação, (I) identificar e administrar questões práticas, (D) decidir como lidar com questões éticas, e, por fim, (E) avaliar, interpretar e apresentar os dados. Essa metodologia permite um planejamento claro e detalhado, garantindo que a avaliação aborde tanto os aspectos de apropriação da tecnologia quanto a identificação de problemas de interação humano computador.
 
 ## D - Determinar os objetivos da avaliação de IHC
 
@@ -18,7 +18,7 @@ Os objetivos desta avaliação são voltados para compreender como os usuários 
 
 ## E - Explorar perguntas a serem respondidas com a avaliação 
 
-As perguntas a serem exploradas nesta avaliação foram adaptadas a partir da tabela de exemplos de perguntas que uma avaliação de IHC pode responder (Barbosa, 2021)<sup>[3](./planejamentoAvaliacaoStoryboard.md#referências-bibliográficas)</sup>, visando o contexto específico da avaliação de storyboards. O objetivo é compreender como os usuários percebem os fluxos de interação e identificar possíveis problemas na interface que possam afetar a experiência de uso. As questões foram elaboradas para investigar tanto a apropriação da tecnologia quanto a identificação de problemas de interação e interface, considerando as interações apresentadas nos storyboards.
+As perguntas a serem exploradas nesta avaliação foram adaptadas a partir da tabela de exemplos de perguntas que uma avaliação de IHC pode responder (Barbosa, 2021)<sup>[3](./planejamentoAvaliacaoStoryboard.md#referências-bibliográficas)</sup>, visando o contexto específico da avaliação de storyboards. O objetivo é compreender como os usuários percebem os fluxos de interação que possam afetar a experiência de uso. As questões foram elaboradas para investigar tanto a apropriação da tecnologia quanto a identificação de problemas de IHC, considerando as interações apresentadas nos storyboards.
 
 <center>
 
@@ -45,22 +45,48 @@ O método escolhido para esta avaliação é a **entrevista semiestruturada**, u
 
 Neste contexto, a entrevista semiestruturada será usada para coletar feedback sobre os storyboards. O objetivo é obter opiniões, reações e sugestões dos usuários sobre as interações apresentadas, com perguntas abertas que possibilitam uma compreensão detalhada das experiências e percepções. O entrevistador poderá adaptar as perguntas conforme a conversa, garantindo que todos os aspectos relevantes sejam abordados.
 
-Essa abordagem facilita a exploração de pontos específicos, mantendo o foco nos objetivos de avaliar a apropriação da tecnologia e identificar problemas de interação e interface.
+Essa abordagem facilita a exploração de pontos específicos, mantendo o foco nos objetivos de avaliar a apropriação da tecnologia e identificar problemas de IHC.
 
 ## I - Identificar e administrar as questões práticas da avaliação
 
-- Participantes: Serão selecionados 5 participantes representativos do público-alvo, priorizando aqueles que possuam características semelhantes ao [perfil do usuário](../../analise-de-requisitos/perfilDeUsuario.md) definido no projeto.
+A identificação e administração das questões práticas asseguram que a avaliação ocorra de forma eficiente, dentro das limitações de recursos, tempo e logística. A seguir, as questões são detalhadas em subtópicos.
 
-- Ferramentas: Storyboards impressos ou apresentados digitalmente, roteiro de avaliação, formulário para coleta de feedback, câmera ou celular para gravação das entrevistas (se aplicável), e ferramentas de videoconferência como Microsoft Teams (para entrevistas remotas).
+### Recrutamento 
 
-- Cronograma:
-    > Preparação: 1 dia para preparação dos materiais e definição do roteiro de avaliação.  
-    > Coleta de Dados: 1 dia para execução do teste piloto (30 minutos antes da sessão) e condução das entrevistas semiestruturadas.  
-    > Relato dos Resultados: 1 dia para redação do relatório de resultados da avaliação.  
+Os 5 participantes serão selecionados conforme o [perfil de usuário](/2024.2-Prefeitura-Municipal-de-Nova-Iorque/Docs/docs/analise-de-requisitos/perfilDeUsuario.md) definido durante a análise de requisitos, priorizando usuários que representem os principais públicos do site. Será utilizado um processo de recrutamento com convites diretos, priorizando voluntários que se encaixem nos requisitos.
 
-- Local: Ambiente presencial ou remoto, dependendo da disponibilidade dos participantes.
+### Preparação
 
-- Testes Piloto: Será realizado um teste piloto com um participante para ajustar o roteiro da entrevista e os materiais utilizados, garantindo que todos os aspectos da avaliação sejam abordados de maneira clara e eficaz.
+A preparação envolve a organização de todos os materiais e recursos necessários para a condução da entrevista semiestruturada:
+- Ferramentas: Celular para gravação de áudio e vídeo;
+- Materiais: Storyboard impresso, roteiro de avaliação, formulário de feedback;
+- Ambiente: A entrevista ocorrerá presencialmente em local combinado com os participantes ou, em último caso, de forma remota;
+
+### Custos
+
+Os principais custos estão relacionados ao transporte, impressão de materiais e eventuais equipamentos para gravação. A equipe buscará otimizar os recursos disponíveis para minimizar despesas.
+
+### Prazos
+
+A avaliação será realizada conforme a tabela abaixo, com a definição dos responsáveis, participantes, horários e locais:
+
+<center>
+
+<p style={{ textAlign: 'center', fontSize: '18px' }}><b>Tabela 2</b> - Cronograma da Entrevista</p>
+
+| Entrevistador | Entrevistado(a) | Horário Início | Horário Fim | Data | Local |
+|---|---|:---:|:---:|:---:|---|
+| [Necivaldo Amaral](https://github.com/junioramaral22) | 17:00 | 17:10 | Lago Sul | 31/12/2024 | Presencialmente |
+| [Paulo Henrique](https://github.com/paulomh)| Igor Abreu | 10:00 | 10:10 | 19/12/2024 | Campus UnB Gama |
+| [Pedro Luiz](https://github.com/pedroluizfo) | A definir | A definir | A definir | 17/12/2024 - 09/01/2025 | Presencialmente | 
+| [Rodrigo Ferreira](https://github.com/rodwendrel) | A definir | A definir | A definir | 17/12/2024 - 09/01/2025 | Presencialmente | 
+| [Weverton Rodrigues](https://github.com/vevetin) | Vanessa Oliveira | 13:30 | 13:40 | 27/12/2024 | Casa da entrevistada |
+
+<p style={{ textAlign: 'center', fontSize: '17px' }}>Autor: [Weverton Rodrigues](https://github.com/vevetin)</p>
+
+</center>
+
+Os entrevistadores deverão garantir que todos os materiais estejam prontos com antecedência e que os participantes sejam contatados para confirmar o horário agendado.
 
 ## D - Decidir como lidar com as questões éticas
 
@@ -90,11 +116,25 @@ Essa análise incluirá a organização, codificação e interpretação dos fee
 
 ## Planejamento do Teste Piloto
 
-O teste piloto tem como objetivo avaliar o planejamento da avaliação, garantindo que ele produza os dados necessários para responder às questões do estudo. Durante o teste, o avaliador verifica se os materiais (roteiros, explicações e recursos) são claros e adequados, e se os sistemas e equipamentos funcionam corretamente.
+O teste piloto consiste em uma execução prévia da avaliação, com o objetivo de validar o planejamento e identificar possíveis problemas nos métodos, materiais e equipamentos utilizados. Essa etapa garante que ajustes possam ser feitos antes da aplicação final, assegurando a qualidade e a eficácia dos dados coletados.
 
-Após o teste, o avaliador realiza uma análise preliminar dos dados coletados para assegurar que são relevantes e suficientes para atender aos objetivos da avaliação. Se forem identificados problemas, o planejamento e os materiais devem ser ajustados, sendo possível a realização de um novo teste piloto, caso necessário.
+**Detalhes:**  
+- Data: 17/12/2024
+- Horário: 11:00 às 11:20
+- Integrantes responsáveis: Paulo Henrique, Pedro Luiz, Necivaldo Amaral, Rodrigo Ferreira, Weverton Rodrigues
+- Local: Campus UnB Gama (presencialmente)
 
-Os dados do teste piloto devem ser descartados, pois podem estar contaminados ou não serem compatíveis com o planejamento revisado. Se não houver participantes suficientes com o perfil desejado, é possível convidar pessoas com perfis ligeiramente diferentes, como colegas ou amigos, mas sem envolvimento no planejamento da avaliação.
+## Resultado do Teste Piloto
+
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pevPKX113NY?si=7bHasaVD-P77Ux-y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</center>
+
+O teste piloto foi realizado com sucesso, permitindo validar o planejamento da avaliação e identificar possíveis ajustes necessários. Para uma melhor dinamicidade e organização, considerando o tempo do entrevistado, os membros decidiram por realizar a entrevista da avaliação do storyboard e, logo em seguida, a avaliação do diagrama da análise de tarefas em um único vídeo. A parte da avaliação da análise de tarefas: [teste piloto análise de tarefas](./planejamentoAvaliacaoAnaliseDeTarefas.md#resultado-do-teste-piloto)
+
+Da parte da avaliação do storyboard, a entrevista foi conduzida de forma clara e objetiva, porém, foi identificado uma pequena falta de preparo com relação ao termo de consentimento, que não estava disponível na forma impressa para o entrevistado. Além disso, ainda sobre o termo de consentimento, o teste piloto evidenciou a necessidade de uma maior clareza e objetividade no que será feito durante a realização da entrevista no termo de consentimento.
+
+Feita essas reflexões, os erros identificados serão corrigidos para que a entrevista seja realizada de forma mais eficiente e eficaz.
 
 ## Referências Bibliográficas
 
@@ -109,3 +149,6 @@ Os dados do teste piloto devem ser descartados, pois podem estar contaminados ou
 | Versão | Data | Autor(es) | Descrição | Data de Revisão | Revisor(es) |
 |:---:|:---:|---|---|:---:|---|
 | 1.0 | 09/12/2024 | [Paulo Henrique](https://github.com/paulomh), [Weverton Rodrigues](https://github.com/vevetin) | Criação do documento | 09/12/2024 | [Necivaldo Amaral](https://github.com/junioramaral22) |
+| 1.1 | 15/12/2024 | [Weverton Rodrigues](https://github.com/vevetin) | Correção dos tópicos 'I - Identificar e administrar as questões práticas da avaliação' e 'Planejamento do Teste Piloto' | 16/12/2024 | [Paulo Henrique](https://github.com/paulomh) |
+| 1.2 | 18/12/2024 | [Paulo Henrique](https://github.com/paulomh) | Adição do teste piloto | 18/12/2024 | [Rodrigo Wendrel](https://github.com/rodwendrel) | 
+| 1.3 | 18/12/2024 | [Weverton Rodrigues](https://github.com/vevetin) | Correção textual pós teste piloto | 18/12/2024 | [Paulo Henrique](https://github.com/paulomh) |

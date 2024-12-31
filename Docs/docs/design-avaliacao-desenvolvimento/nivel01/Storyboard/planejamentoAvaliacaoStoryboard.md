@@ -53,7 +53,7 @@ A identificação e administração das questões práticas asseguram que a aval
 
 ### Recrutamento 
 
-Os 5 participantes serão selecionados conforme o [perfil de usuário](/2024.2-Prefeitura-Municipal-de-Nova-Iorque/Docs/docs/analise-de-requisitos/perfilDeUsuario.md) definido durante a análise de requisitos, priorizando usuários que representem os principais públicos do site. Será utilizado um processo de recrutamento com convites diretos, priorizando voluntários que se encaixem nos requisitos.
+Os 5 participantes serão selecionados conforme o [perfil de usuário](../../../analise-de-requisitos/perfilDeUsuario.md) definido durante a análise de requisitos, priorizando usuários que representem os principais públicos do site. Será utilizado um processo de recrutamento com convites diretos, priorizando voluntários que se encaixem nos requisitos.
 
 ### Preparação
 
@@ -90,7 +90,7 @@ Os entrevistadores deverão garantir que todos os materiais estejam prontos com 
 
 ## D - Decidir como lidar com as questões éticas
 
-Baseado no [termo de consentimento geral](../../analise-de-requisitos/aspectosEticos.md#termo-de-consentimento), os participantes serão informados sobre a natureza da avaliação, os objetivos da pesquisa, os procedimentos envolvidos, os riscos e benefícios, a garantia de anonimato e confidencialidade, e a liberdade de retirar o consentimento a qualquer momento. Dessa forma, o termo de consentimento será lido pelo entrevistador no início da gravação da entrevista. Além disso, será assegurado que os dados coletados serão utilizados apenas para fins de pesquisa e que a gravação dos participantes serão utilizadas apenas para propósito da pesquisa.
+Baseado no [termo de consentimento geral](../../../analise-de-requisitos/aspectosEticos.md#termo-de-consentimento), os participantes serão informados sobre a natureza da avaliação, os objetivos da pesquisa, os procedimentos envolvidos, os riscos e benefícios, a garantia de anonimato e confidencialidade, e a liberdade de retirar o consentimento a qualquer momento. Dessa forma, o termo de consentimento será lido pelo entrevistador no início da gravação da entrevista. Além disso, será assegurado que os dados coletados serão utilizados apenas para fins de pesquisa e que a gravação dos participantes serão utilizadas apenas para propósito da pesquisa.
 
 ### Termo de Consentimento (Adaptado)
 
@@ -110,7 +110,7 @@ De posse dessas informações, gostaríamos que você se pronunciasse acerca da 
 
 ## E - Avaliar, interpretar e apresentar os dados
 
-A avaliação dos dados coletados será conduzida de acordo com as etapas descritas no documento [Planejamento do Relato do Storyboard](../nivel01/planejamentoRelatoStoryboard.md).
+A avaliação dos dados coletados será conduzida de acordo com as etapas descritas no documento [Planejamento do Relato do Storyboard](./planejamentoRelatoStoryboard.md).
 
 Essa análise incluirá a organização, codificação e interpretação dos feedbacks obtidos, com foco em identificar padrões, dificuldades e oportunidades de melhoria nos storyboards. Os resultados serão apresentados de forma estruturada, destacando os problemas encontrados, as recomendações de melhoria e as lições aprendidas, conforme descrito no planejamento do relato.
 
@@ -130,7 +130,7 @@ O teste piloto consiste em uma execução prévia da avaliação, com o objetivo
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pevPKX113NY?si=7bHasaVD-P77Ux-y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </center>
 
-O teste piloto foi realizado com sucesso, permitindo validar o planejamento da avaliação e identificar possíveis ajustes necessários. Para uma melhor dinamicidade e organização, considerando o tempo do entrevistado, os membros decidiram por realizar a entrevista da avaliação do storyboard e, logo em seguida, a avaliação do diagrama da análise de tarefas em um único vídeo. A parte da avaliação da análise de tarefas: [teste piloto análise de tarefas](./planejamentoAvaliacaoAnaliseDeTarefas.md#resultado-do-teste-piloto)
+O teste piloto foi realizado com sucesso, permitindo validar o planejamento da avaliação e identificar possíveis ajustes necessários. Para uma melhor dinamicidade e organização, considerando o tempo do entrevistado, os membros decidiram por realizar a entrevista da avaliação do storyboard e, logo em seguida, a avaliação do diagrama da análise de tarefas em um único vídeo. Segue o [teste piloto da análise de tarefas](../Análise%20de%20Tarefas/planejamentoAvaliacaoAnaliseDeTarefas.md#resultado-do-teste-piloto).
 
 Da parte da avaliação do storyboard, a entrevista foi conduzida de forma clara e objetiva, porém, foi identificado uma pequena falta de preparo com relação ao termo de consentimento, que não estava disponível na forma impressa para o entrevistado. Além disso, ainda sobre o termo de consentimento, o teste piloto evidenciou a necessidade de uma maior clareza e objetividade no que será feito durante a realização da entrevista no termo de consentimento.
 

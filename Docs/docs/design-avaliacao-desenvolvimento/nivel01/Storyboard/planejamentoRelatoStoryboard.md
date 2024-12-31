@@ -6,7 +6,7 @@ sidebar_position: 3
 
 ## Introdução
 
-O documento em questão tem como base o [planejamento da avaliação do Storyboard](https://interacao-humano-computador.github.io/2024.2-Prefeitura-Municipal-de-Nova-Iorque/docs/design-avaliacao-desenvolvimento/nivel01/planejamentoAvaliacaoStoryboard), com o propósito principal de definir a estrutura e organizar as informações obtidas durante essa análise. Os resultados dessa etapa serão apresentados em um relatório detalhado, destacando pontos que podem ser melhorados no sistema, além de sugestões de redesign identificadas pela equipe.
+O documento em questão tem como base o [planejamento da avaliação do Storyboard](../Storyboard/planejamentoAvaliacaoStoryboard.md), com o propósito principal de definir a estrutura e organizar as informações obtidas durante essa análise. Os resultados dessa etapa serão apresentados em um relatório detalhado, destacando pontos que podem ser melhorados no sistema, além de sugestões de redesign identificadas pela equipe.
 
 ## Metodologia
 

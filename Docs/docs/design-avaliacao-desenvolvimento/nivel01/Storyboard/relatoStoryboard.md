@@ -6,7 +6,7 @@ sidebar_position: 4
 
 ## Introdução
 
-O presente documento tem como objetivo relatar os resultados obtidos durante a avaliação do Storyboard, realizada com o intuito de identificar possíveis problemas e oportunidades de melhoria no sistema proposto. A análise foi conduzida com base no [Planejamento da Avaliação do Storyboard](./planejamentoAvaliacaoStoryboard.md) e a organização dos dados foi feita com base no [Planejamento do Relato dos Resultados da Avaliação do Storyboard](./planejamentoRelatoStoryboard.md).
+O presente documento tem como objetivo relatar os resultados obtidos durante a avaliação do Storyboard, realizada com o intuito de identificar possíveis problemas e oportunidades de melhoria no sistema proposto. A análise foi conduzida com base no [Planejamento da Avaliação do Storyboard](planejamentoRelatoStoryboard.md) e a organização dos dados foi feita com base no [Planejamento do Relato dos Resultados da Avaliação do Storyboard](planejamentoRelatoStoryboard.md).
 
 ## Entrevista - Fazer um pedido no e-SIC
 
@@ -55,7 +55,7 @@ Além disso, foi utilizado um questionário com 8 perguntas variadas entre quest
 
 ### Seleção dos participantes
 
-O participante selecionado para a entrevista se encaixa no [perfil de usuário](../../analise-de-requisitos/perfilDeUsuario.md) definido para o projeto. O entrevistado se enquadra na faixa etária de 25 a 34 anos e já deu aula na rede pública de ensino.
+O participante selecionado para a entrevista se encaixa no [perfil de usuário](../../../analise-de-requisitos/perfilDeUsuario.md) definido para o projeto. O entrevistado se enquadra na faixa etária de 25 a 34 anos e já deu aula na rede pública de ensino.
 
 ### Listagem de problemas
 

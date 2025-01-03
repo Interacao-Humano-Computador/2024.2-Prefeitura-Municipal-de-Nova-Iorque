@@ -12,13 +12,11 @@ O presente documento tem como objetivo relatar os resultados obtidos durante a a
 
 ### Objetivo e âmbito da avaliação
 
-O objetivo da avaliação do storyboard proposto visa buscar se a tarefa de fazer um pedido no e-SIC é claro e intuitivo para o usuário. A avaliação abrange a compreensão do fluxo de interação proposto, a identificação de possíveis problemas e a sugestão de melhorias para aprimorar a experiência do usuário. O storyboard utilizado nessa avaliação pode ser acessado aqui: [Storyboard 1 - Fazer um pedido no e-SIC](./storyboards.md#storyboard-1---fazer-um-pedido-no-e-sic)
-
-(coloco o storyboard aqui?)
+O objetivo da avaliação do storyboard proposto visa buscar se a tarefa de fazer um pedido no e-SIC é claro e intuitivo para o usuário. A avaliação abrange a compreensão do fluxo de interação proposto, a identificação de possíveis problemas e a sugestão de melhorias para aprimorar a experiência do usuário. O storyboard utilizado nessa avaliação pode ser acessado aqui: [Storyboard 1 - Fazer um pedido no e-SIC](./storyboards.md#storyboard-1---fazer-um-pedido-no-e-sic).
 
 ### Método de avaliação
 
-O método de avaliação utilizado foi a entrevista semiestruturada, acordado comm o [Planejamento da Avaliação do Storyboard](./planejamentoAvaliacaoStoryboard.md). Os dados da entrevista estão indicados na tabela 1.
+O método de avaliação utilizado foi a entrevista semiestruturada, acordado com o [Planejamento da Avaliação do Storyboard](./planejamentoAvaliacaoStoryboard.md). Os dados da entrevista estão indicados na tabela 1.
 
 <center>
 
@@ -32,7 +30,7 @@ O método de avaliação utilizado foi a entrevista semiestruturada, acordado co
 
 </center>
 
-Além disso, foi utilizado um questionário com 8 perguntas variadas entre questões abertas e objetivas, presente na tabela 2, para guiar a entrevista e coletar as percepções do entrevistado.
+Além disso, foi utilizado um questionário com 8 perguntas variadas entre questões abertas e objetivas, presente no documento de [Planejamento da Avaliação do Storyboard](./planejamentoAvaliacaoStoryboard.md), para guiar a entrevista e coletar as percepções do entrevistado.
 
 <center>
 
@@ -83,6 +81,75 @@ A avaliação foi registrada por meio da gravação da entrevista, disponível l
 
 </center>
 
+## Entrevista - Agendamento de Consulta Médica
+
+### Objetivo e âmbito da avaliação
+
+A avaliação teve como objetivo analisar o [Storyboard 2 - Agendamento de Consulta Médica para Dona Lúcia](./storyboards.md#storyboard-2---agendamento-de-consulta-médica-para-dona-lúcia), visando identificar pontos de melhoria na interação e na interface. O âmbito da avaliação abrangeu aspectos relacionados à clareza do fluxo de tarefas, adequação às necessidades do público-alvo e possíveis barreiras de usabilidade.
+
+### Método de avaliação
+
+O método de avaliação utilizado foi a entrevista semiestruturada, acordado com o [Planejamento da Avaliação do Storyboard](./planejamentoAvaliacaoStoryboard.md). Os dados relativos ao cronograma executado durante a entrevista está apresentado na Tabela 2:
+
+<center>
+
+<p style={{ textAlign: 'center', fontSize: '18px' }}><b>Tabela 3</b> - Cronograma Executado</p>
+
+|    Entrevistador(es)   | Entrevistado(s) | Horário de Início | Horário de Fim | Data Planejada |  Tarefa   |  Local    |
+| :---------: | :-------------: | :---------------: | :------------: | :------------: | :-------------------------: | :------------------------: |
+| [Weverton Rodrigues](https://github.com/vevetin) | Vanessa Oliveira  | 17:30 | 17:45 | 27/12/2024 | [Storyboard 2 - Agendamento de Consulta Médica para Dona Lúcia](./storyboards.md#storyboard-2---agendamento-de-consulta-médica-para-dona-lúcia) | Residência da entrevistada  |
+
+
+<p style={{ textAlign: 'center', fontSize: '17px' }}>Autor: [Weverton Rodrigues](https://github.com/vevetin)</p>
+
+</center>
+
+Além disso, foi utilizado um questionário com 8 perguntas variadas entre questões abertas e objetivas, presente no documento de [Planejamento da Avaliação do Storyboard](./planejamentoAvaliacaoStoryboard.md), para guiar a entrevista e coletar as percepções do entrevistado.
+
+<center>
+
+<p style={{ textAlign: 'center', fontSize: '18px' }}><b>Tabela 4</b> - Roteiro de perguntas para Avaliação de Storyboard</p>
+
+| Objetivo | Pergunta | Resposta |
+|---|---|---|
+| Apropriação da Tecnologia | 1. Os usuários compreendem o objetivo de cada interação representada no storyboard? | Sim |
+| Apropriação da Tecnologia | 2. Os fluxos propostos são claros e intuitivos? | Sim |
+| Apropriação da Tecnologia | 3. Há evidências de que os usuários conseguiriam utilizar o sistema com base no que foi apresentado? | Sim |
+| Apropriação da Tecnologia | 4. Quais aspectos dos fluxos apresentados no storyboard podem impedir os usuários de adotarem o sistema em suas rotinas diárias? | Não |
+| Identificação de Problemas de Interação e Interface | 5. Existem elementos confusos ou difíceis de interpretar nos storyboards? | Não |
+| Identificação de Problemas de Interação e Interface | 6. Quais barreiras de interação podem surgir para os usuários ao realizarem as tarefas propostas? | Não foram identificadas barreiras. |
+| Identificação de Problemas de Interação e Interface | 7. A sequência de interações está clara, ou os usuários têm dificuldades em entender o que fazer a seguir? | Sim, a sequência está clara, especialmente com o acompanhamento/ajuda do neto da personagem. |
+| Identificação de Problemas de Interação e Interface | 8. Os usuários têm acesso a todas as informações necessárias para concluir as tarefas ou há falta de clareza nas instruções? | Sim, todas as informações necessárias estão disponíveis, o que facilita o entendimento e a execução. |
+
+<p style={{ textAlign: 'center', fontSize: '17px' }}>Autor: [Weverton Rodrigues](https://github.com/vevetin)</p>
+
+</center>
+
+### Seleção dos participantes
+
+A participante selecionada foi Vanessa Oliveira, de 49 anos, que se enquadra no grupo de [Cidadãos em Geral (faixa etária predominante: 18 a 60 anos)](../../../analise-de-requisitos/perfilDeUsuario.md#conclusão). Ela possui experiência básica com tecnologia e, ocasionalmente, precisa de auxílio de familiares em tarefas mais complexas. A escolha de Vanessa visou representar um usuário típico dessa faixa etária, com familiaridade básica/intermediária com interfaces digitais, permitindo avaliar aspectos de usabilidade e acessibilidade do storyboard.
+
+### Listagem de problemas
+- Ausência de problemas de compreensão: Não foram identificados elementos confusos ou difíceis de interpretar no storyboard. A sequência de interações foi clara para a entrevistada.
+
+- Acesso à informação: Não houve falta de clareza nas instruções, e todas as informações necessárias para a execução das tarefas estavam acessíveis, o que facilitou o entendimento.
+
+- Falta de barreiras de interação: Não foram identificadas barreiras de interação que dificultassem a execução das tarefas propostas. A entrevistada não apontou obstáculos na navegação ou no entendimento das etapas.
+
+### Sugestões de melhorias
+
+Nenhuma sugestão de melhoria foi identificada durante a avaliação. O storyboard foi considerado claro e intuitivo pela entrevistada, que não apontou problemas de compreensão ou dificuldades nas interações. O fluxo proposto está bem alinhado com as necessidades do usuário, e todas as informações necessárias para a execução das tarefas foram facilmente compreendidas.
+
+### Registro da avaliação
+
+A avaliação foi registrada por meio da gravação da entrevista, disponível logo abaixo e a parte referente à Avaliação do Storyboard vai de ``0:00`` até ``3:45``:
+
+<center>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvfZU3_LIOw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+</center>
+
 ## Planejamento de reprojeto
 
 <center>
@@ -97,5 +164,5 @@ A avaliação foi registrada por meio da gravação da entrevista, disponível l
 | Versão | Data | Autor(es) | Descrição | Data de Revisão | Revisor(es) |
 |:---:|:---:|---|---|:---:|---|
 | 1.0 |  28/12/2024 | [Paulo Henrique](https://github.com/paulomh) | Criação do docummento do relato dos resultados da avaliação do storyboarrd e adição do relato da avaliação do storyboard - realizar um pedido no e-SIC  | 28/12/2024 | [Rodrigo Wendrel](https://github.com/rodwendrel) |
-
+| 1.1 |  02/01/2025 | [Weverton Rodrigues](https://github.com/vevetin)  | adição do relato da avaliação do storyboard - agendamento de consulta médica para dona Lúcia | | |
 

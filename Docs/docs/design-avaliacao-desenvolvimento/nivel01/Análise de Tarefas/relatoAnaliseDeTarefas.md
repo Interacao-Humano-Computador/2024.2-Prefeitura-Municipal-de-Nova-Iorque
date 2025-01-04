@@ -82,7 +82,7 @@ A avaliação teve como objetivo analisar a [Tarefa 02 - Agendar consulta médic
 
 ### Método de avaliação
 
-O método de avaliação utilizado foi a entrevista semiestruturada, acordado com o [Planejamento da Avaliação do Storyboard](./planejamentoAvaliacaoStoryboard.md). Os dados relativos ao cronograma executado durante a entrevista está apresentado na Tabela 3:
+O método de avaliação utilizado foi a entrevista semiestruturada, acordado com o [Planejamento da Avaliação da Análise de Tarefas](./planejamentoAvaliacaoAnaliseDeTarefas.md). Os dados relativos ao cronograma executado durante a entrevista está apresentado na Tabela 3:
 
 <center>
 
@@ -101,7 +101,7 @@ Além disso, foi utilizado um questionário com 9 perguntas variadas entre quest
 
 <center>
 
-<p style={{ textAlign: 'center', fontSize: '18px' }}><b>Tabela 4</b> - Roteiro de perguntas para Avaliação de Storyboard</p>
+<p style={{ textAlign: 'center', fontSize: '18px' }}><b>Tabela 4</b> - Roteiro de perguntas para Avaliação da Análise de Tarefas</p>
 
 | Objetivo | Pergunta | Resposta |
 |---|---|---|

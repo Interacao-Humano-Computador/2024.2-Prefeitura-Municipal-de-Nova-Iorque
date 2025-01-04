@@ -74,6 +74,79 @@ A avaliação foi registrada por meio da gravação da entrevista, disponível l
 
 </center>
 
+## Entrevista - Agendamento de Consulta Médica
+
+### Objetivo e âmbito da avaliação
+
+A avaliação teve como objetivo analisar a [Tarefa 02 - Agendar consulta médica no site da prefeitura](../../../analise-de-requisitos/analiseTarefas.md#tarefa-02---agendar-consulta-médica-no-site-da-prefeitura), visando identificar pontos de melhoria na interação e na interface. O foco foi identificar possíveis barreiras de usabilidade, avaliar a clareza das etapas descritas e verificar a adequação às necessidades do público-alvo.
+
+### Método de avaliação
+
+O método de avaliação utilizado foi a entrevista semiestruturada, acordado com o [Planejamento da Avaliação do Storyboard](./planejamentoAvaliacaoStoryboard.md). Os dados relativos ao cronograma executado durante a entrevista está apresentado na Tabela 3:
+
+<center>
+
+<p style={{ textAlign: 'center', fontSize: '18px' }}><b>Tabela 3</b> - Cronograma Executado</p>
+
+|    Entrevistador(es)   | Entrevistado(s) | Horário de Início | Horário de Fim | Data Planejada |  Tarefa   |  Local    |
+| :---------: | :-------------: | :---------------: | :------------: | :------------: | :-------------------------: | :------------------------: |
+| [Weverton Rodrigues](https://github.com/vevetin) | Vanessa Oliveira  | 17:37 | 17:45 | 27/12/2024 | [Tarefa 02 - Agendar consulta médica no site da prefeitura](../../../analise-de-requisitos/analiseTarefas.md#tarefa-02---agendar-consulta-médica-no-site-da-prefeitura) | Residência da entrevistada  |
+
+
+<p style={{ textAlign: 'center', fontSize: '17px' }}>Autor: [Weverton Rodrigues](https://github.com/vevetin)</p>
+
+</center>
+
+Além disso, foi utilizado um questionário com 9 perguntas variadas entre questões abertas e objetivas, presente no documento de [Planejamento da Avaliação da Análise de Tarefas](./planejamentoAvaliacaoAnaliseDeTarefas.md), para guiar a entrevista e coletar as percepções do entrevistado.
+
+<center>
+
+<p style={{ textAlign: 'center', fontSize: '18px' }}><b>Tabela 4</b> - Roteiro de perguntas para Avaliação de Storyboard</p>
+
+| Objetivo | Pergunta | Resposta |
+|---|---|---|
+| Apropriação da Tecnologia | 1. Os usuários compreendem os passos necessários para realizar as tarefas propostas? | Sim |
+| Apropriação da Tecnologia | 2. Existe alguma etapa das tarefas que os usuários consideram confusa ou difícil de entender?| Não |
+| Apropriação da Tecnologia | 3. Os usuários percebem que o sistema oferece suporte suficiente para a realização das tarefas? | Sim |
+| Apropriação da Tecnologia | 4. Há aspectos das tarefas que desmotivam os usuários ou dificultam a adoção do sistema em suas rotinas? | Não diretamente, mas a entrevistada mencionou que idosos podem precisar de ajuda de terceiros para usar o sistema. |
+| Apropriação da Tecnologia | 5. Quais necessidades e objetivos dos usuários são atendidos pelas tarefas analisadas? E quais não são? | A entrevistada destacou a praticidade de agendar consultas, mas não mencionou aspectos não atendidos. |
+| Problemas na Interação e Interface | 6. Os usuários conseguem entender e realizar cada etapa das tarefas com eficiência? | Sim |
+| Problemas na Interação e Interface | 7. Que dificuldades surgem ao longo da execução das tarefas? Com que frequência essas dificuldades ocorrem?| Nenhuma dificuldade foi identificada durante a execução das tarefas. |
+| Problemas na Interação e Interface | 8. Os usuários sabem o que fazer em seguida após cada etapa da tarefa? | Sim |
+| Problemas na Interação e Interface | 9. As informações apresentadas durante a execução das tarefas são claras e suficientes para o usuário atingir seus objetivos? | Sim |
+
+<p style={{ textAlign: 'center', fontSize: '17px' }}>Autor: [Weverton Rodrigues](https://github.com/vevetin)</p>
+
+</center>
+
+### Seleção dos participantes
+
+A participante selecionada foi Vanessa Oliveira, de 49 anos, que se enquadra no grupo de [Cidadãos em Geral (faixa etária predominante: 18 a 60 anos)](../../../analise-de-requisitos/perfilDeUsuario.md#conclusão). Ela possui experiência básica com tecnologia e, ocasionalmente, precisa de auxílio de familiares em tarefas mais complexas. A escolha de Vanessa visou representar um usuário típico dessa faixa etária, com familiaridade básica/intermediária com interfaces digitais, permitindo avaliar aspectos de usabilidade e acessibilidade da análise de tarefa apresentada.
+
+### Listagem de problemas
+- Ausência de problemas de compreensão: Não foram identificados problemas na compreensão dos passos necessários para a realização das tarefas. Todas as etapas foram consideradas claras e intuitivas.
+
+- Acesso à informação: Não foram relatadas dificuldades na execução do fluxo ou na compreensão das informações apresentadas. A entrevistada destacou que as instruções foram claras e suficientes.
+
+- Falta de barreiras de interação: Nenhuma barreira significativa foi identificada que pudesse dificultar a adoção do sistema. O feedback foi positivo em relação à praticidade e facilidade das tarefas analisadas.
+
+### Sugestões de melhorias
+
+Com base na avaliação e nas respostas fornecidas pela entrevistada, não foram identificadas necessidades de ajustes ou melhorias específicas na análise de tarefas. O fluxograma está claro, com passos bem definidos e alinhados às expectativas do usuário.
+
+No entanto, como sugestão geral para etapas futuras do projeto, poderia ser útil:
+- Apoio a Usuários Idosos: Embora o sistema tenha sido considerado prático e acessível, a entrevistada mencionou que usuários idosos podem precisar de suporte de terceiros para realizar as tarefas. Uma possível melhoria seria incluir tutoriais interativos, dicas contextuais ou até um botão de ajuda em destaque, que ofereça instruções claras e visuais para facilitar o uso independente.
+
+### Registro da avaliação
+
+A avaliação foi registrada por meio da gravação da entrevista, disponível logo abaixo, e a parte referente à Avaliação da Análise de Tarefas vai de ``3:45`` até ``8:19``:
+
+<center>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vqxaBh6VfNM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+</center>
+
 ## Planejamento de reprojeto
 
 <center>
@@ -88,5 +161,5 @@ A avaliação foi registrada por meio da gravação da entrevista, disponível l
 | Versão | Data | Autor(es) | Descrição | Data de Revisão | Revisor(es) |
 |:---:|:---:|---|---|:---:|---|
 | 1.0 |  29/12/2024 | [Paulo Henrique](https://github.com/paulomh) | Criação do docummento do relato dos resultados da avaliação da análise de tarefas e adição do relato da avaliação da análise de tarefas (HTA) - realizar um pedido no e-SIC  | 29/12/2024 | [Rodrigo Wendrel](https://github.com/rodwendrel) |
-
+| 1.1 |  02/01/2025 | [Weverton Rodrigues](https://github.com/vevetin)  | adição do relato da avaliação da tarefa 02 - Agendar consulta médica no site da prefeitura | | |
 

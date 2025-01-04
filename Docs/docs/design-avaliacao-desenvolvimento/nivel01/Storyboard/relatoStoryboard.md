@@ -89,7 +89,7 @@ A avaliação teve como objetivo analisar o [Storyboard 2 - Agendamento de Consu
 
 ### Método de avaliação
 
-O método de avaliação utilizado foi a entrevista semiestruturada, acordado com o [Planejamento da Avaliação do Storyboard](./planejamentoAvaliacaoStoryboard.md). Os dados relativos ao cronograma executado durante a entrevista está apresentado na Tabela 2:
+O método de avaliação utilizado foi a entrevista semiestruturada, acordado com o [Planejamento da Avaliação do Storyboard](./planejamentoAvaliacaoStoryboard.md). Os dados relativos ao cronograma executado durante a entrevista está apresentado na Tabela 3:
 
 <center>
 
@@ -97,7 +97,7 @@ O método de avaliação utilizado foi a entrevista semiestruturada, acordado co
 
 |    Entrevistador(es)   | Entrevistado(s) | Horário de Início | Horário de Fim | Data Planejada |  Tarefa   |  Local    |
 | :---------: | :-------------: | :---------------: | :------------: | :------------: | :-------------------------: | :------------------------: |
-| [Weverton Rodrigues](https://github.com/vevetin) | Vanessa Oliveira  | 17:30 | 17:45 | 27/12/2024 | [Storyboard 2 - Agendamento de Consulta Médica para Dona Lúcia](./storyboards.md#storyboard-2---agendamento-de-consulta-médica-para-dona-lúcia) | Residência da entrevistada  |
+| [Weverton Rodrigues](https://github.com/vevetin) | Vanessa Oliveira  | 17:30 | 17:37 | 27/12/2024 | [Storyboard 2 - Agendamento de Consulta Médica para Dona Lúcia](./storyboards.md#storyboard-2---agendamento-de-consulta-médica-para-dona-lúcia) | Residência da entrevistada  |
 
 
 <p style={{ textAlign: 'center', fontSize: '17px' }}>Autor: [Weverton Rodrigues](https://github.com/vevetin)</p>
@@ -142,11 +142,11 @@ Nenhuma sugestão de melhoria foi identificada durante a avaliação. O storyboa
 
 ### Registro da avaliação
 
-A avaliação foi registrada por meio da gravação da entrevista, disponível logo abaixo e a parte referente à Avaliação do Storyboard vai de ``0:00`` até ``3:45``:
+A avaliação foi registrada por meio da gravação da entrevista, disponível logo abaixo, e a parte referente à Avaliação do Storyboard vai de ``0:00`` até ``3:45``:
 
 <center>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvfZU3_LIOw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vqxaBh6VfNM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 </center>
 

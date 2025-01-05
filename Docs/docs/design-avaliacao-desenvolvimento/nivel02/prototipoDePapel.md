@@ -162,7 +162,36 @@ Após clicar em "Enviar", o pedido será registrado e aparecerá uma janela de c
 
 </center>
 
-### Protótipo de Papel 2 - Agendamento de Consulta Médica para Dona Lúcia
+### Protótipo de Papel 2 - Agendamento de Consulta Médica
+
+Baseando-se na  [análise CMN-GOMS detalhada - Agendar consulta médica no site da prefeitura](../../analise-de-requisitos/analiseTarefas.md#análise-cmn-goms-detalhado) e no [Storyboard 2 - Agendamento de Consulta Médica para Dona Lúcia](../nivel01/Storyboard/storyboards.md#storyboard-2---agendamento-de-consulta-médica-para-dona-lúcia), o protótipo de papel foi desenvolvido para representar de forma visual e interativa o fluxo de agendamento de consultas médicas no site da prefeitura.
+O protótipo de papel consiste em duas telas principais, detalhadas a seguir:  
+
+**Tela Inicial:**
+ - Um menu suspenso localizado no menu horizontal, onde o usuário pode selecionar a opção "Saúde" para acessar a funcionalidade de agendamento.
+ - Uma barra de pesquisa, permitindo buscar diretamente pelo termo "agendamento de consultas".
+
+**Tela de Formulário:**   
+- Dados Pessoais: Nome completo, CPF, e número do CNS, com preenchimento automático para usuários logados.
+- Endereço: CEP, cidade, UF e logradouro.
+- Detalhes do Agendamento: Menu suspenso para especialidade, data, horário e um mapa interativo para escolha da UBS.
+
+Além disso, a interação do usuário é simplificada pelos botões "Cancelar" e "Salvar" inicialmente. Após salvar, novos botões (como "Baixar", "Imprimir", "Editar" e "Excluir") são adicionados para oferecer mais opções de gerenciamento.
+
+#### Fluxos Alternativos e Modais
+- Se o usuário optar por cancelar o preenchimento, ele será redirecionado à tela inicial.
+- Ao salvar o agendamento, um modal é exibido com resumo do agendamento e opções para baixar, imprimir ou fechar.
+- Caso o usuário exclua um agendamento, um modal de confirmação aparece com a opção de cancelar ou confirmar a exclusão.
+
+<center>
+
+<p style={{ textAlign: 'center', fontSize: '18px' }}><b>Figura 12</b> - Protótipo de Papel: Agendamento de Consulta Médica</p>
+
+![protótipo de papel: agendamento de consulta médica para dona Lúcia](./assets/prototipo-de-papel-Weverton.jfif)
+
+<p style={{ textAlign: 'center', fontSize: '17px' }}>Autor: [Weverton Rodrigues](https://github.com/vevetin)</p>
+
+</center>
 
 ### Protótipo de Papel 3 - Envio de Nota Fiscal de Serviço
 
@@ -296,6 +325,7 @@ Então, os detalhes são exibidos, é possível visualizar os documentos da lici
 | 1.1 | 05/01/2025 | [Paulo Henrique](https://github.com/paulomh) | Protótipo - Realizar pedido no e-SIC | 05/01/2025 | [Rodrigo Wendrel](https://github.com/junioramaral22)  |
 | 1.2 | 05/01/2025 | [Pedro Luiz](https://github.com/pedroluizfo) | Protótipo - Registrar chamado na ouvidoria | 05/01/2025 | [Rodrigo Wendrel](https://github.com/junioramaral22)  |
 | 1.3 | 05/01/2025 | [Paulo Henrique](https://github.com/paulomh) | Imagens do protótipo - Realizar pedido no e-SIC | 05/01/2025 | [Pedro Luiz](https://github.com/pedroluizfo)  |
-| 1.4 | 05/01/2025 | [Rodrigo Wendrel](https://github.com/rodwendrel) | Imagens do protótipo - Buscar por licitação fracassada | 05/01/2025 | [Paulo Henrique](https://github.com/paulomh)  |
+| 1.4 | 05/01/2025 | [Weverton Rodrigues](https://github.com/vevetin) | Protótipo - Agendamento de Consulta Médica | 05/01/2025 | [Paulo Henrique](https://github.com/paulomh) |
+| 1.5 | 05/01/2025 | [Rodrigo Wendrel](https://github.com/rodwendrel) | Imagens do protótipo - Buscar por licitação fracassada | 05/01/2025 | [Paulo Henrique](https://github.com/paulomh)  |
 
 

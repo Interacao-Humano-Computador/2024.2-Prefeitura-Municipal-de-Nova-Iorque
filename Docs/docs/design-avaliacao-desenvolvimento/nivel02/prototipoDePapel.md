@@ -237,6 +237,45 @@ Esse protótipo em papel visa facilitar a validação do design e a experiência
 
 ### Protótipo de Papel 5 - Busca por licitação fracassada
 
+Baseado no [diagrama HTA - Licitações desertas ou fracassadas](../../analise-de-requisitos/analiseTarefas.md#tarefa-03---acessar-informações-de-licitações-desertas-ou-fracassadas) e tendo como base o objetivo do [Storyboard - Busca por licitações fracassadas  ](../nivel01/Storyboard/storyboards.md#storyboard-5-busca-por-licitação-fracassada).
+
+<center>
+
+<p style={{ textAlign: 'center', fontSize: '18px' }}><b>Figura 1</b> - Tela inicial do protótipo</p>
+
+![](./assets/prototipoRodrigo1.jpeg)
+
+<p style={{ textAlign: 'center', fontSize: '17px' }}>Autor: [Rodrigo Wendrel](https://github.com/rodwendrel)</p>
+
+</center>
+
+Na tela inicial, é possível visualizar o carrossel onde o usuário pode buscar pela opção de licitações. Ao selecionar esta opção, um menu de buscas aparece
+várias categorias de licitações aparecem. No caso, buscamos as fracassadas
+
+<center>
+
+<p style={{ textAlign: 'center', fontSize: '18px' }}><b>Figura 2</b> - Tela de licitações </p>
+
+![](./assets/prototipoRodrigo2.jpeg)
+
+<p style={{ textAlign: 'center', fontSize: '17px' }}>Autor: [Rodrigo Wendrel](https://github.com/rodwendrel)</p>
+
+</center>
+
+Nesta tela, temos os filtros de ano, modalidade, status e unidade sendo que, estes possuem um menu com mais opções. Também temos uma busca pelo número da licitação. Ao adicionar os filtros, as licitações correspondentes aparecem e é possível clicar em detalhes para ver tudo sobre a licitação escolhida.
+<center>
+
+<p style={{ textAlign: 'center', fontSize: '18px' }}><b>Figura 3</b> - Tela de detalhes </p>
+
+![](./assets/prototipoRodrigo3.jpeg)
+
+<p style={{ textAlign: 'center', fontSize: '17px' }}>Autor: [Rodrigo Wendrel](https://github.com/rodwendrel)</p>
+
+</center>
+
+Então, os detalhes são exibidos, é possível visualizar os documentos da licitação e fazer o download no formato desejado. Então, um pop-up de sucesso é exibido.
+
+
 ## Bibliografia
 
 > \- BRASIL. Prefeitura Municipal de Nova Iorque. Prefeitura Municipal de Nova Iorque. Disponível em: https://www.novaiorque.ma.gov.br/. Acesso em: 02 jan. 2025.   
@@ -257,5 +296,6 @@ Esse protótipo em papel visa facilitar a validação do design e a experiência
 | 1.1 | 05/01/2025 | [Paulo Henrique](https://github.com/paulomh) | Protótipo - Realizar pedido no e-SIC | 05/01/2025 | [Rodrigo Wendrel](https://github.com/junioramaral22)  |
 | 1.2 | 05/01/2025 | [Pedro Luiz](https://github.com/pedroluizfo) | Protótipo - Registrar chamado na ouvidoria | 05/01/2025 | [Rodrigo Wendrel](https://github.com/junioramaral22)  |
 | 1.3 | 05/01/2025 | [Paulo Henrique](https://github.com/paulomh) | Imagens do protótipo - Realizar pedido no e-SIC | 05/01/2025 | [Pedro Luiz](https://github.com/pedroluizfo)  |
+| 1.4 | 05/01/2025 | [Rodrigo Wendrel](https://github.com/rodwendrel) | Imagens do protótipo - Buscar por licitação fracassada | 05/01/2025 | [Paulo Henrique](https://github.com/paulomh)  |
 
 

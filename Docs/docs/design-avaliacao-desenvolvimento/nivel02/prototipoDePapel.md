@@ -102,6 +102,73 @@ Após clicar em "Enviar", o pedido será registrado e aparecerá uma janela de c
 
 ### Protótipo de Papel 4 - Registro de reclamação na ouvidoria
 
+Baseado na análise de tarefas GOMS para "Abrir uma nova solicitação no canal de ouvidoria virtual", foi desenvolvido o protótipo de papel que representa as etapas do processo.
+
+#### Tela Inicial
+Na tela inicial, o usuário tem três métodos principais para acessar o canal de ouvidoria:
+
+Navegando pelo carrossel de ícones:
+O usuário identifica o carrossel na página principal e localiza o ícone da ouvidoria visualmente.
+<p style={{ textAlign: 'center', fontSize: '17px' }}><b>Figura 01</b> - Página principal </p>
+    <center>
+        ![pp4](./assets//pp4.jpg)
+    </center>
+<p style={{ textAlign: 'center', fontSize: '17px' }}>Autor: [Pedro Luiz](https://github.com/pedroluizfo)</p>
+
+Posicionando o mouse diretamente sobre o ícone da ouvidoria:
+Quando o usuário encontra o ícone da ouvidoria diretamente, uma descrição é exibida ao passar o mouse, indicando a funcionalidade antes de clicar.
+
+
+Selecionando o link direto para o canal eletrônico de acesso:
+O usuário, já familiarizado com o site, localiza rapidamente o link "Canal Eletrônico de Acesso" na página inicial e clica para acessar a ouvidoria.
+
+
+#### Página da Ouvidoria Virtual
+Ao acessar a seção da ouvidoria virtual, o usuário tem a opção de preencher uma nova solicitação ou acompanhar uma solicitação existente.
+<p style={{ textAlign: 'center', fontSize: '17px' }}><b>Figura 02</b> - Página da ouvidoria </p>
+    <center>
+        ![pp04](./assets//pp04.jpg)
+    </center>
+<p style={{ textAlign: 'center', fontSize: '17px' }}>Autor: [Pedro Luiz](https://github.com/pedroluizfo) </p>
+Nova solicitação:
+O usuário clica em "Nova Solicitação" e é redirecionado para o formulário de manifestação.
+
+
+Acompanhamento de solicitação existente:
+O usuário pode inserir o código de acompanhamento na seção dedicada e visualizar o status de sua solicitação.
+(Imagem: Página da ouvidoria com o campo de acompanhamento destacado)
+
+Formulário de Manifestação
+Ao acessar o formulário, o usuário segue as etapas abaixo:
+
+Preenchimento de informações pessoais:
+O formulário exibe os campos obrigatórios: Nome, E-mail, Telefone, Endereço, Bairro, Cidade e UF. O usuário insere as informações manualmente.
+(Imagem: Formulário com campos pessoais destacados e preenchidos)
+
+Seleção do tipo de manifestação:
+O usuário seleciona a natureza da manifestação (Elogio, Reclamação, Solicitação, Sugestão ou Denúncia) em um menu suspenso.
+(Imagem: Menu suspenso de tipo de manifestação com uma opção selecionada)
+
+Descrição da manifestação:
+O usuário localiza o campo de texto, insere os detalhes da solicitação e escolhe se deseja que a manifestação seja pública ou anônima.
+(Imagem: Campo de texto preenchido com a opção de privacidade selecionada)
+
+Confirmação e Código de Acompanhamento
+Após revisar todos os dados preenchidos:
+
+O usuário clica no botão "Enviar".
+Uma mensagem de confirmação é exibida com o código de acompanhamento gerado automaticamente.
+O código pode ser anotado para acompanhamento futuro.
+(Imagem: Tela de confirmação com o código gerado destacado)
+#### Fluxo Alternativo - Acompanhamento de Solicitações
+Caso o usuário já tenha um código de acompanhamento, ele pode seguir o fluxo abaixo:
+
+Acessa a página de "Acompanhamento de Solicitações".
+Insere o código no campo apropriado e clica em "Buscar".
+Visualiza o status da solicitação.
+(Imagem: Página de acompanhamento com campo preenchido e status exibido)
+Esse protótipo em papel visa facilitar a validação do design e a experiência do usuário em cada etapa do processo.
+
 ### Protótipo de Papel 5 - Busca por licitação fracassada
 
 ## Bibliografia
@@ -122,3 +189,5 @@ Após clicar em "Enviar", o pedido será registrado e aparecerá uma janela de c
 |:---:|:---:|---|---|:---:|---|
 | 1.0 | 02/01/2025 | [Paulo Henrique](https://github.com/paulomh) | Criação do documento | 02/01/2025 | [Weverton Rodrigues](https://github.com/vevetin)  |
 | 1.1 | 05/01/2025 | [Paulo Henrique](https://github.com/paulomh) | Protótipo - Realizar pedido no e-SIC | 05/01/2025 | [Rodrigo Wendrel](https://github.com/junioramaral22)  |
+| 1.2 | 05/01/2025 | [Pedro Luiz](https://github.com/pedroluizfo) | Protótipo - Registrar chamado na ouvidoria | 05/01/2025 | [Rodrigo Wendrel](https://github.com/junioramaral22)  |
+

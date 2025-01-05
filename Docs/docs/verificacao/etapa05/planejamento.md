@@ -55,4 +55,4 @@ O objetivo deste documento é apresentar o planejamento da verificação dos ite
 ---
 | Versão | Data | Autor(es) | Descrição | Data de Revisão | Revisor(es) |
 |:---:|:---:|---|---|:---:|---|
-| 1.0 | 02/01/2025 | [Weverton Rodrigues](https://github.com/vevetin) | criação do documento |||
+| 1.0 | 02/01/2025 | [Weverton Rodrigues](https://github.com/vevetin) | criação do documento |05/01/2025|[Paulo Henrique](https://github.com/paulomh)|

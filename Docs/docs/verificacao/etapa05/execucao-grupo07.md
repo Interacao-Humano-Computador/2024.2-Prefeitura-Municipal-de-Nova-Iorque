@@ -8,6 +8,8 @@ sidebar_position: 3
 
 O presente documento tem como objetivo apresentar a Lista de Verificação (disponibilizada no plano de ensino da disciplina e complementada com itens adicionais desenvolvidos pelo próprio grupo) dos Itens do Desenvolvimento do Projeto do Grupo 07.
 
+## Lista de Verificação
+
 <p style={{ textAlign: 'center', fontSize: '18px' }}><b>Tabela 1</b> - Itens do Desenvolvimento do Projeto (Grupo 07)</p>
 
 | O github pages possui: | Resposta  | Versão, Data e hora da avaliação  | Observação |
@@ -35,6 +37,8 @@ O presente documento tem como objetivo apresentar a Lista de Verificação (disp
 | 21 - A definição do teste piloto e data para realização do teste piloto antes da avaliação? |||![5](../assets/teste-piloto.jfif)  BARBOSA, Simone, et al. Interação Humano-Computador e Experiência do Usuário. Leanpub, p.276  cap 11, 2022.|
 | 22 - Os itens que o avaliador deve realizar/anotar durante a avaliação (listar os problemas encontrados, priorizar a correção dos problemas não resolvidos)? |||![6](../assets/etapa5-q20.jfif)  BARBOSA, Simone, et al. Interação Humano-Computador e Experiência do Usuário. Leanpub, p.319  cap 12, 2022.|
 
+## Resultado
+
 ## Bibliografia
 > \- BARBOSA, Simone, et al. Interação Humano-Computador e Experiência do Usuário. Leanpub, 2022. Disponível em: https://leanpub.com/ihc-ux. Acesso em: 09 dez. 2024.
 
@@ -44,4 +48,4 @@ O presente documento tem como objetivo apresentar a Lista de Verificação (disp
 ---
 | Versão | Data | Autor(es) | Descrição | Data de Revisão | Revisor(es) |
 |:---:|:---:|---|---|:---:|---|
-| 1.0 | 02/01/2025 | [Weverton Rodrigues](https://github.com/vevetin) | criação do documento |||
+| 1.0 | 02/01/2025 | [Weverton Rodrigues](https://github.com/vevetin) | criação do documento |05/01/2025|[Paulo Henrique](https://github.com/paulomh)|

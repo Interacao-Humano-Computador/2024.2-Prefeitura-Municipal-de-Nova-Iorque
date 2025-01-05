@@ -24,6 +24,78 @@ Utilizando os [storyboards](../nivel01/Storyboard/storyboards.md) e [diagramas d
 
 ### Protótipo de Papel 1 - Fazer um pedido no e-SIC
 
+Baseado no [diagrama HTA - Realizar Pedido no e-SIC](../../analise-de-requisitos/analiseTarefas.md#tarefa-01---realizar-pedido-no-e-sic) e tendo como base o objetivo do [storyboard - Fazer um pedido no e-SIC](../nivel01/Storyboard/storyboards.md#storyboard-1---fazer-um-pedido-no-e-sic), foi desenvolvido o protótipo de papel para a tarefa de fazer um pedido no e-SIC.
+
+<center>
+(Imagem inicial do protótipo)
+</center>
+
+Na tela inicial, há duas formas de se acessar o e-SIC: por meio do "Mapa do Site" no canto superior direito ou pelo carrosel no qual se localiza a opção "Cidadão / e-SIC". Ao clicar na opção "Mapa do Site", uma pequena janela se abre com as opções de acesso ao e-SIC. 
+
+<center>
+(Imagem do protótipo após clicar em "Mapa do Site")
+</center>
+
+Ao passar o mouse sobre a opção "Cidadão / e-SIC" no carrosel, surgirá uma extensão com as opções de acesso ao e-SIC.
+
+<center>
+(Imagem do protótipo após passar o mouse sobre "Cidadão / e-SIC")
+</center>
+
+Ambas opções levam para a página do e-SIC. Nesta página, há a possibilidade de fazer um pedido ou consultar um pedido já realizado através de um protocolo. Além disso, há também informações úteis sobre onde fazer um pedido presencialmente, explicação da lei de acesso à informação, prazo de resposta por parte da prefeitura e uma tabela mostrando o os pedidos e eventuais respostas.
+
+<center>
+(Imagem do protótipo da página do e-SIC)
+</center>
+
+Ao passar o mouse sobre a opção "Pedido de Informação", surgirá uma extensão com três opções: "Entrar", "Cadastrar" e "Pedido Anônimo". Ao clicar em "Cadastrar", o usuário será redirecionado para a página de cadastro. Ao clicar em "Pedido Anônimo", o usuário será redirecionado para o formulário de pedido de forma anônima.
+
+<center>
+(Imagem do protótipo após clicar em "Pedido de Informação")
+</center>
+
+#### Fluxo Alternativo - "Entrar"
+
+Ao clicar em "Entrar", o usuário será redirecionado para a página de login. Nela o usuárrio inserirá seu email e senha e clicará em "Login". Caso o usuário não tenha cadastro, ele poderá clicar em "Cadastrar" para ser redirecionado para a página de cadastro.
+
+<center>
+(Imagem do protótipo após clicar em "Entrar")
+</center>
+
+Feito o login, o usuário será redirecionado para a página com o formulário de pedido. Na página do formulário de pedido, o usuário preencherá os campos de "Resumo" e "Detalhamento da Solicitação", obrigatórios, e selecionar a "Unidade Desejada" que é opcional.
+
+<center>
+(Imagem do protótipo da página do formulário de pedido)
+</center>
+
+#### Fluxo Alternativo - "Cadastrar"
+
+Caso o usuário clique em "Cadastrar", ele será redirecionado para a página de cadastro. Nela, o usuário preencherá os campos de "CPF ou CNPJ", "Nome Completo", "Data de Nascimento", "Sexo", "Escolaridade", "Telefone", "Email" e "Senha" e clicará em "Cadastrar". Caso o usuário já tenha cadastro, ele poderá clicar em "Entrar" para ser redirecionado para a página de login.
+
+<center>
+(Imagem do protótipo da página de cadastro)
+</center>
+
+Após clicar em "Cadastrar", o usuário receberá uma confirmação de cadastro e logo em seguida será redirecionado para a página do e-SIC. Após o cadastro, o [fluxo alternativo - "Entrar"](#fluxo-alternativo---entrar) será seguido.
+
+#### Fluxo Alternativo - "Pedido Anônimo"
+
+Ao clicar em "Pedido Anônimo", o usuário será redirecionado para o formulário de pedido de forma anônima. Neste formulário, o usuário preencherá os campos de "Reside no Muncípio", "Sexo", "Escolaridade", "Faixa Etária", opcionais, "Resumo", "Detalhamento da Solicitação", obrigatórios e a "Unidade Desejada" que é opcional. Após preencher os campos, o usuário clicará em "Enviar".
+
+<center>
+(Imagem do protótipo da página do formulário de pedido de forma anônima)
+</center>
+
+Após clicar em "Enviar", o pedido será registrado e aparecerá uma janela de confirmação da realização do pedido na qual redirecionará o usuário para a página do e-SIC com o pedido registrado.
+
+<center>
+(Imagem do protótipo da janela de confirmação)
+</center>
+
+<center>
+(Imagem do protótipo da página do e-SIC com o pedido registrado)
+</center>
+
 ### Protótipo de Papel 2 - Agendamento de Consulta Médica para Dona Lúcia
 
 ### Protótipo de Papel 3 - Envio de Nota Fiscal de Serviço

@@ -213,6 +213,72 @@ A avaliação foi registrada por meio da gravação da entrevista, disponível l
 
 </center>
 
+
+## Entrevista - Envio de Nota Fiscal de Serviço
+
+### Objetivo e âmbito da avaliação
+
+A avaliação teve como objetivo analisar a [Tarefa 04 - Envio de Nota Fiscal de Serviço](../../../analise-de-requisitos/analiseTarefas.md#tarefa-04---consulta-e-envio-de-nota-fiscal-eletrônica-no-site-da-prefeitura), visando identificar pontos de melhoria na interação e na interface. O foco foi identificar possíveis barreiras de usabilidade, avaliar a clareza das etapas descritas e verificar a adequação às necessidades do público-alvo.
+
+### Método de avaliação
+
+O método de avaliação utilizado foi a entrevista semiestruturada, acordado com o [Planejamento da Avaliação da Análise de Tarefas](./planejamentoAvaliacaoAnaliseDeTarefas.md). Os dados relativos ao cronograma executado durante a entrevista está apresentado na Tabela 6:
+
+<center>
+
+<p style={{ textAlign: 'center', fontSize: '18px' }}><b>Tabela 6</b> - Cronograma Executado</p>
+
+|    Entrevistador(es)   | Entrevistado(s) | Horário de Início | Horário de Fim | Data Planejada |  Tarefa   |  Local    |
+| :---------: | :-------------: | :---------------: | :------------: | :------------: | :-------------------------: | :------------------------: |
+| [Necivaldo Amaral](https://github.com/junioramaral22) | Lucas de Souza  | 19:00 | 19:05 | 31/12/2024 | [Tarefa 04 - Envio de Nota Fiscal de Serviço](../../../analise-de-requisitos/analiseTarefas.md#tarefa-04---consulta-e-envio-de-nota-fiscal-eletrônica-no-site-da-prefeitura) | Residência do Entrevistado |
+
+
+<p style={{ textAlign: 'center', fontSize: '17px' }}>Autor: [Necivaldo Amaral](https://github.com/junioramaral22)</p>
+
+</center>
+
+Além disso, foi utilizado um questionário com 9 perguntas variadas entre questões abertas e objetivas, presente no documento de [Planejamento da Avaliação da Análise de Tarefas](./planejamentoAvaliacaoAnaliseDeTarefas.md), para guiar a entrevista e coletar as percepções do entrevistado.
+
+<center>
+
+<p style={{ textAlign: 'center', fontSize: '18px' }}><b>Tabela 7</b> - Roteiro de perguntas para Avaliação da Análise de Tarefas</p>
+
+| Objetivo | Pergunta | Resposta |
+|---|---|---|
+| Apropriação da Tecnologia | 1. Os usuários compreendem os passos necessários para realizar as tarefas propostas? | Sim |
+| Apropriação da Tecnologia | 2. Existe alguma etapa das tarefas que os usuários consideram confusa ou difícil de entender?| Não |
+| Apropriação da Tecnologia | 3. Os usuários percebem que o sistema oferece suporte suficiente para a realização das tarefas? | Sim |
+| Apropriação da Tecnologia | 4. Há aspectos das tarefas que desmotivam os usuários ou dificultam a adoção do sistema em suas rotinas? | Conexão com internet lenta |
+| Apropriação da Tecnologia | 5. Quais necessidades e objetivos dos usuários são atendidos pelas tarefas analisadas? E quais não são? |Envio de nota fiscal. Não ouve identificação de quais não |
+| Problemas na Interação e Interface | 6. Os usuários conseguem entender e realizar cada etapa das tarefas com eficiência? | Sim |
+| Problemas na Interação e Interface | 7. Que dificuldades surgem ao longo da execução das tarefas? Com que frequência essas dificuldades ocorrem?| Nenhuma foi encontrada. |
+| Problemas na Interação e Interface | 8. Os usuários sabem o que fazer em seguida após cada etapa da tarefa? | Sim |
+| Problemas na Interação e Interface | 9. As informações apresentadas durante a execução das tarefas são claras e suficientes para o usuário atingir seus objetivos? | Sim |
+
+<p style={{ textAlign: 'center', fontSize: '17px' }}>Autor: [Necivaldo Amaral](https://github.com/junioramaral22)</p>
+
+</center>
+
+### Seleção dos participantes
+
+O participante selecionado foi Lucas de Souza, de 23 anos, que se enquadra no grupo de [Cidadãos em Geral (faixa etária predominante: 18 a 60 anos)](../../../analise-de-requisitos/perfilDeUsuario.md#conclusão). Ele possui experiência com tecnologia e não necessita de auxílio com esse tipo de tarefa. 
+
+### Listagem de problemas
+- 
+
+### Sugestões de melhorias
+
+
+
+### Registro da avaliação
+
+A avaliação foi registrada por meio da gravação da entrevista, disponível logo abaixo.
+<center>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n2sbZ0D_OLQ?si=rdID5A-t9h-aGsSo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+</center>
+
 ## Planejamento de reprojeto
 
 <center>
@@ -229,4 +295,4 @@ A avaliação foi registrada por meio da gravação da entrevista, disponível l
 | 1.0 |  29/12/2024 | [Paulo Henrique](https://github.com/paulomh) | Criação do docummento do relato dos resultados da avaliação da análise de tarefas e adição do relato da avaliação da análise de tarefas (HTA) - realizar um pedido no e-SIC  | 29/12/2024 | [Rodrigo Wendrel](https://github.com/rodwendrel) |
 | 1.1 |  02/01/2025 | [Weverton Rodrigues](https://github.com/vevetin)  | adição do relato da avaliação da tarefa 02 - Agendar consulta médica no site da prefeitura | 02/01/2025 |[Paulo Henrique](https://github.com/paulomh) |
 | 1.2 |  05/01/2025 | [Rodrigo Wendrel](https://github.com/rodwendrel)  | Adição do relato da avaliação da Tarefa 03 - Acessar informações de licitações desertas ou fracassadas | 05/01/2025 | [Weverton Rodrigues](https://github.com/vevetin) |
-
+| 1.3 |  05/01/2025 | [Necivaldo Amaral](https://github.com/junioramarla22)  | Adição do relato da avaliação da Tarefa 04 - envio de nota fiscal de serviço | 05/01/2025 | [Pedro Luiz](https://github.com/pedroluizfo) |

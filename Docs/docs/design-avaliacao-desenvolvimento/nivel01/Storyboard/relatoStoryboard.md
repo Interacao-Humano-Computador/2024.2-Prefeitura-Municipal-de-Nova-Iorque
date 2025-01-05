@@ -216,6 +216,73 @@ A avaliação foi registrada por meio da gravação da entrevista, disponível l
 
 </center>
 
+
+## Entrevista - Emissão de Nota Fiscal de Serviço
+
+### Objetivo e âmbito da avaliação
+
+A avaliação teve como objetivo analisar o [Storyboard 3: Emissão de Nota Fiscal de Serviço](./storyboards.md#storyboard-3-envio-de-nota-fiscal-de-serviço), visando identificar pontos de melhoria na interação e na interface. O âmbito da avaliação abrangeu aspectos relacionados à clareza do fluxo de tarefas, adequação às necessidades do público-alvo e possíveis barreiras de usabilidade.
+
+### Método de avaliação
+
+O método de avaliação utilizado foi a entrevista semiestruturada, acordado com o [Planejamento da Avaliação do Storyboard](./planejamentoAvaliacaoStoryboard.md). Os dados relativos ao cronograma executado durante a entrevista está apresentado na Tabela 7:
+
+<center>
+
+<p style={{ textAlign: 'center', fontSize: '18px' }}><b>Tabela 7</b> - Cronograma Executado</p>
+
+|    Entrevistador(es)   | Entrevistado(s) | Horário de Início | Horário de Fim | Data Planejada |  Tarefa   |  Local    |
+| :---------: | :-------------: | :---------------: | :------------: | :------------: | :-------------------------: | :------------------------: |
+| [Necivaldo Amaral](https://github.com/junioramaral22) | Lucas de Souza  |19:00 | 19:05 | 31/12/2024 | [Storyboard 3: Envio de Nota Fiscal de Serviço](./storyboards.md#storyboard-3-envio-de-nota-fiscal-de-serviço) | Residência do entrevistado  |
+
+
+<p style={{ textAlign: 'center', fontSize: '17px' }}>Autor: [Necivaldo Amaral](https://github.com/junioramaral22)</p>
+
+</center>
+
+Além disso, foi utilizado um questionário com 8 perguntas variadas entre questões abertas e objetivas, presente no documento de [Planejamento da Avaliação do Storyboard](./planejamentoAvaliacaoStoryboard.md), para guiar a entrevista e coletar as percepções do entrevistado.
+
+<center>
+
+<p style={{ textAlign: 'center', fontSize: '18px' }}><b>Tabela 8</b> - Roteiro de perguntas para Avaliação de Storyboard</p>
+
+| Objetivo | Pergunta | Resposta |
+|---|---|---|
+| Apropriação da Tecnologia | 1. Os usuários compreendem o objetivo de cada interação representada no storyboard? | Sim |
+| Apropriação da Tecnologia | 2. Os fluxos propostos são claros e intuitivos? | Sim, bem simples |
+| Apropriação da Tecnologia | 3. Há evidências de que os usuários conseguiriam utilizar o sistema com base no que foi apresentado? | Sim |
+| Apropriação da Tecnologia | 4. Quais aspectos dos fluxos apresentados no storyboard podem impedir os usuários de adotarem o sistema em suas rotinas diárias? | Uma conexão com internet lenta |
+| Identificação de Problemas de Interação e Interface | 5. Existem elementos confusos ou difíceis de interpretar nos storyboards? | Não |
+| Identificação de Problemas de Interação e Interface | 6. Quais barreiras de interação podem surgir para os usuários ao realizarem as tarefas propostas? | Uma conexão com internet lenta |
+| Identificação de Problemas de Interação e Interface | 7. A sequência de interações está clara, ou os usuários têm dificuldades em entender o que fazer a seguir? | Sim, bem claras |
+| Identificação de Problemas de Interação e Interface | 8. Os usuários têm acesso a todas as informações necessárias para concluir as tarefas ou há falta de clareza nas instruções? | Sim |
+
+<p style={{ textAlign: 'center', fontSize: '17px' }}>Autor: [Necivaldo Amaral](https://github.com/junioramaral22)</p>
+
+</center>
+
+### Seleção dos participantes
+
+O participante selecionado foi Lucas de Souza, de 23 anos, que se enquadra no grupo de [Cidadãos em Geral (faixa etária predominante: 18 a 60 anos)](../../../analise-de-requisitos/perfilDeUsuario.md#conclusão). Ele possui experiência com tecnologia e não necessita de auxílio com esse tipo de tarefa. 
+
+### Listagem de problemas
+- Tamanho do texto pequeno
+
+
+### Sugestões de melhorias
+
+Aumento na fonte das palavras
+
+### Registro da avaliação
+
+A avaliação foi registrada por meio da gravação da entrevista, disponível logo abaixo.
+
+<center>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZKdITue1uY?si=xpysxcCNfWTX1Wqg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+</center>
+
 ## Planejamento de reprojeto
 
 <center>
@@ -232,4 +299,4 @@ A avaliação foi registrada por meio da gravação da entrevista, disponível l
 | 1.0 |  28/12/2024 | [Paulo Henrique](https://github.com/paulomh) | Criação do docummento do relato dos resultados da avaliação do storyboarrd e adição do relato da avaliação do storyboard - realizar um pedido no e-SIC  | 28/12/2024 | [Rodrigo Wendrel](https://github.com/rodwendrel) |
 | 1.1 |  02/01/2025 | [Weverton Rodrigues](https://github.com/vevetin)  | adição do relato da avaliação do storyboard - agendamento de consulta médica para dona Lúcia | 02/01/2025 | [Paulo Henrique](https://github.com/paulomh) |
 | 1.2 |  05/01/2025 | [Rodrigo Wendrel](https://github.com/rodwendrel)  | Adição do relato da avaliação do storyboard - busca por licitação fracassada | 05/01/2025 | [Weverton Rodrigues](https://github.com/vevetin) |
-
+| 1.3 |  05/01/2025 | [Necivaldo Amaral](https://github.com/junioramaral22)  | Adição do relato da avaliação do storyboard - envio de nota fiscal de serviço | 05/01/2025 | [Pedro Luiz](https://github.com/pedroluizfo) |

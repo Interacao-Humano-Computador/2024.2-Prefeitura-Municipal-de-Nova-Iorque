@@ -221,6 +221,19 @@ O cronograma tem como objetivo organizar as atividades do projeto a serem realiz
 
     | Atividade | Período de desenvolvimento | Responsável | Revisão | Revisor(es) | Data da Entrega |
     | --------- | -------------------------- | ----------- | ------- | --------- | --------------- |
+    | Relato dos resultados do Storyboard |  |  |  |  | 05/01/2025 |
+    | Relato dos resultados da análise de tarefas | |  |  | | 05/01/2025 |
+    | Protótipos de papel | | | | | 05/01/2025 |
+    | Planejamento da avaliação do protótipo de papel | | | |  | 05/01/2025 |
+    | Planejamento do relato de resultados da avaliação do protótipo de papel | | | | | 05/01/2025 |
+    | Inspeção da entrega da apresentação do projeto Etapa 5 | | | | | 05/01/2025 |
+    | Gravação da apresentação | | | | | 05/01/2025 |
+    | Edição da gravação | | | | | 05/01/2025 |
+    | Cronograma executado | | | | | 05/01/2025 |
+    | Inspeção da entrega da apresentação do projeto etapa 5 do Grupo + 1 | | | | | 06/01/2025 |
+    | Correção pós-apresentação | |  | | | Não há entrega |
+
+    <p style={{ textAlign: 'center', fontSize: '15px' }}><b>Autor(es):</b> [Paulo Henrique](https://github.com/paulomh), [Weverton Rodrigues](https://github.com/vevetin)</p>
 
   </TabItem>
 </Tabs>

@@ -196,7 +196,7 @@ Além disso, foi utilizado um questionário com 8 perguntas variadas entre quest
 
 ### Seleção dos participantes
 
-O participante selecionada foi Moyses Carvalho, de 22 anos, que se enquadra no grupo de [Cidadãos em Geral (faixa etária predominante: 18 a 60 anos)](../../../analise-de-requisitos/perfilDeUsuario.md#conclusão). Ele possui experiência com tecnologia e não necessita de auxílio com esse tipo de tarefa. 
+O participante selecionado foi Moyses Carvalho, de 22 anos, que se enquadra no grupo de [Cidadãos em Geral (faixa etária predominante: 18 a 60 anos)](../../../analise-de-requisitos/perfilDeUsuario.md#conclusão). Ele possui experiência com tecnologia e não necessita de auxílio com esse tipo de tarefa. 
 
 ### Listagem de problemas
 - Ausência de elementos visuais para deixar a interação mais clara
@@ -230,6 +230,6 @@ A avaliação foi registrada por meio da gravação da entrevista, disponível l
 | Versão | Data | Autor(es) | Descrição | Data de Revisão | Revisor(es) |
 |:---:|:---:|---|---|:---:|---|
 | 1.0 |  28/12/2024 | [Paulo Henrique](https://github.com/paulomh) | Criação do docummento do relato dos resultados da avaliação do storyboarrd e adição do relato da avaliação do storyboard - realizar um pedido no e-SIC  | 28/12/2024 | [Rodrigo Wendrel](https://github.com/rodwendrel) |
-| 1.1 |  02/01/2025 | [Weverton Rodrigues](https://github.com/vevetin)  | adição do relato da avaliação do storyboard - agendamento de consulta médica para dona Lúcia | | |
-| 1.2 |  05/01/2025 | [Rodrigo Wendrel](https://github.com/rodwendrel)  | Adição do relato da avaliação do storyboard 2 - busca por licitação fracassada | | |
+| 1.1 |  02/01/2025 | [Weverton Rodrigues](https://github.com/vevetin)  | adição do relato da avaliação do storyboard - agendamento de consulta médica para dona Lúcia | 02/01/2025 | [Paulo Henrique](https://github.com/paulomh) |
+| 1.2 |  05/01/2025 | [Rodrigo Wendrel](https://github.com/rodwendrel)  | Adição do relato da avaliação do storyboard - busca por licitação fracassada | 05/01/2025 | [Weverton Rodrigues](https://github.com/vevetin) |
 

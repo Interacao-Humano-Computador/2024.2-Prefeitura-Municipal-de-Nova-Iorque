@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Protótipo de Papel
+# Protótipos de Papel
 
 ## Introdução
 

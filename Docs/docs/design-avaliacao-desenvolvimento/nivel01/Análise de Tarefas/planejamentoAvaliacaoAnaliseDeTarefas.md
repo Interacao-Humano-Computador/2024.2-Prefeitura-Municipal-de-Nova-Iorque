@@ -78,7 +78,7 @@ A avaliação será realizada conforme a tabela abaixo, com a definição dos re
 | [Necivaldo Amaral](https://github.com/junioramaral22) | 17:10 | 17:20 | Lago Sul | 31/12/2024 | Presencialmente |
 | [Paulo Henrique](https://github.com/paulomh)| Igor Abreu | 10:10 | 10:20 | 19/12/2024 | Campus UnB Gama |
 | [Pedro Luiz](https://github.com/pedroluizfo) | A definir | A definir | A definir | 17/12/2024 - 09/01/2025 | Presencialmente | 
-| [Rodrigo Ferreira](https://github.com/rodwendrel) | A definir | A definir | A definir | 17/12/2024 - 09/01/2025 | Presencialmente | 
+| [Rodrigo Ferreira](https://github.com/rodwendrel) | Moyses Carvalho | 13:00 | 13:30 | 03/01/2025 | Biblioteca Nacional de Brasília | 
 | [Weverton Rodrigues](https://github.com/vevetin) | Vanessa Oliveira | 13:40 | 13:50 | 27/12/2024 | Casa da entrevistada |
 
 <p style={{ textAlign: 'center', fontSize: '17px' }}>Autor: [Weverton Rodrigues](https://github.com/vevetin)</p>

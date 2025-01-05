@@ -47,4 +47,4 @@ O avaliador deve
 
 | Versão | Data | Autor(es) | Descrição | Data de Revisão | Revisor(es) |
 |:---:|:---:|---|---|:---:|---|
-| 1.0 |  01/04/2025 | [Rodrigo Wendrel](https://github.com/junioramaral22) | Criação do documento |  |  |
+| 1.0 |  01/04/2025 | [Rodrigo Wendrel](https://github.com/junioramaral22) | Criação do documento | 05/01/2025 | [Paulo Henrique](https://github.com/paulomh) |

@@ -121,3 +121,4 @@ Após clicar em "Enviar", o pedido será registrado e aparecerá uma janela de c
 | Versão | Data | Autor(es) | Descrição | Data de Revisão | Revisor(es) |
 |:---:|:---:|---|---|:---:|---|
 | 1.0 | 02/01/2025 | [Paulo Henrique](https://github.com/paulomh) | Criação do documento | 02/01/2025 | [Weverton Rodrigues](https://github.com/vevetin)  |
+| 1.1 | 05/01/2025 | [Paulo Henrique](https://github.com/paulomh) | Protótipo - Realizar pedido no e-SIC | 05/01/2025 | [Rodrigo Wendrel](https://github.com/junioramaral22)  |

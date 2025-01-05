@@ -147,6 +147,72 @@ A avaliação foi registrada por meio da gravação da entrevista, disponível l
 
 </center>
 
+## Entrevista - Busca por licitações fracassadas
+
+### Objetivo e âmbito da avaliação
+
+A avaliação teve como objetivo analisar a [Tarefa 03 - Acessar informações de licitações desertas ou fracassadas](../../../analise-de-requisitos/analiseTarefas.md#tarefa-03---acessar-informações-de-licitações-desertas-ou-fracassadas), visando identificar pontos de melhoria na interação e na interface. O foco foi identificar possíveis barreiras de usabilidade, avaliar a clareza das etapas descritas e verificar a adequação às necessidades do público-alvo.
+
+### Método de avaliação
+
+O método de avaliação utilizado foi a entrevista semiestruturada, acordado com o [Planejamento da Avaliação da Análise de Tarefas](./planejamentoAvaliacaoAnaliseDeTarefas.md). Os dados relativos ao cronograma executado durante a entrevista está apresentado na Tabela 5:
+
+<center>
+
+<p style={{ textAlign: 'center', fontSize: '18px' }}><b>Tabela 5</b> - Cronograma Executado</p>
+
+|    Entrevistador(es)   | Entrevistado(s) | Horário de Início | Horário de Fim | Data Planejada |  Tarefa   |  Local    |
+| :---------: | :-------------: | :---------------: | :------------: | :------------: | :-------------------------: | :------------------------: |
+| [Rodrigo Wendrel](https://github.com/rodwendrel) | Moyses Carvalho  | 13:00 | 13:30 | 03/01/2025 | [Tarefa 03 - Acessar informações de licitações desertas ou fracassadas](../../../analise-de-requisitos/analiseTarefas.md#tarefa-03---acessar-informações-de-licitações-desertas-ou-fracassadas) | Biblioteca Nacional de Brasília  |
+
+
+<p style={{ textAlign: 'center', fontSize: '17px' }}>Autor: [Weverton Rodrigues](https://github.com/vevetin)</p>
+
+</center>
+
+Além disso, foi utilizado um questionário com 9 perguntas variadas entre questões abertas e objetivas, presente no documento de [Planejamento da Avaliação da Análise de Tarefas](./planejamentoAvaliacaoAnaliseDeTarefas.md), para guiar a entrevista e coletar as percepções do entrevistado.
+
+<center>
+
+<p style={{ textAlign: 'center', fontSize: '18px' }}><b>Tabela 6</b> - Roteiro de perguntas para Avaliação da Análise de Tarefas</p>
+
+| Objetivo | Pergunta | Resposta |
+|---|---|---|
+| Apropriação da Tecnologia | 1. Os usuários compreendem os passos necessários para realizar as tarefas propostas? | Sim |
+| Apropriação da Tecnologia | 2. Existe alguma etapa das tarefas que os usuários consideram confusa ou difícil de entender?| Não |
+| Apropriação da Tecnologia | 3. Os usuários percebem que o sistema oferece suporte suficiente para a realização das tarefas? | Talvez possa existir algum suporte para dúvidas ou para erros do sistema |
+| Apropriação da Tecnologia | 4. Há aspectos das tarefas que desmotivam os usuários ou dificultam a adoção do sistema em suas rotinas? | Não |
+| Apropriação da Tecnologia | 5. Quais necessidades e objetivos dos usuários são atendidos pelas tarefas analisadas? E quais não são? | Procurar porque as licitações foram fracassadas, ver os detalhes e baixar os arquivos necessários foram atendidos. Não ouve identificação de quais não |
+| Problemas na Interação e Interface | 6. Os usuários conseguem entender e realizar cada etapa das tarefas com eficiência? | Sim |
+| Problemas na Interação e Interface | 7. Que dificuldades surgem ao longo da execução das tarefas? Com que frequência essas dificuldades ocorrem?| Nenhuma foi encontrada. |
+| Problemas na Interação e Interface | 8. Os usuários sabem o que fazer em seguida após cada etapa da tarefa? | Sim |
+| Problemas na Interação e Interface | 9. As informações apresentadas durante a execução das tarefas são claras e suficientes para o usuário atingir seus objetivos? | Sim |
+
+<p style={{ textAlign: 'center', fontSize: '17px' }}>Autor: [Rodrigo Wendrel](https://github.com/rodwendrel)</p>
+
+</center>
+
+### Seleção dos participantes
+
+O participante selecionada foi Moyses Carvalho, de 22 anos, que se enquadra no grupo de [Cidadãos em Geral (faixa etária predominante: 18 a 60 anos)](../../../analise-de-requisitos/perfilDeUsuario.md#conclusão). Ele possui experiência com tecnologia e não necessita de auxílio com esse tipo de tarefa. 
+
+### Listagem de problemas
+- Não há suporte para dúvidas do usuário ou erros do sistema
+
+### Sugestões de melhorias
+
+Com base nas respota, nenhuma melhoria foi sugerida, apenas foi pontuado a falta de suporte a dúvidas do usuário ou erros do sistema.
+
+### Registro da avaliação
+
+A avaliação foi registrada por meio da gravação da entrevista, disponível logo abaixo, e a parte referente à Avaliação da Análise de Tarefas vai de ``4:30`` até ``8:07``:
+
+<center>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MizArZa-TOo?si=CrKwYbIz03bwYVxw&amp;start=269" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+</center>
+
 ## Planejamento de reprojeto
 
 <center>
@@ -162,4 +228,5 @@ A avaliação foi registrada por meio da gravação da entrevista, disponível l
 |:---:|:---:|---|---|:---:|---|
 | 1.0 |  29/12/2024 | [Paulo Henrique](https://github.com/paulomh) | Criação do docummento do relato dos resultados da avaliação da análise de tarefas e adição do relato da avaliação da análise de tarefas (HTA) - realizar um pedido no e-SIC  | 29/12/2024 | [Rodrigo Wendrel](https://github.com/rodwendrel) |
 | 1.1 |  02/01/2025 | [Weverton Rodrigues](https://github.com/vevetin)  | adição do relato da avaliação da tarefa 02 - Agendar consulta médica no site da prefeitura | | |
+| 1.2 |  05/01/2025 | [Rodrigo Wendrel](https://github.com/rodwendrel)  | Adição do relato da avaliação da Tarefa 03 - Acessar informações de licitações desertas ou fracassadas | | |
 

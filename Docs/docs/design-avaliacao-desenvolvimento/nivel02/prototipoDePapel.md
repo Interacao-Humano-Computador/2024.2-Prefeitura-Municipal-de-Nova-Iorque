@@ -197,7 +197,7 @@ Além disso, a interação do usuário é simplificada pelos botões "Cancelar" 
 
 ### Protótipo de Papel 4 - Registro de reclamação na ouvidoria
 
-Baseado na análise de tarefas GOMS para "Abrir uma nova solicitação no canal de ouvidoria virtual", foi desenvolvido o protótipo de papel que representa as etapas do processo.
+Baseado na análise de tarefas GOMS para "[Abrir uma nova solicitação no canal de ouvidoria virtual](https://marvelapp.com/prototype/71404f5)", foi desenvolvido o protótipo de papel que representa as etapas do processo.
 
 #### Tela Inicial
 Na tela inicial, o usuário tem três métodos principais para acessar o canal de ouvidoria:
@@ -212,7 +212,11 @@ O usuário identifica o carrossel na página principal e localiza o ícone da ou
 
 Posicionando o mouse diretamente sobre o ícone da ouvidoria:
 Quando o usuário encontra o ícone da ouvidoria diretamente, uma descrição é exibida ao passar o mouse, indicando a funcionalidade antes de clicar.
-
+<p style={{ textAlign: 'center', fontSize: '17px' }}><b>Figura 02</b> - Menu suspenso </p>
+    <center>
+        ![PP004](./assets//PP004.jpg)
+    </center>
+<p style={{ textAlign: 'center', fontSize: '17px' }}>Autor: [Pedro Luiz](https://github.com/pedroluizfo)</p>
 
 Selecionando o link direto para o canal eletrônico de acesso:
 O usuário, já familiarizado com o site, localiza rapidamente o link "Canal Eletrônico de Acesso" na página inicial e clica para acessar a ouvidoria.
@@ -231,22 +235,20 @@ O usuário clica em "Nova Solicitação" e é redirecionado para o formulário d
 
 Acompanhamento de solicitação existente:
 O usuário pode inserir o código de acompanhamento na seção dedicada e visualizar o status de sua solicitação.
-(Imagem: Página da ouvidoria com o campo de acompanhamento destacado)
+
 
 Formulário de Manifestação
 Ao acessar o formulário, o usuário segue as etapas abaixo:
 
 Preenchimento de informações pessoais:
 O formulário exibe os campos obrigatórios: Nome, E-mail, Telefone, Endereço, Bairro, Cidade e UF. O usuário insere as informações manualmente.
-(Imagem: Formulário com campos pessoais destacados e preenchidos)
+
 
 Seleção do tipo de manifestação:
 O usuário seleciona a natureza da manifestação (Elogio, Reclamação, Solicitação, Sugestão ou Denúncia) em um menu suspenso.
-(Imagem: Menu suspenso de tipo de manifestação com uma opção selecionada)
 
 Descrição da manifestação:
 O usuário localiza o campo de texto, insere os detalhes da solicitação e escolhe se deseja que a manifestação seja pública ou anônima.
-(Imagem: Campo de texto preenchido com a opção de privacidade selecionada)
 
 Confirmação e Código de Acompanhamento
 Após revisar todos os dados preenchidos:
@@ -254,8 +256,11 @@ Após revisar todos os dados preenchidos:
 O usuário clica no botão "Enviar".
 Uma mensagem de confirmação é exibida com o código de acompanhamento gerado automaticamente.
 O código pode ser anotado para acompanhamento futuro.
-(Imagem: Tela de confirmação com o código gerado destacado)
-#### Fluxo Alternativo - Acompanhamento de Solicitações
+<p style={{ textAlign: 'center', fontSize: '17px' }}><b>Figura 02</b> - Página da ouvidoria </p>
+    <center>
+        ![PP0004](./assets//PP0004.jpg)
+    </center>
+<p style={{ textAlign: 'center', fontSize: '17px' }}>Autor: [Pedro Luiz](https://github.com/pedroluizfo) </p>#### Fluxo Alternativo - Acompanhamento de Solicitações
 Caso o usuário já tenha um código de acompanhamento, ele pode seguir o fluxo abaixo:
 
 Acessa a página de "Acompanhamento de Solicitações".

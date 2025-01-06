@@ -18,7 +18,7 @@ Os objetivos desta avaliação são voltados para compreender como os usuários 
 
 ## E - Explorar perguntas a serem respondidas com a avaliação 
 
-As perguntas exploradas nesta avaliação foram adaptadas da tabela de exemplos de perguntas propostas por Barbosa (2021)<sup>[3](../nivel01/planejamentoAvaliacaoAnaliseDeTarefas.md#referências-bibliográficas)</sup>, considerando o contexto específico da análise de tarefas. O objetivo é compreender como as tarefas analisadas atendem às necessidades dos usuários e identificar possíveis problemas na interação.
+As perguntas exploradas nesta avaliação foram adaptadas da tabela de exemplos de perguntas propostas por Barbosa (2021)<sup>[3](../../nivel01/planejamentoAvaliacaoAnaliseDeTarefas.md#referências-bibliográficas)</sup>, considerando o contexto específico da análise de tarefas. O objetivo é compreender como as tarefas analisadas atendem às necessidades dos usuários e identificar possíveis problemas na interação.
 
 <center>
 

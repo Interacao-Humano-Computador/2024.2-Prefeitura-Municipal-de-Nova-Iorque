@@ -10,7 +10,7 @@ O documento em questão tem como base o [planejamento da avaliação do Storyboa
 
 ## Metodologia
 
-A construção do relato dos resultados será fundamentada no documento "Planejamento da Avaliação do Storyboard" e nos critérios de avaliação mencionados por Barbosa <sup>[1](../../nivel01/planejamentoRelatoStoryboard.md#referências-bibliográficas)</sup>, os quais incluem:
+A construção do relato dos resultados será fundamentada no documento "Planejamento da Avaliação do Storyboard" e nos critérios de avaliação mencionados por Barbosa <sup>[1](./planejamentoRelatoStoryboard.md#referências-bibliográficas)</sup>, os quais incluem:
 1. Objetivo e âmbito da avaliação;
 2. Método de avaliação;
 3. Seleção dos participantes;

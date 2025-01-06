@@ -6,7 +6,7 @@ sidebar_position: 1
 
 ## Introdução
 
-O storyboard é uma técnica de prototipação de baixa fidelidade amplamente utilizada no design de interação para representar visualmente o fluxo de tarefas ou interações de usuários com um sistema. Segundo Rogers, Sharp e Preece (2013)<sup>[1](../../nivel01/storyboards.md#referências-bibliográficas)</sup>, trata-se de uma série de desenhos ou cenas que ilustram como um usuário pode realizar uma tarefa com o produto em desenvolvimento. Vianna et al. (2012)<sup>[2](../../nivel01/storyboards.md#referências-bibliográficas)</sup> complementam ao definir o storyboard como uma representação visual de uma história, útil para comunicar ideias ou detectar lacunas no produto ou serviço.
+O storyboard é uma técnica de prototipação de baixa fidelidade amplamente utilizada no design de interação para representar visualmente o fluxo de tarefas ou interações de usuários com um sistema. Segundo Rogers, Sharp e Preece (2013)<sup>[1](./storyboards.md#referências-bibliográficas)</sup>, trata-se de uma série de desenhos ou cenas que ilustram como um usuário pode realizar uma tarefa com o produto em desenvolvimento. Vianna et al. (2012)<sup>[2](./storyboards.md#referências-bibliográficas)</sup> complementam ao definir o storyboard como uma representação visual de uma história, útil para comunicar ideias ou detectar lacunas no produto ou serviço.
 
 No contexto deste trabalho, os storyboards foram elaborados para visualizar cenários de uso identificados durante a análise de tarefas (HTA e GOMS). Cada storyboard representa uma sequência lógica de interações, com o objetivo de identificar pontos de melhoria no design da interface e na experiência do usuário.
 

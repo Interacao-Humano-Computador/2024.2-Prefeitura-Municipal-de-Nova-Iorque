@@ -31,7 +31,7 @@ Feito o [planejamento da verificação dos itens do desenvolvimento do projeto](
 | 14 - As questões éticas ( se os participantes da avaliação devem ser respeitados e não podem ser prejudicados direta ou indiretamente, nem durante os experimentos, nem após a divulgação dos resultados da avaliação.)? |Sim|v1.0, 05/01/2025, 17:26||
 | 15 - A estrutura do relatório do resultado da avaliação (os objetivos da avaliação; uma breve descrição do método de prototipação em papel; o número e o perfil de avaliadores e dos participantes; as tarefas executadas pelos participantes; lista de problemas encontrados etc)? |Sim|05/01/2025, 17:27||
 | 16 - Um cronograma (data e horário) e local para realização da avaliação do Protótipo de Papel? |Sim|05/01/2025, 17:27||
-| 17 - Quantidade de protótipos de papel é igual a quantidade de integrantes do grupo? |Sim|05/01/2025, 17:27||
+| 17 - Quantidade de protótipos de papel é igual a quantidade de integrantes do grupo? | Incompleto |05/01/2025, 17:27||
 | 18 - As telas principais estão representadas de maneira clara e destacando os elementos de interação (botões, menus, etc.)?|Sim|05/01/2025, 17:28|![3](../assets/etapa5-q18.jfif)  BARBOSA, Simone, et al. Interação Humano-Computador e Experiência do Usuário. Leanpub, p.316  cap 12, 2022.|
 | 19 -  O usuário é capaz de navegar facilmente entre as diferentes partes do protótipo sem confusão ou erro?|Sim|05/01/2025, 17:28|![4](../assets/etapa5-q19.jfif)  BARBOSA, Simone, et al. Interação Humano-Computador e Experiência do Usuário. Leanpub, p.318  cap 12, 2022.|
 | 20 - Todos os problemas graves de usabilidade foram identificados e priorizados para correção?|Sim|05/01/2025, 17:28|![5](../assets/etapa5-q20.jfif)  BARBOSA, Simone, et al. Interação Humano-Computador e Experiência do Usuário. Leanpub, p.318  cap 12, 2022.|
@@ -40,10 +40,10 @@ Feito o [planejamento da verificação dos itens do desenvolvimento do projeto](
 
 ## Resultado
 
-A tabela de verificação apresentou **22 critérios** a serem avaliados, dos quais **20 foram atendidos** de forma satisfatória, resultando em uma **taxa de conformidade de 90,9%**. Entre os itens avaliados, **2 ficaram pendentes**:
+A tabela de verificação apresentou **22 critérios** a serem avaliados, dos quais **19 foram atendidos** de forma satisfatória, resultando em uma **taxa de conformidade de 86,4%**. Entre os itens avaliados, **3 ficaram pendentes**:
 - Reuniões e Ata: O item "Ata(s) da(s) reuniões" foi marcado como "Incompleto", pois as decisões foram tomadas de forma assíncrona, sem reuniões formais.
-- Teste Piloto: O item "Definição do teste piloto e data para realização" foi marcado como "Não", devido à impossibilidade de reunir os integrantes do grupo e participantes externos durante o período de recesso.
-
+- Teste Piloto: O item "Definição do teste piloto e data para realização" foi marcado como "Não", devido à impossibilidade de reunir os integrantes do grupo e participantes externos durante o período de recesso.  
+- Quantidade de Protótipos de Papel: O item foi marcado como "Incompleto", pois ainda falta a finalização do protótipo de papel de um integrante do grupo.
 
 ## Bibliografia
 > \- BARBOSA, Simone, et al. Interação Humano-Computador e Experiência do Usuário. Leanpub, 2022. Disponível em: https://leanpub.com/ihc-ux. Acesso em: 09 dez. 2024.

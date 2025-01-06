@@ -166,7 +166,7 @@ O método de avaliação utilizado foi a entrevista semiestruturada, acordado co
 
 |    Entrevistador(es)   | Entrevistado(s) | Horário de Início | Horário de Fim | Data Planejada |  Tarefa   |  Local    |
 | :---------: | :-------------: | :---------------: | :------------: | :------------: | :-------------------------: | :------------------------: |
-| [Rodrigo Wendrel](https://github.com/rodwendrel) | Moysés Carvalho  |13:00 | 13:00 | 03/01/2025 | [Storyboard 5: Busca por licitação fracassada](./storyboards.md#storyboard-5-busca-por-licitação-fracassada) | Biblioteca Nacional de Brasília  |
+| [Rodrigo Wendrel](https://github.com/rodwendrel) | Moysés Carvalho  |13:00 | 13:30 | 03/01/2025 | [Storyboard 5: Busca por licitação fracassada](./storyboards.md#storyboard-5-busca-por-licitação-fracassada) | Biblioteca Nacional de Brasília  |
 
 
 <p style={{ textAlign: 'center', fontSize: '17px' }}>Autor: [Rodrigo Wendrel](https://github.com/rodwendrel)</p>

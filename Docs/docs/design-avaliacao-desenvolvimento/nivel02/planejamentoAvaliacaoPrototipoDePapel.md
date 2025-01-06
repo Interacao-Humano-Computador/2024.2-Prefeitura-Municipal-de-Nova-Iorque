@@ -57,13 +57,14 @@ Os participantes serão selecionados com base no [perfil de usuário](../../../a
 
 ### Preparação
 
-A preparação para a avaliação do protótipo de papel envolve a organização dos materiais e recursos necessários para os dois métodos de avaliação: a entrevista semiestruturada e a avaliação heurística.
-**Entrevista Semiestruturada:**  
+A preparação para a avaliação do protótipo de papel envolve a organização dos materiais e recursos necessários para os dois métodos de avaliação: a entrevista semiestruturada e a avaliação heurística.  
+
+> **Entrevista Semiestruturada:**  
 Ferramentas: Celular para gravação de áudio e vídeo;    
 Materiais: Protótipos de papel impressos e roteiros de avaliação;    
 Ambiente: A entrevista ocorrerá presencialmente em local combinado com os participantes ou, em último caso, de forma remota;
 
-**Avaliação Heurística:**  
+> **Avaliação Heurística:**  
 Ferramentas: computador para redigir o relatório/relato dos resultados;  
 Materiais: Lista de princípios heurísticos;  
 Ambiente: A avaliação será realizada em um ambiente controlado e silencioso para garantir que o avaliador possa se concentrar na análise do protótipo sem distrações;  
@@ -83,6 +84,8 @@ A avaliação será realizada conforme cronograma a ser definido, considerando a
 | Entrevistador | Entrevistado(a) | Horário Início | Horário Fim | Data | Local |
 |---|---|:---:|:---:|:---:|---|
 | [Weverton Rodrigues](https://github.com/vevetin) | José Brito | 17:00 | 17:15  | 10/01/2025 | Casa do entrevistado |
+| [Rodrigo Wendrel](https://github.com/rodwendrel) | Moysés Carvalho | 13:00 | 13:30  | 10/01/2025 | Biblioteca nacional |
+
 
 <p style={{ textAlign: 'center', fontSize: '17px' }}>Autor: [Weverton Rodrigues](https://github.com/vevetin)</p>
 
@@ -141,3 +144,5 @@ O teste piloto consiste em uma execução prévia da avaliação, com o objetivo
 | Versão | Data | Autor(es) | Descrição | Data de Revisão | Revisor(es) |
 |:---:|:---:|---|---|:---:|---|
 | 1.0 | 27/12/2024 | [Weverton Rodrigues](https://github.com/vevetin) | Criação do documento | 02/01/2025 | [Paulo Henrique](https://github.com/paulomh)  |
+| 1.1 | 05/01/2025 | [Rodrigo Wendrel](https://github.com/rodwendrel) | Adição de um uma entrevista planejada | 05/01/2025 | [Paulo Henrique](https://github.com/paulomh)  |
+

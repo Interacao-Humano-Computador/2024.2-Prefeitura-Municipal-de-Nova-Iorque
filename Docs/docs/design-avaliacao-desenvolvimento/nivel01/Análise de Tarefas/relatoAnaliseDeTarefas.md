@@ -166,7 +166,7 @@ O método de avaliação utilizado foi a entrevista semiestruturada, acordado co
 | [Rodrigo Wendrel](https://github.com/rodwendrel) | Moyses Carvalho  | 13:00 | 13:30 | 03/01/2025 | [Tarefa 03 - Acessar informações de licitações desertas ou fracassadas](../../../analise-de-requisitos/analiseTarefas.md#tarefa-03---acessar-informações-de-licitações-desertas-ou-fracassadas) | Biblioteca Nacional de Brasília  |
 
 
-<p style={{ textAlign: 'center', fontSize: '17px' }}>Autor: [Weverton Rodrigues](https://github.com/vevetin)</p>
+<p style={{ textAlign: 'center', fontSize: '17px' }}>Autor: [Rodrigo Wendrel](https://github.com/rodwendrel)</p>
 
 </center>
 

@@ -12,11 +12,11 @@ O presente documento tem como objetivo relatar os resultados obtidos durante a a
 
 ### Objetivo e âmbito da avaliação
 
-O objetivo da avaliação do diagrama de análise de tarefas (HTA) proposto visa buscar se a tarefa de fazer um pedido no e-SIC é claro e intuitivo para o usuário. A avaliação abrange a compreensão do fluxo de interação entre objetivos e operações, a identificação de possíveis problemas e a sugestão de melhorias para aprimorar a experiência do usuário. O diagrama HTA utilizado nessa avaliação pode ser acessado aqui: [Tarefa 01 - Realizar pedido no e-SIC](../../analise-de-requisitos/analiseTarefas.md#tarefa-01---realizar-pedido-no-e-sic)
+O objetivo da avaliação do diagrama de análise de tarefas (HTA) proposto visa buscar se a tarefa de fazer um pedido no e-SIC é claro e intuitivo para o usuário. A avaliação abrange a compreensão do fluxo de interação entre objetivos e operações, a identificação de possíveis problemas e a sugestão de melhorias para aprimorar a experiência do usuário. O diagrama HTA utilizado nessa avaliação pode ser acessado aqui: [Tarefa 01 - Realizar pedido no e-SIC](../../../analise-de-requisitos/analiseTarefas.md#tarefa-01---realizar-pedido-no-e-sic)
 
 ### Método de avaliação
 
-O método de avaliação utilizado foi a entrevista semiestruturada, acordado com o [Planejamento da Avaliação da Análise de Tarefas](./planejamentoAvaliacaoAnaliseDeTarefas.md). Como o diagrama HTA exige um certo nível de conhecimento prévio sobre para ser interpretado, antes de iniciar a gravação da entrevista, foi explicado um breve resumo do diagrama avaliado, e seus principais aspectos, e utilizando como auxiliar o [storyboard da respectiva tarefa avaliada](./storyboards.md#storyboard-1---fazer-um-pedido-no-e-sic) para facilitar o entendimento da tarefa em questão, visto que o entrevistado conseguiria visualizar de forma menos técnica o andamento da tarefa por meio do storyboard e, ao mesmo tempo, visualizar a parte técnica por meio do diagrama HTA. Os dados da entrevista estão indicados na tabela 1.
+O método de avaliação utilizado foi a entrevista semiestruturada, acordado com o [Planejamento da Avaliação da Análise de Tarefas](./planejamentoAvaliacaoAnaliseDeTarefas.md). Como o diagrama HTA exige um certo nível de conhecimento prévio sobre para ser interpretado, antes de iniciar a gravação da entrevista, foi explicado um breve resumo do diagrama avaliado, e seus principais aspectos, e utilizando como auxiliar o [storyboard da respectiva tarefa avaliada](../Storyboard/storyboards.md#storyboard-1---fazer-um-pedido-no-e-sic) para facilitar o entendimento da tarefa em questão, visto que o entrevistado conseguiria visualizar de forma menos técnica o andamento da tarefa por meio do storyboard e, ao mesmo tempo, visualizar a parte técnica por meio do diagrama HTA. Os dados da entrevista estão indicados na tabela 1.
 
 <center>
 
@@ -54,7 +54,7 @@ Em conjunto com a entrevista, foi utilizado um questionário com 9 perguntas var
 
 ### Seleção dos participantes
 
-O participante selecionado para a entrevista se encaixa no [perfil de usuário](../../analise-de-requisitos/perfilDeUsuario.md) definido para o projeto. O entrevistado se enquadra na faixa etária de 25 a 34 anos e já deu aula na rede pública de ensino.
+O participante selecionado para a entrevista se encaixa no [perfil de usuário](../../../analise-de-requisitos/perfilDeUsuario.md) definido para o projeto. O entrevistado se enquadra na faixa etária de 25 a 34 anos e já deu aula na rede pública de ensino.
 
 ### Listagem de problemas
 

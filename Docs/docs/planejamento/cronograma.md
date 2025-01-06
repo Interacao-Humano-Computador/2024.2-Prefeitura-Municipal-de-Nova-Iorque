@@ -219,21 +219,20 @@ O cronograma tem como objetivo organizar as atividades do projeto a serem realiz
   <TabItem value="executado" label="Cronograma Executado">
     <p style={{ textAlign: 'center', fontSize: '20px' }}><b>Tabela 10</b> - Execução da quinta entrega.</p>
 
-    | Atividade | Período de desenvolvimento | Responsável | Revisão | Revisor(es) | Data da Entrega |
+     | Atividade | Período de desenvolvimento | Responsável | Revisão | Revisor(es) | Data da Entrega |
     | --------- | -------------------------- | ----------- | ------- | --------- | --------------- |
-    | Relato dos resultados do Storyboard |  |  |  |  | 05/01/2025 |
-    | Relato dos resultados da análise de tarefas | |  |  | | 05/01/2025 |
-    | Protótipos de papel | | | | | 05/01/2025 |
-    | Planejamento da avaliação do protótipo de papel | | | |  | 05/01/2025 |
-    | Planejamento do relato de resultados da avaliação do protótipo de papel | | | | | 05/01/2025 |
-    | Inspeção da entrega da apresentação do projeto Etapa 5 | | | | | 05/01/2025 |
-    | Gravação da apresentação | | | | | 05/01/2025 |
-    | Edição da gravação | | | | | 05/01/2025 |
-    | Cronograma executado | | | | | 05/01/2025 |
-    | Inspeção da entrega da apresentação do projeto etapa 5 do Grupo + 1 | | | | | 06/01/2025 |
-    | Correção pós-apresentação | |  | | | Não há entrega |
+    | Relato dos resultados do Storyboard | 28/12/2024 - 05/01/2025 | Paulo Henrique, Weverton Rodrigues, Necivaldo Amaral, Rodrigo Wendrel| 05/01/2025 | Rodrigo Wendrel, Pedro Luiz | 05/01/2025 |
+    | Relato dos resultados da análise de tarefas | 29/12/2024 - 05/01/2025 | Paulo Henrique, Weverton Rodrigues, Necivaldo Amaral, Rodrigo Wendrel |  05/01/2025 | Rodrigo Wendrel, Pedro Luiz | 05/01/2025 |
+    | Planejamento da avaliação do protótipo de papel |27/12/2024 | Weverton Rodrigues| 02/01/2025| Paulo Henrique | 05/01/2025 |
+    | Planejamento do relato de resultados da avaliação do protótipo de papel | 01/01/2025 | Rodrigo Wendrel| 05/01/2025 | Paulo Henrique | 05/01/2025 |
+    | Inspeção da entrega da apresentação do projeto Etapa 5 | 05/01/2025 | Paulo Henrique, Pedro Luiz, Necivaldo Amaral, Rodrigo Wendrel, Weverton Rodrigues | 05/01/2025 | Weverton Rodrigues | 05/01/2025 |
+    | Gravação da apresentação | 05/01/2025 | Paulo Henrique, Pedro Luiz, Necivaldo Amaral, Rodrigo Wendrel, Weverton Rodrigues |  05/01/2025 | Paulo Henrique | 05/01/2025 |
+    | Edição da gravação | 22/12/2024 | Paulo Henrique | 22/12/2024 | Paulo Henrique, Pedro Luiz, Necivaldo Amaral, Rodrigo Wendrel, Weverton Rodrigues | 05/01/2025 |
+    | Cronograma executado | 05/01/2025 | Pedro Luiz | 05/01/2025 | Paulo Henrique, Pedro Luiz, Necivaldo Amaral, Rodrigo Wendrel, Weverton Rodrigues | 05/01/2025 |
+    | Inspeção da entrega da apresentação do projeto etapa 5 do Grupo + 1 | 06/01/2025 | Paulo Henrique, Pedro Luiz, Necivaldo Amaral, Rodrigo Wendrel, Weverton Rodrigues | 06/01/2025 | Necivaldo Amaral | 06/01/2025 |
+    | Correção pós-apresentação | 07/01/2025 - 08/01/2025 | Paulo Henrique, Pedro Luiz, Necivaldo Amaral, Rodrigo Wendrel, Weverton Rodrigues | 07/01/2025 - 08/01/2025 | Paulo Henrique, Pedro Luiz, Necivaldo Amaral, Rodrigo Wendrel, Weverton Rodrigues | Não há entrega |
 
-    <p style={{ textAlign: 'center', fontSize: '15px' }}><b>Autor(es):</b> [Paulo Henrique](https://github.com/paulomh), [Weverton Rodrigues](https://github.com/vevetin)</p>
+    <p style={{ textAlign: 'center', fontSize: '15px' }}><b>Autor(es):</b> [Pedro Luiz](https://github.com/pedroluizfo), [Weverton Rodrigues](https://github.com/vevetin)</p>
 
   </TabItem>
 </Tabs>

@@ -85,6 +85,7 @@ A avaliação será realizada conforme cronograma a ser definido, considerando a
 |---|---|:---:|:---:|:---:|---|
 | [Weverton Rodrigues](https://github.com/vevetin) | José Brito | 17:00 | 17:15  | 10/01/2025 | Casa do entrevistado |
 | [Rodrigo Wendrel](https://github.com/rodwendrel) | Moysés Carvalho | 13:00 | 13:30  | 10/01/2025 | Biblioteca nacional |
+| [Paulo Henrique](https://github.com/paulomh) | Igor Abreu | 10:00 | 10:20  | 09/01/2025 | Faculdade do Gama |
 
 
 <p style={{ textAlign: 'center', fontSize: '17px' }}>Autor: [Weverton Rodrigues](https://github.com/vevetin)</p>

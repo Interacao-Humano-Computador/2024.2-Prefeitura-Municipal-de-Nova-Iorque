@@ -193,8 +193,6 @@ Além disso, a interação do usuário é simplificada pelos botões "Cancelar" 
 
 </center>
 
-### Protótipo de Papel 3 - Envio de Nota Fiscal de Serviço
-
 ### Protótipo de Papel 4 - Registro de reclamação na ouvidoria
 
 Baseado na análise de tarefas GOMS para "[Abrir uma nova solicitação no canal de ouvidoria virtual](https://marvelapp.com/prototype/71404f5)", foi desenvolvido o protótipo de papel que representa as etapas do processo.

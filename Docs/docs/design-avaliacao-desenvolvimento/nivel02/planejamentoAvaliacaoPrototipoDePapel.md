@@ -132,6 +132,10 @@ O teste piloto consiste em uma execução prévia da avaliação, com o objetivo
 
 ## Resultado do Teste Piloto
 
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qa0d69OuENE?si=0rgp9llrHigdaCSA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</center>
+
 ## Referências Bibliográficas
 
 > 1. BARBOSA, Simone Diniz Junqueira et al. Interação humano-computador e experiência do usuário. 1. ed. Rio de Janeiro: Simone Diniz Junqueira Barbosa, 2021. Capítulo 11: Planejamento da Avaliação de IHC. Página 261. Autopublicação. ISBN: 978-65-00-19677-1.

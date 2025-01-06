@@ -57,13 +57,14 @@ Os participantes serão selecionados com base no [perfil de usuário](../../../a
 
 ### Preparação
 
-A preparação para a avaliação do protótipo de papel envolve a organização dos materiais e recursos necessários para os dois métodos de avaliação: a entrevista semiestruturada e a avaliação heurística.
-**Entrevista Semiestruturada:**  
+A preparação para a avaliação do protótipo de papel envolve a organização dos materiais e recursos necessários para os dois métodos de avaliação: a entrevista semiestruturada e a avaliação heurística.  
+
+> **Entrevista Semiestruturada:**  
 Ferramentas: Celular para gravação de áudio e vídeo;    
 Materiais: Protótipos de papel impressos e roteiros de avaliação;    
 Ambiente: A entrevista ocorrerá presencialmente em local combinado com os participantes ou, em último caso, de forma remota;
 
-**Avaliação Heurística:**  
+> **Avaliação Heurística:**  
 Ferramentas: computador para redigir o relatório/relato dos resultados;  
 Materiais: Lista de princípios heurísticos;  
 Ambiente: A avaliação será realizada em um ambiente controlado e silencioso para garantir que o avaliador possa se concentrar na análise do protótipo sem distrações;  

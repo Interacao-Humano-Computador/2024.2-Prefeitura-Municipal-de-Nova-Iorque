@@ -6,7 +6,7 @@ sidebar_position: 3
 
 ## Introdução
 
-O Planejamento do Relato dos Resultados da Avaliação do Protótipo de Papel se trata do doccumento de organização que irá demonstrar os resultadas da avaliação do protótipo de papel. Ele seguirá o [planejamento da avaliação do protótipo de papel](./planejamentoAvaliacaoPrototipoDePapel.md) e garante que os dados necessários serão apresentados de forma clara. 
+O Planejamento do Relato dos Resultados da Avaliação do Protótipo de Papel se trata do documento de organização que irá demonstrar os resultadas da avaliação do protótipo de papel. Ele seguirá o [planejamento da avaliação do protótipo de papel](./planejamentoAvaliacaoPrototipoDePapel.md) e garante que os dados necessários serão apresentados de forma clara. 
 
 ## Metodologia
 Tomaremos como princípio os tópicos descritos por Barbosa e Silva, e os adequando para o desenvolvimento da equipe. Os tópicos estão descritos a baixo:

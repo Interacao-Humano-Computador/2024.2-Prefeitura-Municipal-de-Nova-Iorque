@@ -193,7 +193,7 @@ Além disso, a interação do usuário é simplificada pelos botões "Cancelar" 
 
 </center>
 
-### Protótipo de Papel 4 - Registro de reclamação na ouvidoria
+### Protótipo de Papel 3 - Registro de reclamação na ouvidoria
 
 Baseado na análise de tarefas GOMS para "[Abrir uma nova solicitação no canal de ouvidoria virtual](https://marvelapp.com/prototype/71404f5)", foi desenvolvido o protótipo de papel que representa as etapas do processo.
 
@@ -202,7 +202,7 @@ Na tela inicial, o usuário tem três métodos principais para acessar o canal d
 
 Navegando pelo carrossel de ícones:
 O usuário identifica o carrossel na página principal e localiza o ícone da ouvidoria visualmente.
-<p style={{ textAlign: 'center', fontSize: '17px' }}><b>Figura 01</b> - Página principal </p>
+<p style={{ textAlign: 'center', fontSize: '17px' }}><b>Figura 13</b> - Página principal </p>
     <center>
         ![pp4](./assets//pp4.jpg)
     </center>
@@ -210,7 +210,7 @@ O usuário identifica o carrossel na página principal e localiza o ícone da ou
 
 Posicionando o mouse diretamente sobre o ícone da ouvidoria:
 Quando o usuário encontra o ícone da ouvidoria diretamente, uma descrição é exibida ao passar o mouse, indicando a funcionalidade antes de clicar.
-<p style={{ textAlign: 'center', fontSize: '17px' }}><b>Figura 02</b> - Menu suspenso </p>
+<p style={{ textAlign: 'center', fontSize: '17px' }}><b>Figura 14</b> - Menu suspenso </p>
     <center>
         ![PP004](./assets//PP004.jpg)
     </center>
@@ -222,7 +222,7 @@ O usuário, já familiarizado com o site, localiza rapidamente o link "Canal Ele
 
 #### Página da Ouvidoria Virtual
 Ao acessar a seção da ouvidoria virtual, o usuário tem a opção de preencher uma nova solicitação ou acompanhar uma solicitação existente.
-<p style={{ textAlign: 'center', fontSize: '17px' }}><b>Figura 02</b> - Página da ouvidoria </p>
+<p style={{ textAlign: 'center', fontSize: '17px' }}><b>Figura 15</b> - Página da ouvidoria </p>
     <center>
         ![pp04](./assets//pp04.jpg)
     </center>
@@ -254,11 +254,13 @@ Após revisar todos os dados preenchidos:
 O usuário clica no botão "Enviar".
 Uma mensagem de confirmação é exibida com o código de acompanhamento gerado automaticamente.
 O código pode ser anotado para acompanhamento futuro.
-<p style={{ textAlign: 'center', fontSize: '17px' }}><b>Figura 02</b> - Página da ouvidoria </p>
+<p style={{ textAlign: 'center', fontSize: '17px' }}><b>Figura 16</b> - Página da ouvidoria </p>
     <center>
         ![PP0004](./assets//PP0004.jpg)
     </center>
-<p style={{ textAlign: 'center', fontSize: '17px' }}>Autor: [Pedro Luiz](https://github.com/pedroluizfo) </p>#### Fluxo Alternativo - Acompanhamento de Solicitações
+<p style={{ textAlign: 'center', fontSize: '17px' }}>Autor: [Pedro Luiz](https://github.com/pedroluizfo) </p>
+
+#### Fluxo Alternativo - Acompanhamento de Solicitações
 Caso o usuário já tenha um código de acompanhamento, ele pode seguir o fluxo abaixo:
 
 Acessa a página de "Acompanhamento de Solicitações".
@@ -267,13 +269,13 @@ Visualiza o status da solicitação.
 (Imagem: Página de acompanhamento com campo preenchido e status exibido)
 Esse protótipo em papel visa facilitar a validação do design e a experiência do usuário em cada etapa do processo.
 
-### Protótipo de Papel 5 - Busca por licitação fracassada
+### Protótipo de Papel 4 - Busca por licitação fracassada
 
 Baseado no [diagrama HTA - Licitações desertas ou fracassadas](../../analise-de-requisitos/analiseTarefas.md#tarefa-03---acessar-informações-de-licitações-desertas-ou-fracassadas) e tendo como base o objetivo do [Storyboard - Busca por licitações fracassadas  ](../nivel01/Storyboard/storyboards.md#storyboard-5-busca-por-licitação-fracassada).
 
 <center>
 
-<p style={{ textAlign: 'center', fontSize: '18px' }}><b>Figura 1</b> - Tela inicial do protótipo</p>
+<p style={{ textAlign: 'center', fontSize: '18px' }}><b>Figura 17</b> - Tela inicial do protótipo</p>
 
 ![](./assets/prototipoRodrigo1.jpeg)
 
@@ -286,7 +288,7 @@ várias categorias de licitações aparecem. No caso, buscamos as fracassadas
 
 <center>
 
-<p style={{ textAlign: 'center', fontSize: '18px' }}><b>Figura 2</b> - Tela de licitações </p>
+<p style={{ textAlign: 'center', fontSize: '18px' }}><b>Figura 18</b> - Tela de licitações </p>
 
 ![](./assets/prototipoRodrigo2.jpeg)
 
@@ -297,7 +299,7 @@ várias categorias de licitações aparecem. No caso, buscamos as fracassadas
 Nesta tela, temos os filtros de ano, modalidade, status e unidade sendo que, estes possuem um menu com mais opções. Também temos uma busca pelo número da licitação. Ao adicionar os filtros, as licitações correspondentes aparecem e é possível clicar em detalhes para ver tudo sobre a licitação escolhida.
 <center>
 
-<p style={{ textAlign: 'center', fontSize: '18px' }}><b>Figura 3</b> - Tela de detalhes </p>
+<p style={{ textAlign: 'center', fontSize: '18px' }}><b>Figura 19</b> - Tela de detalhes </p>
 
 ![](./assets/prototipoRodrigo3.jpeg)
 

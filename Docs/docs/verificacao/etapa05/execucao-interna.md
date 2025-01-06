@@ -42,7 +42,7 @@ Feito o [planejamento da verificação dos itens do desenvolvimento do projeto](
 
 A tabela de verificação apresentou **22 critérios** a serem avaliados, dos quais **19 foram atendidos** de forma satisfatória, resultando em uma **taxa de conformidade de 86,4%**. Entre os itens avaliados, **3 ficaram pendentes**:
 - Reuniões e Ata: O item "Ata(s) da(s) reuniões" foi marcado como "Incompleto", pois as decisões foram tomadas de forma assíncrona, sem reuniões formais.
-- Teste Piloto: O item "Definição do teste piloto e data para realização" foi marcado como "Não", devido à impossibilidade de reunir os integrantes do grupo e participantes externos durante o período de recesso.  
+- Teste Piloto: O item "Definição do teste piloto e data para realização" foi marcado como "Não", devido à impossibilidade de reunir os integrantes do grupo ou participantes externos durante o período.  
 - Quantidade de Protótipos de Papel: O item foi marcado como "Incompleto", pois ainda falta a finalização do protótipo de papel de um integrante do grupo.
 
 ## Bibliografia

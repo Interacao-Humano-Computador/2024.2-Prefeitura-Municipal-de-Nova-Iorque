@@ -24,7 +24,7 @@ O método de avaliação utilizado foi a entrevista semiestruturada, acordado co
 
 |    Entrevistador(es)   | Entrevistado(s) | Horário de Início | Horário de Fim | Data Planejada |  Tarefa   |  Local    |
 | :---------: | :-------------: | :---------------: | :------------: | :------------: | :-------------------------: | :------------------------: |
-| [Paulo Henrique](https://github.com/paulomh)       | Igor Abreu | 10:10 | 10:20 | 19/12/2024 | [Tarefa 01 - Realizar pedido no e-SIC](../../analise-de-requisitos/analiseTarefas.md#tarefa-01---realizar-pedido-no-e-sic) | Campus UnB Gama  |
+| [Paulo Henrique](https://github.com/paulomh)       | Igor Abreu | 10:10 | 10:20 | 19/12/2024 | [Tarefa 01 - Realizar pedido no e-SIC](../../../analise-de-requisitos/analiseTarefas.md#tarefa-01---realizar-pedido-no-e-sic) | Campus UnB Gama  |
 
 <p style={{ textAlign: 'center', fontSize: '17px' }}>Autor: [Paulo Henrique](https://github.com/paulomh)</p>
 

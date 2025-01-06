@@ -6,7 +6,7 @@ sidebar_position: 1
 
 ## Introdução
 
-A avaliação de IHC é uma etapa essencial para assegurar que um sistema interativo atenda às necessidades e expectativas dos usuários. No caso da Análise de Tarefas, a avaliação tem como objetivo verificar a adequação dos fluxos de tarefas e a clareza com que as ações necessárias são representadas, permitindo a identificação de barreiras ou inconsistências na interação do usuário com o sistema (Barbosa, 2021)<sup>[1](planejamentoAvaliacaoAnaliseDeTarefas.md#referências-bibliográficas)</sup>.
+A avaliação de IHC é uma etapa essencial para assegurar que um sistema interativo atenda às necessidades e expectativas dos usuários. No caso da Análise de Tarefas, a avaliação tem como objetivo verificar a adequação dos fluxos de tarefas e a clareza com que as ações necessárias são representadas, permitindo a identificação de barreiras ou inconsistências na interação do usuário com o sistema (Barbosa, 2021)<sup>[1](./planejamentoAvaliacaoAnaliseDeTarefas.md#referências-bibliográficas)</sup>.
 
 ## Metodologia
 

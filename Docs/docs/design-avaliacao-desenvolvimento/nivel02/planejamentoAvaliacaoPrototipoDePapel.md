@@ -83,6 +83,8 @@ A avaliação será realizada conforme cronograma a ser definido, considerando a
 | Entrevistador | Entrevistado(a) | Horário Início | Horário Fim | Data | Local |
 |---|---|:---:|:---:|:---:|---|
 | [Weverton Rodrigues](https://github.com/vevetin) | José Brito | 17:00 | 17:15  | 10/01/2025 | Casa do entrevistado |
+| [Rodrigo Wendrel](https://github.com/rodwendrel) | Moysés Carvalho | 13:00 | 13:30  | 10/01/2025 | Biblioteca nacional |
+
 
 <p style={{ textAlign: 'center', fontSize: '17px' }}>Autor: [Weverton Rodrigues](https://github.com/vevetin)</p>
 
@@ -141,3 +143,5 @@ O teste piloto consiste em uma execução prévia da avaliação, com o objetivo
 | Versão | Data | Autor(es) | Descrição | Data de Revisão | Revisor(es) |
 |:---:|:---:|---|---|:---:|---|
 | 1.0 | 27/12/2024 | [Weverton Rodrigues](https://github.com/vevetin) | Criação do documento | 02/01/2025 | [Paulo Henrique](https://github.com/paulomh)  |
+| 1.1 | 05/01/2025 | [Rodrigo Wendrel](https://github.com/rodwendrel) | Adição de um uma entrevista planejada | 05/01/2025 | [Paulo Henrique](https://github.com/paulomh)  |
+

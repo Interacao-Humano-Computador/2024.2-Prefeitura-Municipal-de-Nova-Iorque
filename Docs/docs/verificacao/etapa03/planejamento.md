@@ -10,7 +10,7 @@ O planejamento da verificação  dos itens do desenvolvimento do projeto norteia
 
 ## Objetivo
 
-O objetivo deste documento é apresentar o planejamento da verificação dos itens do desenvolvimento do projeto, verificando se os artefatos produzidos durante a etapa estão de acordo com uma lista de verificação disponibilizada no plano de ensino da disciplina<sup>[1](../etapa01/planejamento.md#referências-bibliográficas)</sup>. Além da lista de verificação disponibilizada no plano de ensino, cada membro propôs um ou mais itens em uma lista separada, que também servirá para verificar os artefatos da entrega
+O objetivo deste documento é apresentar o planejamento da verificação dos itens do desenvolvimento do projeto, verificando se os artefatos produzidos durante a etapa estão de acordo com uma lista de verificação disponibilizada no plano de ensino da disciplina<sup>[1](../etapa03/planejamento.md#referências-bibliográficas)</sup>. Além da lista de verificação disponibilizada no plano de ensino, cada membro propôs um ou mais itens em uma lista separada, que também servirá para verificar os artefatos da entrega
 
 ## Lista de Verificação
 

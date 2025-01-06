@@ -1,5 +1,5 @@
 ---
-sidebar_position: 3
+sidebar_position: 4
 ---
 
 # Execução da Verificação dos Itens do Desenvolvimento do Projeto (Grupo 07)

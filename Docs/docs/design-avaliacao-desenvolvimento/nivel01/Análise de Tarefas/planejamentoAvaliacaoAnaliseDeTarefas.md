@@ -6,11 +6,11 @@ sidebar_position: 1
 
 ## Introdução
 
-A avaliação de IHC é uma etapa essencial para assegurar que um sistema interativo atenda às necessidades e expectativas dos usuários. No caso da Análise de Tarefas, a avaliação tem como objetivo verificar a adequação dos fluxos de tarefas e a clareza com que as ações necessárias são representadas, permitindo a identificação de barreiras ou inconsistências na interação do usuário com o sistema (Barbosa, 2021)<sup>[1](../nivel01/planejamentoAvaliacaoAnaliseDeTarefas.md#referências-bibliográficas)</sup>.
+A avaliação de IHC é uma etapa essencial para assegurar que um sistema interativo atenda às necessidades e expectativas dos usuários. No caso da Análise de Tarefas, a avaliação tem como objetivo verificar a adequação dos fluxos de tarefas e a clareza com que as ações necessárias são representadas, permitindo a identificação de barreiras ou inconsistências na interação do usuário com o sistema (Barbosa, 2021)<sup>[1](planejamentoAvaliacaoAnaliseDeTarefas.md#referências-bibliográficas)</sup>.
 
 ## Metodologia
 
-A avaliação segue o framework DECIDE (Barbosa, 2021)<sup>[2](../nivel01/planejamentoAvaliacaoAnaliseDeTarefas.md#referências-bibliográficas)</sup>, uma abordagem estruturada que organiza o processo em seis etapas principais: (D) determinar os objetivos da avaliação, (E) explorar perguntas a serem respondidas, (C) escolher os métodos de avaliação, (I) identificar e administrar questões práticas, (D) decidir como lidar com questões éticas e (E) avaliar, interpretar e apresentar os dados. Essa metodologia assegura um planejamento detalhado, proporcionando resultados confiáveis para melhorar a experiência do usuário.
+A avaliação segue o framework DECIDE (Barbosa, 2021)<sup>[2](./planejamentoAvaliacaoAnaliseDeTarefas.md#referências-bibliográficas)</sup>, uma abordagem estruturada que organiza o processo em seis etapas principais: (D) determinar os objetivos da avaliação, (E) explorar perguntas a serem respondidas, (C) escolher os métodos de avaliação, (I) identificar e administrar questões práticas, (D) decidir como lidar com questões éticas e (E) avaliar, interpretar e apresentar os dados. Essa metodologia assegura um planejamento detalhado, proporcionando resultados confiáveis para melhorar a experiência do usuário.
 
 ## D - Determinar os objetivos da avaliação de IHC
 
@@ -42,7 +42,7 @@ As perguntas exploradas nesta avaliação foram adaptadas da tabela de exemplos 
 
 ## C - Escolher os métodos de avaliação a serem utilizados
 
-Para avaliar os aspectos definidos, com base nas diretrizes fornecidas no livro de Simone Barbosa (2021)<sup>[4](../nivel01/planejamentoAvaliacaoAnaliseDeTarefas.md#referências-bibliográficas)</sup>, será utilizado o método de **entrevista semiestruturada**.
+Para avaliar os aspectos definidos, com base nas diretrizes fornecidas no livro de Simone Barbosa (2021)<sup>[4](planejamentoAvaliacaoAnaliseDeTarefas.md#referências-bibliográficas)</sup>, será utilizado o método de **entrevista semiestruturada**.
 
 A entrevista semiestruturada é uma técnica flexível que combina perguntas predefinidas com a possibilidade de explorar temas que surgem ao longo da conversa. Esse método permite obter informações diretas dos usuários sobre como percebem e utilizam o sistema, além de identificar dificuldades e oportunidades de melhoria. No contexto desta avaliação, as entrevistas serão conduzidas para investigar como os usuários se apropriam da tecnologia e identificar possíveis problemas de IHC.
 

@@ -223,6 +223,7 @@ O cronograma tem como objetivo organizar as atividades do projeto a serem realiz
     | --------- | -------------------------- | ----------- | ------- | --------- | --------------- |
     | Relato dos resultados do Storyboard | 28/12/2024 - 05/01/2025 | Paulo Henrique, Weverton Rodrigues, Necivaldo Amaral, Rodrigo Wendrel| 28/12/2024 - 05/01/2025 | Rodrigo Wendrel, Pedro Luiz | 05/01/2025 |
     | Relato dos resultados da análise de tarefas | 29/12/2024 - 05/01/2025 | Paulo Henrique, Weverton Rodrigues, Necivaldo Amaral, Rodrigo Wendrel |  29/12/2024 - 05/01/2025 | Rodrigo Wendrel, Pedro Luiz | 05/01/2025 |
+    | Protótipos de papel | 02/01/2025 - 05/01/2025 |Pedro Luiz, Paulo Henrique, Weverton Rodrigues, Necivaldo Amaral, Rodrigo Wendrel |  02/01/2025 - 05/01/2025 |Paulo Henrique Rodrigo Wendrel, Pedro Luiz | 05/01/2025 |
     | Planejamento da avaliação do protótipo de papel |27/12/2024 - 05/01/2025 | Weverton Rodrigues| 02/01/2025 - 05/01/2025| Paulo Henrique | 05/01/2025 |
     | Planejamento do relato de resultados da avaliação do protótipo de papel | 01/01/2025 | Rodrigo Wendrel| 05/01/2025 | Paulo Henrique | 05/01/2025 |
     | Inspeção da entrega da apresentação do projeto Etapa 5 | 05/01/2025 | Paulo Henrique, Pedro Luiz, Necivaldo Amaral, Rodrigo Wendrel, Weverton Rodrigues | 05/01/2025 | Weverton Rodrigues | 05/01/2025 |

@@ -45,6 +45,10 @@ Além disso, ressaltou-se que o último artefato não estava presente no cronogr
 
 Foi decidido que será criado um único protótipo de alta-fidelidade incluindo todas as funcionalidades dos demais membros, para que seja possível realizar a avaliação do protótipo de alta-fidelidade de forma unificada e prática. Fora isso, os membros seguirão para a realização de suas respectivas tarefas seguindo como base o cronograma executado.
 
+## <a>5. Gravação da Reunião</a>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sOaHbwxbMmQ?si=Q8C5xPb1NkLjayHb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 ## Histórico de Versão
 

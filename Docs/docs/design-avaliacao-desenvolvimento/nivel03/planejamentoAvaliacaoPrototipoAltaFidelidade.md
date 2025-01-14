@@ -62,11 +62,68 @@ Ambos os métodos foram escolhidos por serem complementares e manter uma eficác
 
 ## I - Identificar e administrar as questões práticas da avaliação
 
+A identificação e administração das questões práticas são fundamentais para garantir que a avaliação do protótipo ocorra de forma eficiente, respeitando as limitações de recursos, tempo e logística. A seguir, são detalhadas as questões práticas relacionadas ao planejamento do teste, organização dos materiais, preparação do local, recrutamento de usuários, condução do teste, análise de reultados e correção do site,  segundo Badre (2002).
+
+### Recrutamento
+
+Os participantes serão selecionados com base no [perfil de usuário](../../analise-de-requisitos/perfilDeUsuario.md) definido durante a análise de requisitos, priorizando indivíduos que representem o público-alvo do protótipo. Para Krug, com três ou quatro participantes a maioria dos problemas é detectada. Portanto para os testes de usabilidade serão selecionados 3 participantes. 
+
+### Preparação
+
+A preparação para a avaliação do protótipo de alta fidelidade envolve a organização dos materiais e recursos necessários para os dois métodos de avaliação: a entrevista semiestruturada e a avaliação heurística.  
+
+> **Entrevista Semiestruturada:**  
+Ferramentas: Celular para gravação de áudio e vídeo e computador para gravção de tela;    
+Materiais: Protótipos de alta fidelidade e roteiros de avaliação;    
+Ambiente: A entrevista ocorrerá presencialmente em local combinado com os participantes ou, em último caso, de forma remota;
+
+> **Avaliação Heurística:**  
+Ferramentas: computador para redigir o relatório/relato dos resultados;  
+Materiais: Lista de princípios heurísticos;  
+Ambiente: A avaliação será realizada em um ambiente controlado e silencioso para garantir que o avaliador possa se concentrar na análise do protótipo sem distrações;  
+
+### Prazos
+
+A avaliação será realizada conforme cronograma a ser definido, considerando a disponibilidade dos participantes e dos entrevistadores. As avaliações serão realizadas posteriormente ao teste piloto.
+
+<center>
+
+<p style={{ textAlign: 'center', fontSize: '18px' }}><b>Tabela 2</b> - Cronograma da Entrevista</p>
+
+| Entrevistador | Entrevistado(a) | Horário Início | Horário Fim | Data | Local |
+|---|---|:---:|:---:|:---:|---|
+| [Weverton Rodrigues](https://github.com/vevetin) | José  | 17:00 | 17:15  | 23/01/2025 | Casa do entrevistado |
+| [Rodrigo Wendrel](https://github.com/rodwendrel) | Moysés | 13:00 | 13:30  | 23/01/2025 | Biblioteca nacional |
+| [Paulo Henrique](https://github.com/paulomh) | Igor | 10:00 | 10:20  | 23/01/2025 | Faculdade do Gama |
+
+
+<p style={{ textAlign: 'center', fontSize: '17px' }}>Autor: [Rodrigo Wendrel](https://github.com/rodwendrel)</p>
+
+</center>
+
+Os entrevistadores deverão garantir que os materiais estejam prontos com antecedência e que os participantes sejam contatados para confirmar o horário agendado.
+
+
 ## D - Decidir como lidar com as questões éticas
+
+Tendo como base o [termo de consentimento geral](../../analise-de-requisitos/aspectosEticos.md#termo-de-consentimento), os participantes serão informados sobre a natureza da avaliação, os objetivos da pesquisa, os procedimentos envolvidos, os riscos e benefícios, a garantia de anonimato e confidencialidade, e a liberdade de retirar o consentimento a qualquer momento. Dessa forma, o termo de consentimento será lido pelo entrevistador no início da gravação da entrevista. Além disso, será assegurado que os dados coletados serão utilizados apenas para fins de pesquisa e que a gravação dos participantes serão utilizadas apenas para propósito da pesquisa.
 
 ## E - Avaliar, interpretar e apresentar os dados
 
+A avaliação dos dados coletados será conduzida de acordo com as etapas descritas no documento [Planejamento do Relato do Protótipo de Alta Fidelidade](./planejamentoRelatoPrototipoDePapel.md).
+
+Os dados das entrevistas semiestruturadas e da avaliação heurística serão organizados, codificados e analisados para identificar padrões, dificuldades e oportunidades de melhoria. Os resultados serão apresentados de forma estruturada, destacando problemas encontrados, sugestões de melhoria e lições aprendidas, com base nas análises dos feedbacks dos participantes e dos problemas de interface identificados.
+
 ## Planejamento do Teste Piloto
+
+O teste piloto consiste em uma execução prévia da avaliação, com o objetivo de validar o planejamento e identificar possíveis problemas nos métodos, materiais e equipamentos utilizados. Essa etapa garante que ajustes possam ser feitos antes da aplicação final, assegurando a qualidade e a eficácia dos dados coletados.
+
+Detalhes:
+
+    Data: 
+    Horário:
+    Integrantes responsáveis:
+    Local:
 
 ## Resultado do Teste Piloto
 
@@ -89,3 +146,4 @@ Ambos os métodos foram escolhidos por serem complementares e manter uma eficác
 | Versão | Data | Autor(es) | Descrição | Data de Revisão | Revisor(es) |
 |:---:|:---:|---|---|:---:|---|
 | 1.0 | 13/01/2025 |  [Paulo Henrique](https://github.com/paulomh) | Criação do documento | 13/01/2025 | [Rodrigo Wendrel](https://github.com/rodwendrel) |
+| 1.1 | 14/01/2025 |  [Rodrigo Wendrel](https://github.com/rodwendrel) | Adição dos tópicos decide | 14/01/2025 | [Paulo Henrique](https://github.com/paulomh) |

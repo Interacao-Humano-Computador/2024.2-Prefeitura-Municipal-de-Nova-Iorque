@@ -127,7 +127,7 @@ O teste piloto consiste em uma execução prévia da avaliação, com o objetivo
 **Detalhes:**  
 - Data: 06/01/2025
 - Horário: 11:00 às 11:20
-- Integrantes responsáveis: Paulo Henrique e Weverton Rodrigues
+- Integrantes responsáveis: Paulo Henrique, Weverton Rodrigues e Rodrigo Wendrel
 - Local: Campus UnB Gama (presencialmente)
 
 ## Resultado do Teste Piloto

@@ -20,15 +20,54 @@ A avaliação contou com um número reduzido de participantes, seguindo a propos
 
 O [Guia de Estilo](../../analise-de-requisitosII/guiaDeEstilo.md), previamente desenvolvido, também será seguido durante o desenvolvimento dos protótipos de alta fidelidade, assegurando que as interfaces mantenham consistência visual, acessibilidade e alinhamento com as necessidades do público-alvo.
 
-## Protótipos
+## Protótipos de Alta Fidelidade
+
+Os protótipos de alta fidelidade representam as principais funcionalidades do sistema, cada uma desenvolvida por um integrante do grupo. A tela inicial, comum a todas as funcionalidades, foi projetada para oferecer uma navegação clara e acessível, servindo como ponto de entrada para opções como o e-SIC, agendamento de consultas médicas, busca por licitações fracassadas e envio de notas fiscais de serviço.
+
+<center>
+
+<p style={{ textAlign: 'center', fontSize: '18px' }}><b>Figura 1</b> - proposta de Tela Inicial para o site da Prefeitura de Nova Iorque</p>
+
+![proposta de tela inicial para o site da prefeitura de Nova Iorque](./assets/proposta-tela-inicial-do-site.png)
+
+<p style={{ textAlign: 'center', fontSize: '17px' }}>Autor: [Weverton Rodrigues](https://github.com/vevetin)</p>
+
+</center>
+
+A seguir, são detalhados os protótipos de alta fidelidade desenvolvidos para cada funcionalidade:
 
 ### Protótipo de Alta Fidelidade 1 - Fazer um pedido no e-SIC
+*(Protótipo em desenvolvimento. A versão final será apresentada assim que disponível.)*
 
 ### Protótipo de Alta Fidelidade 2 - Agendamento de Consulta Médica
 
+Esta funcionalidade foi projetada para facilitar o acesso dos cidadãos ao agendamento de consultas médicas no sistema de saúde municipal, promovendo praticidade e eficiência na interação com o serviço público. 
+
+<center>
+
+<p style={{ textAlign: 'center', fontSize: '18px' }}><b>Figura 2</b> - Tela Principal do Agendamento de Consulta Médica</p>
+
+![tela principal agendamento de consulta](./assets/tela-principal-agendamento-de-consulta-medica.png)
+
+<p style={{ textAlign: 'center', fontSize: '17px' }}>Autor: [Weverton Rodrigues](https://github.com/vevetin)</p>
+
+</center>
+
+<center>
+
+<p style={{ textAlign: 'center', fontSize: '18px' }}><b>Figura 3</b> - Elementos Adicionais e Componentes Complementares</p>
+
+![outros elementos agendamento de consulta](./assets/outros-componentes-agendamento-de-consulta-medica.png)
+
+<p style={{ textAlign: 'center', fontSize: '17px' }}>Autor: [Weverton Rodrigues](https://github.com/vevetin)</p>
+
+</center>
+
 ### Protótipo de Alta Fidelidade 3 - Busca por licitação fracassada
+*(Protótipo em desenvolvimento. A versão final será apresentada assim que disponível.)*
 
 ### Protótipo de Alta Fidelidade 4 - Envio de Nota Fiscal de Serviço
+*(Protótipo em desenvolvimento. A versão final será apresentada assim que disponível.)*
 
 ## Referências Bibliográficas
 

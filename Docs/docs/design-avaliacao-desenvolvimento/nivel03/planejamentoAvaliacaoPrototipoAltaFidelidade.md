@@ -92,12 +92,12 @@ A avaliação será realizada conforme cronograma a ser definido, considerando a
 
 | Entrevistador | Entrevistado(a) | Horário Início | Horário Fim | Data | Local |
 |---|---|:---:|:---:|:---:|---|
-| [Weverton Rodrigues](https://github.com/vevetin) | Richard  | 17:00 | 17:15  | 23/01/2025 | Casa do entrevistado |
-| [Weverton Rodrigues](https://github.com/vevetin) | Moysés  | 17:00 | 17:15  | 23/01/2025 | Casa do entrevistado |
-| [Weverton Rodrigues](https://github.com/vevetin) | José  | 17:00 | 17:15  | 23/01/2025 | Casa do entrevistado |
-| [Rodrigo Wendrel](https://github.com/rodwendrel) | Richard | 13:00 | 13:30  | 23/01/2025 | Biblioteca nacional |
-| [Rodrigo Wendrel](https://github.com/rodwendrel) | Moysés | 13:00 | 13:30  | 23/01/2025 | Biblioteca nacional |
-| [Rodrigo Wendrel](https://github.com/rodwendrel) | José | 13:00 | 13:30  | 23/01/2025 | Biblioteca nacional |
+| [Weverton Rodrigues](https://github.com/vevetin) | Richard  | 17:00 | 17:15  | 23/01/2025 | Faculdade do Gama  |
+| [Weverton Rodrigues](https://github.com/vevetin) | Moysés  | 17:00 | 17:15  | 23/01/2025 | Faculdade do Gama  |
+| [Weverton Rodrigues](https://github.com/vevetin) | José  | 17:00 | 17:15  | 23/01/2025 | Faculdade do Gama  |
+| [Rodrigo Wendrel](https://github.com/rodwendrel) | Richard | 13:00 | 13:30  | 23/01/2025 | Faculdade do Gama  |
+| [Rodrigo Wendrel](https://github.com/rodwendrel) | Moysés | 13:00 | 13:30  | 23/01/2025 | Faculdade do Gama  |
+| [Rodrigo Wendrel](https://github.com/rodwendrel) | José | 13:00 | 13:30  | 23/01/2025 | Faculdade do Gama  |
 | [Paulo Henrique](https://github.com/paulomh) | Igor | 10:00 | 10:20  | 23/01/2025 | Faculdade do Gama |
 | [Paulo Henrique](https://github.com/paulomh) | Ana | 10:00 | 10:20  | 23/01/2025 | Faculdade do Gama |
 | [Paulo Henrique](https://github.com/paulomh) | Cauã | 10:00 | 10:20  | 23/01/2025 | Faculdade do Gama |

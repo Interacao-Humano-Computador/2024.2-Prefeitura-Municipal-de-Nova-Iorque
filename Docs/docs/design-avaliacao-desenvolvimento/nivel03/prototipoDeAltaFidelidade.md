@@ -16,7 +16,7 @@ Com base no nível 3 do processo de Design, Avaliação e Desenvolvimento da [En
 
 O protótipo de alta fidelidade foi desenvolvido com base em um processo iterativo, iniciado pela criação de [protótipos de baixa fidelidade em papel](../nivel02/prototipoDePapel.md). Esses protótipos serviram para definir a estrutura das interfaces e orientar o refinamento das interações.
 
-A avaliação contou com um número reduzido de participantes, seguindo a proposta de Krug<sup>[2](./prototipoDeAltaFidelidade.md#referências-bibliográficas)</sup>, que sugere 3 ou 4 usuários para identificar a maioria dos problemas de usabilidade. Embora Nielsen recomende entre 5 a 7 participantes para uma análise mais ampla, a escolha de 3 a 4 participantes foi baseada em nossa limitação de tempo.
+A avaliação contou com um número reduzido de participantes, seguindo a proposta de Krug, que sugere 3 ou 4 usuários <sup>[2](./prototipoDeAltaFidelidade.md#referências-bibliográficas)</sup> para identificar a maioria dos problemas de usabilidade. Embora Nielsen recomende entre 5 a 7 participantes para uma análise mais ampla, a escolha de 3 a 4 participantes foi baseada em nossa limitação de tempo e recrutamento/disponibilidade de participantes para essa avaliação.
 
 O [Guia de Estilo](../../analise-de-requisitosII/guiaDeEstilo.md), previamente desenvolvido, também será seguido durante o desenvolvimento dos protótipos de alta fidelidade, assegurando que as interfaces mantenham consistência visual, acessibilidade e alinhamento com as necessidades do público-alvo.
 
@@ -34,7 +34,7 @@ O [Guia de Estilo](../../analise-de-requisitosII/guiaDeEstilo.md), previamente d
 
 > 1. PREECE, Jenny; ROGERS, Yvonne; SHARP, Helen. Interaction Design: beyond human-computer interaction. 1. ed. New York: J. Wiley & Sons, 2002. Capítulo 08: Design, Prototipação e Construção. Páginas 265-266. Disponível em: https://libgen.li/file.php?md5=02236874c9b62b7d9aed9ec21639968a. Acesso em: 10 jan. 2025.
 
-> 2. ROSA, José; MORAES, Anamaria. Avaliação e projeto no design de interfaces. São Paulo: 2AB, 2010. Capítulo 09: Teste de usabilidade. Página 157. Disponível em: https://aprender3.unb.br/pluginfile.php/2972820/mod_resource/content/2/04%20Teste_de_usabilidade.pdf. Acesso em: 12 jan. 2025.
+> 2. ROSA, José; MORAES, Anamaria. Avaliação e projeto no design de interfaces. São Paulo: 2AB, 2010. Capítulo 09: Teste de usabilidade. Página 157.
 
 ## Histórico de Versão
 

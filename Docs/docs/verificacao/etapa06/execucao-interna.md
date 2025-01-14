@@ -39,6 +39,10 @@ Feito o [planejamento da verificação dos itens do desenvolvimento do projeto](
 | 22 - Os protótipo(s) seguem o guia de estilo definido pelo grupo? ||||
 | 23 - O protótipo de alta fidelidade utiliza recursos que possivelmente estarão no produto final? |||![1](../assets/recursosPrototipoAlta.png) PREECE, Jenny; ROGERS, Yvonne; SHARP, Helen. Interaction design: beyond human-computer interaction. 1. ed. New York: J. Wiley & Sons, 2002. Capítulo 08: Design, Prototipação e Construção. Página 265|
 
+## Resultado
+
+
+
 ## Bibliografia
 
 > \- BARBOSA, Simone, et al. Interação Humano-Computador e Experiência do Usuário. Leanpub, 2022. Disponível em: https://leanpub.com/ihc-ux. Acesso em: 09 dez. 2024.

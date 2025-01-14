@@ -242,3 +242,4 @@ Nenhuma sugestão de melhoria foi descrita. A entrevistada teve claro entendimen
 |:---:|:---:|---|---|:---:|---|
 | 1.0 | 12/01/2025 | [Weverton Rodrigues](https://github.com/vevetin) | Criação do documento | 12/01/2025 | [Paulo Henrique](https://github.com/paulomh) |
 | 1.1 | 14/01/2025 | [Necivaldo Amaral](https://github.com/junioramaral22) | Adição de relato prototipo envio nota fiscal | 12/01/2025 | [Weverton Rodrigues](https://github.com/vevetin) |
+| 1.2 | 14/01/2025 | [Paulo Henrique](https://github.com/paulomh) | Adição de relato prototipo fazer um pedido no e-sic | 12/01/2025 | [Necivaldo Amaral](https://github.com/junioramaral22) |

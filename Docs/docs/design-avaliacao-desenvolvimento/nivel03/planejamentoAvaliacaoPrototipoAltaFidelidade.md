@@ -73,8 +73,8 @@ Os participantes serão selecionados com base no [perfil de usuário](../../anal
 A preparação para a avaliação do protótipo de alta fidelidade envolve a organização dos materiais e recursos necessários para os dois métodos de avaliação: a entrevista semiestruturada e a avaliação heurística.  
 
 > **Entrevista Semiestruturada:**  
-Ferramentas: Celular para gravação de áudio e vídeo e computador para gravção de tela;    
-Materiais: Protótipos de alta fidelidade e roteiros de avaliação;    
+Ferramentas: Notebook para gravação do audio, vídeo e captura da tela;    
+Materiais: Protótipos de alta fidelidade e roteiros de avaliação, no qual será especificada por cada membro da equipe a serem realizadas;    
 Ambiente: A entrevista ocorrerá presencialmente em local combinado com os participantes ou, em último caso, de forma remota;
 
 > **Avaliação Heurística:**  
@@ -92,10 +92,18 @@ A avaliação será realizada conforme cronograma a ser definido, considerando a
 
 | Entrevistador | Entrevistado(a) | Horário Início | Horário Fim | Data | Local |
 |---|---|:---:|:---:|:---:|---|
+| [Weverton Rodrigues](https://github.com/vevetin) | Richard  | 17:00 | 17:15  | 23/01/2025 | Casa do entrevistado |
+| [Weverton Rodrigues](https://github.com/vevetin) | Moysés  | 17:00 | 17:15  | 23/01/2025 | Casa do entrevistado |
 | [Weverton Rodrigues](https://github.com/vevetin) | José  | 17:00 | 17:15  | 23/01/2025 | Casa do entrevistado |
+| [Rodrigo Wendrel](https://github.com/rodwendrel) | Richard | 13:00 | 13:30  | 23/01/2025 | Biblioteca nacional |
 | [Rodrigo Wendrel](https://github.com/rodwendrel) | Moysés | 13:00 | 13:30  | 23/01/2025 | Biblioteca nacional |
+| [Rodrigo Wendrel](https://github.com/rodwendrel) | José | 13:00 | 13:30  | 23/01/2025 | Biblioteca nacional |
 | [Paulo Henrique](https://github.com/paulomh) | Igor | 10:00 | 10:20  | 23/01/2025 | Faculdade do Gama |
-
+| [Paulo Henrique](https://github.com/paulomh) | Ana | 10:00 | 10:20  | 23/01/2025 | Faculdade do Gama |
+| [Paulo Henrique](https://github.com/paulomh) | Cauã | 10:00 | 10:20  | 23/01/2025 | Faculdade do Gama |
+| [Necivaldo Amaral](https://github.com/junioramaral22) | Igor | 10:00 | 10:20  | 23/01/2025 | Faculdade do Gama |
+| [Necivaldo Amaral](https://github.com/junioramaral22) | Ana | 10:00 | 10:20  | 23/01/2025 | Faculdade do Gama |
+| [Necivaldo Amaral](https://github.com/junioramaral22) | Cauã | 10:00 | 10:20  | 23/01/2025 | Faculdade do Gama |
 
 <p style={{ textAlign: 'center', fontSize: '17px' }}>Autor: [Rodrigo Wendrel](https://github.com/rodwendrel)</p>
 
@@ -120,10 +128,10 @@ O teste piloto consiste em uma execução prévia da avaliação, com o objetivo
 
 Detalhes:
 
-    Data: 
-    Horário:
-    Integrantes responsáveis:
-    Local:
+    Data 21/01/2025: 
+    Horário 10:30:
+    Integrantes responsáveis: Paulo Henrique, Rodrigo Wendrel, Weverton Rodrigues e Necivaldo Amaral
+    Local: Faculdade do Gama
 
 ## Resultado do Teste Piloto
 

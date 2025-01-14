@@ -47,8 +47,8 @@ Na tela inicial, há duas formas de se acessar o e-SIC: por meio do "Mapa do Sit
 <p style={{ textAlign: 'center', fontSize: '17px' }}>Autor: [Paulo Henrique](https://github.com/paulomh)</p>
 
 </center>
-
-Ao passar o mouse sobre a opção "Cidadão / e-SIC" no carrosel, surgirá uma extensão com as opções de acesso ao e-SIC.
+<a id="figura03"></a>
+Ao passar o mouse sobre a opção "Cidadão / e-SIC" no carrosel, surgirá uma extensão com as opções de acesso ao e-SIC. 
 
 <center>
 

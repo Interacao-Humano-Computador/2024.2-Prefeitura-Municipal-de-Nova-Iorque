@@ -27,14 +27,23 @@ O presente documento tem como objetivo relatar os resultados obtidos durante a a
 
 ### Objetivo e âmbito da avaliação
 
+A avaliação teve como objetivo analisar o [Protótipo de Papel 1 - Fazer um pedido no e-SIC](./prototipoDePapel.md#protótipo-de-papel-1---fazer-um-pedido-no-e-sic), visando identificar pontos de melhoria na interação e na interface, buscando aspectos relacionados à alternativas de design e problemas na interação e na interface.
+
 ### Método de avaliação
 
+O método de avaliação utilizado foi a entrevista semiestruturada com base no [Planejamento da Avaliação do Protótipo de Papel](./planejamentoAvaliacaoPrototipoDePapel.md).
 <center>
 
 <p style={{ textAlign: 'center', fontSize: '18px' }}><b>Tabela 2</b> - Roteiro de perguntas para Avaliação do Protótipo de Papel</p>
 
 | Objetivo | Pergunta | Resposta |
 |---|---|---|
+| Ideias e Alternativas de Design | 1. Qual das alternativas de design do protótipo de papel é mais eficiente e fácil de aprender? | O entrevistado optou por seguir o fluxo de acessar o e-SIC através do ícone que encontrava-se no carrosel no centro da página inicial do protótipo ([figura 03](./prototipoDePapel.md#figura03)), visto que a opção de buscar pelo "mapa do site" exigia um esforço maior. | 
+| Ideias e Alternativas de Design | 2. Qual alternativa de design os usuários preferem? Por quê? | Como mencionado anteriormente, ele preferiu acessar a página do e-sic pelo ícone presente no carrosel por ser uma opção mais rápida e eficiente.|
+| Ideias e Alternativas de Design | 3. Qual alternativa de design se espera que tenha um impacto negativo menor ao ser adotada? | Durante a avaliação, o usuário não percebeu que o ícone estava presente em um carrosel no protótipo. Portanto, substituir o carrosel por um componente estático com as funcionalidades mais acessadas do site na página principal, deixando claro e evidente os botões de acesso.|
+| Problemas na Interação e Interface | 4. Os usuários conseguem operar o protótipo de papel? Eles atingem seus objetivos de maneira eficiente? Com que frequência cometem erros?| Sim, o usuário conseguiu operar o protótipo de papel com certa maestria, atingindo seu objetivo de realizar um pedido no e-sic com demasiada eficiência sem cometer erros.| 
+| Problemas na Interação e Interface | 5. Que parte da interface do protótipo de papel deixa os usuários insatisfeitos ou causa confusão? | Não tiveram partes que o deixaram insatisfeito. |
+| Problemas na Interação e Interface  | 6. Os usuários entendem claramente o que cada elemento do protótipo de papel significa e o que devem fazer em seguida? | Sim, o usuário entendeu claramente os elementos do protótipo de papel| 
 
 <p style={{ textAlign: 'center', fontSize: '17px' }}>Autor: [Paulo Henrique](https://github.com/paulomh)</p>
 
@@ -44,19 +53,30 @@ O presente documento tem como objetivo relatar os resultados obtidos durante a a
 
 **Objetivo e método**  
 
+Após a entrevista, foi realizada uma avaliação heurística baseada nas 10 heurísticas de Nielsen<sup>[1](./relatoPrototipoDePapel.md#referências-bibliográficas)</sup>, selecionado por sua relevância no contexto de protótipos de papel. As heurísticas analisadas foram:
+
+- Visibilidade do status do sistema: verificar se o sistema fornece feedback adequado sobre o status das ações realizadas.
+- Flexibilidade e eficiência de uso: avaliar se o sistema permite que os usuários realizem tarefas de maneira rápida e eficiente.
+- Design estético e minimalista: examinar se o protótipo evita informações desnecessárias e mantém o foco nos elementos essenciais.
+- Correspondência entre o sistema e o mundo real: analisar se os fluxos propostos no protótipo são familiares aos usuários.
+
 **Resultados**
 
-<!-- incluir avaliacao heuristica, se aplicavel -->
+Das heurísticas analisadas, o fluxo de acessar a página do e-sic pelo "mapa do site" violou a heurística de correspondência entre o sistema e o mundo real, visto que esse fluxo não é claro e intuitivo para o usuário. Por outro lado, as demais heurísticas avaliadas foram satisfeitas, uma vez que o protótipo permite que os usuários realizem tarefas de maneira rápida e eficiente e evita informações desnecessárias, além de sempre retornar um feedback adequado para as ações executadas no protótipo, mantendo o foco nos elementos essenciais.
 
 ### Seleção dos participantes
 
+Por motivos pessoais, o participante selecionado no [planejamento da avaliação](./planejamentoAvaliacaoPrototipoDePapel.md#cronogramaEntrevista) não pôde participar, sendo o seu substituto o entrevistado João Arthur. O participante selecionado foi o João Artur, de 21 anos, que se enquadra no grupo de [Cidadãos em Geral (faixa etária predominante: 18 a 60 anos)](../../analise-de-requisitos/perfilDeUsuario.md#conclusão). João possui experiência uma boa experiência com tecnologia, representando um usuário dessa faixa etária com familiaridade intermediária a avançada em usar interfaces digitais.
+
 ### Sugestões de melhorias
+
+Da entrevista não houve sugestões de melhoria por parte do entrevistado. Porém, identificando a forma como o protótipo era utilizado, o entrevistado não notou a presença do carrosel na página inicial do protótipo, não interferindo na sua experiência de uso, mas evidenciando que usar esse tipo de recurso pode ofuscar demais funcionalidades. A sugestão de melhoria identificada durante a avaliação foi a substituição do carrosel por um componente estático com as funcionalidades mais acessadas do site na página principal, deixando claro e evidente os botões de acesso. Essa mudança visa facilitar o acesso do usuário às funcionalidades mais utilizadas do site, tornando a navegação mais intuitiva e eficiente. Além disso, outra sugestão de mudança por parte do avaliador seria a inclusão de um cabeçalho fixo com as funcionalidades separadas por categorias, facilitando a navegação do usuário.
 
 ### Registro da avaliação
 
 <center>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BPNICWKYZbI?si=4eyn0pnsIgLlF9F7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9v6sCGDIONY?si=RGC_9xD4Rg1U4Q9C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 </center>
 
@@ -206,3 +226,4 @@ Nenhuma sugestão de melhoria foi identificada durante a avaliação. O protóti
 | Versão | Data | Autor(es) | Descrição | Data de Revisão | Revisor(es) |
 |:---:|:---:|---|---|:---:|---|
 | 1.0 | 12/01/2025 | [Weverton Rodrigues](https://github.com/vevetin) | Criação do documento | 12/01/2025 | [Paulo Henrique](https://github.com/paulomh) |
+| 1.0 | 14/01/2025 | [Paulo Henrique](https://github.com/paulomh) | Relato- Fazer um pedido no e-SIC | 14/01/2025 | [Rodrigo Wendrel](https://github.com/rodwendrel) |

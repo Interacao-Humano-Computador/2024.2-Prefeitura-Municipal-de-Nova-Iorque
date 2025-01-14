@@ -175,14 +175,22 @@ Nenhuma sugestão de melhoria foi identificada durante a avaliação. O protóti
 
 ### Objetivo e âmbito da avaliação
 
+A avaliação teve como objetivo analisar o [Protótipo de Papel 5 - Envio de Nota Fiscal](https://interacao-humano-computador.github.io/2024.2-Prefeitura-Municipal-de-Nova-Iorque/docs/design-avaliacao-desenvolvimento/nivel02/prototipoDePapel#protótipo-de-papel-5---envio-de-nota-fiscal-de-serviço), visando identificar pontos de melhoria na interação e na interface. O âmbito da avaliação abrangeu aspectos relacionados à alternativas de design e problemas na interação e na interface.
 ### Método de avaliação
 
+O método de avaliação utilizado foi a entrevista semiestruturada, acordado com o [Planejamento da Avaliação do Protótipo de Papel](./planejamentoAvaliacaoPrototipoDePapel.md).
 <center>
 
 <p style={{ textAlign: 'center', fontSize: '18px' }}><b>Tabela 5</b> - Roteiro de perguntas para Avaliação do Protótipo de Papel</p>
 
 | Objetivo | Pergunta | Resposta |
-|---|---|---|
+|---|---|:---|
+| Ideias e Alternativas de Design | 1. Qual das alternativas de design do protótipo de papel é mais eficiente e fácil de aprender? | A entrevistada optou pelo menu superior | 
+| Ideias e Alternativas de Design | 2. Qual alternativa de design os usuários preferem? Por quê? |A entrevistada preferiu o menu superior pela fácil identificação |
+| Ideias e Alternativas de Design | 3. Qual alternativa de design se espera que tenha um impacto negativo menor ao ser adotada? | do menu superior|
+| Problemas na Interação e Interface | 4. Os usuários conseguem operar o protótipo de papel? Eles atingem seus objetivos de maneira eficiente? Com que frequência cometem erros?| Sim, a entrevistada conseguiu operar o protótipo com facilidade, atingindo seus objetivos de maneira eficiente.| 
+| Problemas na Interação e Interface | 5. Que parte da interface do protótipo de papel deixa os usuários insatisfeitos ou causa confusão? | Nenhuma, ficou bem claro para a entrevistada |
+| Problemas na Interação e Interface  | 6. Os usuários entendem claramente o que cada elemento do protótipo de papel significa e o que devem fazer em seguida? | Sim, bem claro. | 
 
 <p style={{ textAlign: 'center', fontSize: '17px' }}>Autor: [Necivaldo Amaral](https://github.com/junioramaral22)</p>
 
@@ -191,20 +199,27 @@ Nenhuma sugestão de melhoria foi identificada durante a avaliação. O protóti
 ### Avaliação Heurística
 
 **Objetivo e método**  
+Além da entrevista, foi realizada uma avaliação heurística baseada nas 10 heurísticas de Nielsen<sup>[1](./relatoPrototipoDePapel.md#referências-bibliográficas)</sup>, selecionado por sua relevância no contexto de protótipos de papel. As heurísticas analisadas foram:
+- Correspondência entre o sistema e o mundo real: verificar se a terminologia e os fluxos apresentados no protótipo são familiares aos usuários.
+- Design estético e minimalista: examinar se o protótipo evita informações desnecessárias e mantém o foco nos elementos essenciais.
+- Reconhecimento em vez de memorização: confirmar se as informações necessárias estão visíveis e facilmente acessíveis no protótipo.
 
-**Resultados**
+**Resultados**    
+A avaliação heurística não identificou violações em nenhuma das heurísticas analisadas. Este resultado indica que o protótipo está em conformidade com os princípios de usabilidade estabelecidos. A ausência de problemas nesta etapa reforça que o design atual atende aos padrões de interação esperados.
 
 <!-- incluir avaliacao heuristica, se aplicavel -->
 
 ### Seleção dos participantes
+A participante selecionada foi Ana, de 51 anos, que se enquadra no grupo de [Cidadãos em Geral (faixa etária predominante: 18 a 60 anos)](../../analise-de-requisitos/perfilDeUsuario.md#conclusão). Que possui bom conhecimento com tecnologia e familiaridade com as tarefas designadas. Teve fácil entendimento do fluxo da tarefa e completou sem dificuldades.
 
 ### Sugestões de melhorias
+Nenhuma sugestão de melhoria foi descrita. A entrevistada teve claro entendimento da tarefa e como realiza-la no protótipo de papel.
 
 ### Registro da avaliação
 
 <center>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BPNICWKYZbI?si=4eyn0pnsIgLlF9F7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SLnLHSkmKY?si=ruSV-x5XdHcv2Py3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 </center>
 
@@ -226,4 +241,4 @@ Nenhuma sugestão de melhoria foi identificada durante a avaliação. O protóti
 | Versão | Data | Autor(es) | Descrição | Data de Revisão | Revisor(es) |
 |:---:|:---:|---|---|:---:|---|
 | 1.0 | 12/01/2025 | [Weverton Rodrigues](https://github.com/vevetin) | Criação do documento | 12/01/2025 | [Paulo Henrique](https://github.com/paulomh) |
-| 1.0 | 14/01/2025 | [Paulo Henrique](https://github.com/paulomh) | Relato- Fazer um pedido no e-SIC | 14/01/2025 | [Rodrigo Wendrel](https://github.com/rodwendrel) |
+| 1.1 | 14/01/2025 | [Necivaldo Amaral](https://github.com/junioramaral22) | Adição de relato prototipo envio nota fiscal | 12/01/2025 | [Weverton Rodrigues](https://github.com/vevetin) |

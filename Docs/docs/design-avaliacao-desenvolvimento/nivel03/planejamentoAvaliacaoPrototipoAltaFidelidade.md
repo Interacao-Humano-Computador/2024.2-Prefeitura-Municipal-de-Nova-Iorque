@@ -52,11 +52,11 @@ Baseando-se nos objetivos da avaliação, as perguntas a serem respondidas com a
 
 ## C - Escolher os métodos de avaliação a serem utilizados
 
-Para a avaliação do protótipo de alta fidelidade, serão utilizados dois métodos principais: **entrevista semiestruturada** em conjunto com **teste de usabilidade**, esse definido por José Rosa (2010)<sup>[5](planejamentoAvaliacaoPrototipoDePapel.md#referências-bibliográficas)</sup>.
+Para a avaliação do protótipo de alta fidelidade, serão utilizados dois métodos principais: **entrevista semiestruturada** em conjunto com **teste de usabilidade**, esse definido por José Rosa (2010)<sup>[5](./planejamentoAvaliacaoPrototipoAltaFidelidade.md#referências-bibliográficas)</sup>.
 
 A entrevista semiestruturada será utilizada para avaliar o aspecto da apropriação da tecnologia. Esse método permitirá captar dados qualitativos importantes sobre a usabilidade, a compreensão do protótipo e as motivações para sua adoção ou rejeição.
 
-Já o teste de usabilidade será empregado para avaliar a eficácia, eficiência e satisfação do usuário ao interagir com o protótipo de alta fidelidade. Esse método permitirá identificar problemas na interação e interface, bem como avaliar a experiência do usuário ao utilizar o site proposto. Nesse tipo de teste, o foco está no comportamento obserável do usuário, permitindo identificar problemas de usabilidade e interação<sup>[6](planejamentoAvaliacaoPrototipoDePapel.md#referências-bibliográficas)</sup>.
+Já o teste de usabilidade será empregado para avaliar a eficácia, eficiência e satisfação do usuário ao interagir com o protótipo de alta fidelidade. Esse método permitirá identificar problemas na interação e interface, bem como avaliar a experiência do usuário ao utilizar o site proposto. Nesse tipo de teste, o foco está no comportamento obserável do usuário, permitindo identificar problemas de usabilidade e interação<sup>[6](./planejamentoAvaliacaoPrototipoAltaFidelidade.md#referências-bibliográficas)</sup>.
 
 Ambos os métodos foram escolhidos por serem complementares e manter uma eficácia na obtenção de feedback detalhado e qualitativo, explorando profundamente a dinâmicas de uso do protótipo de alta fidelidade..
 
@@ -118,7 +118,7 @@ Tendo como base o [termo de consentimento geral](../../analise-de-requisitos/asp
 
 ## E - Avaliar, interpretar e apresentar os dados
 
-A avaliação dos dados coletados será conduzida de acordo com as etapas descritas no documento [Planejamento do Relato do Protótipo de Alta Fidelidade](./planejamentoRelatoPrototipoDePapel.md).
+A avaliação dos dados coletados será conduzida de acordo com as etapas descritas no documento [Planejamento do Relato do Protótipo de Alta Fidelidade](./planejamentoDoRelatoAvaliacaoProtipoAltaFidelidade.md).
 
 Os dados das entrevistas semiestruturadas e da avaliação heurística serão organizados, codificados e analisados para identificar padrões, dificuldades e oportunidades de melhoria. Os resultados serão apresentados de forma estruturada, destacando problemas encontrados, sugestões de melhoria e lições aprendidas, com base nas análises dos feedbacks dos participantes e dos problemas de interface identificados.
 

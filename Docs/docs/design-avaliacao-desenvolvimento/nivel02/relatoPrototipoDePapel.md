@@ -17,6 +17,9 @@ O presente documento tem como objetivo relatar os resultados obtidos durante a a
 | Entrevistador(es) | Entrevistado(s)| Horário de Início | Horário de Fim | Data Planejada | Tarefa  | Local |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | [Weverton Rodrigues](https://github.com/vevetin) | Arthur Sousa | 16:50 | 16:57 | 09/01/2025 | [Protótipo de Papel 2 - Agendamento de Consulta Médica](./prototipoDePapel.md#protótipo-de-papel-2---agendamento-de-consulta-médica) | Sala I2, UAC, Campus UnB Gama |
+| [Paulo Henrique](https://github.com/vevetin) | João Artur | 10:20 | 10:30 | 13/01/2025 | [Protótipo de Papel 1 - Realizar Pedido no e-SIC](./prototipoDePapel.md#protótipo-de-papel-2---agendamento-de-consulta-médica) | Sala I4, UAC, Campus UnB Gama |
+| [Rodrigo Wendrel](https://github.com/vevetin) | Guilherme Oliveira | 16:00 | 16:30 | 14/01/2025 | [Protótipo de Papel 4 - Busca por Licitação Fracassada](./prototipoDePapel.md#protótipo-de-papel-2---agendamento-de-consulta-médica) | Conteiner EJ, Campus UNB Gama |
+| [Necivaldo Amaral](https://github.com/vevetin) | Ana Claudia | 19:00 | 19:10 | 14/01/2025 | [Protótipo de Papel 5 - Envio de Nota Fiscal de Serviço](./prototipoDePapel.md#protótipo-de-papel-2---agendamento-de-consulta-médica) | Casa da entrevistada |
 
 
 <p style={{ textAlign: 'center', fontSize: '17px' }}>Autor: [Weverton Rodrigues](https://github.com/vevetin)</p>

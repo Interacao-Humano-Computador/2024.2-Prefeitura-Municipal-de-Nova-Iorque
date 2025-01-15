@@ -128,10 +128,10 @@ O teste piloto consiste em uma execução prévia da avaliação, com o objetivo
 
 Detalhes:
 
-    Data 21/01/2025: 
-    Horário 10:30:
-    Integrantes responsáveis: Paulo Henrique, Rodrigo Wendrel, Weverton Rodrigues e Necivaldo Amaral
-    Local: Faculdade do Gama
+    - Data 21/01/2025
+    - Horário 10:30
+    - Integrantes responsáveis: Paulo Henrique, Rodrigo Wendrel, Weverton Rodrigues e Necivaldo Amaral
+    - Local: Faculdade do Gama
 
 ## Resultado do Teste Piloto
 

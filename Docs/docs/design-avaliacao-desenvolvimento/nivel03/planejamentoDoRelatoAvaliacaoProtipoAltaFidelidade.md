@@ -20,6 +20,7 @@ Nesta etapa, é essencial esclarecer o objetivo da avaliação e justificar sua 
 
 No caso em questão, os objetivos específicos incluem:
 
+* Ideias e Alternativas de Design.
 * Avaliar a conformidade do protótipo com um padrão previamente definido.
 * Identificar problemas relacionados à interação e à interface do usuário.
 

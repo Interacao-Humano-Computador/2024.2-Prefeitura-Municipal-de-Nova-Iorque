@@ -16,8 +16,6 @@ Com base no nível 3 do processo de Design, Avaliação e Desenvolvimento da [En
 
 O protótipo de alta fidelidade foi desenvolvido com base em um processo iterativo, iniciado pela criação de [protótipos de baixa fidelidade em papel](../nivel02/prototipoDePapel.md). Esses protótipos serviram para definir a estrutura das interfaces e orientar o refinamento das interações.
 
-A avaliação contou com um número reduzido de participantes, seguindo a proposta de Krug, que sugere 3 ou 4 usuários <sup>[2](./prototipoDeAltaFidelidade.md#referências-bibliográficas)</sup> para identificar a maioria dos problemas de usabilidade. Embora Nielsen recomende entre 5 a 7 participantes para uma análise mais ampla, a escolha de 3 a 4 participantes foi baseada em nossa limitação de tempo e recrutamento/disponibilidade de participantes para essa avaliação.
-
 O [Guia de Estilo](../../analise-de-requisitosII/guiaDeEstilo.md), previamente desenvolvido, também será seguido durante o desenvolvimento dos protótipos de alta fidelidade, assegurando que as interfaces mantenham consistência visual, acessibilidade e alinhamento com as necessidades do público-alvo.
 
 ## Protótipos de Alta Fidelidade

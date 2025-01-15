@@ -53,4 +53,4 @@ O presente documento tem como objetivo apresentar a Lista de Verificação (disp
 | Versão | Data | Autor(es) | Descrição | Data de Revisão | Revisor(es) |
 |:---:|:---:|---|---|:---:|---|
 | 1.0 | 13/01/2025 | [Paulo Henrique](https://github.com/paulomh) | criação do documento |13/01/2025|[Weverton Rodrigues](https://github.com/vevetin)|
-| 1.1 | 13/01/2025 | [Necivaldo Amaral](https://github.com/junioramaral22) | Execução da verificação grupo 07 |13/01/2025|[Weverton Rodrigues](https://github.com/vevetin)|
+| 1.1 | 13/01/2025 | [Necivaldo Amaral](https://github.com/junioramaral22) | Execução da verificação grupo 07 |15/01/2025|[Weverton Rodrigues](https://github.com/vevetin)|

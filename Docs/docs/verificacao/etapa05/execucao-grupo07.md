@@ -37,7 +37,7 @@ O presente documento tem como objetivo apresentar a Lista de Verificação (disp
 | 21 - A definição do teste piloto e data para realização do teste piloto antes da avaliação? | Não | v1.0, 06/01/2025 - 21:14 |![5](../assets/teste-piloto.jfif)  BARBOSA, Simone, et al. Interação Humano-Computador e Experiência do Usuário. Leanpub, p.276  cap 11, 2022.|
 | 22 - Os itens que o avaliador deve realizar/anotar durante a avaliação (listar os problemas encontrados, priorizar a correção dos problemas não resolvidos)? | Não | v1.0, 06/01/2025 - 21:14 |![6](../assets/etapa5-q20.jfif)  BARBOSA, Simone, et al. Interação Humano-Computador e Experiência do Usuário. Leanpub, p.319  cap 12, 2022.|
 
-## Observações Gerais
+## Resultado
 
 Com relação aos artefatos dessa entrega (Entrega 05), não houve entrega de relatos, gravação da reunião do grupo e vídeo de apresentação. Além disso, a página de planejamento da avaliação do protótipo de papel não está funcionando corretamente, impossibilitando a verificação de alguns itens da lista de verificação.
 

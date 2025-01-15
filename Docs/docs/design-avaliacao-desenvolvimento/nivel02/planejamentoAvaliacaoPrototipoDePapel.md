@@ -74,7 +74,7 @@ Ambiente: A avaliação será realizada em um ambiente controlado e silencioso p
 Os custos envolvidos na avaliação incluem despesas com impressão de materiais, transporte dos participantes e equipamentos para gravação, caso necessário. A equipe buscará otimizar o uso dos recursos disponíveis, minimizando despesas e aproveitando ao máximo os materiais já disponíveis.
 
 ### Prazos
-
+<a id="cronogramaEntrevista"></a>
 A avaliação será realizada conforme cronograma a ser definido, considerando a disponibilidade dos participantes e dos entrevistadores.
 
 <center>
@@ -127,7 +127,7 @@ O teste piloto consiste em uma execução prévia da avaliação, com o objetivo
 **Detalhes:**  
 - Data: 06/01/2025
 - Horário: 11:00 às 11:20
-- Integrantes responsáveis: Paulo Henrique e Weverton Rodrigues
+- Integrantes responsáveis: Paulo Henrique, Weverton Rodrigues e Rodrigo Wendrel
 - Local: Campus UnB Gama (presencialmente)
 
 ## Resultado do Teste Piloto

@@ -47,8 +47,8 @@ Na tela inicial, há duas formas de se acessar o e-SIC: por meio do "Mapa do Sit
 <p style={{ textAlign: 'center', fontSize: '17px' }}>Autor: [Paulo Henrique](https://github.com/paulomh)</p>
 
 </center>
-
-Ao passar o mouse sobre a opção "Cidadão / e-SIC" no carrosel, surgirá uma extensão com as opções de acesso ao e-SIC.
+<a id="figura03"></a>
+Ao passar o mouse sobre a opção "Cidadão / e-SIC" no carrosel, surgirá uma extensão com as opções de acesso ao e-SIC. 
 
 <center>
 
@@ -309,6 +309,67 @@ Nesta tela, temos os filtros de ano, modalidade, status e unidade sendo que, est
 
 Então, os detalhes são exibidos, é possível visualizar os documentos da licitação e fazer o download no formato desejado. Então, um pop-up de sucesso é exibido.
 
+### Protótipo de Papel 5 - Envio de Nota Fiscal de Serviço
+Baseado no [diagrama HTA - Envio de Nota Fiscal de Serviço](https://interacao-humano-computador.github.io/2024.2-Prefeitura-Municipal-de-Nova-Iorque/docs/analise-de-requisitos/analiseTarefas#tarefa-04---consulta-e-envio-de-nota-fiscal-eletr%C3%B4nica-no-site-da-prefeitura) e tendo como base o objetivo do [Storyboard - Envio de Nota Fiscal de Serviço  ](https://interacao-humano-computador.github.io/2024.2-Prefeitura-Municipal-de-Nova-Iorque/docs/design-avaliacao-desenvolvimento/nivel01/Storyboard/storyboards#storyboard-3-envio-de-nota-fiscal-de-servi%C3%A7o)
+
+<center>
+
+<p style={{ textAlign: 'center', fontSize: '18px' }}><b>Figura 20</b> - Tela inicial do protótipo</p>
+
+![](./assets/prototipoInicialNecivaldo.jpg)
+
+<p style={{ textAlign: 'center', fontSize: '17px' }}>Autor: [Necivaldo Amaral](https://github.com/junioramaral22)</p>
+
+</center>
+Na tela inicial, há duas formas de acessar as notas fiscais de serviço: por meio do menu superior na opção NFS-E e pelas listadas em empresas no canto inferior esquerdo.
+
+<center>
+
+<p style={{ textAlign: 'center', fontSize: '18px' }}><b>Figura 21</b> - Tela inicial do protótipo com menu dropdown</p>
+
+![](./assets/prototipoInicial2Necivaldo.jpg)
+
+<p style={{ textAlign: 'center', fontSize: '17px' }}>Autor: [Necivaldo Amaral](https://github.com/junioramaral22)</p>
+
+</center>
+
+Ao passar o mouse por cima da opção NFS-E o usuario pode escolher entre as opções: 1. Emitir nota fiscal, 2. Consultar nota fiscal.
+
+<center>
+
+<p style={{ textAlign: 'center', fontSize: '18px' }}><b>Figura 22</b> - Tela de Login</p>
+
+![](./assets/prototipoNecivaldoLogin.jpg)
+
+<p style={{ textAlign: 'center', fontSize: '17px' }}>Autor: [Necivaldo Amaral](https://github.com/junioramaral22)</p>
+
+</center>
+
+Para realizar uma das funções da nota fiscal de serviço o usuario deve logar no sistema ou cadastrar-se. Logo após será redirecionado.
+
+<center>
+
+<p style={{ textAlign: 'center', fontSize: '18px' }}><b>Figura 23</b> - Tela de formulário</p>
+
+![](./assets/prototipoNecivaldoForm.jpg)
+
+<p style={{ textAlign: 'center', fontSize: '17px' }}>Autor: [Necivaldo Amaral](https://github.com/junioramaral22)</p>
+
+</center>
+
+Nessa tela o usuário poderá preencher as informações do formulário para a emissão da nota fiscal de serviço.
+
+<center>
+
+<p style={{ textAlign: 'center', fontSize: '18px' }}><b>Figura 24</b> - Tela de confirmação de Formulário enviado</p>
+
+![](./assets/prototipoNecivaldoForm2.jpg)
+
+<p style={{ textAlign: 'center', fontSize: '17px' }}>Autor: [Necivaldo Amaral](https://github.com/junioramaral22)</p>
+
+</center>
+
+Após o envio do formulário é notificado ao usuário a emissão com possibilidade de impressão / salvar e dado a opção de retorno a tela inicial.
 
 ## Bibliografia
 
@@ -332,5 +393,6 @@ Então, os detalhes são exibidos, é possível visualizar os documentos da lici
 | 1.3 | 05/01/2025 | [Paulo Henrique](https://github.com/paulomh) | Imagens do protótipo - Realizar pedido no e-SIC | 05/01/2025 | [Pedro Luiz](https://github.com/pedroluizfo)  |
 | 1.4 | 05/01/2025 | [Weverton Rodrigues](https://github.com/vevetin) | Protótipo - Agendamento de Consulta Médica | 05/01/2025 | [Paulo Henrique](https://github.com/paulomh) |
 | 1.5 | 05/01/2025 | [Rodrigo Wendrel](https://github.com/rodwendrel) | Imagens do protótipo - Buscar por licitação fracassada | 05/01/2025 | [Paulo Henrique](https://github.com/paulomh)  |
+| 1.6 | 14/01/2025 | [Necivaldo Amaral](https://github.com/junioramaral) | Imagens do protótipo - Envio de Nota Fiscal de Serviço | 05/01/2025 | [Rodrigo Wendrel](https://github.com/rodwendrel)  |
 
 

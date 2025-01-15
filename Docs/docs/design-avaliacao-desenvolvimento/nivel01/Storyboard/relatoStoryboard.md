@@ -2,11 +2,11 @@
 sidebar_position: 4
 ---
 
-# Relato dos Resultados da Avaliação do Storyboard
+# Relato dos Resultados da Avaliação dos Storyboards
 
 ## Introdução
 
-O presente documento tem como objetivo relatar os resultados obtidos durante a avaliação do Storyboard, realizada com o intuito de identificar possíveis problemas e oportunidades de melhoria no sistema proposto. A análise foi conduzida com base no [Planejamento da Avaliação do Storyboard](planejamentoRelatoStoryboard.md) e a organização dos dados foi feita com base no [Planejamento do Relato dos Resultados da Avaliação do Storyboard](planejamentoRelatoStoryboard.md).
+O presente documento tem como objetivo relatar os resultados obtidos durante a avaliação do Storyboard, realizada com o intuito de identificar possíveis problemas e oportunidades de melhoria no sistema proposto. A análise foi conduzida com base no [Planejamento da Avaliação do Storyboard](./planejamentoAvaliacaoStoryboard.md) e a organização dos dados foi feita com base no [Planejamento do Relato dos Resultados da Avaliação do Storyboard](./planejamentoRelatoStoryboard.md).
 
 ## Entrevista - Fazer um pedido no e-SIC
 

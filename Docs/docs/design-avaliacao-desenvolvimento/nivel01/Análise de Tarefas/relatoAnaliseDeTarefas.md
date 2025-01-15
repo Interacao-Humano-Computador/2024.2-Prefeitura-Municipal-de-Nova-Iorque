@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-# Relato dos Resultados da Avaliação da Análise de Tarefas
+# Relato dos Resultados da Avaliação das Análises de Tarefas
 
 ## Introdução
 

@@ -264,6 +264,16 @@ O cronograma tem como objetivo organizar as atividades do projeto a serem realiz
 
     | Atividade | Período de desenvolvimento | Responsável | Revisão | Revisor(es) | Data da Entrega |
     | --------- | -------------------------- | ----------- | ------- | --------- | --------------- |
+    | Relato dos resultados do protótipo de papel | 12/01/2025 - 14/01/2025 | Paulo Henrique, Necivaldo Amaral, Rodrigo Wendrel, Weverton Rodrigues | 12/01/2025 - 14/01/2025 | Paulo Henrique, Necivaldo Amaral, Weverton Rodrigues | 14/01/2025 |
+    |Protótipos de alta fidelidade | 09/01/2025 - em desenvolvimento | Paulo Henrique, Necivaldo Amaral, Rodrigo Wendrel, Weverton Rodrigues | 13/01/2025 | Paulo Henrique | 14/01/2025 |
+    | Planejamento da avaliação do protótipo de alta fidelidade | 13/01/2025 - 14/01/2025 | Paulo Henrique, Rodrigo Wendrel | 13/01/2025 - 14/01/2025 | Paulo Henrique, Rodrigo Wendrel | 14/01/2025 |
+    | Planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade | 14/01/2025 | Necivaldo Amaral | 14/01/2025 | Weverton Rodrigues | 14/01/2025 |
+    | Inspeção da entrega da apresentação do projeto Etapa 6 | 14/01/2025 | Paulo Henrique, Weverton Rodrigues | 14/01/2024 | Paulo Henrique | 14/01/2025 |
+    | Gravação da apresentação | 14/01/2025 | Paulo Henrique, Necivaldo Amaral, Rodrigo Wendrel, Weverton Rodrigues | 14/01/2025 | Paulo Henrique | 14/01/2025 |
+    | Edição da gravação | 14/01/2025 | Paulo Henrique | 14/01/2025 | Paulo Henrique, Necivaldo Amaral, Rodrigo Wendrel, Weverton Rodrigues | 14/01/2025 |
+    | Cronograma executado | 14/01/2025 | Weverton Rodrigues | 14/01/2025 | Paulo Henrique, Necivaldo Amaral, Rodrigo Wendrel, Weverton Rodrigues | 14/01/2025 |
+
+    <p style={{ textAlign: 'center', fontSize: '15px' }}><b>Autor(es):</b> [Weverton Rodrigues](https://github.com/vevetin)</p>
 
   </TabItem>
 </Tabs>

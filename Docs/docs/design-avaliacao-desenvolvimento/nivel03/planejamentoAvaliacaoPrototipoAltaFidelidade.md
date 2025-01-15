@@ -6,7 +6,7 @@ sidebar_position: 2
 
 ## Introdução
 
-A avaliação de Interação Humano-Computador (IHC) é uma etapa essencial no desenvolvimento de sistemas interativos, pois permite julgar a qualidade de uso da solução e identificar problemas na interação e interface que possam comprometer a experiência do usuário. Essa atividade orienta o processo de melhorias, garantindo que o sistema atenda às necessidades específicas dos usuários e promova uma interação eficiente e satisfatória (Barbosa, 2021)<sup>[1](./planejamentoAvaliacaoPrototipoDePapel.md#referências-bibliográficas)</sup>. Dessa forma, no que tange ao desenvolvimento de um protótipo de alta fidelidade, é necessário planejar a avaliação do mesmo, a fim de garantir que a solução proposta atenda aos requisitos de usabilidade e experiência do usuário.
+A avaliação de Interação Humano-Computador (IHC) é uma etapa essencial no desenvolvimento de sistemas interativos, pois permite julgar a qualidade de uso da solução e identificar problemas na interação e interface que possam comprometer a experiência do usuário. Essa atividade orienta o processo de melhorias, garantindo que o sistema atenda às necessidades específicas dos usuários e promova uma interação eficiente e satisfatória (Barbosa, 2021)<sup>[1](./planejamentoAvaliacaoPrototipoAltaFidelidade.md#referências-bibliográficas)</sup>. Dessa forma, no que tange ao desenvolvimento de um protótipo de alta fidelidade, é necessário planejar a avaliação do mesmo, a fim de garantir que a solução proposta atenda aos requisitos de usabilidade e experiência do usuário.
 
 ## Objetivo
 
@@ -14,11 +14,11 @@ Este documento tem como objetivo apresentar o planejamento da avaliação do pro
 
 ## Metodologia
 
-A metodologia adotada para a avaliação segue o modelo do framework DECIDE (Barbosa, 2021)<sup>[2](planejamentoAvaliacaoPrototipoDePapel.md#referências-bibliográficas)</sup>, uma abordagem estruturada que organiza o processo de avaliação em seis etapas principais: (D) determinar os objetivos da avaliação, (E) explorar perguntas a serem respondidas, (C) escolher os métodos de avaliação, (I) identificar e administrar questões práticas, (D) decidir como lidar com questões éticas, e, por fim, (E) avaliar, interpretar e apresentar os dados. Essa metodologia permite um planejamento claro e detalhado, garantindo que a avaliação aborde tanto alternativas de design quanto a identificação de problemas na interação e interface.
+A metodologia adotada para a avaliação segue o modelo do framework DECIDE (Barbosa, 2021)<sup>[2](./planejamentoAvaliacaoPrototipoAltaFidelidade.md#referências-bibliográficas)</sup>, uma abordagem estruturada que organiza o processo de avaliação em seis etapas principais: (D) determinar os objetivos da avaliação, (E) explorar perguntas a serem respondidas, (C) escolher os métodos de avaliação, (I) identificar e administrar questões práticas, (D) decidir como lidar com questões éticas, e, por fim, (E) avaliar, interpretar e apresentar os dados. Essa metodologia permite um planejamento claro e detalhado, garantindo que a avaliação aborde tanto alternativas de design quanto a identificação de problemas na interação e interface.
 
 ## D - Determinar os objetivos da avaliação de IHC
 
-Os objetivos dessa avaliação são necessários para direcionar quais pontos do protótipo de alta fidelidade precisam melhorar, visto que ele está mais próximo do que é o produto final a ser entregue. Os objetivos definidos para essa avaliação são os definidos por Barbosa (2021)<sup>[4](planejamentoAvaliacaoPrototipoDePapel.md#referências-bibliográficas)</sup>:
+Os objetivos dessa avaliação são necessários para direcionar quais pontos do protótipo de alta fidelidade precisam melhorar, visto que ele está mais próximo do que é o produto final a ser entregue. Os objetivos definidos para essa avaliação são os definidos por Barbosa (2021)<sup>[4](./planejamentoAvaliacaoPrototipoAltaFidelidade.md#referências-bibliográficas)</sup>:
 
 - O primeiro objetivo é <strong>explorar diferentes alternativas de design</strong>, identificando qual delas proporciona uma melhor experiência de interação, levando em consideração aspectos como clareza, eficácia e satisfação do usuário. 
 
@@ -28,7 +28,7 @@ Os objetivos dessa avaliação são necessários para direcionar quais pontos do
 
 ## E - Explorar perguntas a serem respondidas com a avaliação 
 
-Baseando-se nos objetivos da avaliação, as perguntas a serem respondidas com a avaliação do protótipo de alta fidelidade foram definidas e adaptadas com base na tabela de exemplos de perguntas de avaliação de IHC proposta por Barbosa (2021)<sup>[3](planejamentoAvaliacaoPrototipoDePapel.md#referências-bibliográficas)</sup>. Essas perguntas são essenciais para a operacionalização do processo de avaliação, permitindo que se faça um julgamento de valor sobre os aspectos analisados. As perguntas definidas para a avaliação do protótipo de alta fidelidade são:
+Baseando-se nos objetivos da avaliação, as perguntas a serem respondidas com a avaliação do protótipo de alta fidelidade foram definidas e adaptadas com base na tabela de exemplos de perguntas de avaliação de IHC proposta por Barbosa (2021)<sup>[3](./planejamentoAvaliacaoPrototipoAltaFidelidade.md#referências-bibliográficas)</sup>. Essas perguntas são essenciais para a operacionalização do processo de avaliação, permitindo que se faça um julgamento de valor sobre os aspectos analisados. As perguntas definidas para a avaliação do protótipo de alta fidelidade são:
 
 <center>
 

@@ -128,12 +128,18 @@ O teste piloto consiste em uma execução prévia da avaliação, com o objetivo
 
 Detalhes:
 
-    - Data 21/01/2025
-    - Horário 10:30
-    - Integrantes responsáveis: Paulo Henrique, Rodrigo Wendrel, Weverton Rodrigues e Necivaldo Amaral
+    - Data 23/01/2025
+    - Horário 12:00
+    - Integrantes responsáveis: Paulo Henrique, Necivaldo Amaral e Weverton Rodrigues
     - Local: Faculdade do Gama
 
 ## Resultado do Teste Piloto
+
+O teste piloto foi realizado com sucesso, sendo possível identificar pontos de melhoria no planejamento da avaliação. Os participantes conseguiram interagir com o protótipo de alta fidelidade, fornecendo feedbacks valiosos sobre a usabilidade e a experiência de uso. Com base nos resultados do teste piloto, foram feitos ajustes no roteiro de avaliação, nos materiais e nos procedimentos, garantindo que a avaliação final seja realizada de forma eficiente e eficaz. O único ponto de melhoria identificado foi o entrevistador perguntar se o entrevistado tem algum feedback sobre o protótipo. Segue a gravação do teste piloto:
+
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/G6FVLU7OVfs?si=PEv2vOcdGKBAMDPh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</center>
 
 ## Referências Bibliográficas
 

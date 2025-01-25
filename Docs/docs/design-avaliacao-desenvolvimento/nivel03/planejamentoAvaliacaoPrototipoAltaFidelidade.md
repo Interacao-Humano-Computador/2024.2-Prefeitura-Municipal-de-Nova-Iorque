@@ -52,11 +52,13 @@ Baseando-se nos objetivos da avaliação, as perguntas a serem respondidas com a
 
 ## C - Escolher os métodos de avaliação a serem utilizados
 
-Para a avaliação do protótipo de alta fidelidade, serão utilizados dois métodos principais: **entrevista semiestruturada** em conjunto com **teste de usabilidade**, esse definido por José Rosa (2010)<sup>[5](planejamentoAvaliacaoPrototipoDePapel.md#referências-bibliográficas)</sup>.
+Para a avaliação do protótipo de alta fidelidade, serão utilizados três métodos principais: **entrevista semiestruturada** em conjunto com **teste de usabilidade**, esse definido por José Rosa (2010)<sup>[5](planejamentoAvaliacaoPrototipoDePapel.md#referências-bibliográficas)</sup> e **avaliação heurística**.
 
 A entrevista semiestruturada será utilizada para avaliar o aspecto da apropriação da tecnologia. Esse método permitirá captar dados qualitativos importantes sobre a usabilidade, a compreensão do protótipo e as motivações para sua adoção ou rejeição.
 
 Já o teste de usabilidade será empregado para avaliar a eficácia, eficiência e satisfação do usuário ao interagir com o protótipo de alta fidelidade. Esse método permitirá identificar problemas na interação e interface, bem como avaliar a experiência do usuário ao utilizar o site proposto. Nesse tipo de teste, o foco está no comportamento obserável do usuário, permitindo identificar problemas de usabilidade e interação<sup>[6](planejamentoAvaliacaoPrototipoDePapel.md#referências-bibliográficas)</sup>.
+
+Da avaliação heurística, por outro lado, será empregada para avaliar os objetivos definidos. Essa análise ajudará a identificar falhas de design que podem comprometer a eficiência, a satisfação e a experiência do usuário com o protótipo de alta fidelidade.
 
 Ambos os métodos foram escolhidos por serem complementares e manter uma eficácia na obtenção de feedback detalhado e qualitativo, explorando profundamente a dinâmicas de uso do protótipo de alta fidelidade..
 

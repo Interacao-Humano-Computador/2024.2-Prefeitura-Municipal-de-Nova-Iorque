@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# Planejamento da Avaliação do Protótipo de Alta Fidelidade
+# Planejamento da Avaliação dos Protótipos de Alta Fidelidade
 
 ## Introdução
 

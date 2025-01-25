@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# Planejamento do Relatos dos Protótipos de Alta Fidelidade
+# Planejamento do Relato dos Protótipos de Alta Fidelidade
 
 ## Introdução
 

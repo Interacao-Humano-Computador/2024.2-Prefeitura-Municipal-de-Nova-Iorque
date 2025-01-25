@@ -32,7 +32,7 @@ Baseando-se nos objetivos da avaliação, as perguntas a serem respondidas com a
 
 <center>
 
-<p style={{ textAlign: 'center', fontSize: '18px' }}><b>Tabela 1</b> - Roteiro de perguntas para Avaliação do Protótipo de Papel</p>
+<p style={{ textAlign: 'center', fontSize: '18px' }}><b>Tabela 1</b> - Roteiro de perguntas para Avaliação do Protótipo de Alta Fidelidade</p>
 
 | Objetivo | Pergunta | Resposta |
 |---|---|---|

@@ -123,14 +123,51 @@ Reconhecimento em vez de memorização: Em relação à heurística de Reconheci
 
 ### Teste de Usabilidade
 
-**Métricas de Desempenho e Observações Qualitativas**  
-<!-- tabela com: tempo de execução, taxa de sucesso, taxa de erros, observacoes -->
- 
-<!-- obs: Análise do comportamento do usuário, incluindo pontos de confusão,
- dificuldades em usar a interface, ou áreas em que o usuário teve dificuldades de compreender a funcionalidade. -->
+**Métricas de Desempenho e Observações Qualitativas**   
+
+A tabela a seguir apresenta o desempenho de cada entrevistado durante o teste de usabilidade, destacando o tempo de execução, a taxa de sucesso e a taxa de erro. Além disso, são registradas observações qualitativas que indicam áreas em que os usuários encontraram dificuldades ou pontos de confusão, como no caso do Danilo, que teve uma pequena dificuldade ao marcar a UBS no mapa, mas conseguiu completar a tarefa com sucesso. 
+
+<center>
+
+<p style={{ textAlign: 'center', fontSize: '18px' }}><b>Tabela x</b> - Comparação de desempenho por usuário</p>
+
+| Entrevistado(s)| Tempo de execução (s) | Taxa de sucesso (%) | Taxa de erro (%) | Observações Qualitativas |
+|:---:|:---:|:---:|:---:|---|
+| João | 53s | 100% | 0% | - |
+| Danilo | 59s | 100% | 0% | Encontrou dificuldade ao marcar a UBS no mapa, mas conseguiu completar a tarefa com sucesso. |
+| Arthur | 62s | 100% | 0%| - |
+
+<p style={{ textAlign: 'center', fontSize: '17px' }}>Autor: [Weverton Rodrigues](https://github.com/vevetin)</p>
+
+</center>
 
 ### Registro da avaliação
 
+A seguir, são apresentados os registros em vídeo dos testes de usabilidade realizados com os três participantes. Cada vídeo captura a interação do usuário com o protótipo de alta fidelidade, permitindo uma análise mais detalhada do comportamento durante o processo de uso.
+
+**Entrevista 01: João (Início no minuto `3:28`)**  
+
+<center>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sPpdnZXHeu8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+</center>
+
+**Entrevista 02: Danilo (Início no minuto `2:30`)**  
+
+<center>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FUcHnzW5z9w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+</center>
+
+**Entrevista 03: Danilo (Início no minuto `4:45`)**  
+
+<center>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JqmuI6iKVSI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+</center>
 
 ## Resultado da Avaliação - Busca por licitação fracassada
 

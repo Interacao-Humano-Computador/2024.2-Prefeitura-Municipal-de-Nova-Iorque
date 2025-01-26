@@ -36,7 +36,21 @@ O presente documento tem como objetivo relatar os resultados obtidos durante a a
 
 Os participantes selecionados para a avaliação do protótipo de alta fidelidade da funcionalidade de [fazer um pedido no e-SIC](./prototipoDeAltaFidelidade.md#protótipo-de-alta-fidelidade-1---fazer-um-pedido-no-e-sic)
 foram escolhidos com base no perfil de usuário conforme descrito no [Planejamento da Avaliação dos Protótipos de Alta Fidelidade](./planejamentoAvaliacaoPrototipoAltaFidelidade.md#i---identificar-e-administrar-as-questões-práticas-da-avaliação).
-Foram entrevistados 3 participantes, número recomendado por Krug<sup>[1](./relatoPrototipoAltaFidelidade.md#referências-bibliográficas)</sup>, com experiência intermediária/avançada em tecnologia.
+Foram entrevistados 3 participantes, número recomendado por Krug<sup>[1](./relatoPrototipoAltaFidelidade.md#referências-bibliográficas)</sup>, com experiência intermediária/avançada em tecnologia. A seguir o roteiro utilizado durante a avaliação.
+
+**Roteiro - Fazer um pedido no e-SIC**  
+- Passo 1: Acessar a página do e-SIC pela tela inicial;  
+- Passo 2: Na página do e-SIC, realize um pedido anônimo;   
+- Passo 3: Nos campos de preenchimento do formulário, insira as seguintes informações
+    > Reside no município: Sim  
+    > Sexo: Não Informar  
+    > Escolaridade: Ensino superior  
+    > Faixa etária: De 18 a 24 anos  
+    > Resumo: Licitações escolares  
+    > Detalhamento: Quero ter acesso aos valores das licitações feitas para a escola do município entre os anos de 2020 até 2023.  
+    > Unidade desejada: secretarias
+- Passo 4: Cadastrar o pedido;
+- Passo 5: Clicar em continuar.
 
 A tabela a seguir apresenta as perguntas, e suas respectivas respostas, utilizadas pós-entrevista para avaliar a tarefa definida nesse escopo do protótipo de alta fidelidade com base nos objetivos
 de ideias e alternativas de design, conformidade com um padrão e problemas na interação e interface.

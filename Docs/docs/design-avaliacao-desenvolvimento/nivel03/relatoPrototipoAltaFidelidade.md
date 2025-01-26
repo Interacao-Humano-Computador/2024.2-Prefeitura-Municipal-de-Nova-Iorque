@@ -303,8 +303,8 @@ Apenas a heurística de Consistência e Padronização foi violada por um erro d
 | Entrevistado(s) | Tempo de execução (s) | Taxa de sucesso (%) | Taxa de erro (%) | Observações Qualitativas                                                                     |
 | :-------------: | :-------------------: | :-----------------: | :--------------: | -------------------------------------------------------------------------------------------- |
 |      luis       |          1:38          |        100%         |        0%        | -                                                                                            |
-|     Willian     |          1:58          |        100%         |        0%        |  |
-|     Rafael      |          1:00          |        100%         |        0%        | - Trouxe a questão dos filtros onde podem atrapalhar a experiência do usuário                                                                                           |
+|     Willian     |          1:68          |        100%         |        0%        |  |
+|     Rafael      |          60s          |        100%         |        0%        | - Trouxe a questão dos filtros onde podem atrapalhar a experiência do usuário                                                                                           |
 
 <p style={{ textAlign: 'center', fontSize: '17px' }}>Autor: [Rodrigo Wendrel](https://github.com/rodwendrel)</p>
 
@@ -330,6 +330,7 @@ A seguir, são apresentados os registros em vídeo dos testes de usabilidade rea
 
 </center>
 
+ <!--
 ## Resultado da Avaliação - Envio de Nota Fiscal de Serviço
 
 ### Seleção dos participantes
@@ -338,29 +339,69 @@ A seguir, são apresentados os registros em vídeo dos testes de usabilidade rea
 
 **Objetivo e método**
 
-<!-- Heurísticas -->
+ Heurísticas 
 
 **Resultados**
 
-<!-- tabela com: heurística violada, verificação (pergunta), descrição do problema, grau de severidade, natureza do problema, perspectiva do usuário, perspectiva da tarefa, perspectiva do projeto, correção possível -->
-<!-- caso não tenha sido violada, adicionar na tabela a linha ex: | Resultado |(X) Não violada - "A interface segue padrões consistentes". (mudar texto para corresponder à heurística)| >
+tabela com: heurística violada, verificação (pergunta), descrição do problema, grau de severidade, natureza do problema, perspectiva do usuário, perspectiva da tarefa, perspectiva do projeto, correção possível 
+ caso não tenha sido violada, adicionar na tabela a linha ex: | Resultado |(X) Não violada - "A interface segue padrões consistentes". (mudar texto para corresponder à heurística)| 
 
-<!-- Imagem do erro -->
+ Imagem do erro 
 
 ### Teste de Usabilidade
 
 **Métricas de Desempenho e Observações Qualitativas**
 
-<!-- tabela com: tempo de execução, taxa de sucesso, taxa de erros, observacoes -->
+tabela com: tempo de execução, taxa de sucesso, taxa de erros, observacoes 
 
-<!-- obs: Análise do comportamento do usuário, incluindo pontos de confusão,
- dificuldades em usar a interface, ou áreas em que o usuário teve dificuldades de compreender a funcionalidade. -->
+ obs: Análise do comportamento do usuário, incluindo pontos de confusão,
+ dificuldades em usar a interface, ou áreas em que o usuário teve dificuldades de compreender a funcionalidade. 
 
 ### Registro da avaliação
+ 
+ -->
 
 ## Análise dos Resultados
 
-<!-- resumo/grafico geral -->
+Neste tópico, apresentamos a análise dos resultados obtidos nas avaliações das funcionalidades testadas. As métricas analisadas incluem o tempo de execução, a taxa de sucesso e a taxa de erro. Para facilitar a compreensão, os resultados são ilustrados por meio de gráficos e tabelas, proporcionando uma visão clara do desempenho de cada funcionalidade, além de destacar possíveis áreas de melhoria para otimizar a experiência do usuário.
+
+**1. Tabela de Média e Desvio Padrão**  
+
+A tabela complementa as informações apresentadas no gráfico, fornecendo um resumo detalhado dos dados de tempo de execução, taxa de sucesso e taxa de erro para cada funcionalidade. A análise dos resultados confirma que todas as funcionalidades tiveram um desempenho excelente em termos de taxa de sucesso e taxa de erro. Contudo, o tempo de execução e a variação de desempenho, especialmente para "Pedido e-SIC", sugerem que há oportunidades para otimizar o processo, tornando-o mais ágil e eficiente para os usuários.
+
+<center>
+
+<p style={{ textAlign: 'center', fontSize: '18px' }}><b>Tabela x</b> - Dados de Média e Desvio Padrão do Tempo de Execução, Taxa de Sucesso e Taxa de Erro</p>
+
+| Funcionalidade | Tempo de execução (s) - média | Tempo de execução (s) - desvio padrão | Taxa de sucesso (%) - média |Taxa de sucesso (%) - desvio padrão | Taxa de erros (%) - média | Taxa de erros (%) - desvio padrão |
+|---|:---:|:---:|:---:|:---:|:---:|:---:|
+|Fazer um pedido no e-SIC|85.33|34.39|100|0|0|0|
+|Agendamento de consulta médica|58|4.58|100|0|0|0|
+|Busca por licitação fracassada|92|29.46|100|0|0|0|
+
+
+<p style={{ textAlign: 'center', fontSize: '17px' }}>Autor: [Weverton Rodrigues](https://github.com/vevetin)</p>
+
+</center>
+
+
+**2. Tempo de Execução, Taxa de Sucesso e Taxa de Erro**  
+
+<center>
+
+<p style={{ textAlign: 'center', fontSize: '18px' }}><b>Figura x</b> - Gráfico de Comparação de Tempo de Execução, Taxa de Sucesso e Taxa de Erro</p>
+
+![gráfico](./assets/gráfico-results.jfif)
+
+<p style={{ textAlign: 'center', fontSize: '17px' }}>Autor: [Weverton Rodrigues](https://github.com/vevetin)</p>
+
+</center>
+
+O gráfico de barras apresenta a comparação entre o tempo de execução, a taxa de sucesso e a taxa de erro para as funcionalidades testadas. O "Agendamento de Consulta Médica" teve o menor tempo médio de execução (58 segundos), seguido por "Fazer um pedido no e-SIC" com 85,33 segundos e "Busca por Licitação Fracassada" com 92 segundos. A maior variação no tempo de execução foi observada em "Fazer um pedido no e-SIC", indicando que alguns usuários enfrentaram maior dificuldade para completar a tarefa. Todas as funcionalidades atingiram uma taxa de sucesso de 100%, evidenciando que os usuários conseguiram realizar as tarefas com êxito. Além disso, a taxa de erro foi de 0% para todas as funcionalidades, sugerindo que o protótipo foi intuitivo e sem falhas durante os testes.
+
+**Considerações finais**  
+
+Os resultados obtidos indicam uma alta usabilidade das funcionalidades testadas. A taxa de sucesso de 100% e a taxa de erro de 0% para todas as tarefas demonstram que os usuários conseguiram realizar as ações propostas sem dificuldades. Contudo, o tempo de execução e a variação entre os participantes, especialmente para a funcionalidade "Fazer um pedido no e-SIC", sugerem que há oportunidades de melhoria na agilidade de algumas funcionalidades, em especial nas tarefas que exigem mais interações. O gráfico em radar também pode ser útil para ilustrar a comparação global entre as funcionalidades, facilitando a visualização das diferenças no desempenho.
 
 ## Planejamento de reprojeto
 

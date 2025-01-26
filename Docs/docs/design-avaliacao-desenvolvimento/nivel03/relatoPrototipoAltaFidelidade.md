@@ -16,6 +16,15 @@ O presente documento tem como objetivo relatar os resultados obtidos durante a a
 
 | Entrevistador(es) | Entrevistado(s) | Horário de Início | Horário de Fim | Data Executada | Tarefa | Local |
 | :---------------: | :-------------: | :---------------: | :------------: | :------------: | :----: | :---: |
+|[Paulo Henrique](https://github.com/paulomh)| João| 10:20 | 10:32 | 24/01/2025 | [Fazer um pedido no e-SIC](./prototipoDeAltaFidelidade.md#protótipo-de-alta-fidelidade-1---fazer-um-pedido-no-e-sic) | Campus UnB Gama, sala I3 |
+|[Paulo Henrique](https://github.com/paulomh) |Danilo| 13:15 | 13:30 | 24/01/2025 |[Fazer um pedido no e-SIC](./prototipoDeAltaFidelidade.md#protótipo-de-alta-fidelidade-1---fazer-um-pedido-no-e-sic)| Campus UnB Gama, sala I2 |
+|[Paulo Henrique](https://github.com/paulomh) |Arthur| 13:45 | 14:00 | 24/01/2025 | [Fazer um pedido no e-SIC](./prototipoDeAltaFidelidade.md#protótipo-de-alta-fidelidade-1---fazer-um-pedido-no-e-sic) | Campus UnB Gama, conteiner LAPPIS |
+|[Weverton Rodrigues](https://github.com/vevetin) | João| 10:20 | 10:32 | 24/01/2025  | [Agendamento de Consulta Médica](./prototipoDeAltaFidelidade.md#protótipo-de-alta-fidelidade-2---agendamento-de-consulta-médica) | Campus UnB Gama, sala I3 |
+|[Weverton Rodrigues](https://github.com/vevetin) |Danilo| 13:15 | 13:30 | 24/01/2025 | [Agendamento de Consulta Médica](./prototipoDeAltaFidelidade.md#protótipo-de-alta-fidelidade-2---agendamento-de-consulta-médica) | Campus UnB Gama, sala I2 |
+|[Weverton Rodrigues](https://github.com/vevetin) |Arthur| 13:45 | 14:00 | 24/01/2025 | [Agendamento de Consulta Médica](./prototipoDeAltaFidelidade.md#protótipo-de-alta-fidelidade-2---agendamento-de-consulta-médica) | Campus UnB Gama, conteiner LAPPIS |
+|[Rodrigo Wendrel](https://github.com/rodwendrel) | Luis | 14:50 | 15:00 | 24/01/2025  | [Busca por licitação fracassada](./prototipoDeAltaFidelidade.md#protótipo-de-alta-fidelidade-3---busca-por-licitação-fracassada) | Campus UnB Gama, conteiner EJ |
+|[Rodrigo Wendrel](https://github.com/rodwendrel) |Willian| 15:00 | 15:10 | 24/01/2025 | [Busca por licitação fracassada](./prototipoDeAltaFidelidade.md#protótipo-de-alta-fidelidade-3---busca-por-licitação-fracassada) | Campus UnB Gama, conteiner EJ  |
+|[Rodrigo Wendrel](https://github.com/rodwendrel) |Rafael| 15:10 | 15:20 | 24/01/2025 |  [Busca por licitação fracassada](./prototipoDeAltaFidelidade.md#protótipo-de-alta-fidelidade-3---busca-por-licitação-fracassada) | Campus UnB Gama, conteiner EJ |
 
 <p style={{ textAlign: 'center', fontSize: '17px' }}>Autor: [Weverton Rodrigues](https://github.com/vevetin)</p>
 
@@ -125,6 +134,23 @@ A seguir, são apresentados os registros em vídeo dos testes de usabilidade rea
 Para a avaliação do protótipo de alta fidelidade da funcionalidade de Agendamento de Consulta Médica, foram convidados 6 participantes, incluindo alguns que já haviam contribuído em etapas anteriores do projeto. Destes, 3 estavam disponíveis, o que foi considerado suficiente, conforme previsto no [Planejamento da Avaliação dos Protótipos de Alta Fidelidade](./planejamentoAvaliacaoPrototipoAltaFidelidade.md), que recomendava um grupo reduzido para identificar problemas principais, alinhado à abordagem de Krug<sup>[1](./relatoPrototipoAltaFidelidade.md#referências-bibliográficas)</sup>.
 
 Todos os participantes possuíam experiência intermediária ou avançada com tecnologia, sendo dois classificados como usuários secundários. O terceiro participante, apesar de não ter utilizado sistemas similares anteriormente, foi incluído para ampliar a diversidade de perspectivas e avaliar possíveis barreiras enfrentadas por usuários com esse perfil.
+
+A seguir, o roteiro utilizado durante a avaliação.
+
+**Roteiro - Agendamento de consulta médica**  
+- Passo 1: Acessar a página de agendamento de consulta médica;  
+- Passo 2: Preencher o formulário de agendamento
+    > Nome: Felipe Paula Martins Silva  
+    > CPF: 482.937.643-09  
+    > nºCNS: 217.1234.5678.9102  
+    > CEP: 65600-000  
+    > Cidade: Nova Iorque  
+    > UF: MA  
+    > Especialidade: Cardiologia  
+    > Horário: 10:30   
+    > Data Desejada> 24 de janeiro de 2025    
+- Passo 3: Salvar o agendamento  
+
 
 A tabela a seguir apresenta as perguntas feitas pós entrevista e avaliação do rotótipo de alta fidelidade, abordando alternativas de design, conformidade com padrões e usabilidade.
 

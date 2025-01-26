@@ -271,7 +271,53 @@ Quando o download é concluído, uma mensagem é exibida em tela.
 
 
 ### Protótipo de Alta Fidelidade 4 - Envio de Nota Fiscal de Serviço
-*(Protótipo em desenvolvimento. A versão final será apresentada assim que disponível.)*
+Na tela inicial o usuário pode optar por 2 botões para prosseguir com a tarefa de gerar uma nota fiscal de serviço.
+
+<center>
+
+<p style={{ textAlign: 'center', fontSize: '18px' }}><b>Figura 20</b> - tela inicial nota fiscal </p>
+
+![tela inicial nota fiscal](./assets/inicialNota.png)
+
+<p style={{ textAlign: 'center', fontSize: '17px' }}>Autor: [Necivaldo Amaral](https://github.com/junioramaral22)</p>
+
+</center>
+
+Redirecionado para a tela de login, o usuário deve inserir suas credenciais para prosseguir na tarefa ou se cadastrar.
+
+<center>
+
+<p style={{ textAlign: 'center', fontSize: '18px' }}><b>Figura 21</b> - tela login nota fiscal </p>
+
+![tela inicial nota fiscal](./assets/loginNota.png)
+
+<p style={{ textAlign: 'center', fontSize: '17px' }}>Autor: [Necivaldo Amaral](https://github.com/junioramaral22)</p>
+
+</center>
+
+Na tela de notas fiscais, o usuário deverá preencher as informações do prestador de serviço, tomador de serviço e a descrição do serviço prestado. Para prosseguir o usuário deverá clicar no botão de gerar nota fiscal.
+
+<center>
+
+<p style={{ textAlign: 'center', fontSize: '18px' }}><b>Figura 22</b> - tela formulário de nota fiscal </p>
+
+![tela inicial nota fiscal](./assets/formNota.png)
+
+<p style={{ textAlign: 'center', fontSize: '17px' }}>Autor: [Necivaldo Amaral](https://github.com/junioramaral22)</p>
+
+</center>
+
+Após o envio da nota fiscal, o usuário receberá um modal com o número do protocolo, a opção de impressão da nota fiscal e a possibilidade de salvar a nota fiscal.
+
+<center>
+
+<p style={{ textAlign: 'center', fontSize: '18px' }}><b>Figura 23</b> - confirmação de nota fiscal </p>
+
+![tela inicial nota fiscal](./assets/notaGerada.png)
+
+<p style={{ textAlign: 'center', fontSize: '17px' }}>Autor: [Necivaldo Amaral](https://github.com/junioramaral22)</p>
+
+</center>
 
 ## Referências Bibliográficas
 
@@ -287,4 +333,5 @@ Quando o download é concluído, uma mensagem é exibida em tela.
 | 1.1 | 25/01/2025 |  [Paulo Henrique](https://github.com/paulomh) | Adicionando fluxo de interação do protótipo de alta fidelidade - Fazer um pedido no e-SIC | 25/01/2025 | [Rodrigo Wendrel](https://github.com/rodwendrel) |
 | 1.2 | 25/01/2025 | [Weverton Rodrigues](https://github.com/vevetin) | Adicionado fluxo de interação do protótipo de alta fidelidade - Agendamento de Consulta Médica| 26/01/2025 | [Necivaldo Amaral](https://github.com/junioramaral22) |
 | 1.3 | 26/01/2025 |  [Rodrigo Wendrel](https://github.com/rodwendrel)  | Adicionando fluxo de interação do protótipo de alta fidelidade - Busca por licitação | 26/01/2025 | [Paulo Henrique](https://github.com/paulomh) |
+| 1.4 | 26/01/2025 |  [Necivaldo Amaral](https://github.com/junioramaral22)  | Adicionando fluxo de interação do protótipo de alta fidelidade - envio de nota fiscal de serviço | 26/01/2025 | [Rodrigo Wendrel](https://github.com/rodwendrel) |
 

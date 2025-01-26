@@ -283,6 +283,19 @@ A seguir, são apresentados os registros em vídeo dos testes de usabilidade rea
 
 Os participantes selecionados para a avaliação do protótipo de alta fidelidade da funcionalidade de buscar por licitação fracassada foram escolhidos com base no perfil de usuário conforme descrito no Planejamento da Avaliação dos Protótipos de Alta Fidelidade. Foram entrevistados 3 participantes, número recomendado por Krug1, com experiência intermediária/avançada em tecnologia.
 
+A seguir, o roteiro utilizado durante a avaliação.
+
+**Roteiro - Busca por licitação fracassada**  
+- Passo 1: Acessar a página de licitações  
+- Passo 2: Filtrar os resultados
+    > Ano: 2024  
+    > Modalidade: Pregão eletrônico
+    > Status: Fracassado
+    > Unidade: Secretaria Municipal de Educação
+- Passo 3: Escolher a licitação desejada
+- Passo 4: Visualizar os detalhes da licitação
+- Passo 5: Realizar o download no formato pdf
+
 A tabela a seguir apresenta as perguntas, e suas respectivas respostas, utilizadas pós-entrevista para avaliar a tarefa definida nesse escopo do protótipo de alta fidelidade com base nos objetivos de ideias e alternativas de design, conformidade com um padrão e problemas na interação e interface.
 
 <center>

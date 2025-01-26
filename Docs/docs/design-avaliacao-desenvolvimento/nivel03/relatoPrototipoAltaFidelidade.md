@@ -27,27 +27,98 @@ O presente documento tem como objetivo relatar os resultados obtidos durante a a
 
 ### Seleção dos participantes
 
+Os participantes selecionados para a avaliação do protótipo de alta fidelidade da funcionalidade de [fazer um pedido no e-SIC](./prototipoDeAltaFidelidade.md#protótipo-de-alta-fidelidade-1---fazer-um-pedido-no-e-sic) 
+foram escolhidos com base no perfil de usuário conforme descrito no [Planejamento da Avaliação dos Protótipos de Alta Fidelidade](./planejamentoAvaliacaoPrototipoAltaFidelidade.md#i---identificar-e-administrar-as-questões-práticas-da-avaliação). 
+Foram entrevistados 3 participantes, número recomendado por Krug<sup>[1](./relatoPrototipoAltaFidelidade.md#referências-bibliográficas)</sup>, com experiência intermediária/avançada em tecnologia.
+
+A tabela a seguir apresenta as perguntas, e suas respectivas respostas, utilizadas pós-entrevista para avaliar a tarefa definida nesse escopo do protótipo de alta fidelidade com base nos objetivos
+de ideias e alternativas de design, conformidade com um padrão e problemas na interação e interface.
+
+<center>
+
+<p style={{ textAlign: 'center', fontSize: '18px' }}><b>Tabela x</b> - Respostas para Avaliação do Protótipo de Alta Fidelidade (Fazer um pedido no e-SIC)</p>
+
+| Objetivo | Pergunta | Resposta |
+|---|---|---|
+| Ideias e Alternativas de Design | 1. Qual das alternativas de design do protótipo de alta fidelidade é mais eficiente e fácil de aprender? | Todos os participantes optaram por acessar a página do e-SIC pelo componente "Mais Acessados" presente na tela inicial, visto que ela é a opção que menos exige esforço para ser aprendida. | 
+| Ideias e Alternativas de Design | 2. Qual alternativa de design os usuários preferem? Por quê? | Navegar pelo componente "Mais Acessados" e, na página do e-SIC, fazer um "Pedido Anônimo". O componente "Mais Acessados" por ser mais eficiente e intuitivo e "Pedido Anônimo" por trazer uma maior segurança, visto que não exige nenhum passo extra para realizar o pedido de transparência. |
+| Ideias e Alternativas de Design | 3. Qual alternativa de design se espera que tenha um impacto negativo menor ao ser adotada? | A seção "Mais Acessados". |
+| Conformidade com um padrão | 4. O site está de acordo com os padrões de acessibilidade do W3C? | Sim. |
+| Conformidade com um padrão | 5. Os termos na interface seguem convenções estabelecidas no domínio? | Sim. |
+| Conformidade com um padrão | 6. A interface segue algum padrão pré-estabelecido? | Sim, o protótipo segue as diretrizes do guia de estilo e os padrões de design pré-estabelecidos. |
+| Problemas na Interação e Interface | 7. Os usuários conseguem operar o protótipo de alta fidelidade? Eles atingem seus objetivos de maneira eficiente? Com que frequência cometem erros? | Todos os participantes conseguiram operar a tarefa designada no protótipo de alta fidelidade com eficiência e sem erros. | 
+| Problemas na Interação e Interface | 8. Que parte da interface do protótipo de alta fidelidade deixa os usuários insatisfeitos ou causa confusão? | Não houveram partes na tarefa que deixaram os usuários insatisfeitos ou confusos. |
+| Problemas na Interação e Interface  | 9. Os usuários entendem claramente o que cada elemento do protótipo de alta fidelidade significa e o que devem fazer em seguida? | Sim, todos os participantes entenderam claramente os elementos presentes no protótipo. | 
+
+<p style={{ textAlign: 'center', fontSize: '17px' }}>Autor: [Paulo Henrique](https://github.com/paulomh) </p>
+
+</center>
+
 ### Avaliação Heurística
 
 **Objetivo e método**  
-<!-- Heurísticas -->
+A avaliação heurística teve como objetivo identificar problemas de usabilidade na realização da tarefa de fazer um pedido no e-SIC, usando como base as heurísticas propostas por Nielsen<sup>[3](./relatoPrototipoAltaFidelidade.md#referências-bibliográficas)</sup>. As heurísticas avaliadas foram selecionadas considerando a relevância para o contexto do protótipo e incluíram:
+
+- Controle do usuário e liberdade: para avaliar se os usuários podem corrigir facilmente erros ou desfazer ações indesejadas;
+- Prevenção de erros: para identificar possíveis problemas que possam levar a erros durante a interação;
+- Reconhecimento em vez de memorização: para garantir que elementos da interface sejam intuitivos e não exijam esforço desnecessário de memória por parte dos usuários.
+- Design estético e minimalista: para avaliar a clareza e simplicidade da interface, evitando elementos desnecessários ou confusos.
 
 **Resultados**  
-<!-- tabela com: heurística violada, verificação (pergunta), descrição do problema, grau de severidade, natureza do problema, perspectiva do usuário, perspectiva da tarefa, perspectiva do projeto, correção possível -->
-<!-- caso não tenha sido violada, adicionar na tabela a linha ex: | Resultado |(X) Não violada - "A interface segue padrões consistentes". (mudar texto para corresponder à heurística)| >
 
-<!-- Imagem do erro -->
+Controle do usuário e liberdade: durante a avaliação não foram identificados problemas significativos. A formulário utilizado para enviar o pedido no e-SIC permite que os usuários corrijam facilmente erros e desfaçam ações indesejadas, garantindo uma experiência de uso satisfatória.
+
+Prevenção de erros: a interface do protótipo apresentou um bom desempenho. A execução da tarefa não apresenta riscos significativos de erros, e os usuários conseguem completar a ação de forma eficiente e sem dificuldades.
+
+Reconhecimento em vez de memorização: os elementos da interface são fáceis e intuitivos de serem compreendidos, não exigindo esforço desnecessário de memória por parte dos usuários. A navegação pelo protótipo é clara e direta, facilitando a interação e a conclusão da tarefa.
+
+Design estético e minimalista: a interface do protótipo apresentou um design limpo e organizado, evitando elementos desnecessários ou confusos. A disposição dos elementos e a clareza das informações contribuem para uma experiência de uso agradável e eficiente.
 
 ### Teste de Usabilidade
 
-**Métricas de Desempenho e Observações Qualitativas**  
-<!-- tabela com: tempo de execução, taxa de sucesso, taxa de erros, observacoes -->
- 
-<!-- obs: Análise do comportamento do usuário, incluindo pontos de confusão,
- dificuldades em usar a interface, ou áreas em que o usuário teve dificuldades de compreender a funcionalidade. -->
+**Métricas de Desempenho e Observações Qualitativas**
+
+<center>
+
+<p style={{ textAlign: 'center', fontSize: '18px' }}><b>Tabela x</b> - Comparação de desempenho por usuário</p>
+
+| Entrevistado(s)| Tempo de execução (s) | Taxa de sucesso (%) | Taxa de erro (%) | Observações Qualitativas |
+|:---:|:---:|:---:|:---:|---|
+| João | 64s | 100% | 0% | Simples, tarefa bem direcionada, definida e clara para o usuário. |
+| Danilo | 67s | 100% | 0% | Tarefa bem direcionada e fluída. |
+| Arthur | 125s | 100% | 0%| Tarefa bem explícita visualmente. |
+
+<p style={{ textAlign: 'center', fontSize: '17px' }}>Autor: [Paulo Henrique](https://github.com/paulomh)</p>
+
+</center>
 
 ### Registro da avaliação
 
+A seguir, são apresentados os registros em vídeo dos testes de usabilidade realizados com os três participantes. Cada vídeo captura a interação do usuário com o protótipo de alta fidelidade, permitindo uma análise mais detalhada do comportamento durante o processo de uso.
+
+**Entrevista 01: João**  
+
+<center>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sPpdnZXHeu8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+</center>
+
+**Entrevista 02: Danilo**  
+
+<center>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FUcHnzW5z9w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+</center>
+
+**Entrevista 03: Arthur**  
+
+<center>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JqmuI6iKVSI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+</center>
 
 ## Resultado da Avaliação - Agendamento de Consulta Médica
 
@@ -83,7 +154,7 @@ A tabela a seguir apresenta as perguntas feitas pós entrevista e avaliação do
 ### Avaliação Heurística
 
 **Objetivo e método**  
-A avaliação heurística teve como objetivo identificar problemas de usabilidade no protótipo de alta fidelidade da funcionalidade de Agendamento de Consulta Médica, com base nas heurísticas de Nielsen. O foco principal foi verificar a aderência da interface a princípios fundamentais de usabilidade, assegurando uma experiência fluida e eficiente para os usuários.
+A avaliação heurística teve como objetivo identificar problemas de usabilidade no protótipo de alta fidelidade da funcionalidade de Agendamento de Consulta Médica, com base nas heurísticas de Nielsen<sup>[3](./relatoPrototipoAltaFidelidade.md#referências-bibliográficas)</sup>. O foco principal foi verificar a aderência da interface a princípios fundamentais de usabilidade, assegurando uma experiência fluida e eficiente para os usuários.
 As heurísticas avaliadas foram selecionadas considerando a relevância para o contexto do protótipo e incluíram:  
 - Visibilidade do estado do sistema: para verificar se o sistema fornece feedback adequado e em tempo real aos usuários durante a interação;  
 - Consistência e padronização: para assegurar que os elementos e interações seguem padrões previsíveis e consistentes;  
@@ -161,7 +232,7 @@ A seguir, são apresentados os registros em vídeo dos testes de usabilidade rea
 
 </center>
 
-**Entrevista 03: Danilo (Início no minuto `4:45`)**  
+**Entrevista 03: Arthur (Início no minuto `4:45`)**  
 
 <center>
 
@@ -231,6 +302,8 @@ A seguir, são apresentados os registros em vídeo dos testes de usabilidade rea
 
 > 2. ROSA, José Guilherme Santa. Avaliação e Projeto No Deisng de Interfaces. 1. ed. Rio de Janeiro: Elsevier, 2010. Capítulo 8: Teste de Usabilidade. 
 
+> 3. BARBOSA, Simone Diniz Junqueira et al. Interação humano-computador e experiência do usuário. 1. ed. Rio de Janeiro: Simone Diniz Junqueira Barbosa, 2021. Capítulo 12: Métodos de Avaliação de IHC, página 282. ISBN: 978-65-00-19677-1.
+
 ## Referências Bibliográficas
 
 ## Histórico de Versão
@@ -238,3 +311,4 @@ A seguir, são apresentados os registros em vídeo dos testes de usabilidade rea
 | Versão | Data | Autor(es) | Descrição | Data de Revisão | Revisor(es) |
 |:---:|:---:|---|---|:---:|---|
 | 1.0 | 24/01/2025 | [Weverton Rodrigues](https://github.com/vevetin) | Criação do documento | 25/01/2025 | [Paulo Henrique](https://github.com/paulomh) |
+| 1.1 | 26/01/2025 | [Paulo Henrique](https://github.com/paulomh) | Adicionando Resultado - Fazer um pedido no e-SIC | 26/01/2025 | [Necivaldo Amaral](https://github.com/junioramaral22) |

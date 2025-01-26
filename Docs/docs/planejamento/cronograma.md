@@ -288,7 +288,7 @@ O cronograma tem como objetivo organizar as atividades do projeto a serem realiz
     | Inspeção da entrega da apresentação do projeto Etapa 7 | 22/01/2024 | Paulo Henrique, Pedro Luiz, Necivaldo Amaral, Rodrigo Wendrel, Weverton Rodrigues | 22/01/2024 | Necivaldo Amaral| 26/01/2025 |
     | Gravação da apresentação | 23/01/2025 - 24/01/2025 | Paulo Henrique, Pedro Luiz, Necivaldo Amaral, Rodrigo Wendrel, Weverton Rodrigues | 24/01/2025 | Paulo Henrique | 26/01/2025 |
     | Ediçao da gravação | 24/01/2025 - 25/01/2025 | Paulo Henrique | 25/01/2025 | Paulo Henrique, Pedro Luiz, Necivaldo Amaral, Rodrigo Wendrel, Weverton Rodrigues | 26/01/2025 |
-    | Cronograma executado | 25/01/2025 | 1 membro aqui | 25/01/2025 | Paulo Henrique, Pedro Luiz, Necivaldo Amaral, Rodrigo Wendrel, Weverton Rodrigues | 26/01/2025 |
+    | Cronograma executado | 25/01/2025 | Rodrigo Wendrel | 25/01/2025 | Paulo Henrique, Pedro Luiz, Necivaldo Amaral, Rodrigo Wendrel, Weverton Rodrigues | 26/01/2025 |
     | Inspeção da entrega da apresentação do projeto etapa 7 do Grupo + 1 | 27/01/2025 | Paulo Henrique, Pedro Luiz, Necivaldo Amaral, Rodrigo Wendrel, Weverton Rodrigues | 27/01/2025 | Rodrigo Wendrel | 27/01/2025 |
     | Correção pós-apresentação | 28/01/2025 - 29/01/2025 | Paulo Henrique, Pedro Luiz, Necivaldo Amaral, Rodrigo Wendrel, Weverton Rodrigues | 28/01/2025 - 29/01/2025 | Paulo Henrique, Pedro Luiz, Necivaldo Amaral, Rodrigo Wendrel, Weverton Rodrigues | Não há entrega |
 

@@ -36,14 +36,28 @@ O presente documento tem como objetivo relatar os resultados obtidos durante a a
 
 Os participantes selecionados para a avaliação do protótipo de alta fidelidade da funcionalidade de [fazer um pedido no e-SIC](./prototipoDeAltaFidelidade.md#protótipo-de-alta-fidelidade-1---fazer-um-pedido-no-e-sic)
 foram escolhidos com base no perfil de usuário conforme descrito no [Planejamento da Avaliação dos Protótipos de Alta Fidelidade](./planejamentoAvaliacaoPrototipoAltaFidelidade.md#i---identificar-e-administrar-as-questões-práticas-da-avaliação).
-Foram entrevistados 3 participantes, número recomendado por Krug<sup>[1](./relatoPrototipoAltaFidelidade.md#referências-bibliográficas)</sup>, com experiência intermediária/avançada em tecnologia.
+Foram entrevistados 3 participantes, número recomendado por Krug<sup>[1](./relatoPrototipoAltaFidelidade.md#referências-bibliográficas)</sup>, com experiência intermediária/avançada em tecnologia. A seguir o roteiro utilizado durante a avaliação.
+
+**Roteiro - Fazer um pedido no e-SIC**  
+- Passo 1: Acessar a página do e-SIC pela tela inicial;  
+- Passo 2: Na página do e-SIC, realize um pedido anônimo;   
+- Passo 3: Nos campos de preenchimento do formulário, insira as seguintes informações
+    > Reside no município: Sim  
+    > Sexo: Não Informar  
+    > Escolaridade: Ensino superior  
+    > Faixa etária: De 18 a 24 anos  
+    > Resumo: Licitações escolares  
+    > Detalhamento: Quero ter acesso aos valores das licitações feitas para a escola do município entre os anos de 2020 até 2023.  
+    > Unidade desejada: secretarias
+- Passo 4: Cadastrar o pedido;
+- Passo 5: Clicar em continuar.
 
 A tabela a seguir apresenta as perguntas, e suas respectivas respostas, utilizadas pós-entrevista para avaliar a tarefa definida nesse escopo do protótipo de alta fidelidade com base nos objetivos
 de ideias e alternativas de design, conformidade com um padrão e problemas na interação e interface.
 
 <center>
 
-<p style={{ textAlign: 'center', fontSize: '18px' }}><b>Tabela x</b> - Respostas para Avaliação do Protótipo de Alta Fidelidade (Fazer um pedido no e-SIC)</p>
+<p style={{ textAlign: 'center', fontSize: '18px' }}><b>Tabela 2</b> - Respostas para Avaliação do Protótipo de Alta Fidelidade (Fazer um pedido no e-SIC)</p>
 
 | Objetivo                           | Pergunta                                                                                                                                            | Resposta                                                                                                                                                                                                                                                                                       |
 | ---------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -87,7 +101,7 @@ Design estético e minimalista: a interface do protótipo apresentou um design l
 
 <center>
 
-<p style={{ textAlign: 'center', fontSize: '18px' }}><b>Tabela x</b> - Comparação de desempenho por usuário</p>
+<p style={{ textAlign: 'center', fontSize: '18px' }}><b>Tabela 3</b> - Comparação de desempenho por usuário</p>
 
 | Entrevistado(s) | Tempo de execução (s) | Taxa de sucesso (%) | Taxa de erro (%) | Observações Qualitativas                                          |
 | :-------------: | :-------------------: | :-----------------: | :--------------: | ----------------------------------------------------------------- |
@@ -156,7 +170,7 @@ A tabela a seguir apresenta as perguntas feitas pós entrevista e avaliação do
 
 <center>
 
-<p style={{ textAlign: 'center', fontSize: '18px' }}><b>Tabela 1</b> - Respostas para Avaliação do Protótipo de Alta Fidelidade</p>
+<p style={{ textAlign: 'center', fontSize: '18px' }}><b>Tabela 4</b> - Respostas para Avaliação do Protótipo de Alta Fidelidade</p>
 
 | Objetivo                            | Pergunta                                                                                                                                            | Respostas                                                                                                                                                                                                                                            |
 | ----------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -170,7 +184,7 @@ A tabela a seguir apresenta as perguntas feitas pós entrevista e avaliação do
 | Problemas na Interação e Interface  | 8. Que parte da interface do protótipo de alta fidelidade deixa os usuários insatisfeitos ou causa confusão?                                        | Danilo sugeriu melhorar a sinalização ou adicionar um campo de pesquisa na página de agendamento (especificamente na área de seleção da UBS mais próxima), pois ficou confuso ao selecionar a UBS no mapa.                                           |
 | Problemas na Interação e Interface. | 9. Os usuários entendem claramente o que cada elemento do protótipo de alta fidelidade significa e o que devem fazer em seguida?                    | Todos os participantes entenderam claramente os elementos da interface e as ações a serem realizadas. O feedback contínuo, como indicações no processo de agendamento, ajudou a manter os usuários informados e seguros sobre o andamento da tarefa. |
 
-<p style={{ textAlign: 'center', fontSize: '17px' }}>Autor(es): [Weverton Rodrigues](https://github.com/vevetin) </p>
+<p style={{ textAlign: 'center', fontSize: '17px' }}>Autor: [Weverton Rodrigues](https://github.com/vevetin) </p>
 
 </center>
 
@@ -197,7 +211,7 @@ Reconhecimento em vez de memorização: Em relação à heurística de Reconheci
 
 <center>
 
-<p style={{ textAlign: 'center', fontSize: '18px' }}><b>Figura x</b> - Tabela Reconhecimento em vez de Memorização</p>
+<p style={{ textAlign: 'center', fontSize: '18px' }}><b>Figura 1</b> - Tabela Reconhecimento em vez de Memorização</p>
 
 ![Reconhecimento em vez de Memorização - Identificação de Problema no Mapa](./assets/tabela3-heuristica-agendamento.jfif)
 
@@ -207,7 +221,7 @@ Reconhecimento em vez de memorização: Em relação à heurística de Reconheci
 
 <center>
 
-<p style={{ textAlign: 'center', fontSize: '18px' }}><b>Figura x</b> - Imagem do Protótipo (Seleção de UBS no Mapa)</p>
+<p style={{ textAlign: 'center', fontSize: '18px' }}><b>Figura 2</b> - Imagem do Protótipo (Seleção de UBS no Mapa)</p>
 
 ![Feedback Visual: Área de Seleção da UBS no Protótipo - Sugestão de Melhoria](./assets/figura1-heuristica-violacao-agendamento.jfif)
 
@@ -223,7 +237,7 @@ A tabela a seguir apresenta o desempenho de cada entrevistado durante o teste de
 
 <center>
 
-<p style={{ textAlign: 'center', fontSize: '18px' }}><b>Tabela x</b> - Comparação de desempenho por usuário</p>
+<p style={{ textAlign: 'center', fontSize: '18px' }}><b>Tabela 5</b> - Comparação de desempenho por usuário</p>
 
 | Entrevistado(s) | Tempo de execução (s) | Taxa de sucesso (%) | Taxa de erro (%) | Observações Qualitativas                                                                     |
 | :-------------: | :-------------------: | :-----------------: | :--------------: | -------------------------------------------------------------------------------------------- |
@@ -269,11 +283,24 @@ A seguir, são apresentados os registros em vídeo dos testes de usabilidade rea
 
 Os participantes selecionados para a avaliação do protótipo de alta fidelidade da funcionalidade de buscar por licitação fracassada foram escolhidos com base no perfil de usuário conforme descrito no Planejamento da Avaliação dos Protótipos de Alta Fidelidade. Foram entrevistados 3 participantes, número recomendado por Krug1, com experiência intermediária/avançada em tecnologia.
 
+A seguir, o roteiro utilizado durante a avaliação.
+
+**Roteiro - Busca por licitação fracassada**  
+- Passo 1: Acessar a página de licitações  
+- Passo 2: Filtrar os resultados
+    > Ano: 2024  
+    > Modalidade: Pregão eletrônico
+    > Status: Fracassado
+    > Unidade: Secretaria Municipal de Educação
+- Passo 3: Escolher a licitação desejada
+- Passo 4: Visualizar os detalhes da licitação
+- Passo 5: Realizar o download no formato pdf
+
 A tabela a seguir apresenta as perguntas, e suas respectivas respostas, utilizadas pós-entrevista para avaliar a tarefa definida nesse escopo do protótipo de alta fidelidade com base nos objetivos de ideias e alternativas de design, conformidade com um padrão e problemas na interação e interface.
 
 <center>
 
-<p style={{ textAlign: 'center', fontSize: '18px' }}><b>Tabela 1</b> - Respostas para Avaliação do Protótipo de Alta Fidelidade</p>
+<p style={{ textAlign: 'center', fontSize: '18px' }}><b>Tabela 6</b> - Respostas para Avaliação do Protótipo de Alta Fidelidade</p>
 
 | Objetivo                            | Pergunta                                                                                                                                            | Respostas                                                                                                     |
 | ----------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
@@ -287,7 +314,7 @@ A tabela a seguir apresenta as perguntas, e suas respectivas respostas, utilizad
 | Problemas na Interação e Interface  | 8. Que parte da interface do protótipo de alta fidelidade deixa os usuários insatisfeitos ou causa confusão?                                        | Rafael identificou um problema na seleção de filtros                                                          |
 | Problemas na Interação e Interface. | 9. Os usuários entendem claramente o que cada elemento do protótipo de alta fidelidade significa e o que devem fazer em seguida?                    | Todos os participantes entenderam claramente os elementos da interface e as ações a serem realizadas.         |
 
-<p style={{ textAlign: 'center', fontSize: '17px' }}>Autor(es): [Rodrigo Wendrel](https://github.com/rodwendrel) </p>
+<p style={{ textAlign: 'center', fontSize: '17px' }}>Autor: [Rodrigo Wendrel](https://github.com/rodwendrel) </p>
 
 </center>
 
@@ -310,7 +337,7 @@ Apenas a heurística de Consistência e Padronização foi violada por um erro d
 
 <center>
 
-<p style={{ textAlign: 'center', fontSize: '18px' }}><b>Figura x</b> - Tabela Consistência e padronização</p>
+<p style={{ textAlign: 'center', fontSize: '18px' }}><b>Figura 3</b> - Tabela Consistência e padronização</p>
 
 ![Reconhecimento em vez de Memorização - Identificação de Problema no Mapa](./assets/heuristica-rodrigo.png)
 
@@ -324,13 +351,13 @@ Apenas a heurística de Consistência e Padronização foi violada por um erro d
 
 <center>
 
-<p style={{ textAlign: 'center', fontSize: '18px' }}><b>Tabela x</b> - Comparação de desempenho por usuário</p>
+<p style={{ textAlign: 'center', fontSize: '18px' }}><b>Tabela 7</b> - Comparação de desempenho por usuário</p>
 
 | Entrevistado(s) | Tempo de execução (s) | Taxa de sucesso (%) | Taxa de erro (%) | Observações Qualitativas                                                                     |
 | :-------------: | :-------------------: | :-----------------: | :--------------: | -------------------------------------------------------------------------------------------- |
-|      luis       |          1:38          |        100%         |        0%        | -                                                                                            |
-|     Willian     |          1:68          |        100%         |        0%        |  |
-|     Rafael      |          60s          |        100%         |        0%        | - Trouxe a questão dos filtros onde podem atrapalhar a experiência do usuário                                                                                           |
+|      luis       |          98s          |        100%         |        0%        | -                                                                                            |
+|     Willian     |          118s          |        100%         |        0%        |  |
+|     Rafael      |          60s         |        100%         |        0%        | - Trouxe a questão dos filtros onde podem atrapalhar a experiência do usuário                                                                                           |
 
 <p style={{ textAlign: 'center', fontSize: '17px' }}>Autor: [Rodrigo Wendrel](https://github.com/rodwendrel)</p>
 
@@ -397,7 +424,7 @@ A tabela complementa as informações apresentadas no gráfico, fornecendo um re
 
 <center>
 
-<p style={{ textAlign: 'center', fontSize: '18px' }}><b>Tabela x</b> - Dados de Média e Desvio Padrão do Tempo de Execução, Taxa de Sucesso e Taxa de Erro</p>
+<p style={{ textAlign: 'center', fontSize: '18px' }}><b>Tabela 8</b> - Dados de Média e Desvio Padrão do Tempo de Execução, Taxa de Sucesso e Taxa de Erro</p>
 
 | Funcionalidade | Tempo de execução (s) - média | Tempo de execução (s) - desvio padrão | Taxa de sucesso (%) - média |Taxa de sucesso (%) - desvio padrão | Taxa de erros (%) - média | Taxa de erros (%) - desvio padrão |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -415,7 +442,7 @@ A tabela complementa as informações apresentadas no gráfico, fornecendo um re
 
 <center>
 
-<p style={{ textAlign: 'center', fontSize: '18px' }}><b>Figura x</b> - Gráfico de Comparação de Tempo de Execução, Taxa de Sucesso e Taxa de Erro</p>
+<p style={{ textAlign: 'center', fontSize: '18px' }}><b>Figura 4</b> - Gráfico de Comparação de Tempo de Execução, Taxa de Sucesso e Taxa de Erro</p>
 
 ![gráfico](./assets/gráfico-results.jfif)
 

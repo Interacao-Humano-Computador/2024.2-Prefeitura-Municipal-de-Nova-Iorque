@@ -158,10 +158,23 @@ Ao clicar em "Continuar" nas figuras 6 e 10, o usuário será redirecionado para
 ### Protótipo de Alta Fidelidade 2 - Agendamento de Consulta Médica
 
 Esta funcionalidade foi projetada para facilitar o acesso dos cidadãos ao agendamento de consultas médicas no sistema de saúde municipal, promovendo praticidade e eficiência na interação com o serviço público. 
+Inicialmente, na página inicial, há duas formas de acessar o formulário de agendamento de consulta médica: menu principal ou botão "Agendar Consulta", presente na seção "Mais Acessados".
 
 <center>
 
-<p style={{ textAlign: 'center', fontSize: '18px' }}><b>Figura 12</b> - Tela Principal do Agendamento de Consulta Médica</p>
+<p style={{ textAlign: 'center', fontSize: '18px' }}><b>Figura 12</b> - Menu de acesso ao Agendamento de Consulta Médica pela Tela Inicial</p>
+
+![tela inicial - agendamento de consulta](./assets/pagina-inicial-agendamento-de-consulta.jfif)
+
+<p style={{ textAlign: 'center', fontSize: '17px' }}>Autor: [Weverton Rodrigues](https://github.com/vevetin)</p>
+
+</center>
+
+Ao clicar em qualquer uma das opções de acesso, o usuário é direcionado ao formulário de agendamento. Este formulário permite selecionar a Unidade Básica de Saúde (UBS), o profissional, a data e o horário da consulta após o preenchimento dos campos obrigatórios de dados pessoais.
+
+<center>
+
+<p style={{ textAlign: 'center', fontSize: '18px' }}><b>Figura 13</b> - Formulário de Agendamento de Consulta Médica</p>
 
 ![tela principal agendamento de consulta](./assets/tela-principal-agendamento-de-consulta-medica.png)
 
@@ -171,13 +184,51 @@ Esta funcionalidade foi projetada para facilitar o acesso dos cidadãos ao agend
 
 <center>
 
-<p style={{ textAlign: 'center', fontSize: '18px' }}><b>Figura 13</b> - Elementos Adicionais e Componentes Complementares</p>
+<p style={{ textAlign: 'center', fontSize: '18px' }}><b>Figura 14</b> - Formulário de Agendamento de Consulta Médica preenchido</p>
 
-![outros elementos agendamento de consulta](./assets/outros-componentes-agendamento-de-consulta-medica.png)
+![tela principal agendamento de consulta preenchido](./assets/agendamento-de-consulta-preenchido.jfif)
 
 <p style={{ textAlign: 'center', fontSize: '17px' }}>Autor: [Weverton Rodrigues](https://github.com/vevetin)</p>
 
 </center>
+
+Após preencher as informações, o usuário pode clicar no botão "Salvar". Nesse momento, um modal de confirmação é exibido, permitindo ao usuário revisar os dados antes de concluir o agendamento. Uma mensagem de sucesso aparece antes do modal fechar.
+
+<center>
+
+<p style={{ textAlign: 'center', fontSize: '18px' }}><b>Figura 15</b> - Modal de confirmação ao salvar o agendamento</p>
+
+![modal de confirmação](./assets/agendamento-de-consulta-sucesso.jfif)
+
+<p style={{ textAlign: 'center', fontSize: '17px' }}>Autor: [Weverton Rodrigues](https://github.com/vevetin)</p>
+
+</center>
+
+Após confirmar o agendamento, a tela do formulário é atualizada para incluir opções adicionais, como baixar, imprimir, editar ou excluir o agendamento realizado.
+
+<center>
+
+<p style={{ textAlign: 'center', fontSize: '18px' }}><b>Figura 16</b> - Tela do formulário após a confirmação do agendamento</p>
+
+![agendamento pós confirmação](./assets/agendamento-de-consulta-pos-confirmacao.jfif)
+
+<p style={{ textAlign: 'center', fontSize: '17px' }}>Autor: [Weverton Rodrigues](https://github.com/vevetin)</p>
+
+</center>
+
+**Fluxo Alternativo: Exclusão de Agendamento**  
+Caso o usuário opte por excluir o agendamento, um modal de confirmação é exibido. Após confirmar a exclusão, o sistema exibe uma mensagem de feedback e redireciona o usuário para a tela inicial.
+
+<center>
+
+<p style={{ textAlign: 'center', fontSize: '18px' }}><b>Figura 17</b> - Modal de confirmação ao excluir o agendamento</p>
+
+![modal de cancelamento](./assets/consulta-agendada-cancelada.jfif)
+
+<p style={{ textAlign: 'center', fontSize: '17px' }}>Autor: [Weverton Rodrigues](https://github.com/vevetin)</p>
+
+</center>
+
 
 ### Protótipo de Alta Fidelidade 3 - Busca por licitação fracassada
 *(Protótipo em desenvolvimento. A versão final será apresentada assim que disponível.)*
@@ -197,3 +248,4 @@ Esta funcionalidade foi projetada para facilitar o acesso dos cidadãos ao agend
 |:---:|:---:|---|---|:---:|---|
 | 1.0 | 12/01/2025 |  [Weverton Rodrigues](https://github.com/vevetin) | Criação do documento | 12/01/2025 | [Paulo Henrique](https://github.com/paulomh) |
 | 1.1 | 25/01/2025 |  [Paulo Henrique](https://github.com/paulomh) | Adicionando fluxo de interação do protótipo de alta fidelidade - Fazer um pedido no e-SIC | 25/01/2025 | [Rodrigo Wendrel](https://github.com/rodwendrel) |
+| 1.2 | 25/01/2025 | [Weverton Rodrigues](https://github.com/vevetin) | Adicionado fluxo de interação do protótipo de alta fidelidade - Agendamento de Consulta Médica| 26/01/2025 | [Necivaldo Amaral](https://github.com/junioramaral22) |

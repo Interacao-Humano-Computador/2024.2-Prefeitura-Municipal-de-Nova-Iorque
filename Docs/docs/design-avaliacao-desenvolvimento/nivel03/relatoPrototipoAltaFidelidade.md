@@ -57,7 +57,7 @@ de ideias e alternativas de design, conformidade com um padrão e problemas na i
 
 <center>
 
-<p style={{ textAlign: 'center', fontSize: '18px' }}><b>Tabela x</b> - Respostas para Avaliação do Protótipo de Alta Fidelidade (Fazer um pedido no e-SIC)</p>
+<p style={{ textAlign: 'center', fontSize: '18px' }}><b>Tabela 2</b> - Respostas para Avaliação do Protótipo de Alta Fidelidade (Fazer um pedido no e-SIC)</p>
 
 | Objetivo                           | Pergunta                                                                                                                                            | Resposta                                                                                                                                                                                                                                                                                       |
 | ---------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -101,7 +101,7 @@ Design estético e minimalista: a interface do protótipo apresentou um design l
 
 <center>
 
-<p style={{ textAlign: 'center', fontSize: '18px' }}><b>Tabela x</b> - Comparação de desempenho por usuário</p>
+<p style={{ textAlign: 'center', fontSize: '18px' }}><b>Tabela 3</b> - Comparação de desempenho por usuário</p>
 
 | Entrevistado(s) | Tempo de execução (s) | Taxa de sucesso (%) | Taxa de erro (%) | Observações Qualitativas                                          |
 | :-------------: | :-------------------: | :-----------------: | :--------------: | ----------------------------------------------------------------- |
@@ -170,7 +170,7 @@ A tabela a seguir apresenta as perguntas feitas pós entrevista e avaliação do
 
 <center>
 
-<p style={{ textAlign: 'center', fontSize: '18px' }}><b>Tabela 1</b> - Respostas para Avaliação do Protótipo de Alta Fidelidade</p>
+<p style={{ textAlign: 'center', fontSize: '18px' }}><b>Tabela 4</b> - Respostas para Avaliação do Protótipo de Alta Fidelidade</p>
 
 | Objetivo                            | Pergunta                                                                                                                                            | Respostas                                                                                                                                                                                                                                            |
 | ----------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -184,7 +184,7 @@ A tabela a seguir apresenta as perguntas feitas pós entrevista e avaliação do
 | Problemas na Interação e Interface  | 8. Que parte da interface do protótipo de alta fidelidade deixa os usuários insatisfeitos ou causa confusão?                                        | Danilo sugeriu melhorar a sinalização ou adicionar um campo de pesquisa na página de agendamento (especificamente na área de seleção da UBS mais próxima), pois ficou confuso ao selecionar a UBS no mapa.                                           |
 | Problemas na Interação e Interface. | 9. Os usuários entendem claramente o que cada elemento do protótipo de alta fidelidade significa e o que devem fazer em seguida?                    | Todos os participantes entenderam claramente os elementos da interface e as ações a serem realizadas. O feedback contínuo, como indicações no processo de agendamento, ajudou a manter os usuários informados e seguros sobre o andamento da tarefa. |
 
-<p style={{ textAlign: 'center', fontSize: '17px' }}>Autor(es): [Weverton Rodrigues](https://github.com/vevetin) </p>
+<p style={{ textAlign: 'center', fontSize: '17px' }}>Autor: [Weverton Rodrigues](https://github.com/vevetin) </p>
 
 </center>
 
@@ -211,7 +211,7 @@ Reconhecimento em vez de memorização: Em relação à heurística de Reconheci
 
 <center>
 
-<p style={{ textAlign: 'center', fontSize: '18px' }}><b>Figura x</b> - Tabela Reconhecimento em vez de Memorização</p>
+<p style={{ textAlign: 'center', fontSize: '18px' }}><b>Figura 1</b> - Tabela Reconhecimento em vez de Memorização</p>
 
 ![Reconhecimento em vez de Memorização - Identificação de Problema no Mapa](./assets/tabela3-heuristica-agendamento.jfif)
 
@@ -221,7 +221,7 @@ Reconhecimento em vez de memorização: Em relação à heurística de Reconheci
 
 <center>
 
-<p style={{ textAlign: 'center', fontSize: '18px' }}><b>Figura x</b> - Imagem do Protótipo (Seleção de UBS no Mapa)</p>
+<p style={{ textAlign: 'center', fontSize: '18px' }}><b>Figura 2</b> - Imagem do Protótipo (Seleção de UBS no Mapa)</p>
 
 ![Feedback Visual: Área de Seleção da UBS no Protótipo - Sugestão de Melhoria](./assets/figura1-heuristica-violacao-agendamento.jfif)
 
@@ -237,7 +237,7 @@ A tabela a seguir apresenta o desempenho de cada entrevistado durante o teste de
 
 <center>
 
-<p style={{ textAlign: 'center', fontSize: '18px' }}><b>Tabela x</b> - Comparação de desempenho por usuário</p>
+<p style={{ textAlign: 'center', fontSize: '18px' }}><b>Tabela 5</b> - Comparação de desempenho por usuário</p>
 
 | Entrevistado(s) | Tempo de execução (s) | Taxa de sucesso (%) | Taxa de erro (%) | Observações Qualitativas                                                                     |
 | :-------------: | :-------------------: | :-----------------: | :--------------: | -------------------------------------------------------------------------------------------- |
@@ -300,7 +300,7 @@ A tabela a seguir apresenta as perguntas, e suas respectivas respostas, utilizad
 
 <center>
 
-<p style={{ textAlign: 'center', fontSize: '18px' }}><b>Tabela 1</b> - Respostas para Avaliação do Protótipo de Alta Fidelidade</p>
+<p style={{ textAlign: 'center', fontSize: '18px' }}><b>Tabela 6</b> - Respostas para Avaliação do Protótipo de Alta Fidelidade</p>
 
 | Objetivo                            | Pergunta                                                                                                                                            | Respostas                                                                                                     |
 | ----------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
@@ -314,7 +314,7 @@ A tabela a seguir apresenta as perguntas, e suas respectivas respostas, utilizad
 | Problemas na Interação e Interface  | 8. Que parte da interface do protótipo de alta fidelidade deixa os usuários insatisfeitos ou causa confusão?                                        | Rafael identificou um problema na seleção de filtros                                                          |
 | Problemas na Interação e Interface. | 9. Os usuários entendem claramente o que cada elemento do protótipo de alta fidelidade significa e o que devem fazer em seguida?                    | Todos os participantes entenderam claramente os elementos da interface e as ações a serem realizadas.         |
 
-<p style={{ textAlign: 'center', fontSize: '17px' }}>Autor(es): [Rodrigo Wendrel](https://github.com/rodwendrel) </p>
+<p style={{ textAlign: 'center', fontSize: '17px' }}>Autor: [Rodrigo Wendrel](https://github.com/rodwendrel) </p>
 
 </center>
 
@@ -337,7 +337,7 @@ Apenas a heurística de Consistência e Padronização foi violada por um erro d
 
 <center>
 
-<p style={{ textAlign: 'center', fontSize: '18px' }}><b>Figura x</b> - Tabela Consistência e padronização</p>
+<p style={{ textAlign: 'center', fontSize: '18px' }}><b>Figura 3</b> - Tabela Consistência e padronização</p>
 
 ![Reconhecimento em vez de Memorização - Identificação de Problema no Mapa](./assets/heuristica-rodrigo.png)
 
@@ -351,7 +351,7 @@ Apenas a heurística de Consistência e Padronização foi violada por um erro d
 
 <center>
 
-<p style={{ textAlign: 'center', fontSize: '18px' }}><b>Tabela x</b> - Comparação de desempenho por usuário</p>
+<p style={{ textAlign: 'center', fontSize: '18px' }}><b>Tabela 7</b> - Comparação de desempenho por usuário</p>
 
 | Entrevistado(s) | Tempo de execução (s) | Taxa de sucesso (%) | Taxa de erro (%) | Observações Qualitativas                                                                     |
 | :-------------: | :-------------------: | :-----------------: | :--------------: | -------------------------------------------------------------------------------------------- |
@@ -424,7 +424,7 @@ A tabela complementa as informações apresentadas no gráfico, fornecendo um re
 
 <center>
 
-<p style={{ textAlign: 'center', fontSize: '18px' }}><b>Tabela x</b> - Dados de Média e Desvio Padrão do Tempo de Execução, Taxa de Sucesso e Taxa de Erro</p>
+<p style={{ textAlign: 'center', fontSize: '18px' }}><b>Tabela 8</b> - Dados de Média e Desvio Padrão do Tempo de Execução, Taxa de Sucesso e Taxa de Erro</p>
 
 | Funcionalidade | Tempo de execução (s) - média | Tempo de execução (s) - desvio padrão | Taxa de sucesso (%) - média |Taxa de sucesso (%) - desvio padrão | Taxa de erros (%) - média | Taxa de erros (%) - desvio padrão |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -442,7 +442,7 @@ A tabela complementa as informações apresentadas no gráfico, fornecendo um re
 
 <center>
 
-<p style={{ textAlign: 'center', fontSize: '18px' }}><b>Figura x</b> - Gráfico de Comparação de Tempo de Execução, Taxa de Sucesso e Taxa de Erro</p>
+<p style={{ textAlign: 'center', fontSize: '18px' }}><b>Figura 4</b> - Gráfico de Comparação de Tempo de Execução, Taxa de Sucesso e Taxa de Erro</p>
 
 ![gráfico](./assets/gráfico-results.jfif)
 

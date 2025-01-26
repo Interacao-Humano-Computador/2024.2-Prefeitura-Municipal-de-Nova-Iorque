@@ -231,7 +231,44 @@ Caso o usuário opte por excluir o agendamento, um modal de confirmação é exi
 
 
 ### Protótipo de Alta Fidelidade 3 - Busca por licitação fracassada
-*(Protótipo em desenvolvimento. A versão final será apresentada assim que disponível.)*
+Ao clicar na seção "licitações Fracassadas" na página inicial, o usuário é redirecionado para apágina de licitações
+
+<center>
+
+<p style={{ textAlign: 'center', fontSize: '18px' }}><b>Figura 18</b> - Lista de Licitações </p>
+
+![lista de licitações](./assets/rodrigo_2.png)
+
+<p style={{ textAlign: 'center', fontSize: '17px' }}>Autor: [Rodrigo Wendrel](https://github.com/rodwendrel)</p>
+
+Nesta tela é possível filtrar por ano, modalidade, status, unidade, além de visualizar as licitações.
+
+</center>
+
+<center>
+
+<p style={{ textAlign: 'center', fontSize: '18px' }}><b>Figura 19</b> - Detalhes da licitação </p>
+
+![lista de licitações](./assets/rodrigo_3.png)
+
+<p style={{ textAlign: 'center', fontSize: '17px' }}>Autor: [Rodrigo Wendrel](https://github.com/rodwendrel)</p>
+
+Aqui é possível visualizar as informações e os formatos disponíveis para download.
+
+</center>
+
+<center>
+
+<p style={{ textAlign: 'center', fontSize: '18px' }}><b>Figura 19</b> - Download Concluído </p>
+
+![lista de licitações](./assets/rodrigo_4.png)
+
+<p style={{ textAlign: 'center', fontSize: '17px' }}>Autor: [Rodrigo Wendrel](https://github.com/rodwendrel)</p>
+
+Quando o download é concluído, uma mensagem é exibida em tela.
+
+</center>
+
 
 ### Protótipo de Alta Fidelidade 4 - Envio de Nota Fiscal de Serviço
 *(Protótipo em desenvolvimento. A versão final será apresentada assim que disponível.)*
@@ -249,3 +286,5 @@ Caso o usuário opte por excluir o agendamento, um modal de confirmação é exi
 | 1.0 | 12/01/2025 |  [Weverton Rodrigues](https://github.com/vevetin) | Criação do documento | 12/01/2025 | [Paulo Henrique](https://github.com/paulomh) |
 | 1.1 | 25/01/2025 |  [Paulo Henrique](https://github.com/paulomh) | Adicionando fluxo de interação do protótipo de alta fidelidade - Fazer um pedido no e-SIC | 25/01/2025 | [Rodrigo Wendrel](https://github.com/rodwendrel) |
 | 1.2 | 25/01/2025 | [Weverton Rodrigues](https://github.com/vevetin) | Adicionado fluxo de interação do protótipo de alta fidelidade - Agendamento de Consulta Médica| 26/01/2025 | [Necivaldo Amaral](https://github.com/junioramaral22) |
+| 1.3 | 26/01/2025 |  [Rodrigo Wendrel](https://github.com/rodwendrel)  | Adicionando fluxo de interação do protótipo de alta fidelidade - Busca por licitação | 26/01/2025 | [Paulo Henrique](https://github.com/paulomh) |
+

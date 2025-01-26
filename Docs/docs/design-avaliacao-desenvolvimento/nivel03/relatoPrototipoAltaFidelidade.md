@@ -356,8 +356,8 @@ Apenas a heurística de Consistência e Padronização foi violada por um erro d
 | Entrevistado(s) | Tempo de execução (s) | Taxa de sucesso (%) | Taxa de erro (%) | Observações Qualitativas                                                                     |
 | :-------------: | :-------------------: | :-----------------: | :--------------: | -------------------------------------------------------------------------------------------- |
 |      luis       |          1:38          |        100%         |        0%        | -                                                                                            |
-|     Willian     |          1:68          |        100%         |        0%        |  |
-|     Rafael      |          60s          |        100%         |        0%        | - Trouxe a questão dos filtros onde podem atrapalhar a experiência do usuário                                                                                           |
+|     Willian     |          1:58          |        100%         |        0%        |  |
+|     Rafael      |          1:00          |        100%         |        0%        | - Trouxe a questão dos filtros onde podem atrapalhar a experiência do usuário                                                                                           |
 
 <p style={{ textAlign: 'center', fontSize: '17px' }}>Autor: [Rodrigo Wendrel](https://github.com/rodwendrel)</p>
 

@@ -2,17 +2,17 @@
 sidebar_position: 2
 ---
 
-# Planejamento do Relatos dos Protótipos de Alta Fidelidade
+# Planejamento do Relato dos Protótipos de Alta Fidelidade
 
 ## Introdução
 
-O presente documento tem como base o [Planejamento da Avaliação do Protótipo de Alta Fidelidade](https://interacao-humano-computador.github.io/2024.2-Prefeitura-Municipal-de-Nova-Iorque/docs/design-avaliacao-desenvolvimento/nivel03/planejamentoAvaliacaoPrototipoAltaFidelidade) e tem como propósito principal definir a organização e a apresentação dos dados obtidos durante a avaliação do protótipo de alta fidelidade. Os resultados desse planejamento serão apresentados em um relatório detalhado, no qual serão ressaltados pontos de melhoria no sistema, bem como propostas de redesign identificadas pelo grupo.
+O presente documento tem como base o [Planejamento da Avaliação do Protótipo de Alta Fidelidade](./planejamentoAvaliacaoPrototipoAltaFidelidade.md) e tem como propósito principal definir a organização e a apresentação dos dados obtidos durante a avaliação do protótipo de alta fidelidade. Os resultados desse planejamento serão apresentados em um relatório detalhado, no qual serão ressaltados pontos de melhoria no sistema, bem como propostas de redesign identificadas pelo grupo.
 
 ## Metodologia
 
 A abordagem metodológica adotada neste projeto será a observação, na qual um usuário será convidado a realizar uma simulação utilizando o protótipo de alta fidelidade. Essa estratégia envolve a condução de simulações individuais, com o objetivo de coletar informações detalhadas sobre as percepções, experiências e desafios enfrentados pelo usuário ao realizar as tarefas propostas com o protótipo.
 
-Para organizar e planejar as atividades, será empregado o framework DECIDE, conforme mencionado no [planejamento de avaliação](https://interacao-humano-computador.github.io/2024.2-Prefeitura-Municipal-de-Nova-Iorque/docs/design-avaliacao-desenvolvimento/nivel03/planejamentoAvaliacaoPrototipoAltaFidelidade). Esse framework oferece uma estrutura eficaz para orientar o processo de tomada de decisão e a gestão das atividades. Ele auxilia na definição de critérios, na análise de alternativas, na identificação de riscos e na escolha da melhor estratégia para cada situação específica.
+Para organizar e planejar as atividades, será empregado o framework DECIDE, conforme mencionado no [planejamento de avaliação](./planejamentoAvaliacaoPrototipoAltaFidelidade.md). Esse framework oferece uma estrutura eficaz para orientar o processo de tomada de decisão e a gestão das atividades. Ele auxilia na definição de critérios, na análise de alternativas, na identificação de riscos e na escolha da melhor estratégia para cada situação específica.
 
 ### Objetivos e escopo da avaliação
 
@@ -49,9 +49,34 @@ O relatório também incluirá as seguintes informações:
 * Lista de participantes presentes na avaliação.
 * Link para acessar o protótipo de alta fidelidade avaliado.
 
+Para a avaliação heurística, os protótipos serão avaliados com base nos princípios heurísticos de Nielsen, explicitados por Barbosa e Silva<sup>[4](./planejamentoDoRelatoAvaliacaoProtipoAltaFidelidade.md#referências-bibliográficas)</sup>, que incluem os seguintes critérios:
+
+- Visibilidade do status do sistema
+- Correspondência entre o sistema e o mundo real
+- Controle do usuário e liberdade
+- Consistência e padronização
+- Rreconhecimento em vez de memorização
+- Flexibilidade e eficiência de uso
+- Design estético e minimalista
+- Prevenção de erros
+- Ajuda e documentação
+
+Para eventuais violações, o avaliador especificará com uma imagem da parte do protótipo violado e explicará a vioalação por meio do formulário abaixo:
+
+<center>
+
+<p style={{ textAlign: 'center', fontSize: '18px' }}><b>Figura 1</b> - Formulário para avaliação heurística</p>
+
+![tela principal agendamento de consulta](./assets/formAvaliacaoHeuristica.png)
+
+<p style={{ textAlign: 'center', fontSize: '17px' }}>Fonte: (MACIEL et al. 2003, pág. 12)<sup>[3](./planejamentoDoRelatoAvaliacaoProtipoAltaFidelidade.md#bibliografia)</sup></p>
+<p style={{ textAlign: 'center', fontSize: '17px' }}>Autor: [Paulo Henrique](https://github.com/paulomh)</p>
+
+</center>
+
 ## Seleção de participantes
 
-Para garantir a eficácia da avaliação do protótipo de alta fidelidade, a escolha dos participantes será feita de maneira estratégica e criteriosa. Os indivíduos selecionados devem refletir o perfil do usuário final do produto, conforme descrito na documentação disponível em [Perfil de Usuário](https://interacao-humano-computador.github.io/2024.2-Prefeitura-Municipal-de-Nova-Iorque/docs/analise-de-requisitos/perfilDeUsuario). Essa abordagem assegura que o feedback coletado seja relevante, representativo e alinhado ao público-alvo do protótipo.
+Para garantir a eficácia da avaliação do protótipo de alta fidelidade, a escolha dos participantes será feita de maneira estratégica e criteriosa. Os indivíduos selecionados devem refletir o perfil do usuário final do produto, conforme descrito na documentação disponível em [Perfil de Usuário](../../analise-de-requisitos/perfilDeUsuario.md). Essa abordagem assegura que o feedback coletado seja relevante, representativo e alinhado ao público-alvo do protótipo.
 
 ## Custos
 No relato, será detalhado que não houve custos associados à realização da avaliação do protótipo de alta fidelidade. Todas as atividades foram planejadas de maneira a utilizar recursos já disponíveis, garantindo a viabilidade do processo sem necessidade de investimentos adicionais.
@@ -78,12 +103,15 @@ Neste item, os avaliadores apresentarão as gravações realizadas durante os te
 
 > 1. BARBOSA, Simone Diniz Junqueira et al. Interação humano-computador e experiência do usuário. 1. ed. Rio de Janeiro: Simone Diniz Junqueira Barbosa, 2021. Capítulo 11: Planejamento da Avaliação de IHC Autopublicação. ISBN: 978-65-00-19677-1.
 > 2. ROSA, José Guilherme Santa. Avaliação e Projeto No Deisng de Interfaces. 1. ed. Rio de Janeiro: Elsevier, 2010. Capítulo 8: Teste de Usabilidade.
+> 3. MACIEL, Cristiano; NOGUEIRA, José; CIUFFO, Leandro; GARCIA, Ana. Avaliação Heurística de Sítios na Web. 2003. Disponível em: https://marcelohsantos.com/aulas/include/2022-1/projeto_Interface_Usuario/Aula7_artigo.pdf. Acesso em: 25 jan. 2025.
+> 4. BARBOSA, Simone Diniz Junqueira et al. Interação humano-computador e experiência do usuário. 1. ed. Rio de Janeiro: Simone Diniz Junqueira Barbosa, 2021. Capítulo 12: Métodos de Avaliação de IHC, página 282. ISBN: 978-65-00-19677-1.
 
 ## Histórico de Versão
 
 | Versão | Data | Autor(es) | Descrição | Data de Revisão | Revisor(es) |
 |:---:|:---:|---|---|:---:|---|
 | 1.0 | 14/01/2025 |  [Necivaldo Amaral](https://github.com/junioramaral22) | Criação do documento | 14/01/2025 | [Weverton Rodrigues](https://github.com/vevetin) |
+| 1.0 | 25/01/2025 |  [Paulo Henrique](https://github.com/paulomh) | Adcionando template avaliação heurística | 25/01/2025 | [Necivaldo Amaral](https://github.com/junioramaral22) |
 
 
 

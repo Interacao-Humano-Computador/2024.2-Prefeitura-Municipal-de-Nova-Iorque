@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# Planejamento da Avaliação do Protótipo de Alta Fidelidade
+# Planejamento da Avaliação dos Protótipos de Alta Fidelidade
 
 ## Introdução
 
@@ -32,7 +32,7 @@ Baseando-se nos objetivos da avaliação, as perguntas a serem respondidas com a
 
 <center>
 
-<p style={{ textAlign: 'center', fontSize: '18px' }}><b>Tabela 1</b> - Roteiro de perguntas para Avaliação do Protótipo de Papel</p>
+<p style={{ textAlign: 'center', fontSize: '18px' }}><b>Tabela 1</b> - Roteiro de perguntas para Avaliação do Protótipo de Alta Fidelidade</p>
 
 | Objetivo | Pergunta | Resposta |
 |---|---|---|
@@ -52,11 +52,13 @@ Baseando-se nos objetivos da avaliação, as perguntas a serem respondidas com a
 
 ## C - Escolher os métodos de avaliação a serem utilizados
 
-Para a avaliação do protótipo de alta fidelidade, serão utilizados dois métodos principais: **entrevista semiestruturada** em conjunto com **teste de usabilidade**, esse definido por José Rosa (2010)<sup>[5](./planejamentoAvaliacaoPrototipoAltaFidelidade.md#referências-bibliográficas)</sup>.
+Para a avaliação do protótipo de alta fidelidade, serão utilizados três métodos principais: **entrevista semiestruturada** em conjunto com **teste de usabilidade**, esse definido por José Rosa (2010)<sup>[5](planejamentoAvaliacaoPrototipoDePapel.md#referências-bibliográficas)</sup> e **avaliação heurística**.
 
 A entrevista semiestruturada será utilizada para avaliar o aspecto da apropriação da tecnologia. Esse método permitirá captar dados qualitativos importantes sobre a usabilidade, a compreensão do protótipo e as motivações para sua adoção ou rejeição.
 
 Já o teste de usabilidade será empregado para avaliar a eficácia, eficiência e satisfação do usuário ao interagir com o protótipo de alta fidelidade. Esse método permitirá identificar problemas na interação e interface, bem como avaliar a experiência do usuário ao utilizar o site proposto. Nesse tipo de teste, o foco está no comportamento obserável do usuário, permitindo identificar problemas de usabilidade e interação<sup>[6](./planejamentoAvaliacaoPrototipoAltaFidelidade.md#referências-bibliográficas)</sup>.
+
+Da avaliação heurística, por outro lado, será empregada para avaliar os objetivos definidos. Essa análise ajudará a identificar falhas de design que podem comprometer a eficiência, a satisfação e a experiência do usuário com o protótipo de alta fidelidade.
 
 Ambos os métodos foram escolhidos por serem complementares e manter uma eficácia na obtenção de feedback detalhado e qualitativo, explorando profundamente a dinâmicas de uso do protótipo de alta fidelidade..
 
@@ -128,12 +130,18 @@ O teste piloto consiste em uma execução prévia da avaliação, com o objetivo
 
 Detalhes:
 
-    - Data 21/01/2025
-    - Horário 10:30
-    - Integrantes responsáveis: Paulo Henrique, Rodrigo Wendrel, Weverton Rodrigues e Necivaldo Amaral
+    - Data 23/01/2025
+    - Horário 12:00
+    - Integrantes responsáveis: Paulo Henrique, Necivaldo Amaral e Weverton Rodrigues
     - Local: Faculdade do Gama
 
 ## Resultado do Teste Piloto
+
+O teste piloto foi realizado com sucesso, sendo possível identificar pontos de melhoria no planejamento da avaliação. Os participantes conseguiram interagir com o protótipo de alta fidelidade, fornecendo feedbacks valiosos sobre a usabilidade e a experiência de uso. Com base nos resultados do teste piloto, foram feitos ajustes no roteiro de avaliação, nos materiais e nos procedimentos, garantindo que a avaliação final seja realizada de forma eficiente e eficaz. O único ponto de melhoria identificado foi o entrevistador perguntar se o entrevistado tem algum feedback sobre o protótipo. Segue a gravação do teste piloto:
+
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/G6FVLU7OVfs?si=PEv2vOcdGKBAMDPh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</center>
 
 ## Referências Bibliográficas
 

@@ -52,7 +52,7 @@ Baseando-se nos objetivos da avaliação, as perguntas a serem respondidas com a
 
 ## C - Escolher os métodos de avaliação a serem utilizados
 
-Para a avaliação do protótipo de alta fidelidade, serão utilizados três métodos principais: **entrevista semiestruturada** em conjunto com **teste de usabilidade**, esse definido por José Rosa (2010)<sup>[5](planejamentoAvaliacaoPrototipoDePapel.md#referências-bibliográficas)</sup> e **avaliação heurística**.
+Para a avaliação do protótipo de alta fidelidade, serão utilizados três métodos principais: **entrevista semiestruturada** em conjunto com **teste de usabilidade**, esse definido por José Rosa (2010)<sup>[5](./planejamentoAvaliacaoPrototipoAltaFidelidade.md#referências-bibliográficas)</sup> e **avaliação heurística**.
 
 A entrevista semiestruturada será utilizada para avaliar o aspecto da apropriação da tecnologia. Esse método permitirá captar dados qualitativos importantes sobre a usabilidade, a compreensão do protótipo e as motivações para sua adoção ou rejeição.
 

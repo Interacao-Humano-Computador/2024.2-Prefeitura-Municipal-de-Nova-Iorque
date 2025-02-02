@@ -14,8 +14,8 @@ A tabela a seguir apresenta a lista de verificação dos aspectos éticos do pro
 
 <p style={{ textAlign: 'center', fontSize: '18px' }}><b>Tabela 1</b> - Lista de Verificação Aspectos Éticos</p>
 
-| Questão | Resposta | Versão, Data e hora da avaliação | Fonte | Autor(es) |
-|---------|----------|----------------------------------|-------|-----------|
+| Categoria | Questão | Resposta | Versão, Data e hora da avaliação | Fonte | Autor(es) |
+|-----------|---------|----------|----------------------------------|-------|-----------|
 
 <p style={{ textAlign: 'center', fontSize: '17px' }}>Autor: [Paulo Henrique](https://github.com/paulomh) </p>
 

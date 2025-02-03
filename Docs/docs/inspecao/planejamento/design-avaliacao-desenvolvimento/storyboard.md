@@ -16,12 +16,12 @@ A tabela a seguir apresenta a lista de verificação para *Storyboards*. A respo
 
 | Categoria    | Questão | Resposta | Página e Fonte | Autor(es) |
 |-------------|---------|----------|----------------|-----------|
-| Storyboards | O artefato apresenta uma explicação sobre o conceito de *storyboard*?| | VIANNA, Maurício et al. Design Thinking: inovação em negócios. Rio de Janeiro: MJV Press, 2012. p. 135.[B.1](./storyboard.md#apêndice-b---storyboard) | [Paulo Henrique](https://github.com/paulomh) e [Rodrigo Ferreira](https://github.com/rodwendrel) |
-| Storyboards | Os storyboards ilustram visualmente a interação do usuário com o sistema? | | PREECE, Jenny; ROGERS, Yvonne; SHARP, Helen. Design da Interação: além da interação humano-computador. Porto Alegre: Bookman, 2013. p. 265. [B.2](./storyboard.md#apêndice-b---storyboard) | [Necivaldo Amaral](https://github.com/junioramaral22) e [Weverton Rodrigues](https://github.com/vevetin) |
-| Storyboards | Os storyboards apresentam um cenário definido? | | PREECE, Jenny; ROGERS, Yvonne; SHARP, Helen. Design da Interação: além da interação humano-computador. Porto Alegre: Bookman, 2013. p. 265. [B.3](./storyboard.md#apêndice-b---storyboard) | [Paulo Henrique](https://github.com/paulomh) e [Rodrigo Ferreira](https://github.com/rodwendrel) |
-| Storyboards | O artefato *storyboard* possui uma página dedicada aos storyboards? | | | [Necivaldo Amaral](https://github.com/junioramaral22) e [Weverton Rodrigues](https://github.com/vevetin) |
-| Storyboards | As tarefas dos *storyboards* estão descritas em seus documentos?  | | | [Paulo Henrique](https://github.com/paulomh) e [Rodrigo Ferreira](https://github.com/rodwendrel) |
-| Storyboards | Todos os membros do grupo adicionaram seus respectivos *storyboards*? | | | [Necivaldo Amaral](https://github.com/junioramaral22) e [Weverton Rodrigues](https://github.com/vevetin) |
+| Storyboards | 1. O artefato apresenta uma explicação sobre o conceito de *storyboard*?| | VIANNA, Maurício et al. Design Thinking: inovação em negócios. Rio de Janeiro: MJV Press, 2012. p. 135.[B.1](./storyboard.md#apêndice-b---storyboard) | [Paulo Henrique](https://github.com/paulomh) e [Rodrigo Ferreira](https://github.com/rodwendrel) |
+| Storyboards | 2. Os storyboards ilustram visualmente a interação do usuário com o sistema? | | PREECE, Jenny; ROGERS, Yvonne; SHARP, Helen. Design da Interação: além da interação humano-computador. Porto Alegre: Bookman, 2013. p. 265. [B.2](./storyboard.md#apêndice-b---storyboard) | [Necivaldo Amaral](https://github.com/junioramaral22) e [Weverton Rodrigues](https://github.com/vevetin) |
+| Storyboards | 3. Os storyboards apresentam um cenário definido? | | PREECE, Jenny; ROGERS, Yvonne; SHARP, Helen. Design da Interação: além da interação humano-computador. Porto Alegre: Bookman, 2013. p. 265. [B.3](./storyboard.md#apêndice-b---storyboard) | [Paulo Henrique](https://github.com/paulomh) e [Rodrigo Ferreira](https://github.com/rodwendrel) |
+| Storyboards | 4. O artefato *storyboard* possui uma página dedicada aos storyboards? | | | [Necivaldo Amaral](https://github.com/junioramaral22) e [Weverton Rodrigues](https://github.com/vevetin) |
+| Storyboards | 5. As tarefas dos *storyboards* estão descritas em seus documentos?  | | | [Paulo Henrique](https://github.com/paulomh) e [Rodrigo Ferreira](https://github.com/rodwendrel) |
+| Storyboards | 6. Todos os membros do grupo adicionaram seus respectivos *storyboards*? | | | [Necivaldo Amaral](https://github.com/junioramaral22) e [Weverton Rodrigues](https://github.com/vevetin) |
 
 ## Resultados
 

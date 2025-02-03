@@ -30,6 +30,18 @@ O presente documento tem como objetivo apresentar a execcução da verificação
 
 ## Resultados
 
+A verificação do artefato relacionado aos Princípios Gerais foi realizada e todos os itens da lista de verificação estão em conformidade.
+
+## Video da Verificação
+
+<center>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ETGp-x4aivw?si=Vh6jBhho175uzzJX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<p style={{ textAlign: 'center', fontSize: '17px' }}>Autor: [Paulo Henrique](https://github.com/paulohm) </p>
+
+</center>
+
 ## Bibliografia
 
 > \- BARBOSA, Simone, et al. Interação Humano-Computador e Experiência do Usuário. Leanpub, 2022. Disponível em: https://leanpub.com/ihc-ux. Acesso em: 09 dez. 2024.
@@ -39,4 +51,4 @@ O presente documento tem como objetivo apresentar a execcução da verificação
 ---
 | Versão | Data | Autor(es) | Descrição | Data de Revisão | Revisor(es) |
 |:---:|:---:|---|---|:---:|---|
-| 1.0 | 02/02/2025 | [Paulo Henrique](https://github.com/paulomh) | Criação do documento | 02/02/2025 | [Rodrigo Ferreira](https://github.com/rodwendrel)|
+| 1.0 | 03/02/2025 | [Paulo Henrique](https://github.com/paulomh) | Criação do documento | 03/02/2025 | [Rodrigo Ferreira](https://github.com/rodwendrel)|

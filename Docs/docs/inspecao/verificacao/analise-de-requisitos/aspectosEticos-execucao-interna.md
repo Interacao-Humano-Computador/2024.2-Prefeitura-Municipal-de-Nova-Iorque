@@ -29,6 +29,14 @@ O presente documento tem como objetivo apresentar o planejamento da verificaçã
 
 ## Resultados
 
+Os resultados da verificação dos aspectos éticos do projeto foram satisfatórios, não sendo identificadas não conformidades. Apenas o item 9 foi sugerida uma melhoria, que consiste em adicionar a referência do termo de consentimento do livro.
+
+## Vídeo da Verificação
+
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ibrCsUYQLj4?si=Hj5qoUCOx-yUhCYP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<p style={{ textAlign: 'center', fontSize: '17px' }}>Autor: [Paulo Henrique](https://github.com/paulomh) </p>
+</center>
 
 ## Bibliografia
 
@@ -40,4 +48,4 @@ O presente documento tem como objetivo apresentar o planejamento da verificaçã
 ---
 | Versão | Data | Autor(es) | Descrição | Data de Revisão | Revisor(es) |
 |:---:|:---:|---|---|:---:|---|
-| 1.0 | 01/02/2025 | [Paulo Henrique](https://github.com/paulomh) | Criação do documento | 01/02/2025 | [Weverton Rodrigues](https://github.com/vevetin) |
+| 1.0 | 03/02/2025 | [Paulo Henrique](https://github.com/paulomh) | Criação do documento | 03/02/2025 | [Rodrigo Ferreira](https://github.com/rodwendrel)|

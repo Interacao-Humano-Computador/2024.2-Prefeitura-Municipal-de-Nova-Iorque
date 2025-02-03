@@ -29,6 +29,14 @@ O presente documento tem como objetivo apresentar a execução da verificação 
 
 ## Resultados
 
+Os resultados da verificação dos aspectos éticos do projeto foram satisfatórios, não sendo identificadas não conformidades. Apenas o item 9 foi sugerida uma melhoria, que consiste em referenciar o local de onde o termo de consentimento foi baseado.
+
+## Video da Verificação
+
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bCj90PDjo7o?si=H-FjT6IN_LstHZry" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<p style={{ textAlign: 'center', fontSize: '17px' }}>Autor: [Paulo Henrique](https://github.com/paulomh) </p>
+</center>
 
 
 ## Bibliografia
@@ -41,4 +49,4 @@ O presente documento tem como objetivo apresentar a execução da verificação 
 ---
 | Versão | Data | Autor(es) | Descrição | Data de Revisão | Revisor(es) |
 |:---:|:---:|---|---|:---:|---|
-| 1.0 | 01/02/2025 | [Paulo Henrique](https://github.com/paulomh) | Criação do documento | 01/02/2025 | [Weverton Rodrigues](https://github.com/vevetin) |
+| 1.0 | 03/02/2025 | [Paulo Henrique](https://github.com/paulomh) | Criação do documento | 03/02/2025 | [Rodrigo Ferreira](https://github.com/rodwendrel)|

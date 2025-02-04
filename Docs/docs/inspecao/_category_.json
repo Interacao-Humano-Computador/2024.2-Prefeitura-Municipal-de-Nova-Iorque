@@ -1,0 +1,8 @@
+{
+    "label": "Inspeção",
+    "position": 1,
+    "link": {
+      "type": "generated-index",
+      "description": "Registro das etapas, métodos e ferramentas para a condução do projeto."
+    }
+}

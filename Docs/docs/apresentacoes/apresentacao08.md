@@ -13,4 +13,4 @@ O presente documento tem como objetivo disponibilizar o vídeo da oitava apresen
 ---
 | Versão | Data | Autor(es) | Descrição | Data de Revisão | Revisor(es) |
 |:---:|:---:|---|---|:---:|---|
-| 1.0 | 03/02/2025 | [Paulo Henrique](https://github.com/paulomh) | Adicionando vídeo da sétima entrega | 03/02/2025 | [Paulo Henrique](https://github.com/paulomh), [Pedro Luiz](https://github.com/pedroluizfo), [Necivaldo Amaral](https://github.com/junioramaral22), [Rodrigo Wendrel](https://github.com/rodwendrel), [Weverton Rodrigues](https://github.com/vevetin) |
+| 1.0 | 03/02/2025 | [Paulo Henrique](https://github.com/paulomh) | Adicionando vídeo da sétima entrega | 03/02/2025 | [Paulo Henrique](https://github.com/paulomh), [Necivaldo Amaral](https://github.com/junioramaral22), [Rodrigo Wendrel](https://github.com/rodwendrel), [Weverton Rodrigues](https://github.com/vevetin) |

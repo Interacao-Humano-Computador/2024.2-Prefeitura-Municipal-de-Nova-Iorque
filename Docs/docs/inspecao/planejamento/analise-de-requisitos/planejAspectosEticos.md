@@ -16,15 +16,15 @@ A tabela a seguir apresenta a lista de verificação dos aspectos éticos do pro
 
 | Categoria | Questão | Resposta | Versão, Data e hora da avaliação | Fonte | Autor(es) |
 |-----------|---------|----------|----------------------------------|-------|-----------|
-| Aspectos Éticos | 1 – Considera aspectos Éticos de Pesquisas Envolvendo Pessoas? Exemplo: garante que as eventuais pesquisas não causem danos ou consequências negativas aos participantes. |          |          | BARBOSA, Simone Diniz Junqueira et al. Interação humano-computador e experiência do usuário. 1. ed. Rio de Janeiro: Simone Diniz Junqueira Barbosa, 2021. Capítulo 7: Identificação de Necessidades dos Usuários e Definição dos Requisitos de IHC. Página 140.  Autopublicação. ISBN: 978-65-00-19677-1. Figura [A.1](./planejAspectosEticos.md#apêndice-a) (Apêndice A - Aspectos Éticos) | [Necivaldo Amaral](https://github.com/junioramaral22) e [Paulo Henrique](https://github.com/paulomh) |
-|           | 2 – Os 4 princípios (da autonomia, da beneficência, princípio da não maleficência e da justiça e equidade)?  |   |           | BARBOSA, Simone Diniz Junqueira et al. Interação humano-computador e experiência do usuário. 1. ed. Rio de Janeiro: Simone Diniz Junqueira Barbosa, 2021. Capítulo 7: Identificação de Necessidades dos Usuários e Definição dos Requisitos de IHC. Página 140.  Autopublicação. ISBN: 978-65-00-19677-1. Figura [A.2](./planejAspectosEticos.md#apêndice-a) (Apêndice A - Aspectos Éticos) | [Necivaldo Amaral](https://github.com/junioramaral22) e [Paulo Henrique](https://github.com/paulomh) |
-| Aspectos Éticos | 3 – O termo de consentimento livre e esclarecido dos participantes?  |          |                                  | BARBOSA, Simone Diniz Junqueira et al. Interação humano-computador e experiência do usuário. 1. ed. Rio de Janeiro: Simone Diniz Junqueira Barbosa, 2021. Capítulo 7: Identificação de Necessidades dos Usuários e Definição dos Requisitos de IHC. Página 141.  Autopublicação. ISBN: 978-65-00-19677-1. Figura [A.3](./planejAspectosEticos.md#apêndice-a) (Apêndice A - Aspectos Éticos) | [Necivaldo Amaral](https://github.com/junioramaral22) e [Paulo Henrique](https://github.com/paulomh) |
-| Aspectos Éticos | 4 – Que solicitará a permissão para gravar a voz ou imagem de qualquer pessoa, antes de começar a gravação? |          |                                  | BARBOSA, Simone Diniz Junqueira et al. Interação humano-computador e experiência do usuário. 1. ed. Rio de Janeiro: Simone Diniz Junqueira Barbosa, 2021. Capítulo 7: Identificação de Necessidades dos Usuários e Definição dos Requisitos de IHC. Página 141.  Autopublicação. ISBN: 978-65-00-19677-1. Figura [A.4](./planejAspectosEticos.md#apêndice-a) (Apêndice A - Aspectos Éticos) | [Weverton Rodrigues](https://github.com/vevetin) e [Rodrigo Ferreira](https://github.com/rodwendrel)  |
-| Aspectos Éticos | 5 - O termo de consentimento prevê a liberdade do participante cancelar a entrevista a qualquer momento?        |          |                                  | BARBOSA, Simone Diniz Junqueira et al. Interação humano-computador e experiência do usuário. 1. ed. Rio de Janeiro: Simone Diniz Junqueira Barbosa, 2021. Capítulo 7: Identificação de Necessidades dos Usuários e Definição dos Requisitos de IHC. Página 142.  Autopublicação. ISBN: 978-65-00-19677-1. Figura [A.5](./planejAspectosEticos.md#apêndice-a) (Apêndice A - Aspectos Éticos) | [Weverton Rodrigues](https://github.com/vevetin) e [Rodrigo Ferreira](https://github.com/rodwendrel)  |
-| Aspectos Éticos | 6 - O termo de consentimento garante o anonimato dos participantes na divulgação dos dados coletados?  |          |                                  | BARBOSA, Simone Diniz Junqueira et al. Interação humano-computador e experiência do usuário. 1. ed. Rio de Janeiro: Simone Diniz Junqueira Barbosa, 2021. Capítulo 7: Identificação de Necessidades dos Usuários e Definição dos Requisitos de IHC. Página 141.  Autopublicação. ISBN: 978-65-00-19677-1. Figura [A.6](./planejAspectosEticos.md#apêndice-a) (Apêndice A - Aspectos Éticos) | [Weverton Rodrigues](https://github.com/vevetin) e [Rodrigo Ferreira](https://github.com/rodwendrel)  |
-| Aspectos Éticos | 7 - O termo de consentimento prevê a confidencialidade e privacidade dos dados coletados durante as eventuais entrevistas?        |          |                                  | BARBOSA, Simone Diniz Junqueira et al. Interação humano-computador e experiência do usuário. 1. ed. Rio de Janeiro: Simone Diniz Junqueira Barbosa, 2021. Capítulo 7: Identificação de Necessidades dos Usuários e Definição dos Requisitos de IHC. Página 141.  Autopublicação. ISBN: 978-65-00-19677-1. Figura [A.7](./planejAspectosEticos.md#apêndice-a) (Apêndice A - Aspectos Éticos) | [Paulo Henrique](https://github.com/paulomh) e [Weverton Rodrigues](https://github.com/vevetin) |
-| Aspectos Éticos | 8 - Termo de consentimento possui um campo de assinatura que atesta a responsabilidade e comprometimento do pesquisador com a pesquisa?        |          |                                  | BARBOSA, Simone Diniz Junqueira et al. Interação humano-computador e experiência do usuário. 1. ed. Rio de Janeiro: Simone Diniz Junqueira Barbosa, 2021. Capítulo 7: Identificação de Necessidades dos Usuários e Definição dos Requisitos de IHC. Página 141.  Autopublicação. ISBN: 978-65-00-19677-1. Figura [A.8](./planejAspectosEticos.md#apêndice-a) (Apêndice A - Aspectos Éticos) | [Rodrigo Ferreira](https://github.com/rodwendrel) e [Necivaldo Amaral](https://github.com/junioramaral22) |
-| Aspectos Éticos | 9 - Segue o modelo de exemplo de termo de consentimento disponiblizado pelo livro? |          |                                  | BARBOSA, Simone Diniz Junqueira et al. Interação humano-computador e experiência do usuário. 1. ed. Rio de Janeiro: Simone Diniz Junqueira Barbosa, 2021. Capítulo 7: Identificação de Necessidades dos Usuários e Definição dos Requisitos de IHC. Página 142.  Autopublicação. ISBN: 978-65-00-19677-1. Figura [A.9](./planejAspectosEticos.md#apêndice-a) (Apêndice A - Aspectos Éticos) | [Rodrigo Ferreira](https://github.com/rodwendrel) e [Necivaldo Amaral](https://github.com/junioramaral22) |
+| Aspectos Éticos | 1 – Considera aspectos Éticos de Pesquisas Envolvendo Pessoas? Exemplo: garante que as eventuais pesquisas não causem danos ou consequências negativas aos participantes. |          |          |  Figura [A.1](./planejAspectosEticos.md#apêndice-a) (Apêndice A - Aspectos Éticos) | [Necivaldo Amaral](https://github.com/junioramaral22) e [Paulo Henrique](https://github.com/paulomh) |
+|           | 2 – Os 4 princípios (da autonomia, da beneficência, princípio da não maleficência e da justiça e equidade)?  |   |           |  Figura [A.2](./planejAspectosEticos.md#apêndice-a) (Apêndice A - Aspectos Éticos) | [Necivaldo Amaral](https://github.com/junioramaral22) e [Paulo Henrique](https://github.com/paulomh) |
+| Aspectos Éticos | 3 – O termo de consentimento livre e esclarecido dos participantes?  |          |                                  |  Figura [A.3](./planejAspectosEticos.md#apêndice-a) (Apêndice A - Aspectos Éticos) | [Necivaldo Amaral](https://github.com/junioramaral22) e [Paulo Henrique](https://github.com/paulomh) |
+| Aspectos Éticos | 4 – Que solicitará a permissão para gravar a voz ou imagem de qualquer pessoa, antes de começar a gravação? |          |                                  | Figura [A.4](./planejAspectosEticos.md#apêndice-a) (Apêndice A - Aspectos Éticos) | [Weverton Rodrigues](https://github.com/vevetin) e [Rodrigo Ferreira](https://github.com/rodwendrel)  |
+| Aspectos Éticos | 5 - O termo de consentimento prevê a liberdade do participante cancelar a entrevista a qualquer momento?        |          |                                  | Figura [A.5](./planejAspectosEticos.md#apêndice-a) (Apêndice A - Aspectos Éticos) | [Weverton Rodrigues](https://github.com/vevetin) e [Rodrigo Ferreira](https://github.com/rodwendrel)  |
+| Aspectos Éticos | 6 - O termo de consentimento garante o anonimato dos participantes na divulgação dos dados coletados?  |          |                                  |  Figura [A.6](./planejAspectosEticos.md#apêndice-a) (Apêndice A - Aspectos Éticos) | [Weverton Rodrigues](https://github.com/vevetin) e [Rodrigo Ferreira](https://github.com/rodwendrel)  |
+| Aspectos Éticos | 7 - O termo de consentimento prevê a confidencialidade e privacidade dos dados coletados durante as eventuais entrevistas?        |          |                                  | Figura [A.7](./planejAspectosEticos.md#apêndice-a) (Apêndice A - Aspectos Éticos) | [Paulo Henrique](https://github.com/paulomh) e [Weverton Rodrigues](https://github.com/vevetin) |
+| Aspectos Éticos | 8 - Termo de consentimento possui um campo de assinatura que atesta a responsabilidade e comprometimento do pesquisador com a pesquisa?        |          |                                  |  Figura [A.8](./planejAspectosEticos.md#apêndice-a) (Apêndice A - Aspectos Éticos) | [Rodrigo Ferreira](https://github.com/rodwendrel) e [Necivaldo Amaral](https://github.com/junioramaral22) |
+| Aspectos Éticos | 9 - Segue o modelo de exemplo de termo de consentimento disponiblizado pelo livro? |          |                                  |  Figura [A.9](./planejAspectosEticos.md#apêndice-a) (Apêndice A - Aspectos Éticos) | [Rodrigo Ferreira](https://github.com/rodwendrel) e [Necivaldo Amaral](https://github.com/junioramaral22) |
 
 
 <p style={{ textAlign: 'center', fontSize: '17px' }}>Autor: [Paulo Henrique](https://github.com/paulomh) </p>
@@ -33,9 +33,9 @@ A tabela a seguir apresenta a lista de verificação dos aspectos éticos do pro
 
 Os resultados obtidos através da aplicação da inspeção da lista de verificação serão sumarizados com dados quantitativos e qualitativos, e posteriormente sendo feito um comparativo com os resultados obtidos de inspeções anteriores. Por fim, será disponibilizada a gravação da execução da inspeção.
 
-## Bibliografia
+## Referências Bibliográficas
 
-> \- BARBOSA, Simone, et al. Interação Humano-Computador e Experiência do Usuário. Leanpub, 2022. Disponível em: https://leanpub.com/ihc-ux. Acesso em: 09 dez. 2024.
+> \- BARBOSA, Simone Diniz Junqueira et al. Interação humano-computador e experiência do usuário. 1. ed. Rio de Janeiro: Simone Diniz Junqueira Barbosa, 2021. Capítulo 7: Identificação de Necessidades dos Usuários e Definição dos Requisitos de IHC.  Autopublicação. ISBN: 978-65-00-19677-1.
 
 ## Apêndice A - Aspectos Éticos
 
@@ -45,7 +45,11 @@ Os resultados obtidos através da aplicação da inspeção da lista de verifica
 
 ![aspectos eticos](../../assets/q1AspectosEticos.png)
 
+<p style={{ textAlign: 'center', fontSize: '18px' }}><b>Fonte:</b> BARBOSA (2021, p. 140)</p>
+
 </center>
+
+---
 
 <center>
 
@@ -53,7 +57,11 @@ Os resultados obtidos através da aplicação da inspeção da lista de verifica
 
 ![aspectos eticos](../../assets/q2AspectosEticos.png)
 
+<p style={{ textAlign: 'center', fontSize: '18px' }}><b>Fonte:</b> BARBOSA (2021, p. 140)</p>
+
 </center>
+
+---
 
 <center>
 
@@ -61,7 +69,11 @@ Os resultados obtidos através da aplicação da inspeção da lista de verifica
 
 ![aspectos eticos](../../assets/q3AspectosEticos.png)
 
+<p style={{ textAlign: 'center', fontSize: '18px' }}><b>Fonte:</b> BARBOSA (2021, p. 141)</p>
+
 </center>
+
+---
 
 <center>
 
@@ -69,7 +81,11 @@ Os resultados obtidos através da aplicação da inspeção da lista de verifica
 
 ![aspectos eticos](../../assets/q4AspectosEticos.png)
 
+<p style={{ textAlign: 'center', fontSize: '18px' }}><b>Fonte:</b> BARBOSA (2021, p. 141)</p>
+
 </center>
+
+---
 
 <center>
 
@@ -77,7 +93,11 @@ Os resultados obtidos através da aplicação da inspeção da lista de verifica
 
 ![aspectos eticos](../../assets/q5AspectosEticos.png)
 
+<p style={{ textAlign: 'center', fontSize: '18px' }}><b>Fonte:</b> BARBOSA (2021, p. 142)</p>
+
 </center>
+
+---
 
 <center>
 
@@ -85,7 +105,11 @@ Os resultados obtidos através da aplicação da inspeção da lista de verifica
 
 ![aspectos eticos](../../assets/q6AspectosEticos.png)
 
+<p style={{ textAlign: 'center', fontSize: '18px' }}><b>Fonte:</b> BARBOSA (2021, p. 141)</p>
+
 </center>
+
+---
 
 <center>
 
@@ -93,7 +117,11 @@ Os resultados obtidos através da aplicação da inspeção da lista de verifica
 
 ![aspectos eticos](../../assets/q7AspectosEticos.png)
 
+<p style={{ textAlign: 'center', fontSize: '18px' }}><b>Fonte:</b> BARBOSA (2021, p. 141)</p>
+
 </center>
+
+---
 
 <center>
 
@@ -101,13 +129,19 @@ Os resultados obtidos através da aplicação da inspeção da lista de verifica
 
 ![aspectos eticos](../../assets/q8AspectosEticos.png)
 
+<p style={{ textAlign: 'center', fontSize: '18px' }}><b>Fonte:</b> BARBOSA (2021, p. 141)</p>
+
 </center>
+
+---
 
 <center>
 
 <p style={{ textAlign: 'center', fontSize: '18px' }}><b>Figura A.9</b> - Exemmplo de termo de consentimento</p>
 
 ![aspectos eticos](../../assets/q9AspectosEticos.png)
+
+<p style={{ textAlign: 'center', fontSize: '18px' }}><b>Fonte:</b> BARBOSA (2021, p. 142)</p>
 
 </center>
 

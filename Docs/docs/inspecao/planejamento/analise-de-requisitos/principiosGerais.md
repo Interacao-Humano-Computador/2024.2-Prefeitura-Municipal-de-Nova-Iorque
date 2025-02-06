@@ -16,16 +16,16 @@ A tabela a seguir apresenta a lista de verificação dos Princípios Gerais do p
 
 | Categoria         | Questão | Resposta | Versão, Data e hora da avaliação | Fonte | Autor(es) |
 |-------------------|---------|----------|----------------------------------|-------|-----------|
-| Princípios Gerais | 1. Uma página dedicada para os princípios gerais do projeto? |          |                                  | BARBOSA, Simone Diniz Junqueira et al. Interação humano-computador e experiência do usuário. 1. ed. Rio de Janeiro: Simone Diniz Junqueira Barbosa, 2021. Capítulo 10: Princípios e Diretrizes para o Design de IHC. Página 238. Autopublicação. ISBN: 978-65-00-19677-1. Figura [F.1](./principiosGerais.md#apêndice-f---princípios-gerais) | [Paulo Henrique](https://github.com/paulomh) e [Rodrigo Ferreira](https://github.com/rodwendrel) |
-| Princípios Gerais | 2. Dos princípios gerais abordados, possui um tópico de correspondência com as expectativas do usuário? |          |                                  | BARBOSA, Simone Diniz Junqueira et al. Interação humano-computador e experiência do usuário. 1. ed. Rio de Janeiro: Simone Diniz Junqueira Barbosa, 2021. Capítulo 10: Princípios e Diretrizes para o Design de IHC. Página 238. Autopublicação. ISBN: 978-65-00-19677-1. Figura [F.2](./principiosGerais.md#apêndice-f---princípios-gerais) | [Paulo Henrique](https://github.com/paulomh) e [Rodrigo Ferreira](https://github.com/rodwendrel) |
-| Princípios Gerais | 3. Dos princípios gerais abordados, possui um tópico sobre simplicidade nas estruturas das tarefas? |          |                                  | BARBOSA, Simone Diniz Junqueira et al. Interação humano-computador e experiência do usuário. 1. ed. Rio de Janeiro: Simone Diniz Junqueira Barbosa, 2021. Capítulo 10: Princípios e Diretrizes para o Design de IHC. Página 239. Autopublicação. ISBN: 978-65-00-19677-1. Figura [F.3](./principiosGerais.md#apêndice-f---princípios-gerais) | [Necivaldo Amaral](https://github.com/junioramaral22) e [Weverton Rodrigues](https://github.com/vevetin) |
-| Princípios Gerais | 4. Dos princípios gerais abordados, possui um tópico sobre equilíbrio entre controle e liberdade do usuário? |          |                                  | BARBOSA, Simone Diniz Junqueira et al. Interação humano-computador e experiência do usuário. 1. ed. Rio de Janeiro: Simone Diniz Junqueira Barbosa, 2021. Capítulo 10: Princípios e Diretrizes para o Design de IHC. Página 240. Autopublicação. ISBN: 978-65-00-19677-1. Figura [F.4](./principiosGerais.md#apêndice-f---princípios-gerais) | [Necivaldo Amaral](https://github.com/junioramaral22) e [Weverton Rodrigues](https://github.com/vevetin) |
-| Princípios Gerais | 5. Dos princípios gerais abordados, possui um tópico sobre consistência e padronização? |          |                                  | BARBOSA, Simone Diniz Junqueira et al. Interação humano-computador e experiência do usuário. 1. ed. Rio de Janeiro: Simone Diniz Junqueira Barbosa, 2021. Capítulo 10: Princípios e Diretrizes para o Design de IHC. Página 241-242. Autopublicação. ISBN: 978-65-00-19677-1. Figura [F.5](./principiosGerais.md#apêndice-f---princípios-gerais) e [F.6](./principiosGerais.md#apêndice-f---princípios-gerais) | [Necivaldo Amaral](https://github.com/junioramaral22) e [Weverton Rodrigues](https://github.com/vevetin) |
-| Princípios Gerais | 6. Dos princípios gerais abordados, possui um tópico sobre promoção da eficiência do usuário? |          |                                  | BARBOSA, Simone Diniz Junqueira et al. Interação humano-computador e experiência do usuário. 1. ed. Rio de Janeiro: Simone Diniz Junqueira Barbosa, 2021. Capítulo 10: Princípios e Diretrizes para o Design de IHC. Página 242. Autopublicação. ISBN: 978-65-00-19677-1. Figura [F.7](./principiosGerais.md#apêndice-f---princípios-gerais) | [Paulo Henrique](https://github.com/paulomh) e [Rodrigo Ferreira](https://github.com/rodwendrel) |
-| Princípios Gerais | 7. Dos princípios gerais abordados, possui um tópico sobre antecipação das necessidades do usuário? |          |                                  | BARBOSA, Simone Diniz Junqueira et al. Interação humano-computador e experiência do usuário. 1. ed. Rio de Janeiro: Simone Diniz Junqueira Barbosa, 2021. Capítulo 10: Princípios e Diretrizes para o Design de IHC. Página 243-244. Autopublicação. ISBN: 978-65-00-19677-1. Figura [F.8](./principiosGerais.md#apêndice-f---princípios-gerais) e [F.9](./principiosGerais.md#apêndice-f---princípios-gerais) | [Paulo Henrique](https://github.com/paulomh) e [Rodrigo Ferreira](https://github.com/rodwendrel) |
-| Princípios Gerais | 8. Dos princípios gerais abordados, possui um tópico sobre visibilidade e reconhecimento? |          |                                  | BARBOSA, Simone Diniz Junqueira et al. Interação humano-computador e experiência do usuário. 1. ed. Rio de Janeiro: Simone Diniz Junqueira Barbosa, 2021. Capítulo 10: Princípios e Diretrizes para o Design de IHC. Página 244. Autopublicação. ISBN: 978-65-00-19677-1. Figura [F.10](./principiosGerais.md#apêndice-f---princípios-gerais) |[Necivaldo Amaral](https://github.com/junioramaral22) e [Weverton Rodrigues](https://github.com/vevetin) |
-| Princípios Gerais | 9. Dos princípios gerais abordados, possui um tópico sobre conteúdo relevante e expressão adequada? |          |                                  | BARBOSA, Simone Diniz Junqueira et al. Interação humano-computador e experiência do usuário. 1. ed. Rio de Janeiro: Simone Diniz Junqueira Barbosa, 2021. Capítulo 10: Princípios e Diretrizes para o Design de IHC. Página 246. Autopublicação. ISBN: 978-65-00-19677-1. Figura [F.11](./principiosGerais.md#apêndice-f---princípios-gerais) |[Paulo Henrique](https://github.com/paulomh) e [Rodrigo Ferreira](https://github.com/rodwendrel)|
-| Princípios Gerais | 10. Dos princípios gerais abordados, possui um tópico sobre projeto para erros? |          |                                  | BARBOSA, Simone Diniz Junqueira et al. Interação humano-computador e experiência do usuário. 1. ed. Rio de Janeiro: Simone Diniz Junqueira Barbosa, 2021. Capítulo 10: Princípios e Diretrizes para o Design de IHC. Página 247. Autopublicação. ISBN: 978-65-00-19677-1. Figura [F.12](./principiosGerais.md#apêndice-f---princípios-gerais) |[Necivaldo Amaral](https://github.com/junioramaral22) e [Weverton Rodrigues](https://github.com/vevetin)|
+| Princípios Gerais | 1. Uma página dedicada para os princípios gerais do projeto? |          |                                  |  Figura [F.1](./principiosGerais.md#apêndice-f---princípios-gerais) | [Paulo Henrique](https://github.com/paulomh) e [Rodrigo Ferreira](https://github.com/rodwendrel) |
+| Princípios Gerais | 2. Dos princípios gerais abordados, possui um tópico de correspondência com as expectativas do usuário? |          |                                  |  Figura [F.2](./principiosGerais.md#apêndice-f---princípios-gerais) | [Paulo Henrique](https://github.com/paulomh) e [Rodrigo Ferreira](https://github.com/rodwendrel) |
+| Princípios Gerais | 3. Dos princípios gerais abordados, possui um tópico sobre simplicidade nas estruturas das tarefas? |          |                                  | Figura [F.3](./principiosGerais.md#apêndice-f---princípios-gerais) | [Necivaldo Amaral](https://github.com/junioramaral22) e [Weverton Rodrigues](https://github.com/vevetin) |
+| Princípios Gerais | 4. Dos princípios gerais abordados, possui um tópico sobre equilíbrio entre controle e liberdade do usuário? |          |                                  | Figura [F.4](./principiosGerais.md#apêndice-f---princípios-gerais) | [Necivaldo Amaral](https://github.com/junioramaral22) e [Weverton Rodrigues](https://github.com/vevetin) |
+| Princípios Gerais | 5. Dos princípios gerais abordados, possui um tópico sobre consistência e padronização? |          |                                  |  Figura [F.5](./principiosGerais.md#apêndice-f---princípios-gerais) e [F.6](./principiosGerais.md#apêndice-f---princípios-gerais) | [Necivaldo Amaral](https://github.com/junioramaral22) e [Weverton Rodrigues](https://github.com/vevetin) |
+| Princípios Gerais | 6. Dos princípios gerais abordados, possui um tópico sobre promoção da eficiência do usuário? |          |                                  | Figura [F.7](./principiosGerais.md#apêndice-f---princípios-gerais) | [Paulo Henrique](https://github.com/paulomh) e [Rodrigo Ferreira](https://github.com/rodwendrel) |
+| Princípios Gerais | 7. Dos princípios gerais abordados, possui um tópico sobre antecipação das necessidades do usuário? |          |                                  |  Figura [F.8](./principiosGerais.md#apêndice-f---princípios-gerais) e [F.9](./principiosGerais.md#apêndice-f---princípios-gerais) | [Paulo Henrique](https://github.com/paulomh) e [Rodrigo Ferreira](https://github.com/rodwendrel) |
+| Princípios Gerais | 8. Dos princípios gerais abordados, possui um tópico sobre visibilidade e reconhecimento? |          |                                  | Figura [F.10](./principiosGerais.md#apêndice-f---princípios-gerais) |[Necivaldo Amaral](https://github.com/junioramaral22) e [Weverton Rodrigues](https://github.com/vevetin) |
+| Princípios Gerais | 9. Dos princípios gerais abordados, possui um tópico sobre conteúdo relevante e expressão adequada? |          |                                  |  Figura [F.11](./principiosGerais.md#apêndice-f---princípios-gerais) |[Paulo Henrique](https://github.com/paulomh) e [Rodrigo Ferreira](https://github.com/rodwendrel)|
+| Princípios Gerais | 10. Dos princípios gerais abordados, possui um tópico sobre projeto para erros? |          |                                  |  Figura [F.12](./principiosGerais.md#apêndice-f---princípios-gerais) |[Necivaldo Amaral](https://github.com/junioramaral22) e [Weverton Rodrigues](https://github.com/vevetin)|
 
 
 <p style={{ textAlign: 'center', fontSize: '17px' }}>Autor: [Paulo Henrique](https://github.com/paulohm) </p>
@@ -34,9 +34,9 @@ A tabela a seguir apresenta a lista de verificação dos Princípios Gerais do p
 
 Os resultados obtidos através da aplicação da inspeção da lista de verificação serão sumarizados com dados quantitativos e qualitativos, e posteriormente sendo feito um comparativo com os resultados obtidos de inspeções anteriores. Por fim, será disponibilizada a gravação da execução da inspeção.
 
-## Bibliografia
+## Referências Bibliográficas
 
-> \- BARBOSA, Simone, et al. Interação Humano-Computador e Experiência do Usuário. Leanpub, 2022. Disponível em: https://leanpub.com/ihc-ux. Acesso em: 09 dez. 2024.
+> \- BARBOSA, Simone Diniz Junqueira et al. Interação humano-computador e experiência do usuário. 1. ed. Rio de Janeiro: Simone Diniz Junqueira Barbosa, 2021. Capítulo 10: Princípios e Diretrizes para o Design de IHC. Autopublicação. ISBN: 978-65-00-19677-1.
 
 ## Apêndice F - Princípios Gerais
 
@@ -46,7 +46,11 @@ Os resultados obtidos através da aplicação da inspeção da lista de verifica
 
 ![principios gerais](../../assets/q1PrincipiosGerais.png)
 
+<p style={{ textAlign: 'center', fontSize: '18px' }}><b>Fonte:</b> BARBOSA (2021, p. 238)</p>
+
 </center>
+
+---
 
 <center>
 
@@ -54,7 +58,11 @@ Os resultados obtidos através da aplicação da inspeção da lista de verifica
 
 ![principios gerais](../../assets/q2PrincipiosGerais.png)
 
+<p style={{ textAlign: 'center', fontSize: '18px' }}><b>Fonte:</b> BARBOSA (2021, p. 238)</p>
+
 </center>
+
+---
 
 <center>
 
@@ -62,7 +70,11 @@ Os resultados obtidos através da aplicação da inspeção da lista de verifica
 
 ![principios gerais](../../assets/q3PrincipiosGerais.png)
 
+<p style={{ textAlign: 'center', fontSize: '18px' }}><b>Fonte:</b> BARBOSA (2021, p. 239)</p>
+
 </center>
+
+---
 
 <center>
 
@@ -70,7 +82,11 @@ Os resultados obtidos através da aplicação da inspeção da lista de verifica
 
 ![principios gerais](../../assets/q4PrincipiosGerais.png)
 
+<p style={{ textAlign: 'center', fontSize: '18px' }}><b>Fonte:</b> BARBOSA (2021, p. 240)</p>
+
 </center>
+
+---
 
 <center>
 
@@ -78,7 +94,11 @@ Os resultados obtidos através da aplicação da inspeção da lista de verifica
 
 ![principios gerais](../../assets/q5PrincipiosGerais.png)
 
+<p style={{ textAlign: 'center', fontSize: '18px' }}><b>Fonte:</b> BARBOSA (2021, p. 241-242)</p>
+
 </center>
+
+---
 
 <center>
 
@@ -86,7 +106,11 @@ Os resultados obtidos através da aplicação da inspeção da lista de verifica
 
 ![principios gerais](../../assets/q5-1PrincipiosGerais.png)
 
+<p style={{ textAlign: 'center', fontSize: '18px' }}><b>Fonte:</b> BARBOSA (2021, p. 242)</p>
+
 </center>
+
+---
 
 <center>
 
@@ -94,7 +118,11 @@ Os resultados obtidos através da aplicação da inspeção da lista de verifica
 
 ![principios gerais](../../assets/q6PrincipiosGerais.png)
 
+<p style={{ textAlign: 'center', fontSize: '18px' }}><b>Fonte:</b> BARBOSA (2021, p. 243-244)</p>
+
 </center>
+
+---
 
 <center>
 
@@ -102,7 +130,11 @@ Os resultados obtidos através da aplicação da inspeção da lista de verifica
 
 ![principios gerais](../../assets/q7PrincipiosGerais.png)
 
+<p style={{ textAlign: 'center', fontSize: '18px' }}><b>Fonte:</b> BARBOSA (2021, p. 244)</p>
+
 </center>
+
+---
 
 <center>
 
@@ -110,7 +142,11 @@ Os resultados obtidos através da aplicação da inspeção da lista de verifica
 
 ![principios gerais](../../assets/q7-1PrincipiosGerais.png)
 
+<p style={{ textAlign: 'center', fontSize: '18px' }}><b>Fonte:</b> BARBOSA (2021, p. 246)</p>
+
 </center>
+
+---
 
 <center>
 
@@ -118,7 +154,11 @@ Os resultados obtidos através da aplicação da inspeção da lista de verifica
 
 ![principios gerais](../../assets/q8PrincipiosGerais.png)
 
+<p style={{ textAlign: 'center', fontSize: '18px' }}><b>Fonte:</b> BARBOSA (2021, p. 247)</p>
+
 </center>
+
+---
 
 <center>
 
@@ -126,13 +166,19 @@ Os resultados obtidos através da aplicação da inspeção da lista de verifica
 
 ![principios gerais](../../assets/q9PrincipiosGerais.png)
 
+<p style={{ textAlign: 'center', fontSize: '18px' }}><b>Fonte:</b> BARBOSA (2021, p. 246)</p>
+
 </center>
+
+---
 
 <center>
 
 <p style={{ textAlign: 'center', fontSize: '18px' }}><b>Figura F.12</b> - Tópico correspondência com as expectativas do usuário</p>
 
 ![principios gerais](../../assets/q10PrincipiosGerais.png)
+
+<p style={{ textAlign: 'center', fontSize: '18px' }}><b>Fonte:</b> BARBOSA (2021, p. 247)</p>
 
 </center>
 

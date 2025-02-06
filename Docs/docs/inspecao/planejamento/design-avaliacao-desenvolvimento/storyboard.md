@@ -27,7 +27,7 @@ A tabela a seguir apresenta a lista de verificação para *Storyboards*. A respo
 
 Os resultados obtidos através da aplicação da inspeção da lista de verificação serão sumarizados com dados quantitativos e qualitativos, sendo posteriormente comparados com inspeções anteriores.
 
-## Bibliografia
+## Referências Bibliográficas
 
 > **BARBOSA, Simone Diniz Junqueira; et al.** *Interação Humano-Computador e Experiência do Usuário*. 1ª ed. Autopublicação, 2021.
 

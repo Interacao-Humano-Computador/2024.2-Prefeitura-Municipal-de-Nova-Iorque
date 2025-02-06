@@ -16,14 +16,14 @@ A tabela a seguir apresenta a lista de verificação das Características da Pla
 
 | Categoria | Questão | Resposta | Versão, Data e hora da avaliação | Fonte | Autor(es) |
 |-----------|---------|----------|----------------------------------|-------|-----------|
-| Objetivos | 1. Os objetivos principais da interface em termos de usabilidade estão definidos de forma clara?|          |          |  Figuras [H.1](./metasDeUsabilidade.md#apêndice-h---características-da-plataforma)(Apêndice G - Características da Plataforma) |   [Necivaldo Amaral](https://github.com/junioramaral22) e [Weverton Rodrigues](https://github.com/vevetin)   |
-| Objetivos | 2. O sistema considera os objetivos gerais dos usuários ao usar a plataforma?|          |          |   Figuras [H.2](./metasDeUsabilidade.md#apêndice-h---características-da-plataforma)(Apêndice G - Características da Plataforma) |   [Paulo Henrique](https://github.com/paulomh) e [Rodrigo Ferreira](https://github.com/rodwendrel) |
-| Design da Interface e Interação | 3. Os fatores de qualidade de uso são priorizados no design da plataforma?|          |          |   Figuras [H.3](./metasDeUsabilidade.md#apêndice-h---características-da-plataforma)(Apêndice G - Características da Plataforma) |     [Necivaldo Amaral](https://github.com/junioramaral22) |
-| Design da Interface e Interação | 4. A interface é fácil de aprender?|          |          |   Figuras [H.4](./metasDeUsabilidade.md#apêndice-h---características-da-plataforma)(Apêndice G - Características da Plataforma) |     [Necivaldo Amaral](https://github.com/junioramaral22), [Paulo Henrique](https://github.com/paulomh) e [Rodrigo Ferreira](https://github.com/rodwendrel)|
-| Metas de Usabilidade | 5. A interação com o sistema é agradável para o usuário?|          |          |   Figuras [H.5](./metasDeUsabilidade.md#apêndice-h---características-da-plataforma)(Apêndice G - Características da Plataforma) | [Weverton Rodrigues](https://github.com/vevetin) |
-| Metas de Usabilidade| 6. O sistema oferece mecanismos de recuperação de erros?|          |          |   Figuras [H.6](./metasDeUsabilidade.md#apêndice-h---características-da-plataforma)(Apêndice G - Características da Plataforma) | [Rodrigo Ferreira](https://github.com/rodwendrel) |
-| Metas de Usabilidade| 7. As metas de usabilidade foram representadas em guias de estilo?|          |          |  Figuras [H.7](./metasDeUsabilidade.md#apêndice-h---características-da-plataforma)(Apêndice G - Características da Plataforma) | [Paulo Henrique](https://github.com/paulomh)   |
-|  Metas de Usabilidade | 8. A meta de aprendizagem é alcançada no sistema?|          |          |  Figuras [H.8](./metasDeUsabilidade.md#apêndice-h---características-da-plataforma)(Apêndice G - Características da Plataforma) | [Rodrigo Ferreira](https://github.com/rodwendrel) e [Necivaldo Amaral](https://github.com/junioramaral22)   |
+| Objetivos | 1. Os objetivos principais da interface em termos de usabilidade estão definidos de forma clara?|          |          |  Figuras [H.1](./metasDeUsabilidade.md#apêndice-h---características-da-plataforma)(Apêndice H - Metas de Usabilidade) |   [Necivaldo Amaral](https://github.com/junioramaral22) e [Weverton Rodrigues](https://github.com/vevetin)   |
+| Objetivos | 2. O sistema considera os objetivos gerais dos usuários ao usar a plataforma?|          |          |   Figuras [H.2](./metasDeUsabilidade.md#apêndice-h---características-da-plataforma)(Apêndice H - Metas de Usabilidade) |   [Paulo Henrique](https://github.com/paulomh) e [Rodrigo Ferreira](https://github.com/rodwendrel) |
+| Design da Interface e Interação | 3. Os fatores de qualidade de uso são priorizados no design da plataforma?|          |          |   Figuras [H.3](./metasDeUsabilidade.md#apêndice-h---características-da-plataforma)(Apêndice H - Metas de Usabilidade) |     [Necivaldo Amaral](https://github.com/junioramaral22) |
+| Design da Interface e Interação | 4. A interface é fácil de aprender?|          |          |   Figuras [H.4](./metasDeUsabilidade.md#apêndice-h---características-da-plataforma)(Apêndice H - Metas de Usabilidade) |     [Necivaldo Amaral](https://github.com/junioramaral22), [Paulo Henrique](https://github.com/paulomh) e [Rodrigo Ferreira](https://github.com/rodwendrel)|
+| Metas de Usabilidade | 5. A interação com o sistema é agradável para o usuário?|          |          |   Figuras [H.5](./metasDeUsabilidade.md#apêndice-h---características-da-plataforma)(Apêndice H - Metas de Usabilidade) | [Weverton Rodrigues](https://github.com/vevetin) |
+| Metas de Usabilidade| 6. O sistema oferece mecanismos de recuperação de erros?|          |          |   Figuras [H.6](./metasDeUsabilidade.md#apêndice-h---características-da-plataforma)(Apêndice H - Metas de Usabilidade) | [Rodrigo Ferreira](https://github.com/rodwendrel) |
+| Metas de Usabilidade| 7. As metas de usabilidade foram representadas em guias de estilo?|          |          |  Figuras [H.7](./metasDeUsabilidade.md#apêndice-h---características-da-plataforma)(Apêndice H - Metas de Usabilidade) | [Paulo Henrique](https://github.com/paulomh)   |
+|  Metas de Usabilidade | 8. A meta de aprendizagem é alcançada no sistema?|          |          |  Figuras [H.8](./metasDeUsabilidade.md#apêndice-h---características-da-plataforma)(Apêndice H - Metas de Usabilidade) | [Rodrigo Ferreira](https://github.com/rodwendrel) e [Necivaldo Amaral](https://github.com/junioramaral22)   |
 
 
 <p style={{ textAlign: 'center', fontSize: '17px' }}>Autor: [Necivaldo Amaral](https://github.com/junioramaral22) </p>
@@ -42,7 +42,7 @@ Os resultados obtidos através da aplicação da inspeção da lista de verifica
 
 > \-  Capítulo 11: Planejamento da Avaliação de IHC. Autopublicação. ISBN: 978-65-00-19677-1. 
 
-## Apêndice H - Características da Plataforma
+## Apêndice H - Metas de Usabilidade
 
 <center>
 

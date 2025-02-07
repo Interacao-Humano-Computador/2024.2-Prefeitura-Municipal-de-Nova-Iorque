@@ -25,6 +25,8 @@ O presente documento tem como objetivo relatar os resultados obtidos durante a a
 |[Rodrigo Wendrel](https://github.com/rodwendrel) | Luis | 14:50 | 15:00 | 24/01/2025  | [Busca por licitação fracassada](./prototipoDeAltaFidelidade.md#protótipo-de-alta-fidelidade-3---busca-por-licitação-fracassada) | Campus UnB Gama, conteiner EJ |
 |[Rodrigo Wendrel](https://github.com/rodwendrel) |Willian| 15:00 | 15:10 | 24/01/2025 | [Busca por licitação fracassada](./prototipoDeAltaFidelidade.md#protótipo-de-alta-fidelidade-3---busca-por-licitação-fracassada) | Campus UnB Gama, conteiner EJ  |
 |[Rodrigo Wendrel](https://github.com/rodwendrel) |Rafael| 15:10 | 15:20 | 24/01/2025 |  [Busca por licitação fracassada](./prototipoDeAltaFidelidade.md#protótipo-de-alta-fidelidade-3---busca-por-licitação-fracassada) | Campus UnB Gama, conteiner EJ |
+|[Necivaldo Amaral](https://github.com/junioramaral22) |Lucas| 16:10 | 16:20 | 04/02/2025 |  [Envio de Nota Fiscal de Serviço](./prototipoDeAltaFidelidade.md#protótipo-de-alta-fidelidade-4---envio-de-nota-fiscal-de-serviço---busca-por-licitação-fracassada) | Residência do entrevistado |
+|[Necivaldo Amaral](https://github.com/junioramaral22) |Layner| 16:10 | 16:20 | 04/02/2025 |  [Envio de Nota Fiscal de Serviço](./prototipoDeAltaFidelidade.md#protótipo-de-alta-fidelidade-4---envio-de-nota-fiscal-de-serviço---busca-por-licitação-fracassada) | Residência do entrevistado |
 
 <p style={{ textAlign: 'center', fontSize: '17px' }}>Autor: [Weverton Rodrigues](https://github.com/vevetin)</p>
 
@@ -414,6 +416,106 @@ tabela com: tempo de execução, taxa de sucesso, taxa de erros, observacoes
  
  -->
 
+## Resultado da Avaliação - Envio de Nota Fiscal
+
+### Seleção dos participantes
+
+Os participantes selecionados para a avaliação do protótipo de alta fidelidade da funcionalidade de [envio de nota fiscal](./prototipoDeAltaFidelidade.md#protótipo-de-alta-fidelidade-4---envio-de-nota-fiscal-de-serviço)
+foram escolhidos com base no perfil de usuário conforme descrito no [Planejamento da Avaliação dos Protótipos de Alta Fidelidade](./planejamentoAvaliacaoPrototipoAltaFidelidade.md#i---identificar-e-administrar-as-questões-práticas-da-avaliação).
+Foram entrevistados 2 participantes, número recomendado por Krug<sup>[1](./relatoPrototipoAltaFidelidade.md#referências-bibliográficas)</sup>, com experiência intermediária/avançada em tecnologia. A seguir o roteiro utilizado durante a avaliação.
+
+**Roteiro - Envio Nota Fiscal de Serviço**  
+- Passo 1: Acessar a página de Nota Fiscal  
+- Passo 2: Realizar Login 
+- Passo 3: Identificar os campos da nota fiscal
+    > Prestador de serviço  
+
+    > Tomador de Serviço
+
+    > Serviço Prestado
+- Passo 4: Realizar envio de nota fiscal
+- Passo 5: Receber confirmação com protocolo e opções para salvar, imprimir e retornar.
+
+<center>
+
+<p style={{ textAlign: 'center', fontSize: '18px' }}><b>Tabela 7</b> - Respostas para Avaliação do Protótipo de Alta Fidelidade</p>
+
+| Objetivo                            | Pergunta                                                                                                                                            | Respostas                                                                                                     |
+| ----------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
+| Ideias e Alternativas de Design     | 1. Qual das alternativas de design do protótipo de alta fidelidade é mais eficiente e fácil de aprender?                                            | Todos os participantes preferiram a navegação pela seção "Mais Acessados".                                    |
+| Ideias e Alternativas de Design     | 2. Qual alternativa de design os usuários preferem? Por quê?                                                                                        | A seção "Mais Acessados" foi a mais intuitiva.                                                                |
+| Ideias e Alternativas de Design     | 3. Qual alternativa de design se espera que tenha um impacto negativo menor ao ser adotada?                                                         | A seção "Mais Acessados" se mostrou suficientemente boa para evitar frustrações por parte dos usuários.       |
+| Conformidade com um padrão          | 4. O site está de acordo com os padrões de acessibilidade do W3C?                                                                                   | O protótipo está em conformidade com os padrões de acessibilidade do W3C.                                     |
+| Conformidade com um padrão          | 5. Os termos na interface seguem convenções estabelecidas no domínio?                                                                               | A terminologia utilizada segue as convenções estabelecidas no domínio e está clara para os usuários.          |
+| Conformidade com um padrão          | 6. A interface segue algum padrão pré-estabelecido?                                                                                                 | O protótipo segue as diretrizes do guia de estilo e os padrões de design pré-estabelecidos (exemplo: ePWG).   |
+| Problemas na Interação e Interface  | 7. Os usuários conseguem operar o protótipo de alta fidelidade? Eles atingem seus objetivos de maneira eficiente? Com que frequência cometem erros? | Os participantes conseguiram operar o protótipo de forma eficiente sem erros mas com um ponto de dificuldade. |
+| Problemas na Interação e Interface  | 8. Que parte da interface do protótipo de alta fidelidade deixa os usuários insatisfeitos ou causa confusão?                                        | Lucas identificou um problema na visualização dos campos de formulário                                                         |
+| Problemas na Interação e Interface. | 9. Os usuários entendem claramente o que cada elemento do protótipo de alta fidelidade significa e o que devem fazer em seguida?                    | Todos os participantes entenderam claramente os elementos da interface e as ações a serem realizadas.         |
+
+<p style={{ textAlign: 'center', fontSize: '17px' }}>Autor: [Necivaldo Amaral](https://github.com/junioramaral22) </p>
+
+</center>
+
+### Avaliação Heurística
+
+**Objetivo e método**  
+A avaliação heurística teve como objetivo identificar problemas de usabilidade no protótipo de alta fidelidade da funcionalidade de Envio de Nota Fiscal de Serviço, com base nas heurísticas de Nielsen<sup>[3](./relatoPrototipoAltaFidelidade.md#referências-bibliográficas)</sup>. O foco principal foi verificar a aderência da interface a princípios fundamentais de usabilidade, assegurando uma experiência fluida e eficiente para os usuários.
+As heurísticas avaliadas foram selecionadas considerando a relevância para o contexto do protótipo e incluíram:
+
+- Visibilidade do estado do sistema: para verificar se o sistema fornece feedback adequado e em tempo real aos usuários durante a interação;
+- Consistência e padronização: para assegurar que os elementos e interações seguem padrões previsíveis e consistentes;
+- Controle e liberdade do usuário: para avaliar se os usuários podem corrigir facilmente erros ou desfazer ações indesejadas;
+- Reconhecimento em vez de memorização: para garantir que elementos da interface sejam intuitivos e não exijam esforço desnecessário de memória por parte dos usuários;
+
+A análise foi conduzida de forma individual, seguindo os passos recomendados para uma avaliação heurística. Cada aspecto da interface foi examinado em relação às heurísticas selecionadas, e os problemas identificados foram registrados e classificados quanto à severidade, natureza e impacto na experiência do usuário.
+
+**Resultados**
+
+Apenas a heurística de Consistência e Padronização foi violada por um erro de implementação mas que não impediu que os usuários concluíssem a tarefa.
+
+<center>
+
+<p style={{ textAlign: 'center', fontSize: '18px' }}><b>Figura 4</b> - Tabela Consistência e padronização</p>
+
+![Reconhecimento em vez de Memorização - Identificação de Problema no Mapa](./assets/tabelaNecivaldo.png)
+
+<p style={{ textAlign: 'center', fontSize: '17px' }}>Autor: [Necivaldo Amaral](https://github.com/junioramaral22)</p>
+
+</center>
+
+### Teste de Usabilidade
+
+**Métricas de Desempenho e Observações Qualitativas**
+
+<center>
+
+<p style={{ textAlign: 'center', fontSize: '18px' }}><b>Tabela 8</b> - Comparação de desempenho por usuário</p>
+
+| Entrevistado(s) | Tempo de execução (s) | Taxa de sucesso (%) | Taxa de erro (%) | Observações Qualitativas                                                                     |
+| :-------------: | :-------------------: | :-----------------: | :--------------: | -------------------------------------------------------------------------------------------- |
+|      lucas       |          27s          |        100%         |        0%        | Sugestão de melhoria: Aumentar contraste dos campos de formulário                                                                                           |
+|     layner     |          25s          |        100%         |        0%        |  |
+
+<p style={{ textAlign: 'center', fontSize: '17px' }}>Autor: [Necivaldo Amaral](https://github.com/junioramaral22)</p>
+
+</center>
+
+### Registro da avaliação
+
+A seguir, são apresentados os registros em vídeo dos testes de usabilidade realizados com os três participantes. Cada vídeo captura a interação do usuário com o protótipo de alta fidelidade, permitindo uma análise mais detalhada do comportamento durante o processo de uso.
+
+<center>
+
+**Entrevista 01: Lucas**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sFEg38r-A7k?si=W6b8QlYMq5GDQiz4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+**Entrevista 02: Layner**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXotGvu9Xy0?si=NQl6ckyYHgM1chpl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+</center>
+
 ## Análise dos Resultados
 
 Neste tópico, apresentamos a análise dos resultados obtidos nas avaliações das funcionalidades testadas. As métricas analisadas incluem o tempo de execução, a taxa de sucesso e a taxa de erro. Para facilitar a compreensão, os resultados são ilustrados por meio de gráficos e tabelas, proporcionando uma visão clara do desempenho de cada funcionalidade, além de destacar possíveis áreas de melhoria para otimizar a experiência do usuário.
@@ -424,13 +526,14 @@ A tabela complementa as informações apresentadas no gráfico, fornecendo um re
 
 <center>
 
-<p style={{ textAlign: 'center', fontSize: '18px' }}><b>Tabela 8</b> - Dados de Média e Desvio Padrão do Tempo de Execução, Taxa de Sucesso e Taxa de Erro</p>
+<p style={{ textAlign: 'center', fontSize: '18px' }}><b>Tabela 9</b> - Dados de Média e Desvio Padrão do Tempo de Execução, Taxa de Sucesso e Taxa de Erro</p>
 
 | Funcionalidade | Tempo de execução (s) - média | Tempo de execução (s) - desvio padrão | Taxa de sucesso (%) - média |Taxa de sucesso (%) - desvio padrão | Taxa de erros (%) - média | Taxa de erros (%) - desvio padrão |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|
 |Fazer um pedido no e-SIC|85.33|34.39|100|0|0|0|
 |Agendamento de consulta médica|58|4.58|100|0|0|0|
 |Busca por licitação fracassada|92|29.46|100|0|0|0|
+|Envio de Nota Fiscal de Serviçi|26|1|100|0|0|0|
 
 
 <p style={{ textAlign: 'center', fontSize: '17px' }}>Autor: [Weverton Rodrigues](https://github.com/vevetin)</p>
@@ -475,4 +578,5 @@ Os resultados obtidos indicam uma alta usabilidade das funcionalidades testadas.
 |  1.0   | 24/01/2025 | [Weverton Rodrigues](https://github.com/vevetin) | Criação do documento                             |   25/01/2025    | [Paulo Henrique](https://github.com/paulomh)          |
 |  1.1   | 26/01/2025 | [Paulo Henrique](https://github.com/paulomh)     | Adicionando Resultado - Fazer um pedido no e-SIC |   26/01/2025    | [Necivaldo Amaral](https://github.com/junioramaral22) |
 |  1.2   | 26/01/2025 | [Rodrigo Wendrel](https://github.com/rodwendrel) | Adicionando - Licitação Fracassada               |  26/01/2025     |  [Weverton Rodrigues](https://github.com/vevetin) |
+|  1.3   | 07/02/2025 | [Necivaldo Amaral](https://github.com/junioramral22) | Adicionando - Envio de nota fiscal              |  07/02/2025     |  [Rodrigo Wendrel](https://github.com/rodwendrel) |
 

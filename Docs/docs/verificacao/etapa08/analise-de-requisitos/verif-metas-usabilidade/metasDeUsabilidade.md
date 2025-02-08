@@ -34,13 +34,13 @@ Os resultados obtidos através da aplicação da inspeção da lista de verifica
 
 ## Referências Bibliográficas
 
-> \-  Capítulo 3: Concetios Básicos. Autopublicação. ISBN: 978-65-00-19677-1.
+> \-  BARBOSA, Simone Diniz Junqueira et al. Interação humano-computador e experiência do usuário. 1. ed. Rio de Janeiro: Simone Diniz Junqueira Barbosa, 2021. Capítulo 3: Concetios Básicos. Autopublicação. ISBN: 978-65-00-19677-1.
 
-> \-  Capítulo 6: Processos de Design de IHC.  Autopublicação. ISBN: 978-65-00-19677-1.
+> \-  BARBOSA, Simone Diniz Junqueira et al. Interação humano-computador e experiência do usuário. 1. ed. Rio de Janeiro: Simone Diniz Junqueira Barbosa, 2021. Capítulo 6: Processos de Design de IHC.  Autopublicação. ISBN: 978-65-00-19677-1.
 
-> \-  Capítulo 8: Organização do Espaço de Problema Autopublicação. ISBN: 978-65-00-19677-1.
+> \-  BARBOSA, Simone Diniz Junqueira et al. Interação humano-computador e experiência do usuário. 1. ed. Rio de Janeiro: Simone Diniz Junqueira Barbosa, 2021. Capítulo 8: Organização do Espaço de Problema Autopublicação. ISBN: 978-65-00-19677-1.
 
-> \-  Capítulo 11: Planejamento da Avaliação de IHC. Autopublicação. ISBN: 978-65-00-19677-1. 
+> \-  BARBOSA, Simone Diniz Junqueira et al. Interação humano-computador e experiência do usuário. 1. ed. Rio de Janeiro: Simone Diniz Junqueira Barbosa, 2021. Capítulo 11: Planejamento da Avaliação de IHC. Autopublicação. ISBN: 978-65-00-19677-1. 
 
 ## Apêndice H - Metas de Usabilidade
 

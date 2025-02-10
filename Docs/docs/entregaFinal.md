@@ -628,14 +628,13 @@ As verificações de artefatos foram distribuídas entre o grupo onde todos cria
 | [Aspéctos Éticos](./category/aspectos-éticos) | [Paulo Henrique](https://github.com/paulomh) | [Rodrigo Wendrel](https://github.com/rodwendrel) |
 | [Características da Plataforma](./category/características-da-plataforma) | [Necivaldo Amaral](https://github.com/junioramaral22) | [Rodrigo Wendrel](https://github.com/rodwendrel) |
 | [Cenários](./category/cenários) | [Weverton Rodrigues](https://github.com/vevetin) | [Necivaldo Amaral](https://github.com/junioramaral22) |
-| [Guia de estilo](./category/guia-de-estilo) |  |  |
 | [Metas de Usabilidade](./category/metas-de-usabilidade) | [Necivaldo Amaral](https://github.com/junioramaral22) | [Rodrigo Wendrel](https://github.com/rodwendrel) |
 | [Perfil de Usuário](./category/perfil-de-usuário) | [Rodrigo Wendrel](https://github.com/rodwendrel) | [Necivaldo Amaral](https://github.com/junioramaral22) | 
 | [Personas e Elenco](./category/personas-e-elenco) | [Paulo Henrique](https://github.com/paulomh) | [Rodrigo Wendrel](https://github.com/rodwendrel) |
 | [Principios Gerais](./category/principios-gerais) | [Paulo Henrique](https://github.com/paulomh) | [Rodrigo Wendrel](https://github.com/rodwendrel) |
-| [Protótipo em Papel](./category/protótipo-em-papel) |  |  |
+| [Protótipo em Papel](./category/protótipo-em-papel) | [Paulo Henrique](https://github.com/paulomh) | [Rodrigo Wendrel](https://github.com/rodwendrel) |
 | [Storyboard](./category/storyboard-1) | [Rodrigo Wendrel](https://github.com/rodwendrel) | [Necivaldo Amaral](https://github.com/junioramaral22) | 
-| [Protótipo de Alta Fidelidade](./category/protótipo-em-papel) |  |  |
+| [Protótipo de Alta Fidelidade](./category/protótipo-em-papel) | [Necivaldo Amaral](https://github.com/junioramaral22) | [Rodrigo Wendrel](https://github.com/rodwendrel) |
 
 ## 11. Vídeos das Apresentações
 Todas as entregas tiveram suas apresentações gravadas e organizadas por etapas onde todos os membros apresentaram suas contribuições no projeto.

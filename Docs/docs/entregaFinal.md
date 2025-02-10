@@ -601,19 +601,53 @@ Ao longo do projeto, diversos artefatos foram produzidos para documentar as etap
 | Entrega Final |[Documento do Projeto Final da Disciplina de IHC](entregaFinal.md)|[Necivaldo Amaral](https://github.com/junioramaral22), [Paulo Henrique](https://github.com/paulomh), [Rodrigo Ferreira](https://github.com/rodwendrel) e [Weverton Rodrigues](https://github.com/vevetin)|[Paulo Henrique](https://github.com/paulomh) e [Weverton Rodrigues](https://github.com/vevetin)|
 
 ## 9. Avaliação dos Protótipos
+Foram utilizados  três tipos de protótipo para cada nível da fase de Design, Avaliação e Desenvolvimento. Os integrantes do grupo executaram cada nível com sua devida prototipação e coleta de dados dos testes de cada protótipo através de entrevistas com usuários no perfil do projeto. As entregas foram as seguintes:
+
 | Protótipo | Entrevistador(es) | Número de participantes |
 |---|----|---|
-| Exemplo: Protótipo de papel | Nome(s) | Número de participantes |
+| [Storyboard - Fazer um pedido no e-SIC](./design-avaliacao-desenvolvimento/nivel01/Storyboard/relatoStoryboard.md#entrevista---fazer-um-pedido-no-e-sic) | [Paulo Henrique](https://github.com/paulomh) | 1 |
+| [Storyboard - Agendamento de Consulta Médica](./design-avaliacao-desenvolvimento/nivel01/Storyboard/relatoStoryboard.md#entrevista---agendamento-de-consulta-médica) | [Weverton Rodrigues](https://github.com/vevetin) | 1 |
+| [Storyboard - Busca por licitações fracassadas](./design-avaliacao-desenvolvimento/nivel01/Storyboard/relatoStoryboard.md#entrevista---busca-por-licitações-fracassadas) | [Rodrigo Wendrel](https://github.com/rodwendrel) | 1 |
+| [Storyboard - Emissão de Nota Fiscal de Serviço](./design-avaliacao-desenvolvimento/nivel01/Storyboard/relatoStoryboard.md#entrevista---emissão-de-nota-fiscal-de-serviço) | [Necivaldo Amaral](https://github.com/junioramaral22) | 1 |
+| [Protótipo de papel - Fazer um pedido no e-SIC](./design-avaliacao-desenvolvimento/nivel02/relatoPrototipoDePapel.md#entrevista---fazer-um-pedido-no-e-sic) | [Paulo Henrique](https://github.com/paulomh) | 1 |
+| [Protótipo de papel - Agendamento de Consulta Médica](./design-avaliacao-desenvolvimento/nivel02/relatoPrototipoDePapel.md#entrevista---agendamento-de-consulta-médica) | [Weverton Rodrigues](https://github.com/vevetin) | 1 |
+| [Protótipo de papel - Busca por licitações fracassadas](./design-avaliacao-desenvolvimento/nivel02/relatoPrototipoDePapel.md#entrevista---busca-por-licitação-fracassada) | [Rodrigo Wendrel](https://github.com/rodwendrel) | 1 |
+| [Protótipo de papel - Emissão de Nota Fiscal de Serviço](./design-avaliacao-desenvolvimento/nivel02/relatoPrototipoDePapel.md#entrevista---envio-de-nota-fiscal-de-serviço) | [Necivaldo Amaral](https://github.com/junioramaral22) | 1 |
+| [Protótipo de alta fidelidade - Fazer um pedido no e-SIC](./design-avaliacao-desenvolvimento/nivel03/relatoPrototipoAltaFidelidade.md#resultado-da-avaliação---fazer-um-pedido-no-e-sic) | [Paulo Henrique](https://github.com/paulomh) | 3 |
+| [Protótipo de alta fidelidade - Agendamento de Consulta Médica](./design-avaliacao-desenvolvimento/nivel03/relatoPrototipoAltaFidelidade.md#resultado-da-avaliação---agendamento-de-consulta-médica) | [Weverton Rodrigues](https://github.com/vevetin) | 3 |
+| [Protótipo de alta fidelidade - Busca por licitações fracassadas](./design-avaliacao-desenvolvimento/nivel03/relatoPrototipoAltaFidelidade.md#resultado-da-avaliação---busca-por-licitação-fracassada) | [Rodrigo Wendrel](https://github.com/rodwendrel) | 3 |
+| [Protótipo de alta fidelidade - Emissão de Nota Fiscal de Serviço](./design-avaliacao-desenvolvimento/nivel03/relatoPrototipoAltaFidelidade.md#resultado-da-avaliação---envio-de-nota-fiscal) | [Necivaldo Amaral](https://github.com/junioramaral22) | 3 |
 
 ## 10. Verificação dos Artefatos
 | Artefato | Autor | Revisor |
 |---|---|---|
-| Exemplo: Checklist de avaliação heurística | Nome | Nome |
+| [Lista de Verificação Geral do Projeto](./category/verificação-geral-do-projeto) | [Paulo Henrique](https://github.com/paulomh) | [Weverton Rodrigues](https://github.com/vevetin) |
+| [Análise de Tarefas](./category/análise-de-tarefas-1) | [Weverton Rodrigues](https://github.com/vevetin) | [Necivaldo Amaral](https://github.com/junioramaral22) |
+| [Aspéctos Éticos](./category/aspectos-éticos) | [Paulo Henrique](https://github.com/paulomh) | [Rodrigo Wendrel](https://github.com/rodwendrel) |
+| [Características da Plataforma](./category/características-da-plataforma) | [Necivaldo Amaral](https://github.com/junioramaral22) | [Rodrigo Wendrel](https://github.com/rodwendrel) |
+| [Cenários](./category/cenários) | [Weverton Rodrigues](https://github.com/vevetin) | [Necivaldo Amaral](https://github.com/junioramaral22) |
+| [Guia de estilo](./category/guia-de-estilo) |  |  |
+| [Metas de Usabilidade](./category/metas-de-usabilidade) | [Necivaldo Amaral](https://github.com/junioramaral22) | [Rodrigo Wendrel](https://github.com/rodwendrel) |
+| [Perfil de Usuário](./category/perfil-de-usuário) | [Rodrigo Wendrel](https://github.com/rodwendrel) | [Necivaldo Amaral](https://github.com/junioramaral22) | 
+| [Personas e Elenco](./category/personas-e-elenco) | [Paulo Henrique](https://github.com/paulomh) | [Rodrigo Wendrel](https://github.com/rodwendrel) |
+| [Principios Gerais](./category/principios-gerais) | [Paulo Henrique](https://github.com/paulomh) | [Rodrigo Wendrel](https://github.com/rodwendrel) |
+| [Protótipo em Papel](./category/protótipo-em-papel) |  |  |
+| [Storyboard](./category/storyboard-1) | [Rodrigo Wendrel](https://github.com/rodwendrel) | [Necivaldo Amaral](https://github.com/junioramaral22) | 
+| [Protótipo de Alta Fidelidade](./category/protótipo-em-papel) |  |  |
 
 ## 11. Vídeos das Apresentações
 | Etapa | Link do vídeo | Participantes | 
-|---|---|---|---|
-| Exemplo: Apresentação do storyboard | [Link] | Nome(s) | 
+|---|---|---|
+| Etapa 01 | [Link](https://youtu.be/BETeXEYaSbM?si=RmGj0T4L_J28xLtX) | [Paulo Henrique](https://github.com/paulomh), [Pedro Luiz](https://github.com/pedroluizfo), [Necivaldo Amaral](https://github.com/junioramaral22), [Rodrigo Wendrel](https://github.com/rodwendrel), [Weverton Rodrigues](https://github.com/vevetin) |
+| Etapa 02 | [Link](https://youtu.be/ojKuKAf_di8) | [Paulo Henrique](https://github.com/paulomh), [Pedro Luiz](https://github.com/pedroluizfo), [Necivaldo Amaral](https://github.com/junioramaral22), [Rodrigo Wendrel](https://github.com/rodwendrel), [Weverton Rodrigues](https://github.com/vevetin) | 
+| Etapa 03 | [Link](https://youtu.be/ER0u42cxPAk) | [Paulo Henrique](https://github.com/paulomh), [Pedro Luiz](https://github.com/pedroluizfo), [Necivaldo Amaral](https://github.com/junioramaral22), [Rodrigo Wendrel](https://github.com/rodwendrel), [Weverton Rodrigues](https://github.com/vevetin) |
+| Etapa 04 | [Link](https://youtu.be/re09_yMi908) | [Paulo Henrique](https://github.com/paulomh), [Pedro Luiz](https://github.com/pedroluizfo), [Necivaldo Amaral](https://github.com/junioramaral22), [Rodrigo Wendrel](https://github.com/rodwendrel), [Weverton Rodrigues](https://github.com/vevetin) |
+| Etapa 05 | [Link](https://youtu.be/iJqzDIbsWZQ) | [Paulo Henrique](https://github.com/paulomh), [Pedro Luiz](https://github.com/pedroluizfo), [Necivaldo Amaral](https://github.com/junioramaral22), [Rodrigo Wendrel](https://github.com/rodwendrel), [Weverton Rodrigues](https://github.com/vevetin) |
+| Etapa 06 | [Link](https://youtu.be/bSVLNVoA9O4) | [Paulo Henrique](https://github.com/paulomh), [Pedro Luiz](https://github.com/pedroluizfo), [Necivaldo Amaral](https://github.com/junioramaral22), [Rodrigo Wendrel](https://github.com/rodwendrel), [Weverton Rodrigues](https://github.com/vevetin) |
+| Etapa 07 | [Link](https://youtu.be/XXjWBPvvvLs) | [Paulo Henrique](https://github.com/paulomh), [Pedro Luiz](https://github.com/pedroluizfo), [Necivaldo Amaral](https://github.com/junioramaral22), [Rodrigo Wendrel](https://github.com/rodwendrel), [Weverton Rodrigues](https://github.com/vevetin) |
+| Etapa 08 | [Link](https://youtu.be/UsKJMI3v4TQ) | [Paulo Henrique](https://github.com/paulomh), [Pedro Luiz](https://github.com/pedroluizfo), [Necivaldo Amaral](https://github.com/junioramaral22), [Rodrigo Wendrel](https://github.com/rodwendrel), [Weverton Rodrigues](https://github.com/vevetin) |
+| Entrega Final | [Link] | [Paulo Henrique](https://github.com/paulomh), [Pedro Luiz](https://github.com/pedroluizfo), [Necivaldo Amaral](https://github.com/junioramaral22), [Rodrigo Wendrel](https://github.com/rodwendrel), [Weverton Rodrigues](https://github.com/vevetin) |
+
 
 ## 12. Facilidades e Dificuldades Encontradas
 <!--

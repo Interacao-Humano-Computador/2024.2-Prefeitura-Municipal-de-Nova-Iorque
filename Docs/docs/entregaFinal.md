@@ -667,3 +667,5 @@ Foram utilizados  três tipos de protótipo para cada nível da fase de Design, 
 | 1.0 | 06/02/2025 | [Weverton Rodrigues](https://github.com/vevetin)  | Criação do documento | 06/02/2025 | [Paulo Henrique](https://github.com/paulomh) |
 | 1.1 | 08/02/2025 | [Paulo Henrique](https://github.com/paulomh)  | Adicionado os tópicos 2, 3 e 4 | 08/02/2025 | [Weverton Rodrigues](https://github.com/vevetin) |
 | 1.2 | 09/02/2025 | [Weverton Rodrigues](https://github.com/vevetin)  | Adicionado os tópicos 7 e 8 | 10/02/2025 | [Rodrigo Ferreira](https://github.com/rodwendrel) |
+| 1.3 | 10/02/2025 | [Rodrigo Ferreira](https://github.com/rodwendrel)  | Adicionado os tópicos 9, 10, 11  | 10/02/2025 | [Necivaldo Amaral](https://github.com/junioramaral22) |
+| 1.4 | 10/02/2025 | [Necivaldo Amaral](https://github.com/junioramaral22)  | Adicionado os tópicos 5 e 6 | 10/02/2025 | [Rodrigo Ferreira](https://github.com/rodwendrel) |

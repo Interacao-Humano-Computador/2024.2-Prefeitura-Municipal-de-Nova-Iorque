@@ -619,6 +619,8 @@ Foram utilizados  três tipos de protótipo para cada nível da fase de Design, 
 | [Protótipo de alta fidelidade - Emissão de Nota Fiscal de Serviço](./design-avaliacao-desenvolvimento/nivel03/relatoPrototipoAltaFidelidade.md#resultado-da-avaliação---envio-de-nota-fiscal) | [Necivaldo Amaral](https://github.com/junioramaral22) | 3 |
 
 ## 10. Verificação dos Artefatos
+As verificações de artefatos foram distribuídas entre o grupo onde todos criaram alguns itens de verificação e uniram nas entregas.
+
 | Artefato | Autor | Revisor |
 |---|---|---|
 | [Lista de Verificação Geral do Projeto](./category/verificação-geral-do-projeto) | [Paulo Henrique](https://github.com/paulomh) | [Weverton Rodrigues](https://github.com/vevetin) |
@@ -636,6 +638,8 @@ Foram utilizados  três tipos de protótipo para cada nível da fase de Design, 
 | [Protótipo de Alta Fidelidade](./category/protótipo-em-papel) |  |  |
 
 ## 11. Vídeos das Apresentações
+Todas as entregas tiveram suas apresentações gravadas e organizadas por etapas onde todos os membros apresentaram suas contribuições no projeto.
+
 | Etapa | Link do vídeo | Participantes | 
 |---|---|---|
 | Etapa 01 | [Link](https://youtu.be/BETeXEYaSbM?si=RmGj0T4L_J28xLtX) | [Paulo Henrique](https://github.com/paulomh), [Pedro Luiz](https://github.com/pedroluizfo), [Necivaldo Amaral](https://github.com/junioramaral22), [Rodrigo Wendrel](https://github.com/rodwendrel), [Weverton Rodrigues](https://github.com/vevetin) |

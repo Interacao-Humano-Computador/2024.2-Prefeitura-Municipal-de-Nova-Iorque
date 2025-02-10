@@ -306,6 +306,8 @@ O cronograma tem como objetivo organizar as atividades do projeto a serem realiz
     | Ediçao da gravação | 26/01/2025 | Paulo Henrique | 26/01/2025 | Paulo Henrique, Necivaldo Amaral, Rodrigo Wendrel, Weverton Rodrigues | 26/01/2025 |
     | Inspeção da entrega da apresentação do projeto etapa 7 do Grupo + 1 | 27/01/2025 | Paulo Henrique, Pedro Luiz, Necivaldo Amaral, Rodrigo Wendrel, Weverton Rodrigues | 27/01/2025 | Rodrigo Wendrel | 27/01/2025 |
     | Correção pós-apresentação | 28/01/2025 - 29/01/2025 | Paulo Henrique, Necivaldo Amaral, Rodrigo Wendrel, Weverton Rodrigues | 28/01/2025 - 29/01/2025 | Paulo Henrique, Necivaldo Amaral, Rodrigo Wendrel, Weverton Rodrigues | Não há entrega |
+
+    <p style={{ textAlign: 'center', fontSize: '15px' }}><b>Autor(es):</b> [Rodrigo Wendrel](https://github.com/rodwendrel)</p>
     
 
   </TabItem>
@@ -333,6 +335,13 @@ O cronograma tem como objetivo organizar as atividades do projeto a serem realiz
 
     | Atividade | Período de desenvolvimento | Responsável | Revisão | Revisor(es) | Data da Entrega |
     | --------- | -------------------------- | ----------- | ------- | --------- | --------------- |
+    | Verificação dos artefatos | 27/01/2025 - 30/01/2025 | Paulo Henrique, Necivaldo Amaral, Rodrigo Wendrel, Weverton Rodrigues | 30/01/2025 | Weverton Rodrigues, Rodrigo Wendrel | 03/02/2025 |
+    | Gravação da apresentação | 01/02/2025 - 02/02/2025 | Paulo Henrique, Necivaldo Amaral, Rodrigo Wendrel, Weverton Rodrigues | 02/02/2025 | Paulo Henrique| 03/02/2025 |
+    | Ediçao da gravação | 02/02/2025 | Paulo Henrique | 02/02/2025 | Paulo Henrique, Necivaldo Amaral, Rodrigo Wendrel, Weverton Rodrigues | 03/02/2025 |
+    | Cronograma executado | 02/02/2025 | Necivaldo Amaral | 02/02/2025 | Paulo Henrique, Necivaldo Amaral, Rodrigo Wendrel, Weverton Rodrigues | 03/02/2025 |
+    | Correção pós-apresentação | 05/02/2025 - 06/02/2025 | Paulo Henrique, Necivaldo Amaral, Rodrigo Wendrel, Weverton Rodrigues | 05/02/2025 - 06/02/2025 | Paulo Henrique, Necivaldo Amaral, Rodrigo Wendrel, Weverton Rodrigues | Não há entrega |
+
+    <p style={{ textAlign: 'center', fontSize: '15px' }}><b>Autor(es):</b> [Necivaldo Amaral](https://github.com/junioramaral22)</p>
 
   </TabItem>
   
@@ -359,6 +368,12 @@ O cronograma tem como objetivo organizar as atividades do projeto a serem realiz
 
     | Atividade | Período de desenvolvimento | Responsável | Revisão | Revisor(es) | Data da Entrega |
     | --------- | -------------------------- | ----------- | ------- | --------- | --------------- |
+    | Desenvolvimento do projeto final | 03/02/2025 - 07/02/2025 | Paulo Henrique, Necivaldo Amaral, Rodrigo Wendrel, Weverton Rodrigues | 07/02/2025 | Rodrigo Wendrel, Pedro Luiz | 10/02/2025 |
+    | Gravação da apresentação | 08/02/2025 - 09/02/2025 | Paulo Henrique, Necivaldo Amaral, Rodrigo Wendrel, Weverton Rodrigues | 09/02/2025 | Paulo Henrique | 10/02/2025 |
+    | Ediçao da gravação | 09/02/2025 | Paulo Henrique | 09/02/2025 | Paulo Henrique, Necivaldo Amaral, Rodrigo Wendrel, Weverton Rodrigues | 10/02/2025 |
+    | Cronograma executado | 09/02/2025 | Weverton Rodrigues | 09/02/2025 | Paulo Henrique, Necivaldo Amaral, Rodrigo Wendrel, Weverton Rodrigues | 10/02/2025 |
+
+    <p style={{ textAlign: 'center', fontSize: '15px' }}><b>Autor(es):</b> [Weverton Rodrigues](https://github.com/vevetin)</p>
 
   </TabItem>
 </Tabs>

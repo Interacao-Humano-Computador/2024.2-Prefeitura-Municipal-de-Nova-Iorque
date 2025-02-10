@@ -453,15 +453,97 @@ Nesse nível, é realizado o projeto detalhado da interface, com alta fidelidade
 - [Relato dos Resultados do Protótipo de Alta Fidelidade](./design-avaliacao-desenvolvimento/relatoResultadosPrototipoAltaFidelidade.md)
 
 ## 5. Resultados Alcançados
-<!--
-- **Resumo do impacto do projeto:** (Exemplo: melhorias identificadas, insights sobre o comportamento dos usuários, principais problemas de IHC solucionados)
-- **Alinhamento com os objetivos iniciais:** (Comparar o que foi planejado e o que foi alcançado)
--->
+
+  
+### Impacto do projeto:
+### Melhorias Identificadas
+### Acessibilidade e Usabilidade
+- O Guia de Estilo destaca oportunidades de melhoria em acessibilidade e usabilidade, focando em usuários com pouca familiaridade tecnológica ou necessidades especiais.
+- A análise do site da Prefeitura de Nova Iorque identificou pontos fortes e limitações na interface, servindo como base para melhorias.
+
+### Eficiência e Clareza
+- A análise de tarefas revelou que a falta de organização do site prejudica a eficiência, exigindo esforço adicional dos usuários para realizar tarefas.
+- Reorganização do site para que as informações sejam claras e acessíveis é essencial.
+
+### Otimização de Tarefas
+- A tabela de Análise HTA exemplifica problemas e recomendações para acessar informações de licitações.
+- Melhorar o algoritmo de busca.
+
+## Insights sobre o Comportamento dos Usuários
+
+### Tráfego Orgânico
+- A análise de tráfego do Semrush indicou aproximadamente **891 acessos mensais** ao site da Prefeitura de Nova Iorque, evidenciando a necessidade de melhorar a usabilidade e interação.
+
+### Preferências de Design
+- Avaliações de protótipos de papel e de alta fidelidade revelaram que os usuários preferem a navegação direta pela seção **"Mais Acessados"**, considerando-a mais eficiente e intuitiva.
+
+## Principais Problemas de IHC Solucionados
+
+### Confusão na Interface
+- A avaliação do storyboard identificou elementos confusos, como a transição entre o usuário e o site da prefeitura e a falta de clareza sobre os filtros de busca.
+
+### Dificuldades de Acesso
+- Foram feitas recomendações para simplificar o acesso e melhorar a busca.
+
+### Problemas de Usabilidade
+- A avaliação heurística dos protótipos de alta fidelidade identificou violações de **heurísticas de Nielsen**, como a falta de consistência e padronização.
+
+## Alinhamento com os Objetivos Iniciais
+
+### Design Centrado no Usuário
+- O projeto utilizou **análise de tarefas e cenários** para entender as necessidades, objetivos e dificuldades dos usuários, criando interfaces mais intuitivas e eficientes.
+
+### Avaliação Contínua
+- O projeto adotou o framework **DECIDE** para planejar e executar avaliações de IHC em diferentes etapas do desenvolvimento, desde **storyboards até protótipos de alta fidelidade**.
+- As avaliações utilizaram métodos como **entrevistas semiestruturadas** e **avaliação heurística** para coletar feedback detalhado e qualitativo.
+
+### Iteração e Melhoria
+- Os resultados das avaliações foram utilizados para **identificar problemas de usabilidade** e propor melhorias no sistema.
+- O planejamento do reprojeto do sistema é essencial para validar o artefato junto aos usuários reais.
+
+### Metas de Usabilidade
+- O projeto definiu e avaliou metas de usabilidade, priorizando:
+  - **Aprendizagem**
+  - **Eficiência**
+  - **Segurança**
+  - **Utilidade** do site.
+- A simulação do comportamento dos usuários permitiu avaliar como cada meta estava sendo incorporada ao site.
+
+---
+
+Em resumo, o projeto conseguiu:
+- **Identificar áreas de melhoria** no site da Prefeitura de Nova Iorque.
+- **Obter insights** sobre o comportamento dos usuários.
+- **Solucionar problemas de IHC**.
+
 
 ## 6. Ferramentas Utilizadas em Cada Etapa
+
+### Ferramentas Utilizadas em todas as etapas.
+
 | Etapa | Ferramenta | Uso no projeto |
 |---|---|---|
-| Exemplo: Planejamento | Miro | Organização das ideias e estruturação das tarefas |
+| Todas | Github | Versionamento do código  |
+| Todas | Docusaurus | Documentação do projeto  |
+| Todas | Teams | Reuniões do grupo  |
+| Todas | Youtube | Armazenamento dos vídeos de entrevistas e entregas |
+| Todas | Visual Studio Code | Manipulação dos arquivos da documentação. |
+
+### Ferramentas Utilizadas em etapas.
+
+| Etapa | Ferramenta | Uso no projeto |
+|---|---|---|
+| Planejamento | Miro | Organização das ideias e estruturação das tarefas |
+| Planejamento | 	Planilhas Google | Criação e organização do heatmap da equipe. |
+| Análise de Requisitos | Google Forms | Questionário para levantamento de dados sobre o site da prefeitura municipal de Nova Iorque |
+| Análise de Requisitos | 	Planilhas Google | Criação de gráficos com os dados levantados através de formulário |  
+| Análise de Requisitos | 		This Person Does Not Exist | Geração de imagens de pessoas fictícias para uso sem comprometer a privacidade de indivíduos reais. Usado na criação de Personas |  
+| Análise de Requisitos | Draw.io | Elaboração de diagramas. Usado no projeto para criação de diagramas HTA e GOMS |  
+| Análise de Requisitos ii | Figma | Desenvolvimento dos protótipos de baixa e alta fidelidade. Usado na análise de requisitos ii para criação de guia de estilo|  
+| Design, Avaliação e Desenvolvimento Nível 3 | Figma | Desenvolvimento dos protótipos de baixa e alta fidelidade. Usado no nível 3 para design de protótipo de alta fidelidade|  
+| Design, Avaliação e Desenvolvimento Nível 3 | 	Planilhas Google | Criação de gráficos com os dados dos relatos| 
+
+
 
 ## 7. Técnicas Utilizadas e Participantes
 | Técnica | Artefatos Relacionados | Participante(s) |

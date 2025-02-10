@@ -643,18 +643,27 @@ Foram utilizados  três tipos de protótipo para cada nível da fase de Design, 
 | Etapa 03 | [Link](https://youtu.be/ER0u42cxPAk) | [Paulo Henrique](https://github.com/paulomh), [Pedro Luiz](https://github.com/pedroluizfo), [Necivaldo Amaral](https://github.com/junioramaral22), [Rodrigo Wendrel](https://github.com/rodwendrel), [Weverton Rodrigues](https://github.com/vevetin) |
 | Etapa 04 | [Link](https://youtu.be/re09_yMi908) | [Paulo Henrique](https://github.com/paulomh), [Pedro Luiz](https://github.com/pedroluizfo), [Necivaldo Amaral](https://github.com/junioramaral22), [Rodrigo Wendrel](https://github.com/rodwendrel), [Weverton Rodrigues](https://github.com/vevetin) |
 | Etapa 05 | [Link](https://youtu.be/iJqzDIbsWZQ) | [Paulo Henrique](https://github.com/paulomh), [Pedro Luiz](https://github.com/pedroluizfo), [Necivaldo Amaral](https://github.com/junioramaral22), [Rodrigo Wendrel](https://github.com/rodwendrel), [Weverton Rodrigues](https://github.com/vevetin) |
-| Etapa 06 | [Link](https://youtu.be/bSVLNVoA9O4) | [Paulo Henrique](https://github.com/paulomh), [Pedro Luiz](https://github.com/pedroluizfo), [Necivaldo Amaral](https://github.com/junioramaral22), [Rodrigo Wendrel](https://github.com/rodwendrel), [Weverton Rodrigues](https://github.com/vevetin) |
-| Etapa 07 | [Link](https://youtu.be/XXjWBPvvvLs) | [Paulo Henrique](https://github.com/paulomh), [Pedro Luiz](https://github.com/pedroluizfo), [Necivaldo Amaral](https://github.com/junioramaral22), [Rodrigo Wendrel](https://github.com/rodwendrel), [Weverton Rodrigues](https://github.com/vevetin) |
-| Etapa 08 | [Link](https://youtu.be/UsKJMI3v4TQ) | [Paulo Henrique](https://github.com/paulomh), [Pedro Luiz](https://github.com/pedroluizfo), [Necivaldo Amaral](https://github.com/junioramaral22), [Rodrigo Wendrel](https://github.com/rodwendrel), [Weverton Rodrigues](https://github.com/vevetin) |
-| Entrega Final | [Link] | [Paulo Henrique](https://github.com/paulomh), [Pedro Luiz](https://github.com/pedroluizfo), [Necivaldo Amaral](https://github.com/junioramaral22), [Rodrigo Wendrel](https://github.com/rodwendrel), [Weverton Rodrigues](https://github.com/vevetin) |
+| Etapa 06 | [Link](https://youtu.be/bSVLNVoA9O4) | [Paulo Henrique](https://github.com/paulomh), [Necivaldo Amaral](https://github.com/junioramaral22), [Rodrigo Wendrel](https://github.com/rodwendrel), [Weverton Rodrigues](https://github.com/vevetin) |
+| Etapa 07 | [Link](https://youtu.be/XXjWBPvvvLs) | [Paulo Henrique](https://github.com/paulomh), [Necivaldo Amaral](https://github.com/junioramaral22), [Rodrigo Wendrel](https://github.com/rodwendrel), [Weverton Rodrigues](https://github.com/vevetin) |
+| Etapa 08 | [Link](https://youtu.be/UsKJMI3v4TQ) | [Paulo Henrique](https://github.com/paulomh), [Necivaldo Amaral](https://github.com/junioramaral22), [Rodrigo Wendrel](https://github.com/rodwendrel), [Weverton Rodrigues](https://github.com/vevetin) |
+| Entrega Final | [Link] | [Paulo Henrique](https://github.com/paulomh), [Necivaldo Amaral](https://github.com/junioramaral22), [Rodrigo Wendrel](https://github.com/rodwendrel), [Weverton Rodrigues](https://github.com/vevetin) |
 
 
 ## 12. Facilidades e Dificuldades Encontradas
-<!--
-- **Facilidades:** (Exemplo: trabalho colaborativo eficiente, boa organização das etapas)
-- **Dificuldades:** (Exemplo: tempo reduzido para avaliações, problemas técnicos)
-- **Percepções individuais:** (Cada integrante pode descrever sua experiência pessoal no projeto)
--->
+
+### Facilidades
+
+- Comunicação eficaz entre a equipe;
+- Trabalho em equipe colaborativo;
+- Organização e planejamento do projeto.
+
+### Dificuldades
+
+- Dificuldade em conciliar as atividades da disciplina com as demais disciplinas do semestre;
+- Entregas semanais e prazos curtos para a realização das atividades;
+- Coordenar entrevistas com usuários para coleta de dados;
+- Compreender as etapas de desenvolvimento do projeto;
+- Fazer as listas de verificação dos artefatos.
 
 ## Referências Bibliográficas
 

@@ -555,8 +555,17 @@ Foram utilizados  três tipos de protótipo para cada nível da fase de Design, 
 
 ## 11. Vídeos das Apresentações
 | Etapa | Link do vídeo | Participantes | 
-|---|---|---|---|
-| Exemplo: Apresentação do storyboard | [Link] | Nome(s) | 
+|---|---|---|
+| Etapa 01 | [Link](https://youtu.be/BETeXEYaSbM?si=RmGj0T4L_J28xLtX) | [Paulo Henrique](https://github.com/paulomh), [Pedro Luiz](https://github.com/pedroluizfo), [Necivaldo Amaral](https://github.com/junioramaral22), [Rodrigo Wendrel](https://github.com/rodwendrel), [Weverton Rodrigues](https://github.com/vevetin) |
+| Etapa 02 | [Link](https://youtu.be/ojKuKAf_di8) | [Paulo Henrique](https://github.com/paulomh), [Pedro Luiz](https://github.com/pedroluizfo), [Necivaldo Amaral](https://github.com/junioramaral22), [Rodrigo Wendrel](https://github.com/rodwendrel), [Weverton Rodrigues](https://github.com/vevetin) | 
+| Etapa 03 | [Link](https://youtu.be/ER0u42cxPAk) | [Paulo Henrique](https://github.com/paulomh), [Pedro Luiz](https://github.com/pedroluizfo), [Necivaldo Amaral](https://github.com/junioramaral22), [Rodrigo Wendrel](https://github.com/rodwendrel), [Weverton Rodrigues](https://github.com/vevetin) |
+| Etapa 04 | [Link](https://youtu.be/re09_yMi908) | [Paulo Henrique](https://github.com/paulomh), [Pedro Luiz](https://github.com/pedroluizfo), [Necivaldo Amaral](https://github.com/junioramaral22), [Rodrigo Wendrel](https://github.com/rodwendrel), [Weverton Rodrigues](https://github.com/vevetin) |
+| Etapa 05 | [Link](https://youtu.be/iJqzDIbsWZQ) | [Paulo Henrique](https://github.com/paulomh), [Pedro Luiz](https://github.com/pedroluizfo), [Necivaldo Amaral](https://github.com/junioramaral22), [Rodrigo Wendrel](https://github.com/rodwendrel), [Weverton Rodrigues](https://github.com/vevetin) |
+| Etapa 06 | [Link](https://youtu.be/bSVLNVoA9O4) | [Paulo Henrique](https://github.com/paulomh), [Pedro Luiz](https://github.com/pedroluizfo), [Necivaldo Amaral](https://github.com/junioramaral22), [Rodrigo Wendrel](https://github.com/rodwendrel), [Weverton Rodrigues](https://github.com/vevetin) |
+| Etapa 07 | [Link](https://youtu.be/XXjWBPvvvLs) | [Paulo Henrique](https://github.com/paulomh), [Pedro Luiz](https://github.com/pedroluizfo), [Necivaldo Amaral](https://github.com/junioramaral22), [Rodrigo Wendrel](https://github.com/rodwendrel), [Weverton Rodrigues](https://github.com/vevetin) |
+| Etapa 08 | [Link](https://youtu.be/UsKJMI3v4TQ) | [Paulo Henrique](https://github.com/paulomh), [Pedro Luiz](https://github.com/pedroluizfo), [Necivaldo Amaral](https://github.com/junioramaral22), [Rodrigo Wendrel](https://github.com/rodwendrel), [Weverton Rodrigues](https://github.com/vevetin) |
+| Entrega Final | [Link] | [Paulo Henrique](https://github.com/paulomh), [Pedro Luiz](https://github.com/pedroluizfo), [Necivaldo Amaral](https://github.com/junioramaral22), [Rodrigo Wendrel](https://github.com/rodwendrel), [Weverton Rodrigues](https://github.com/vevetin) |
+
 
 ## 12. Facilidades e Dificuldades Encontradas
 <!--

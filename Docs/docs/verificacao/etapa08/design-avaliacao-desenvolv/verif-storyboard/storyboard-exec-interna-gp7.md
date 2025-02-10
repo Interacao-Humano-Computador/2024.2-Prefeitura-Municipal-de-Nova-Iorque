@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# Storyboard - Execução da Verificação Interna Grupo 07
+# Storyboard - Execução da Verificação (Grupo 07)
 
 ## Introdução
 

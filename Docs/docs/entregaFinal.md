@@ -21,7 +21,7 @@ O foco principal deste projeto foi a análise e melhoria de aspectos relacionado
 
 ## 2. Ciclo de Vida Utilizado no Projeto
 
-A engenharia de usabilidade de Mayhew sintetiza e organiza as diferentes atividades em três etapas, sendo elas: **Análise de requisitos**, **Design, Avaliação, Desenvolvimento** e **Instalação**. Na fase de análise de requisitos são definidas as metas de usabilidade com base no perfil dos usuários, análise de tarefas, características da plataforma e princípios gerais de IHC. Já a fase de design, avaliação e desenvolvimento tem o objetivo de entregar uma solução dde IHC que atenda às metas de usabilidade definidas na fase anterior, propondo projetar a solução ddde IHC em três níveis de detalhes <sup>[1](entregaFinal.md#referências-bibliográficas)</sup>.
+A engenharia de usabilidade de Mayhew sintetiza e organiza as diferentes atividades em três etapas, sendo elas: **Análise de requisitos**, **Design, Avaliação, Desenvolvimento** e **Instalação**. Na fase de análise de requisitos são definidas as metas de usabilidade com base no perfil dos usuários, análise de tarefas, características da plataforma e princípios gerais de IHC. Já a fase de design, avaliação e desenvolvimento tem o objetivo de entregar uma solução dde IHC que atenda às metas de usabilidade definidas na fase anterior, propondo projetar a solução de IHC em três níveis de detalhes <sup>[1](entregaFinal.md#referências-bibliográficas)</sup>.
 
 ### Motivo da Escolha
 

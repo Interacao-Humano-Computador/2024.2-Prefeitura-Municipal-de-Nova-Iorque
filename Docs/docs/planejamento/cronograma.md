@@ -306,6 +306,8 @@ O cronograma tem como objetivo organizar as atividades do projeto a serem realiz
     | Ediçao da gravação | 26/01/2025 | Paulo Henrique | 26/01/2025 | Paulo Henrique, Necivaldo Amaral, Rodrigo Wendrel, Weverton Rodrigues | 26/01/2025 |
     | Inspeção da entrega da apresentação do projeto etapa 7 do Grupo + 1 | 27/01/2025 | Paulo Henrique, Pedro Luiz, Necivaldo Amaral, Rodrigo Wendrel, Weverton Rodrigues | 27/01/2025 | Rodrigo Wendrel | 27/01/2025 |
     | Correção pós-apresentação | 28/01/2025 - 29/01/2025 | Paulo Henrique, Necivaldo Amaral, Rodrigo Wendrel, Weverton Rodrigues | 28/01/2025 - 29/01/2025 | Paulo Henrique, Necivaldo Amaral, Rodrigo Wendrel, Weverton Rodrigues | Não há entrega |
+
+    <p style={{ textAlign: 'center', fontSize: '15px' }}><b>Autor(es):</b> [Rodrigo Wendrel](https://github.com/rodwendrel)</p>
     
 
   </TabItem>
@@ -333,8 +335,16 @@ O cronograma tem como objetivo organizar as atividades do projeto a serem realiz
 
     | Atividade | Período de desenvolvimento | Responsável | Revisão | Revisor(es) | Data da Entrega |
     | --------- | -------------------------- | ----------- | ------- | --------- | --------------- |
+    | Verificação dos artefatos | 27/01/2025 - 30/01/2025 | Paulo Henrique, Necivaldo Amaral, Rodrigo Wendrel, Weverton Rodrigues | 30/01/2025 | Weverton Rodrigues, Rodrigo Wendrel | 03/02/2025 |
+    | Gravação da apresentação | 01/02/2025 - 02/02/2025 | Paulo Henrique, Necivaldo Amaral, Rodrigo Wendrel, Weverton Rodrigues | 02/02/2025 | Paulo Henrique| 03/02/2025 |
+    | Ediçao da gravação | 02/02/2025 | Paulo Henrique | 02/02/2025 | Paulo Henrique, Necivaldo Amaral, Rodrigo Wendrel, Weverton Rodrigues | 03/02/2025 |
+    | Cronograma executado | 02/02/2025 | Necivaldo Amaral | 02/02/2025 | Paulo Henrique, Necivaldo Amaral, Rodrigo Wendrel, Weverton Rodrigues | 03/02/2025 |
+    | Correção pós-apresentação | 05/02/2025 - 06/02/2025 | Paulo Henrique, Necivaldo Amaral, Rodrigo Wendrel, Weverton Rodrigues | 05/02/2025 - 06/02/2025 | Paulo Henrique, Necivaldo Amaral, Rodrigo Wendrel, Weverton Rodrigues | Não há entrega |
+
+    <p style={{ textAlign: 'center', fontSize: '15px' }}><b>Autor(es):</b> [Necivaldo Amaral](https://github.com/junioramaral22)</p>
 
   </TabItem>
+  
 </Tabs>
 
 ## Etapa Final
@@ -358,6 +368,12 @@ O cronograma tem como objetivo organizar as atividades do projeto a serem realiz
 
     | Atividade | Período de desenvolvimento | Responsável | Revisão | Revisor(es) | Data da Entrega |
     | --------- | -------------------------- | ----------- | ------- | --------- | --------------- |
+    | Desenvolvimento do projeto final | 03/02/2025 - 07/02/2025 | Paulo Henrique, Necivaldo Amaral, Rodrigo Wendrel, Weverton Rodrigues | 07/02/2025 | Rodrigo Wendrel, Pedro Luiz | 10/02/2025 |
+    | Gravação da apresentação | 08/02/2025 - 09/02/2025 | Paulo Henrique, Necivaldo Amaral, Rodrigo Wendrel, Weverton Rodrigues | 09/02/2025 | Paulo Henrique | 10/02/2025 |
+    | Ediçao da gravação | 09/02/2025 | Paulo Henrique | 09/02/2025 | Paulo Henrique, Necivaldo Amaral, Rodrigo Wendrel, Weverton Rodrigues | 10/02/2025 |
+    | Cronograma executado | 09/02/2025 | Weverton Rodrigues | 09/02/2025 | Paulo Henrique, Necivaldo Amaral, Rodrigo Wendrel, Weverton Rodrigues | 10/02/2025 |
+
+    <p style={{ textAlign: 'center', fontSize: '15px' }}><b>Autor(es):</b> [Weverton Rodrigues](https://github.com/vevetin)</p>
 
   </TabItem>
 </Tabs>
@@ -382,4 +398,12 @@ O cronograma tem como objetivo organizar as atividades do projeto a serem realiz
 |  1.3   | 12/11/2024 | [Rodrigo Wendrel](https://github.com/rodwendrel)                                                        | Atualização do cronograma                                                                |   12/11/2024    | [Pedro Luiz](https://github.com/pedroluizfo)                                                                                                                                                                                                          |
 |  1.4   | 13/11/2024 | [Necivaldo Amaral](https://github.com/junioramaral22), [Weverton Rodrigues](https://github.com/vevetin) | Atualização do cronograma executado etapa 1                                              |   13/11/2024    | [Rodrigo Wendrel](https://github.com/rodwendrel)                                                                                                                                                                                                      |
 | 1.4.1  | 20/11/2024 | [Paulo Henrique](https://github.com/paulomh)                                                            | Adicionado autores nos cronogramas planejados e cronograma executado da primeira entrega |   20/11/2024    | [Weverton Rodrigues](https://github.com/vevetin)                                                                                                                                                                                                      |
-|  1.5   | 10/12/2024 | [Paulo Henrique](https://github.com/paulomh)                                                            | Adicionado cronograma executado Etapa 1                                                  |   10/12/2024    | [Paulo Henrique](https://github.com/paulomh), [Pedro Luiz](https://github.com/pedroluizfo), [Necivaldo Amaral](https://github.com/junioramaral22), [Rodrigo Wendrel](https://github.com/rodwendrel), [Weverton Rodrigues](https://github.com/vevetin) |
+|  1.5   | 10/11/2024 | [Paulo Henrique](https://github.com/paulomh)                                                            | Adicionado cronograma executado Etapa 1                                                  |   10/12/2024    | [Paulo Henrique](https://github.com/paulomh), [Pedro Luiz](https://github.com/pedroluizfo), [Necivaldo Amaral](https://github.com/junioramaral22), [Rodrigo Wendrel](https://github.com/rodwendrel), [Weverton Rodrigues](https://github.com/vevetin) |
+|  1.6   | 02/12/2024 | [Pedro Luiz](https://github.com/pedroluizfo)                                                            | Adicionado cronograma executado Etapa 2                                                  |   10/12/2024    |  [Paulo Henrique](https://github.com/paulomh), [Pedro Luiz](https://github.com/pedroluizfo), [Necivaldo Amaral](https://github.com/junioramaral22), [Rodrigo Wendrel](https://github.com/rodwendrel), [Weverton Rodrigues](https://github.com/vevetin) |
+|  1.7   | 10/12/2024 | [Weverton Rodrigues](https://github.com/vevetin)                                                            | Adicionado cronograma executado Etapa 3                                                  |   10/12/2024    |  [Paulo Henrique](https://github.com/paulomh), [Pedro Luiz](https://github.com/pedroluizfo), [Necivaldo Amaral](https://github.com/junioramaral22), [Rodrigo Wendrel](https://github.com/rodwendrel), [Weverton Rodrigues](https://github.com/vevetin) |
+|  1.8   | 10/12/2024 | [Paulo Henrique](https://github.com/paulomh)                                                            | Adicionado cronograma executado Etapa 4                                                  |   10/12/2024    |  [Paulo Henrique](https://github.com/paulomh), [Pedro Luiz](https://github.com/pedroluizfo), [Necivaldo Amaral](https://github.com/junioramaral22), [Rodrigo Wendrel](https://github.com/rodwendrel), [Weverton Rodrigues](https://github.com/vevetin) |
+|  1.9   | 10/12/2024 | [Pedro Luiz](https://github.com/pedroluizfo), [Weverton Rodrigues](https://github.com/vevetin)                                                            | Adicionado cronograma executado Etapa 5                                                  |   10/12/2024    |  [Paulo Henrique](https://github.com/paulomh), [Pedro Luiz](https://github.com/pedroluizfo), [Necivaldo Amaral](https://github.com/junioramaral22), [Rodrigo Wendrel](https://github.com/rodwendrel), [Weverton Rodrigues](https://github.com/vevetin) |
+|  2.0   | 10/12/2024 | [Weverton Rodrigues](https://github.com/vevetin)                                                            | Adicionado cronograma executado Etapa 6                                                  |   10/12/2024    | [Paulo Henrique](https://github.com/paulomh), [Necivaldo Amaral](https://github.com/junioramaral22), [Rodrigo Wendrel](https://github.com/rodwendrel), [Weverton Rodrigues](https://github.com/vevetin) |
+|  2.1   | 10/12/2024 | [Rodrigo Wendrel](https://github.com/rodwendrel)                                                            | Adicionado cronograma executado Etapa 7                                                  |   10/12/2024    | [Paulo Henrique](https://github.com/paulomh), [Necivaldo Amaral](https://github.com/junioramaral22), [Rodrigo Wendrel](https://github.com/rodwendrel), [Weverton Rodrigues](https://github.com/vevetin) |
+|  2.2   | 10/12/2024 | [Necivaldo Amaral](https://github.com/junioramaral22)                                                            | Adicionado cronograma executado Etapa 8                                                  |   10/12/2024    | [Paulo Henrique](https://github.com/paulomh), [Necivaldo Amaral](https://github.com/junioramaral22), [Rodrigo Wendrel](https://github.com/rodwendrel), [Weverton Rodrigues](https://github.com/vevetin) |
+|  2.3   | 10/12/2024 | [Weverton Rodrigues](https://github.com/vevetin)                                                            | Adicionado cronograma executado Etapa final                                                  |   10/12/2024    | [Paulo Henrique](https://github.com/paulomh), [Necivaldo Amaral](https://github.com/junioramaral22), [Rodrigo Wendrel](https://github.com/rodwendrel), [Weverton Rodrigues](https://github.com/vevetin) |

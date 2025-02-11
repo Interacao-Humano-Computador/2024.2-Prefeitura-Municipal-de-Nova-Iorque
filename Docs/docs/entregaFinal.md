@@ -408,14 +408,14 @@ Como mostrado no tópico [2. Ciclo de Vida Utilizado no Projeto](#2-ciclo-de-vid
 Nessa fase são definidas as metas de usabilidade com base no perfil dos usuários, análise de tarefas, características da plataforma e princípios gerais de IHC. As metas são apresentadas em guias de estilo que incluem diretrizes para elementos da interface do usuário. Os artefatos produzidos nessa fase foram:
 
 - [Aspectos Éticos](./analise-de-requisitos/aspectosEticos.md)
-- [Perfil do Usuário](./analise-de-requisitos/perfilDoUsuario.md)
+- [Perfil do Usuário](./analise-de-requisitos/perfilDeUsuario.md)
 - [Personas](./analise-de-requisitos/personas.md)
 - [Cenários](./analise-de-requisitos/cenarios.md)
-- [Análise de Tarefas](./analise-de-requisitos/analiseDeTarefas.md)
+- [Análise de Tarefas](./analise-de-requisitos/analiseTarefas.md)
 - [Princípios Gerais](./analise-de-requisitosII/principiosGerais.md)
-- [Metas de Usabilidade](./analise-de-requisitosII/metasDeUsabilidade.md)
-- [Características da Plataforma](./analise-de-requisitosII/caracteristicasDaPlataforma.md)
-- [Guias de Estilo](./analise-de-requisitosII/guiasDeEstilo.md)
+- [Metas de Usabilidade](./analise-de-requisitosII/metasUsabilidade.md)
+- [Características da Plataforma](./analise-de-requisitosII/caracteristicasPlataforma.md)
+- [Guias de Estilo](./analise-de-requisitosII/guiaDeEstilo.md)
 
 ### Design, Avaliação e Desenvolvimento
 
@@ -425,32 +425,31 @@ Essa tem por objetivo conceber uma solução de IHC que atenda às metas de usab
 
 Nesse nível é realizada a reegenharia do trabalho, repensando a execução das tarefas para alcançar os objetivos dos usuários, elaborar alternativas de solução do modelo conceitual, elaborar avaliações e avaliar os modelos conceituais.
 
-- [Storyboard](./design-avaliacao-desenvolvimento/storyboard.md)
-- [Planejamento da Avaliação do Storyboard](./design-avaliacao-desenvolvimento/planejamentoAvaliacaoStoryboard.md)
-- [Planejameto do Relato dos Resultados da Avaliação do Storyboard](./design-avaliacao-desenvolvimento/planejamentoRelatoResultadosStoryboard.md)
-- [Relato dos Resultados do Storyboard](./design-avaliacao-desenvolvimento/relatoResultadosStoryboard.md)
-- [Analise de Tarefas](./design-avaliacao-desenvolvimento/analiseDeTarefas.md)
-- [Planejamento da Avaliação da Análise de Tarefas](./design-avaliacao-desenvolvimento/planejamentoAvaliacaoAnaliseDeTarefas.md)
-- [Planejamento do Relato dos Resultados da Avaliação da Análise de Tarefas](./design-avaliacao-desenvolvimento/planejamentoRelatoResultadosAnaliseDeTarefas.md)
-- [Relato dos Resultados da Análise de Tarefas](./design-avaliacao-desenvolvimento/relatoResultadosAnaliseDeTarefas.md)
+- [Storyboard](./design-avaliacao-desenvolvimento/nivel01/Storyboard/storyboards.md)
+- [Planejamento da Avaliação do Storyboard](./design-avaliacao-desenvolvimento/nivel01/Storyboard/planejamentoAvaliacaoStoryboard.md)
+- [Planejameto do Relato dos Resultados da Avaliação do Storyboard](./design-avaliacao-desenvolvimento/nivel01/Storyboard/planejamentoRelatoStoryboard.md)
+- [Relato dos Resultados do Storyboard](./design-avaliacao-desenvolvimento/nivel01/Storyboard/relatoStoryboard.md)
+- [Planejamento da Avaliação da Análise de Tarefas](./design-avaliacao-desenvolvimento/nivel01/Análise%20de%20Tarefas/planejamentoAvaliacaoAnaliseDeTarefas.md)
+- [Planejamento do Relato dos Resultados da Avaliação da Análise de Tarefas](./design-avaliacao-desenvolvimento/nivel01/Análise%20de%20Tarefas/planejamentoRelatoAnaliseDeTarefas.md)
+- [Relato dos Resultados da Análise de Tarefas](./design-avaliacao-desenvolvimento/nivel01/Análise%20de%20Tarefas/relatoAnaliseDeTarefas.md)
 
 #### Nível 2: Prototipação de baixa-fidelidade
 
 Nesse nível os padrões de IHC são estabelecidos para o projeto, elaborando protótipos de papel com esses padrões e avaliá-los.
 
-- [Protótipos de Papel](./design-avaliacao-desenvolvimento/prototiposDePapel.md)
-- [Planejamento da Avaliação do Protótipo de Papel](./design-avaliacao-desenvolvimento/planejamentoAvaliacaoPrototipoPapel.md)
-- [Planejamento do Relato dos Resultados da Avaliação do Protótipo de Papel](./design-avaliacao-desenvolvimento/planejamentoRelatoResultadosPrototipoPapel.md)
-- [Relato dos Resultados do Protótipo de Papel](./design-avaliacao-desenvolvimento/relatoResultadosPrototipoPapel.md)
+- [Protótipos de Papel](./design-avaliacao-desenvolvimento/nivel02/prototipoDePapel.md)
+- [Planejamento da Avaliação do Protótipo de Papel](./design-avaliacao-desenvolvimento/nivel02/planejamentoAvaliacaoPrototipoDePapel.md)
+- [Planejamento do Relato dos Resultados da Avaliação do Protótipo de Papel](./design-avaliacao-desenvolvimento/nivel02/planejamentoRelatoPrototipoDePapel.md)
+- [Relato dos Resultados do Protótipo de Papel](./design-avaliacao-desenvolvimento/nivel02/relatoPrototipoDePapel.md)
 
 #### Nível 3: Protipação de alta-fidelidade
 
 Nesse nível, é realizado o projeto detalhado da interface, com alta fidelidade, para ser implementado. Durante o desenvolvimento do sistema, a interface deve ser avaliada com a participação dos usuários.
 
-- [Protótipo de Alta Fidelidade](./design-avaliacao-desenvolvimento/prototiposDeAltaFidelidade.md)
-- [Planejamento da Avaliação do Protótipo de Alta Fidelidade](./design-avaliacao-desenvolvimento/planejamentoAvaliacaoPrototipoAltaFidelidade.md)
-- [Planejamento do Relato dos Resultados da Avaliação do Protótipo de Alta Fidelidade](./design-avaliacao-desenvolvimento/planejamentoRelatoResultadosPrototipoAltaFidelidade.md)
-- [Relato dos Resultados do Protótipo de Alta Fidelidade](./design-avaliacao-desenvolvimento/relatoResultadosPrototipoAltaFidelidade.md)
+- [Protótipo de Alta Fidelidade](./design-avaliacao-desenvolvimento/nivel03/prototipoDeAltaFidelidade.md)
+- [Planejamento da Avaliação do Protótipo de Alta Fidelidade](./design-avaliacao-desenvolvimento/nivel03/planejamentoAvaliacaoPrototipoAltaFidelidade.md)
+- [Planejamento do Relato dos Resultados da Avaliação do Protótipo de Alta Fidelidade](./design-avaliacao-desenvolvimento/nivel03/planejamentoDoRelatoAvaliacaoProtipoAltaFidelidade.md)
+- [Relato dos Resultados do Protótipo de Alta Fidelidade](./design-avaliacao-desenvolvimento/nivel03/relatoPrototipoAltaFidelidade.md)
 
 ## 5. Resultados Alcançados
 
